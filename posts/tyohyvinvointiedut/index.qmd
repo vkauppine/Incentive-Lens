@@ -1,0 +1,96 @@
+---
+title: "Ovatko työhyvinvointiedut hukkaan heitettyä rahaa?"
+subtitle: "Taloustieteellinen näkökulma liikuntaetuihin, työsuhdepyöriin ja virkistyspäiviin"
+date: "2025-02-17"
+author: "Vesa"
+categories: [taloustiede, työelämä, politiikka]
+description: "Työterveyslääkäri Eira Roos ehdottaa Ylellä, että liikuntaedut ja työhyvinvointipäivät pitäisi räjäyttää. Roosin kliininen kokemus on arvokas, mutta taloustieteellisesti asia on monimutkaisempi kuin dikotomia antaa ymmärtää."
+format:
+  html:
+    toc: true
+    code-fold: true
+    fig-responsive: true
+    math: true
+---
+
+## Mistä on kyse?
+
+Työterveyslääkäri Eira Roos [esittää Ylellä](https://yle.fi/a/74-20208542), että työhyvinvointipäivät, liikuntaedut ja työsuhdepyörät pitäisi "räjäyttää" ja keskittyä olennaiseen. Roosin argumentti on selkeä: työuupumus syntyy hallinnan tunteen katoamisesta, ja sen korjaa työn organisointi – ei seppeleensidonta eikä liikuntasetelituki.
+
+Roos on todennäköisesti oikeassa pääväitteessään. Parikymmentä vuotta uupuneita hoitaneena lääkärinä hänellä on kliinistä kokemusta, joka tukee tulkintaa: uupumus ei ole yksilön heikkoutta vaan työn ja ihmisen suhteen ongelma. Työterveyslaitoksen Pauliina Mattila-Holappa vahvistaa samassa jutussa, että tutkimus piirtää saman kuvan.
+
+Mutta siitä, että työn rakenne on *tärkein* tekijä, ei seuraa, että kaikki muu on hukkaan heitettyä. Tämä on taloustieteellisesti optimointikysymys, ei dikotomia.
+
+## Kolme erillistä kysymystä
+
+Julkisessa keskustelussa sekoittuu usein kolme eri asiaa:
+
+1. **Onko liikunnalla vaikutus työkykyyn?** Kyllä, ja tämä on hyvin dokumentoitu.
+2. **Lisäävätkö työnantajan tarjoamat edut liikuntaa?** Tämä on empiirinen kysymys: lisäävätkö edut liikuntaa vai subventoidaanko niitä, jotka liikkuisivat muutenkin?
+3. **Ovatko edut kustannustehokkaita suhteessa rakenteellisiin parannuksiin?** Tämä on varsinainen taloudellinen ydinkysymys.
+
+Roos vastaa käytännössä kolmanteen kysymykseen, ja hänen vastauksensa on todennäköisesti usein oikea. Mutta "usein suurempi vaikutus" ei ole sama asia kuin "ainoa vaikutus". Näiden erottelu on olennaista, jos halutaan päästä retoriikasta resurssien allokointiin.
+
+## Mitä tutkimusnäyttö sanoo?
+
+Roosin argumenttia tukee se, että paras kokeellinen näyttö wellness-ohjelmien vaikutuksista on yllättävän laiha.
+
+Jones, Molitor ja Reif (2019) toteuttivat laajan satunnaistetun kokeen Illinoisin yliopistossa lähes 5 000 työntekijällä. Tulokset olivat selkeitä: ohjelma lisäsi terveystarkastusten käyttöä, mutta sillä ei ollut tilastollisesti merkitseviä vaikutuksia terveydenhuoltokuluihin, poissaoloihin, tuottavuuteen tai itse raportoituun terveyteen yli kahden vuoden seurannassa. Tutkimus osoitti myös vahvan valikoitumisongelman – ohjelmaan osallistuivat ne, jotka olivat jo ennestään terveempiä ja aktiivisempia.
+
+Tämä on juuri se *additionality*-ongelma, josta Roosin argumentti implisiittisesti kertoo: edut menevät niille, jotka eivät niitä tarvitse. Aiempi meta-analyyttinen evidenssi (Baicker ym. 2010), joka raportoi merkittäviä säästöjä, perustui pitkälti havainnollisiin tutkimuksiin, joissa valikoitumista ei kontrolloitu. Jonesin ym. RCT-tulokset sulkivat pois 84 % aiempien tutkimusten raportoimista kustannussäästöarvioista.
+
+Mutta tästäkään ei seuraa, että kaikki edut ovat hyödyttömiä. Se seuraa, että *huonosti kohdennetut* edut ovat hyödyttömiä – mikä on eri väite.
+
+## Yksinkertainen kehikko
+
+Ajatellaan, että työkyky $h$ määräytyy kahdesta tekijästä: liikunnasta $L$ ja työn rakenteesta $D$ (autonomia, johtaminen, kuormitus):
+
+$$
+h = h_0 + \gamma L + \delta D
+$$
+
+Liikuntaetu $b$ lisää liikuntaa määrällä:
+
+$$
+L = L_0 + \theta b
+$$
+
+Parametri $\theta$ kertoo, syntyykö aidosti uutta liikuntaa. Jos $\theta = 0$, etu on puhdas tulonsiirto jo aktiivisille – tasan se tilanne, jonka Illinois-koe dokumentoi. Jos $\theta > 0$, etu muuttaa käyttäytymistä ja vaikuttaa työkykyyn kertoimella $\gamma\theta$.
+
+Roosin argumentti on tulkittavissa niin, että $\delta$ – työn rakenteen vaikutus – on tyypillisesti suurempi kuin $\gamma\theta$. Se on todennäköistä ja empiirisen näytön tukemaa. Mutta optimaalisessa resurssien kohdentamisessa ei valita yhtä kanavaa – valitaan se yhdistelmä, jossa jokaisen euron rajahyöty on suurin.
+
+## Verotus ja signaalivaikutus
+
+Roosin analyysi katsoo asiaa puhtaasti terveysvaikutuksen kautta. Mutta työnantajan näkökulmasta liikuntaedulla on muitakin funktioita.
+
+**Verotehokkuus.** Suomessa osa työhyvinvointieduista on verovapaita tiettyyn rajaan asti. Jos työnantaja käyttää yhden euron palkankorotukseen, työntekijä saa siitä nettohyötyä vain verojen jälkeen. Verovapaa etu voi tuottaa työntekijälle suuremman koetun arvon samalla työnantajakustannuksella. Tällöin etu voi olla rationaalinen kompensaatiomuoto, *vaikka sen terveysvaikutus olisi vaatimaton*.
+
+**Signaalivaikutus.** Liikuntaedut ja muut hyvinvointiedut voivat toimia signaalina siitä, että työnantaja välittää henkilöstöstä. Tämä on erillinen mekanismi terveysvaikutuksesta. Rekrytoinnissa ja sitouttamisessa signaalin arvo voi olla merkittävä, vaikka itse liikuntasetelin vaikutus liikuntamäärään olisi nolla. Ironisesti juuri Roosin oma havainto – puolet uupumuksesta toipuneista irtisanoutuu – korostaa sitouttamisen merkitystä.
+
+## Kustannusmittakaava
+
+Ylen jutussa Roos esittää, että uupunut työntekijä maksaa työnantajalle noin 20 000 euroa vuodessa menetetyn tuottavuuden kautta – jo ennen sairauslomia. Tämä on hyödyllinen vertailukohta.
+
+Tyypillinen liikuntaetu maksaa työnantajalle muutaman sadan euron vuodessa työntekijää kohden. Jos etu onnistuu vähentämään uupumisriskiä edes marginaalisesti – vaikkapa yhden prosenttiyksikön verran – sen odotettu säästö ylittää kustannuksen.
+
+Tämä ei tarkoita, että liikuntaetu *korvaa* työn rakenteen korjaamisen. Se tarkoittaa, että kysymys "kannattaako tämä?" on empiirinen, ei retorinen. Ja vastaus riippuu kohdentamisesta: kenelle, millä ehdoin, missä kontekstissa.
+
+## Johtopäätös: optimointia, ei räjäyttämistä
+
+Roosin kliininen havainto on arvokas: uupumus ei ole yksilön heikkoutta, ja sen juurisyyt ovat työn rakenteessa. Tässä hän on sekä kokemuksen että tutkimusnäytön tukemana oikeassa.
+
+Mutta johtopäätös – "räjäyttää" edut – ei seuraa premisseistä. Se, että A on tärkeämpi kuin B, ei tarkoita, että B:n arvo on nolla. Taloustieteellisesti oikea kysymys ei ole "edut vai rakenne?" vaan "mikä yhdistelmä tuottaa parhaan tuloksen?"
+
+Vastaus riippuu kolmesta tekijästä:
+
+1. **Kohdentaminen.** Lisäävätkö edut liikuntaa niillä, jotka eivät muuten liikkuisi? Illinois-kokeen perusteella tyypillisesti eivät, mutta suunnittelu voi muuttaa tätä.
+2. **Verotehokkuus.** Verovapaus tekee eduista tehokkaita kompensaatiovälineitä riippumatta terveysvaikutuksesta.
+3. **Signaali- ja sitouttamisarvo.** Tätä Roosin terveysvaikutusanalyysi ei kata, mutta se voi olla etujen tärkein funktio.
+
+Kyse ei ole symbolipolitiikasta vastaan "oikeat ratkaisut". Kyse on resurssien allokoinnista. Ja siinä kysymyksessä oikea vastaus on harvoin "räjäytä ja keskity yhteen kanavaan" – se on "kohdenna, mittaa ja optimoi".
+
+## Viitteet
+
+- Baicker, K., Cutler, D. & Song, Z. (2010). Workplace wellness programs can generate savings. *Health Affairs*, 29(2), 304–311.
+- Jones, D., Molitor, D. & Reif, J. (2019). What do workplace wellness programs do? Evidence from the Illinois Workplace Wellness Study. *The Quarterly Journal of Economics*, 134(4), 1747–1791.
+- Rongen, A. ym. (2013). Workplace health promotion: A meta-analysis of effectiveness. *American Journal of Preventive Medicine*, 44(4), 406–415.
