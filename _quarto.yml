@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  description: "Talousblogi"
+  site-url:  # you must change this appropriately for RSS feeds to work properly
+  title: "Incentive Lens"
+  navbar:
+    right:
+      - about.qmd
+      - icon: rss
+        href: index.xml.com
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    lang: fi
+
+
+
