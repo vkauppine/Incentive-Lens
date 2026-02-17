@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Incentive Lens</title>
+<link>https://vkauppine.github.io/talousblogi/</link>
+<atom:link href="https://vkauppine.github.io/talousblogi/index.xml" rel="self" type="application/rss+xml"/>
+<description>Talousblogi</description>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Mon, 16 Feb 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Harlow Malloc</dc:creator>
+  <link>https://vkauppine.github.io/talousblogi/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is a post with executable code.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https://vkauppine.github.io/talousblogi/posts/post-with-code/</guid>
+  <pubDate>Mon, 16 Feb 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/talousblogi/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <link>https://vkauppine.github.io/talousblogi/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://vkauppine.github.io/talousblogi/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://vkauppine.github.io/talousblogi/posts/welcome/</guid>
+  <pubDate>Fri, 13 Feb 2026 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Ovatko työhyvinvointiedut hukkaan heitettyä rahaa?</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/talousblogi/posts/tyohyvinvointiedut/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="mistä-on-kyse" class="level2">
+<h2 class="anchored" data-anchor-id="mistä-on-kyse">Mistä on kyse?</h2>
+<p>Työterveyslääkäri Eira Roos <a href="https://yle.fi/a/74-20208542">esittää Ylellä</a>, että työhyvinvointipäivät, liikuntaedut ja työsuhdepyörät pitäisi “räjäyttää” ja keskittyä olennaiseen. Roosin argumentti on selkeä: työuupumus syntyy hallinnan tunteen katoamisesta, ja sen korjaa työn organisointi – ei seppeleensidonta eikä liikuntasetelituki.</p>
+<p>Roos on todennäköisesti oikeassa pääväitteessään. Parikymmentä vuotta uupuneita hoitaneena lääkärinä hänellä on kliinistä kokemusta, joka tukee tulkintaa: uupumus ei ole yksilön heikkoutta vaan työn ja ihmisen suhteen ongelma. Työterveyslaitoksen Pauliina Mattila-Holappa vahvistaa samassa jutussa, että tutkimus piirtää saman kuvan.</p>
+<p>Mutta siitä, että työn rakenne on <em>tärkein</em> tekijä, ei seuraa, että kaikki muu on hukkaan heitettyä. Tämä on taloustieteellisesti optimointikysymys, ei dikotomia.</p>
+</section>
+<section id="kolme-erillistä-kysymystä" class="level2">
+<h2 class="anchored" data-anchor-id="kolme-erillistä-kysymystä">Kolme erillistä kysymystä</h2>
+<p>Julkisessa keskustelussa sekoittuu usein kolme eri asiaa:</p>
+<ol type="1">
+<li><strong>Onko liikunnalla vaikutus työkykyyn?</strong> Kyllä, ja tämä on hyvin dokumentoitu.</li>
+<li><strong>Lisäävätkö työnantajan tarjoamat edut liikuntaa?</strong> Tämä on empiirinen kysymys: lisäävätkö edut liikuntaa vai subventoidaanko niitä, jotka liikkuisivat muutenkin?</li>
+<li><strong>Ovatko edut kustannustehokkaita suhteessa rakenteellisiin parannuksiin?</strong> Tämä on varsinainen taloudellinen ydinkysymys.</li>
+</ol>
+<p>Roos vastaa käytännössä kolmanteen kysymykseen, ja hänen vastauksensa on todennäköisesti usein oikea. Mutta “usein suurempi vaikutus” ei ole sama asia kuin “ainoa vaikutus”. Näiden erottelu on olennaista, jos halutaan päästä retoriikasta resurssien allokointiin.</p>
+</section>
+<section id="mitä-tutkimusnäyttö-sanoo" class="level2">
+<h2 class="anchored" data-anchor-id="mitä-tutkimusnäyttö-sanoo">Mitä tutkimusnäyttö sanoo?</h2>
+<p>Roosin argumenttia tukee se, että paras kokeellinen näyttö wellness-ohjelmien vaikutuksista on yllättävän laiha.</p>
+<p>Jones, Molitor ja Reif (2019) toteuttivat laajan satunnaistetun kokeen Illinoisin yliopistossa lähes 5 000 työntekijällä. Tulokset olivat selkeitä: ohjelma lisäsi terveystarkastusten käyttöä, mutta sillä ei ollut tilastollisesti merkitseviä vaikutuksia terveydenhuoltokuluihin, poissaoloihin, tuottavuuteen tai itse raportoituun terveyteen yli kahden vuoden seurannassa. Tutkimus osoitti myös vahvan valikoitumisongelman – ohjelmaan osallistuivat ne, jotka olivat jo ennestään terveempiä ja aktiivisempia.</p>
+<p>Tämä on juuri se <em>additionality</em>-ongelma, josta Roosin argumentti implisiittisesti kertoo: edut menevät niille, jotka eivät niitä tarvitse. Aiempi meta-analyyttinen evidenssi (Baicker ym. 2010), joka raportoi merkittäviä säästöjä, perustui pitkälti havainnollisiin tutkimuksiin, joissa valikoitumista ei kontrolloitu. Jonesin ym. RCT-tulokset sulkivat pois 84 % aiempien tutkimusten raportoimista kustannussäästöarvioista.</p>
+<p>Mutta tästäkään ei seuraa, että kaikki edut ovat hyödyttömiä. Se seuraa, että <em>huonosti kohdennetut</em> edut ovat hyödyttömiä – mikä on eri väite.</p>
+</section>
+<section id="yksinkertainen-kehikko" class="level2">
+<h2 class="anchored" data-anchor-id="yksinkertainen-kehikko">Yksinkertainen kehikko</h2>
+<p>Ajatellaan, että työkyky <img src="https://latex.codecogs.com/png.latex?h"> määräytyy kahdesta tekijästä: liikunnasta <img src="https://latex.codecogs.com/png.latex?L"> ja työn rakenteesta <img src="https://latex.codecogs.com/png.latex?D"> (autonomia, johtaminen, kuormitus):</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0Ah%20=%20h_0%20+%20%5Cgamma%20L%20+%20%5Cdelta%20D%0A"></p>
+<p>Liikuntaetu <img src="https://latex.codecogs.com/png.latex?b"> lisää liikuntaa määrällä:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0AL%20=%20L_0%20+%20%5Ctheta%20b%0A"></p>
+<p>Parametri <img src="https://latex.codecogs.com/png.latex?%5Ctheta"> kertoo, syntyykö aidosti uutta liikuntaa. Jos <img src="https://latex.codecogs.com/png.latex?%5Ctheta%20=%200">, etu on puhdas tulonsiirto jo aktiivisille – tasan se tilanne, jonka Illinois-koe dokumentoi. Jos <img src="https://latex.codecogs.com/png.latex?%5Ctheta%20%3E%200">, etu muuttaa käyttäytymistä ja vaikuttaa työkykyyn kertoimella <img src="https://latex.codecogs.com/png.latex?%5Cgamma%5Ctheta">.</p>
+<p>Roosin argumentti on tulkittavissa niin, että <img src="https://latex.codecogs.com/png.latex?%5Cdelta"> – työn rakenteen vaikutus – on tyypillisesti suurempi kuin <img src="https://latex.codecogs.com/png.latex?%5Cgamma%5Ctheta">. Se on todennäköistä ja empiirisen näytön tukemaa. Mutta optimaalisessa resurssien kohdentamisessa ei valita yhtä kanavaa – valitaan se yhdistelmä, jossa jokaisen euron rajahyöty on suurin.</p>
+</section>
+<section id="verotus-ja-signaalivaikutus" class="level2">
+<h2 class="anchored" data-anchor-id="verotus-ja-signaalivaikutus">Verotus ja signaalivaikutus</h2>
+<p>Roosin analyysi katsoo asiaa puhtaasti terveysvaikutuksen kautta. Mutta työnantajan näkökulmasta liikuntaedulla on muitakin funktioita.</p>
+<p><strong>Verotehokkuus.</strong> Suomessa osa työhyvinvointieduista on verovapaita tiettyyn rajaan asti. Jos työnantaja käyttää yhden euron palkankorotukseen, työntekijä saa siitä nettohyötyä vain verojen jälkeen. Verovapaa etu voi tuottaa työntekijälle suuremman koetun arvon samalla työnantajakustannuksella. Tällöin etu voi olla rationaalinen kompensaatiomuoto, <em>vaikka sen terveysvaikutus olisi vaatimaton</em>.</p>
+<p><strong>Signaalivaikutus.</strong> Liikuntaedut ja muut hyvinvointiedut voivat toimia signaalina siitä, että työnantaja välittää henkilöstöstä. Tämä on erillinen mekanismi terveysvaikutuksesta. Rekrytoinnissa ja sitouttamisessa signaalin arvo voi olla merkittävä, vaikka itse liikuntasetelin vaikutus liikuntamäärään olisi nolla. Ironisesti juuri Roosin oma havainto – puolet uupumuksesta toipuneista irtisanoutuu – korostaa sitouttamisen merkitystä.</p>
+</section>
+<section id="kustannusmittakaava" class="level2">
+<h2 class="anchored" data-anchor-id="kustannusmittakaava">Kustannusmittakaava</h2>
+<p>Ylen jutussa Roos esittää, että uupunut työntekijä maksaa työnantajalle noin 20 000 euroa vuodessa menetetyn tuottavuuden kautta – jo ennen sairauslomia. Tämä on hyödyllinen vertailukohta.</p>
+<p>Tyypillinen liikuntaetu maksaa työnantajalle muutaman sadan euron vuodessa työntekijää kohden. Jos etu onnistuu vähentämään uupumisriskiä edes marginaalisesti – vaikkapa yhden prosenttiyksikön verran – sen odotettu säästö ylittää kustannuksen.</p>
+<p>Tämä ei tarkoita, että liikuntaetu <em>korvaa</em> työn rakenteen korjaamisen. Se tarkoittaa, että kysymys “kannattaako tämä?” on empiirinen, ei retorinen. Ja vastaus riippuu kohdentamisesta: kenelle, millä ehdoin, missä kontekstissa.</p>
+</section>
+<section id="johtopäätös-optimointia-ei-räjäyttämistä" class="level2">
+<h2 class="anchored" data-anchor-id="johtopäätös-optimointia-ei-räjäyttämistä">Johtopäätös: optimointia, ei räjäyttämistä</h2>
+<p>Roosin kliininen havainto on arvokas: uupumus ei ole yksilön heikkoutta, ja sen juurisyyt ovat työn rakenteessa. Tässä hän on sekä kokemuksen että tutkimusnäytön tukemana oikeassa.</p>
+<p>Mutta johtopäätös – “räjäyttää” edut – ei seuraa premisseistä. Se, että A on tärkeämpi kuin B, ei tarkoita, että B:n arvo on nolla. Taloustieteellisesti oikea kysymys ei ole “edut vai rakenne?” vaan “mikä yhdistelmä tuottaa parhaan tuloksen?”</p>
+<p>Vastaus riippuu kolmesta tekijästä:</p>
+<ol type="1">
+<li><strong>Kohdentaminen.</strong> Lisäävätkö edut liikuntaa niillä, jotka eivät muuten liikkuisi? Illinois-kokeen perusteella tyypillisesti eivät, mutta suunnittelu voi muuttaa tätä.</li>
+<li><strong>Verotehokkuus.</strong> Verovapaus tekee eduista tehokkaita kompensaatiovälineitä riippumatta terveysvaikutuksesta.</li>
+<li><strong>Signaali- ja sitouttamisarvo.</strong> Tätä Roosin terveysvaikutusanalyysi ei kata, mutta se voi olla etujen tärkein funktio.</li>
+</ol>
+<p>Kyse ei ole symbolipolitiikasta vastaan “oikeat ratkaisut”. Kyse on resurssien allokoinnista. Ja siinä kysymyksessä oikea vastaus on harvoin “räjäytä ja keskity yhteen kanavaan” – se on “kohdenna, mittaa ja optimoi”.</p>
+</section>
+<section id="viitteet" class="level2">
+<h2 class="anchored" data-anchor-id="viitteet">Viitteet</h2>
+<ul>
+<li>Baicker, K., Cutler, D. &amp; Song, Z. (2010). Workplace wellness programs can generate savings. <em>Health Affairs</em>, 29(2), 304–311.</li>
+<li>Jones, D., Molitor, D. &amp; Reif, J. (2019). What do workplace wellness programs do? Evidence from the Illinois Workplace Wellness Study. <em>The Quarterly Journal of Economics</em>, 134(4), 1747–1791.</li>
+<li>Rongen, A. ym. (2013). Workplace health promotion: A meta-analysis of effectiveness. <em>American Journal of Preventive Medicine</em>, 44(4), 406–415.</li>
+</ul>
+
+
+
+</section>
+
+ ]]></description>
+  <category>taloustiede</category>
+  <category>työelämä</category>
+  <category>politiikka</category>
+  <guid>https://vkauppine.github.io/talousblogi/posts/tyohyvinvointiedut/</guid>
+  <pubDate>Sun, 16 Feb 2025 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
