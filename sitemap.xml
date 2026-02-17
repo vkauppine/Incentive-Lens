@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://vkauppine.github.io/talousblogi/posts/welcome/index.html</loc>
-    <lastmod>2026-02-17T08:25:58.872Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vkauppine.github.io/talousblogi/posts/post-with-code/index.html</loc>
-    <lastmod>2026-02-17T08:25:58.852Z</lastmod>
+    <loc>https://vkauppine.github.io/talousblogi/posts/tyohyvinvointiedut/index.html</loc>
+    <lastmod>2026-02-17T08:25:58.860Z</lastmod>
   </url>
   <url>
     <loc>https://vkauppine.github.io/talousblogi/about.html</loc>
@@ -15,9 +11,5 @@
   <url>
     <loc>https://vkauppine.github.io/talousblogi/index.html</loc>
     <lastmod>2026-02-17T09:17:16.474Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vkauppine.github.io/talousblogi/posts/tyohyvinvointiedut/index.html</loc>
-    <lastmod>2026-02-17T08:25:58.860Z</lastmod>
   </url>
 </urlset>
