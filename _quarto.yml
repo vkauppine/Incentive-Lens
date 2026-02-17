@@ -3,7 +3,7 @@ project:
 
 website:
   description: "Talousblogi"
-  site-url: https://vkauppine.github.io/talousblogi/
+  site-url: https://vkauppine.github.io/incentive-lens/
   title: "Incentive Lens"
   navbar:
     right:
