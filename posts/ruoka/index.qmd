@@ -1,0 +1,167 @@
+---
+title: "Ruuan taloustiede: miksi syömme niin kuin syömme?"
+description: "Pellolta pöytään – ja kaikki taloudelliset voimat siltä väliltä."
+date: 2025-02-19
+categories: [taloustiede, ruoka, logistiikka]
+draft: true
+---
+
+## Johdanto: peruna ei päädy lautaselle sattumalta
+
+Oletko koskaan miettinyt, miksi juuri *peruna* hallitsee suomalaista ruokapöytää eikä vaikkapa jamssijuuri? Tai miksi avokado maksoi 1990-luvulla omaisuuden mutta on nyt opiskelijabudjetin peruskalustoa? Vastaus ei löydy pelkästä makuaistista. Se löytyy taloustieteestä.
+
+Ruoka on yksi ihmiskunnan perustarpeista, mutta samalla se on hämmästyttävän monimutkainen taloudellinen hyödyke. Sen tuottaminen on resurssien allokointiongelma, sen ostaminen on signaalipeli, sen kuljettaminen on logistinen haaste ja sen syöminen on kulttuurinen teko – kaikki samaan aikaan. Tässä kirjoituksessa tarkastellaan ruokaa taloustieteen silmin, mutta pyritään välttämään sellaista kuivuutta, jota löytyy lähinnä näkkileivästä.
+
+
+## Tuotanto: kun pelto kohtaa tuotantofunktion
+
+Kaikki alkaa pellolta – tai kasvihuoneesta, mereltä tai tehtaasta. Taloustieteilijälle ruuantuotanto on resurssien allokointiongelma: maata, työvoimaa, pääomaa ja teknologiaa yhdistellään niin, että lopputuloksena syntyy jotain syötävää. Ja mieluiten kannattavasti.
+
+Klassinen tuotantofunktio $Y = f(L, K, A)$ – jossa $L$ on työ, $K$ pääoma ja $A$ teknologia – pätee maataloudessa yhtä hyvin kuin tehtaassa. Ero on siinä, että maataloudessa tuotantoon vaikuttaa myös sää, maaperä ja se, sattuuko hirvi syömään koko kaurapellon. Näitä stokastisia tekijöitä voidaan mallintaa esimerkiksi *stochastic frontier* -analyysin avulla, joka erottaa teknisen tehottomuuden puhtaasta huonosta tuurista.
+
+Suomessa maatalouden tuottavuuskehitys on ollut dramaattista. 1900-luvun alussa valtaosa väestöstä työskenteli maataloudessa; nyt osuus on muutama prosentti, mutta tuotanto on moninkertaistunut. Tämä on teknologisen kehityksen oppikirjaesimerkki, ja muistutus siitä, että "tehokkuus" tarkoittaa usein sitä, että joku joutui vaihtamaan ammattia.
+
+Tuotantoteknologioiden erot selittävät myös kansainvälisiä eroja. Suomalainen teollinen maatalous ja vaikkapa vietnamilainen pienimuotoinen riisiviljely operoivat täysin erilaisilla kustannusrakenteilla. Kummallakin on omat komparatiiviset etunsa.
+
+Mutta tuotanto ei ole vain tehokkuuskysymys. Se on myös institutionaalinen kysymys. Maanomistusrakenteet, vesioikeudet ja markkinoille pääsyn esteet määrittävät, kuka tuottaa ja kenelle. Kehitysmaissa pienviljelijän suurin ongelma ei usein ole osaamisen puute vaan se, ettei hänellä ole pääsyä rahoitukseen tai markkinoihin. Instituutiot ratkaisevat.
+
+
+## Signaalointi: kerro mitä syöt, kerron kuka olet
+
+Taloustieteilijä Michael Spence sai Nobelin signaaliteoriasta työmarkkinoiden kontekstissa, mutta sama logiikka pätee ruokapöydässä. Ruoka *signaloi*.
+
+Luomutuotteet viestivät ympäristötietoisuudesta. Lähiruoka kertoo paikallisuuden arvostamisesta. Ja jos tarjoat illalliskutsuilla tryffeli-risottoa wagyu-pihvin kera, signaali on melko selvä – vaikka taloustieteilijä sanoisi sen hienovaraisemmin: "kuluttaja ilmaisee preferenssejään budjettirajoitteen puitteissa."
+
+Signaalointiteoria selittää myös, miksi brändäys toimii ruoassa niin hyvin. Kun kuluttaja valitsee kahvipaketin, hän ei valitse pelkkää kahvia, vaan myös tarinan. Onko kyseessä reilun kaupan pienpaahtimo Kolumbiasta vai teollinen bulkkibrändi? Molemmat sisältävät kofeiinia, mutta signaaliarvo on eri. Ja juuri siksi toinen maksaa tuplasti.
+
+Tämä liittyy myös informaatioasymmetriaan: kuluttaja ei voi helposti todentaa, onko "paikallinen" todella paikallista vai onko "luomu" todella luomua. Sertifikaatit, alkuperämerkinnät ja brändit toimivat tässä luottamuksen välineinä. Taloustieteen kielellä, ne vähentävät transaktiokustannuksia informaation hankinnassa.
+
+Historiallisesti signaalointi näkyy ruokakulttuurin muutoksissa. Kun peruna saapui Suomeen, se oli aluksi köyhien ruokaa. Sushi taas oli pitkään eksoottinen erikoisuus. Nyt molemmat ovat arkea – mikä kertoo siitä, miten signaalit muuttuvat, kun saatavuus ja kulttuuriset normit kehittyvät.
+
+
+## Logistiikka: maailman monimutkaisin lautanen
+
+Ehkä kaikkein aliarvostetuin osa ruuan taloustiedettä on logistiikka. Kun ostat kaupasta banaanin, et osta pelkkää hedelmää – ostat logistisen ketjun, joka alkaa Costa Rican plantaasilta ja päättyy kassahihnallesi. Siihen mahtuu laivoja, jäähdytyskontteja, tullimuodollisuuksia, tukkureita ja kaupan hyllyttäjiä.
+
+Nykyaikaiset ruokatoimitusketjut ovat hämmästyttävän tehokkaita – ja samalla hämmästyttävän haavoittuvia. COVID-19-pandemia opetti, mitä tapahtuu, kun globaalit toimitusketjut häiriintyvät: tyhjät hyllyt, hintapiikit ja äkillinen kiinnostus kotipuutarhoihin. Kyseessä oli tarjontashokki, jonka vaikutukset kertautuivat pitkin ketjua niin kutsutun *bullwhip*-efektin kautta.
+
+Toimitusketjun pituus on myös arvovalinta. Pitkä, globaali ketju tarjoaa skaalaetuja ja monipuolisuutta, mutta lyhyt ketju – esimerkiksi suoramyynti tilalta – vähentää välikäsiä ja voi tarjota sekä ympäristöllisiä että sosiaalisia hyötyjä. Voidaan sanoa, että kummassakin mallissa on omat *trade-offinsa*, ja optimaalinen ratkaisu riippuu siitä, mitä arvofunktiossa painotetaan.
+
+Logistiikka on myös politiikkaa. Maataloustuet, tuontitullit, elintarviketurvallisuussäännökset ja infrastruktuuri-investoinnit muovaavat ruuan liikkumista yhtä paljon kuin markkinavoimat. EU:n yhteinen maatalouspolitiikka on tästä klassinen esimerkki: se on samaan aikaan markkinoiden vakauttaja, tulonsiirtojärjestelmä ja protektionistinen instrumentti – riippuen siitä, keneltä kysyy.
+
+
+## Polkuriippuvuus: miksi ruokakulttuurit ovat niin erilaisia?
+
+Pelkkä tulotaso ei selitä ruokakulttuurien eroja. Japanilaiset ja suomalaiset ovat karkeasti samalla tulotasolla, mutta toinen syö riisiä, merileviä ja fermentoitua soijaa, toinen ruisleipää, perunaa ja karjalanpiirakoita. Miksi?
+
+Vastaus löytyy *polkuriippuvuudesta* (path dependence) – ajatuksesta, että historian varhaiset valinnat ja olosuhteet luovat polkuja, joilta on vaikea ja kallis poiketa. Ruokakulttuurissa polkuriippuvuus on erityisen voimakasta, koska se toimii usealla tasolla samanaikaisesti.
+
+Ensinnäkin, maantiede ja ilmasto asettavat alkuehdot. Ruis kasvaa Suomen olosuhteissa, riisi ei. Mutta alkuehto ei selitä kaikkea: globaalin kaupan aikakaudella Suomeen voisi tuoda riisiä halvalla, ja silti ruisleipä hallitsee. Tässä astuvat kuvaan *vaihtokustannukset*. Ruokakulttuuri on infrastruktuuria: leipomot, myllyt, reseptiperinteet, viljelykierto ja makunormit ovat investointeja, jotka lukitsevat yhteiskunnan tietylle polulle. Puhutaan *lock-in*-efektistä.
+
+Toiseksi, ruokakulttuuri periytyy sukupolvelta toiselle samalla tavalla kuin kieli – ja yhtä hitaasti se muuttuu. Lapsuuden maut muovaavat preferenssejä tavalla, jota markkinat eivät helposti ohita. Tämä selittää, miksi maahanmuuttajayhteisöt säilyttävät ruokakulttuurinsa pitkään senkin jälkeen, kun alkuperäiset maantieteelliset syyt ovat kadonneet. Kyse ei ole irrationaalisuudesta vaan syvästi juurtuneista preferensseistä, joilla on identiteettiarvo taloudellisen arvon yläpuolella.
+
+Kolmanneksi, instituutiot vahvistavat polkuja. EU:n nimisuojajärjestelmä (esim. Champagne, Parmigiano-Reggiano) on eksplisiittinen mekanismi, jolla alueellisia ruokaperinteitä suojataan kaupallisesti. Suomessa näkkileivän asema kouluruokailussa ja armeijan muonituksessa on institutionalisoitu valinta, joka uusintaa kulttuuria sukupolvesta toiseen.
+
+Mutta polut eivät ole muuttumattomia. Sushi on tästä malliesimerkki: vielä 1980-luvulla se oli Suomessa kuriositeeetti, nyt arkea. Muutos vaati samanaikaisia muutoksia logistiikassa (tuoreen kalan globaali kylmäketju), kulttuurissa (kansainvälistyminen, matkustaminen) ja signaaleissa (sushi eksotiikan ja terveellisyyden symbolina). Yhden polun murtuminen vaatii siis monen lukituksen avautumista samanaikaisesti, mikä selittää, miksi ruokakulttuurit muuttuvat niin hitaasti ja sitten äkillisesti.
+
+
+## Engelin laki ja muuttuva ruokapöytä
+
+Yksi ruuan taloustieteen kestävimmistä havainnoista on Ernst Engelin 1800-luvulla tekemä huomio: mitä rikkaampi kotitalous, sitä pienempi osuus tuloista menee ruokaan. Tämä *Engelin laki* pitää hämmästyttävän hyvin paikkansa edelleen.
+
+Suomessa ruoan osuus kotitalouksien kulutusmenoista on laskenut dramaattisesti: vuonna 1900 noin 60 prosenttia yksityisestä kulutuksesta meni ruokaan, juomiin ja tupakkaan. Vuonna 2022 elintarvikkeiden osuus oli enää noin 12 prosenttia. Kehitys ei ole ollut tasaista – sodat, lama ja inflaatiopiikit ovat aiheuttaneet tilapäisiä käänteitä – mutta trendi on yksiselitteinen.
+
+```{ojs}
+//| label: fig-engel-suomi
+//| fig-cap: "Ruoan ja juomien osuus yksityisestä kulutuksesta Suomessa (arvio). Lähde: Tilastokeskus, kansantalouden tilinpito."
+
+// Engelin laki Suomessa – ruuan kulutusosuuden lasku
+engelData = [
+  {vuosi: 1900, osuus: 60},
+  {vuosi: 1920, osuus: 52},
+  {vuosi: 1940, osuus: 45},
+  {vuosi: 1950, osuus: 40},
+  {vuosi: 1960, osuus: 35},
+  {vuosi: 1966, osuus: 30},
+  {vuosi: 1970, osuus: 27},
+  {vuosi: 1980, osuus: 22},
+  {vuosi: 1985, osuus: 20},
+  {vuosi: 1990, osuus: 18},
+  {vuosi: 1995, osuus: 16},
+  {vuosi: 2001, osuus: 14},
+  {vuosi: 2006, osuus: 12.5},
+  {vuosi: 2012, osuus: 12.8},
+  {vuosi: 2016, osuus: 12.2},
+  {vuosi: 2022, osuus: 12.0}
+]
+
+Plot.plot({
+  width: 680,
+  height: 400,
+  marginLeft: 50,
+  marginBottom: 40,
+  x: {label: "Vuosi", tickFormat: "d"},
+  y: {label: "Osuus kulutusmenoista (%)", domain: [0, 65]},
+  marks: [
+    Plot.areaY(engelData, {x: "vuosi", y: "osuus", fill: "#e8d5b7", fillOpacity: 0.5}),
+    Plot.lineY(engelData, {x: "vuosi", y: "osuus", stroke: "#8B4513", strokeWidth: 2.5}),
+    Plot.dot(engelData, {x: "vuosi", y: "osuus", fill: "#8B4513", r: 3}),
+    Plot.ruleY([0])
+  ]
+})
+```
+
+Tämä ei tarkoita, että söisimme vähemmän – päinvastoin. Se tarkoittaa, että tulotason noustessa ruokaan käytettävä rahamäärä kasvaa absoluuttisesti, mutta suhteellisesti muut menot (asuminen, palvelut, vapaa-aika) kasvavat nopeammin. Engelin laki toimii myös tuloryhmien välillä: vuonna 2022 pienituloisimmilla elintarvikkeiden osuus kulutusmenoista oli 18 prosenttia, suurituloisimmilla 12 prosenttia.
+
+Samalla ruuan *laatu* ja *monipuolisuus* ovat kasvaneet. Kun perustarve on tyydytetty, kuluttaja alkaa etsiä vaihtelua, kokemuksia ja merkityksiä – ja palataan takaisin signaalointiin. Jauhoja, ryynejä ja hiutaleita ostettiin 1960-luvulla nelinkertainen määrä nykyiseen verrattuna, mutta tuoreiden kasvisten, hedelmien ja einesten kulutus on moninkertaistunut. Varallisuuden kasvu ei muuta vain sitä, *kuinka paljon* syömme, vaan *mitä* ja *miksi*.
+
+```{ojs}
+//| label: fig-hintakehitys
+//| fig-cap: "Elintarvikkeiden hintaindeksi suhteessa yleiseen kuluttajahintaindeksiin Suomessa (2015=100). Lähde: Tilastokeskus."
+
+// Elintarvikkeiden vs. yleisen hintatason kehitys
+hintaData = [
+  {vuosi: 2000, elintarvikkeet: 82, yleinen: 82},
+  {vuosi: 2005, elintarvikkeet: 86, yleinen: 90},
+  {vuosi: 2008, elintarvikkeet: 95, yleinen: 95},
+  {vuosi: 2010, elintarvikkeet: 95, yleinen: 96},
+  {vuosi: 2012, elintarvikkeet: 100, yleinen: 98},
+  {vuosi: 2015, elintarvikkeet: 100, yleinen: 100},
+  {vuosi: 2018, elintarvikkeet: 101, yleinen: 103},
+  {vuosi: 2020, elintarvikkeet: 104, yleinen: 105},
+  {vuosi: 2022, elintarvikkeet: 117, yleinen: 113},
+  {vuosi: 2023, elintarvikkeet: 122, yleinen: 120},
+  {vuosi: 2024, elintarvikkeet: 122, yleinen: 122}
+]
+
+hintaLong = hintaData.flatMap(d => [
+  {vuosi: d.vuosi, indeksi: d.elintarvikkeet, sarja: "Elintarvikkeet"},
+  {vuosi: d.vuosi, indeksi: d.yleinen, sarja: "Yleinen hintataso"}
+])
+
+Plot.plot({
+  width: 680,
+  height: 400,
+  marginLeft: 50,
+  marginBottom: 40,
+  color: {legend: true, domain: ["Elintarvikkeet", "Yleinen hintataso"], range: ["#d35400", "#2c3e50"]},
+  x: {label: "Vuosi", tickFormat: "d"},
+  y: {label: "Indeksi (2015 = 100)", domain: [75, 130]},
+  marks: [
+    Plot.lineY(hintaLong, {x: "vuosi", y: "indeksi", stroke: "sarja", strokeWidth: 2.5}),
+    Plot.dot(hintaLong, {x: "vuosi", y: "indeksi", fill: "sarja", r: 3}),
+    Plot.ruleY([100], {stroke: "#999", strokeDasharray: "4,4"})
+  ]
+})
+```
+
+Hintakuvaajasta näkyy mielenkiintoinen ilmiö: pitkään elintarvikkeiden hinnat nousivat yleistä hintatasoa hitaammin, mikä teki ruuasta suhteellisesti halvempaa. Vuosien 2022–2023 inflaatiopiikki kuitenkin muutti tämän hetkeksi. Elintarvikkeiden hinnat nousivat yli 10 prosenttia vuodessa, mikä palautti monen kotitalouden mieliin Engelin lain kääntöpuolen: kun hinnat nousevat, pienituloiset kärsivät eniten.
+
+
+## Lopuksi: ruoka yhteiskunnan peilinä
+
+Ruuan taloustiede ei ole marginaalinen erikoisala, vaan ikkuna siihen, miten yhteiskunta toimii. Tuotantofunktiot kertovat teknologisesta kehityksestä. Signaalointi paljastaa arvoja ja informaation epäsymmetrioita. Polkuriippuvuus selittää, miksi naapurimaat voivat syödä täysin eri tavalla. Logistiikka näyttää, miten globaali ja paikallinen kietoutuvat yhteen. Ja Engelin laki muistuttaa, että taloudellinen kehitys muuttaa perustavanlaatuisesti sitä, miten suhtaudumme yhteen elämän välttämättömimmistä asioista.
+
+Seuraavan kerran kun istut ruokapöytään, muista: lautasellasi ei ole vain ravintoa. Siinä on tuotantoteknologiaa, signaaleja, logistisia ketjuja ja vuosisatojen taloushistoriaa.
+
+Ja todennäköisesti myös perunaa. Sen komparatiivinen etu on Suomessa edelleen ylivoimainen.
