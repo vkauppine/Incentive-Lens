@@ -3,6 +3,8 @@ title: "Ruuan taloustiede: miksi syömme niin kuin syömme?"
 description: "Pellolta pöytään – ja kaikki taloudelliset voimat siltä väliltä."
 date: 2025-02-19
 categories: [taloustiede, ruoka, logistiikka]
+execute:
+  echo: false
 draft: true
 ---
 
