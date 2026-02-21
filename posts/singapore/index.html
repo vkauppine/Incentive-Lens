@@ -169,7 +169,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <div>
       <div class="quarto-title-meta-heading">Julkaistu</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">21. helmikuuta 2025</p>
+        <p class="date">21. helmikuuta 2026</p>
       </div>
     </div>
     
@@ -375,46 +375,55 @@ Kuva&nbsp;2: Bruttosäästämisaste (% BKT:stä) Singaporessa ja vertailumaissa.
 <h2 class="anchored" data-anchor-id="maahanmuutto-ja-kaksoistyömarkkinat">Maahanmuutto ja kaksoistyömarkkinat</h2>
 <p>Singapore käyttää aktiivista työperäistä maahanmuuttoa talouden joustavuuden välineenä. Järjestelmä on kaksijakoinen: korkean osaamisen virrat tuovat finanssi-, teknologia- ja tutkimusalan ammattilaisia, kun taas matalapalkkaiset vierastyöläiset tekevät rakennus-, siivous- ja hoivatyötä.</p>
 <p>Makrotaloudellisesti tämä pitää palkkainflaation kurissa, nostaa potentiaalista BKT:tä ja lisää talouden joustavuutta suhdannevaihteluissa. Mutta se myös luo kaksoistyömarkkinan, jossa oikeudet ja palkkatasot eroavat dramaattisesti kansalaisuuden perusteella.</p>
-<p>Katukuvassa tämä näkyy välittömästi. Bangladeshilaiset ja intialaiset rakennustyöläiset asuvat teollisuusalueiden asuntoloissa — tarkoitukseen rakennetuissa betonitorneissa, varastoista muunnetuissa majoitustiloissa tai työmaiden väliaikaisparakeissa — ja kulkevat työmaalle kuorma-autojen lavoilla. Muutaman kilometrin päässä CBD:n pilvenpiirtäjissä työskentelevät toisenlaiset “vierastyöläiset” — lontoolaiset pankkiirit ja sanfranciscolaiset ohjelmistokehittäjät — joiden Employment Pass avaa tien pysyvään oleskelulupaan ja lopulta kansalaisuuteen. Molemmat ovat siirtotyöläisiä. Heidän Singaporensa eivät ole sama maa. Eriarvoisuus ei ole järjestelmän virhe, vaan se on ominaisuus.</p>
+<p>Katukuvassa tämä näkyy välittömästi. Bangladeshilaiset ja intialaiset rakennustyöläiset asuvat teollisuusalueiden asuntoloissa — tarkoitukseen rakennetuissa betonitorneissa, varastoista muunnetuissa majoitustiloissa tai työmaiden väliaikaisparakeissa — ja kulkevat työmaalle kuorma-autojen lavoilla. Muutaman kilometrin päässä CBD:n pilvenpiirtäjissä työskentelevät toisenlaiset “vierastyöläiset” — lontoolaiset pankkiirit ja sanfranciscolaiset ohjelmistokehittäjät — joiden Employment Pass avaa tien pysyvään oleskelulupaan ja lopulta kansalaisuuteen. Molemmat ovat siirtotyöläisiä. Heidän Singaporensa eivät ole sama maa. Eriarvoisuus ei ole järjestelmän virhe, vaan sen ominaisuus.</p>
 </section>
 <section id="eriarvoisuus-kasvua-ensin-uudelleenjakoa-ehkä-myöhemmin" class="level2">
 <h2 class="anchored" data-anchor-id="eriarvoisuus-kasvua-ensin-uudelleenjakoa-ehkä-myöhemmin">Eriarvoisuus: kasvua ensin, uudelleenjakoa ehkä myöhemmin</h2>
 <div class="cell">
 <details class="code-fold">
 <summary>Näytä koodi</summary>
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>gini_data <span class="ot">&lt;-</span> <span class="fu">WDI</span>(</span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">country =</span> <span class="fu">c</span>(<span class="st">"SG"</span>, <span class="st">"FI"</span>, <span class="st">"KR"</span>, <span class="st">"US"</span>, <span class="st">"MY"</span>),</span>
-<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">indicator =</span> <span class="st">"SI.POV.GINI"</span>,</span>
-<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">start =</span> <span class="dv">2000</span>,</span>
-<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">end =</span> <span class="dv">2023</span></span>
-<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>) <span class="sc">|&gt;</span></span>
-<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">rename</span>(<span class="at">gini =</span> SI.POV.GINI) <span class="sc">|&gt;</span></span>
-<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(<span class="sc">!</span><span class="fu">is.na</span>(gini)) <span class="sc">|&gt;</span></span>
-<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">country_fi =</span> <span class="fu">case_when</span>(</span>
-<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>    iso2c <span class="sc">==</span> <span class="st">"SG"</span> <span class="sc">~</span> <span class="st">"Singapore"</span>,</span>
-<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>    iso2c <span class="sc">==</span> <span class="st">"FI"</span> <span class="sc">~</span> <span class="st">"Suomi"</span>,</span>
-<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>    iso2c <span class="sc">==</span> <span class="st">"KR"</span> <span class="sc">~</span> <span class="st">"Etelä-Korea"</span>,</span>
-<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>    iso2c <span class="sc">==</span> <span class="st">"US"</span> <span class="sc">~</span> <span class="st">"Yhdysvallat"</span>,</span>
-<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>    iso2c <span class="sc">==</span> <span class="st">"MY"</span> <span class="sc">~</span> <span class="st">"Malesia"</span></span>
-<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>  ))</span>
-<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(gini_data, <span class="fu">aes</span>(<span class="at">x =</span> year, <span class="at">y =</span> gini, <span class="at">color =</span> country_fi)) <span class="sc">+</span></span>
-<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">linewidth =</span> <span class="dv">1</span>) <span class="sc">+</span></span>
-<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>(<span class="at">size =</span> <span class="dv">2</span>, <span class="at">alpha =</span> <span class="fl">0.7</span>) <span class="sc">+</span></span>
-<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_color_manual</span>(<span class="at">values =</span> <span class="fu">c</span>(</span>
-<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Singapore"</span> <span class="ot">=</span> <span class="st">"#e63946"</span>,</span>
-<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Suomi"</span> <span class="ot">=</span> <span class="st">"#457b9d"</span>,</span>
-<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Etelä-Korea"</span> <span class="ot">=</span> <span class="st">"#2a9d8f"</span>,</span>
-<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Yhdysvallat"</span> <span class="ot">=</span> <span class="st">"#264653"</span>,</span>
-<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Malesia"</span> <span class="ot">=</span> <span class="st">"#e9c46a"</span></span>
-<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a>  )) <span class="sc">+</span></span>
-<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(</span>
-<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> <span class="st">"Eriarvoisuus: Singapore muiden joukossa"</span>,</span>
-<span id="cb3-29"><a href="#cb3-29" aria-hidden="true" tabindex="-1"></a>    <span class="at">subtitle =</span> <span class="st">"Gini-kerroin (0 = täysi tasa-arvo, 100 = täysi eriarvoisuus)"</span>,</span>
-<span id="cb3-30"><a href="#cb3-30" aria-hidden="true" tabindex="-1"></a>    <span class="at">x =</span> <span class="cn">NULL</span>, <span class="at">y =</span> <span class="cn">NULL</span>, <span class="at">color =</span> <span class="cn">NULL</span>,</span>
-<span id="cb3-31"><a href="#cb3-31" aria-hidden="true" tabindex="-1"></a>    <span class="at">caption =</span> <span class="st">"Lähde: World Bank, World Development Indicators</span><span class="sc">\n</span><span class="st">Huom: Singaporen virallinen Gini (tulonsiirtojen jälkeen) oli 0.371 vuonna 2023."</span></span>
-<span id="cb3-32"><a href="#cb3-32" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">+</span></span>
-<span id="cb3-33"><a href="#cb3-33" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">legend.position =</span> <span class="st">"bottom"</span>)</span></code></pre></div><button title="Kopioi leikepöydälle" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Singaporen viralliset Gini-luvut (ennen tulonsiirtoja, työssäkäyvät kotitaloudet)</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>sg_gini <span class="ot">&lt;-</span> <span class="fu">tibble</span>(</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">year =</span> <span class="dv">2000</span><span class="sc">:</span><span class="dv">2023</span>,</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">gini =</span> <span class="fu">c</span>(<span class="fl">44.2</span>, <span class="fl">45.4</span>, <span class="fl">45.4</span>, <span class="fl">45.3</span>, <span class="fl">45.6</span>, <span class="fl">46.8</span>, <span class="fl">47.0</span>, <span class="fl">47.2</span>, <span class="fl">47.4</span>, <span class="fl">47.1</span>,</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>           <span class="fl">47.2</span>, <span class="fl">47.3</span>, <span class="fl">47.3</span>, <span class="fl">46.3</span>, <span class="fl">46.4</span>, <span class="fl">46.3</span>, <span class="fl">45.8</span>, <span class="fl">45.9</span>, <span class="fl">45.8</span>, <span class="fl">45.2</span>,</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>           <span class="fl">45.2</span>, <span class="fl">44.4</span>, <span class="fl">43.7</span>, <span class="fl">43.3</span>),</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">country_fi =</span> <span class="st">"Singapore"</span></span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>gini_data <span class="ot">&lt;-</span> <span class="fu">WDI</span>(</span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>  <span class="at">country =</span> <span class="fu">c</span>(<span class="st">"FI"</span>, <span class="st">"KR"</span>, <span class="st">"US"</span>, <span class="st">"MY"</span>),</span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>  <span class="at">indicator =</span> <span class="st">"SI.POV.GINI"</span>,</span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>  <span class="at">start =</span> <span class="dv">2000</span>, <span class="at">end =</span> <span class="dv">2023</span></span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>) <span class="sc">|&gt;</span></span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>  <span class="fu">rename</span>(<span class="at">gini =</span> SI.POV.GINI) <span class="sc">|&gt;</span></span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(<span class="sc">!</span><span class="fu">is.na</span>(gini)) <span class="sc">|&gt;</span></span>
+<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">country_fi =</span> <span class="fu">case_when</span>(</span>
+<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>    iso2c <span class="sc">==</span> <span class="st">"FI"</span> <span class="sc">~</span> <span class="st">"Suomi"</span>,</span>
+<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a>    iso2c <span class="sc">==</span> <span class="st">"KR"</span> <span class="sc">~</span> <span class="st">"Etelä-Korea"</span>,</span>
+<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>    iso2c <span class="sc">==</span> <span class="st">"US"</span> <span class="sc">~</span> <span class="st">"Yhdysvallat"</span>,</span>
+<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a>    iso2c <span class="sc">==</span> <span class="st">"MY"</span> <span class="sc">~</span> <span class="st">"Malesia"</span></span>
+<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>  )) <span class="sc">|&gt;</span></span>
+<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>  <span class="fu">select</span>(year, gini, country_fi) <span class="sc">|&gt;</span></span>
+<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a>  <span class="fu">bind_rows</span>(sg_gini)</span>
+<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(gini_data, <span class="fu">aes</span>(<span class="at">x =</span> year, <span class="at">y =</span> gini, <span class="at">color =</span> country_fi)) <span class="sc">+</span></span>
+<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">linewidth =</span> <span class="dv">1</span>) <span class="sc">+</span></span>
+<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>(<span class="at">size =</span> <span class="dv">2</span>, <span class="at">alpha =</span> <span class="fl">0.7</span>) <span class="sc">+</span></span>
+<span id="cb3-29"><a href="#cb3-29" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_color_manual</span>(<span class="at">values =</span> <span class="fu">c</span>(</span>
+<span id="cb3-30"><a href="#cb3-30" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Singapore"</span> <span class="ot">=</span> <span class="st">"#e63946"</span>,</span>
+<span id="cb3-31"><a href="#cb3-31" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Suomi"</span> <span class="ot">=</span> <span class="st">"#457b9d"</span>,</span>
+<span id="cb3-32"><a href="#cb3-32" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Etelä-Korea"</span> <span class="ot">=</span> <span class="st">"#2a9d8f"</span>,</span>
+<span id="cb3-33"><a href="#cb3-33" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Yhdysvallat"</span> <span class="ot">=</span> <span class="st">"#264653"</span>,</span>
+<span id="cb3-34"><a href="#cb3-34" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Malesia"</span> <span class="ot">=</span> <span class="st">"#e9c46a"</span></span>
+<span id="cb3-35"><a href="#cb3-35" aria-hidden="true" tabindex="-1"></a>  )) <span class="sc">+</span></span>
+<span id="cb3-36"><a href="#cb3-36" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(</span>
+<span id="cb3-37"><a href="#cb3-37" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> <span class="st">"Eriarvoisuus: Singapore muiden joukossa"</span>,</span>
+<span id="cb3-38"><a href="#cb3-38" aria-hidden="true" tabindex="-1"></a>    <span class="at">subtitle =</span> <span class="st">"Gini-kerroin (0 = täysi tasa-arvo, 100 = täysi eriarvoisuus)"</span>,</span>
+<span id="cb3-39"><a href="#cb3-39" aria-hidden="true" tabindex="-1"></a>    <span class="at">x =</span> <span class="cn">NULL</span>, <span class="at">y =</span> <span class="cn">NULL</span>, <span class="at">color =</span> <span class="cn">NULL</span>,</span>
+<span id="cb3-40"><a href="#cb3-40" aria-hidden="true" tabindex="-1"></a>    <span class="at">caption =</span> <span class="st">"Lähteet: World Bank (WDI); Singapore Department of Statistics</span><span class="sc">\n</span><span class="st">Huom: Singaporen luvut ennen tulonsiirtoja. Tulonsiirtojen jälkeen 0.371 (2023)."</span></span>
+<span id="cb3-41"><a href="#cb3-41" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">+</span></span>
+<span id="cb3-42"><a href="#cb3-42" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">legend.position =</span> <span class="st">"bottom"</span>)</span></code></pre></div><button title="Kopioi leikepöydälle" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 <div class="cell-output-display">
 <div id="fig-gini" class="quarto-float quarto-figure quarto-figure-center anchored">
@@ -423,7 +432,7 @@ Kuva&nbsp;2: Bruttosäästämisaste (% BKT:stä) Singaporessa ja vertailumaissa.
 <img src="index_files/figure-html/fig-gini-1.png" class="img-fluid figure-img" width="672">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-gini-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Kuva&nbsp;3: Gini-kerroin Singaporessa ja vertailumaissa. Lähde: Maailmanpankki (saatavuus vaihtelee vuosittain).
+Kuva&nbsp;3: Gini-kerroin Singaporessa ja vertailumaissa. Lähteet: Maailmanpankki (WDI), Singapore Department of Statistics.
 </figcaption>
 </figure>
 </div>
