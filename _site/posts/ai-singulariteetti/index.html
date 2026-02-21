@@ -7,9 +7,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Vesa">
-<meta name="description" content="Työterveyslääkäri Eira Roos ehdottaa Ylellä, että liikuntaedut ja työhyvinvointipäivät pitäisi räjäyttää. Roosin kliininen kokemus on arvokas, mutta taloustieteellisesti asia on monimutkaisempi kuin dikotomia antaa ymmärtää.">
 
-<title>Ovatko työhyvinvointiedut hukkaan heitettyä rahaa? – Incentive Lens</title>
+<title>Onko singulariteetti lähellä? Taloustiede vs.&nbsp;teknohype – Incentive Lens</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,35 +70,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -141,17 +111,12 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Ovatko työhyvinvointiedut hukkaan heitettyä rahaa?</h1>
-            <p class="subtitle lead">Taloustieteellinen näkökulma liikuntaetuihin, työsuhdepyöriin ja virkistyspäiviin</p>
-                  <div>
-        <div class="description">
-          Työterveyslääkäri Eira Roos ehdottaa Ylellä, että liikuntaedut ja työhyvinvointipäivät pitäisi räjäyttää. Roosin kliininen kokemus on arvokas, mutta taloustieteellisesti asia on monimutkaisempi kuin dikotomia antaa ymmärtää.
-        </div>
-      </div>
-                          <div class="quarto-categories">
-                <div class="quarto-category">taloustiede</div>
-                <div class="quarto-category">työelämä</div>
-                <div class="quarto-category">työhyvinvointi</div>
+      <h1 class="title">Onko singulariteetti lähellä? Taloustiede vs.&nbsp;teknohype</h1>
+            <p class="subtitle lead">Mitä talouskasvumallit kertovat tekoälyn mullistavuudesta — ja mitä ne eivät kerro</p>
+                                <div class="quarto-categories">
+                <div class="quarto-category">tekoäly</div>
+                <div class="quarto-category">talouskasvu</div>
+                <div class="quarto-category">singulariteetti</div>
               </div>
                   </div>
   </div>
@@ -169,7 +134,7 @@ window.Quarto = {
       <div>
       <div class="quarto-title-meta-heading">Julkaistu</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">17. helmikuuta 2025</p>
+        <p class="date">19. helmikuuta 2026</p>
       </div>
     </div>
     
@@ -184,15 +149,13 @@ window.Quarto = {
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Tällä sivulla</h2>
    
-  <ul>
-  <li><a href="#mistä-on-kyse" id="toc-mistä-on-kyse" class="nav-link active" data-scroll-target="#mistä-on-kyse">Mistä on kyse?</a></li>
-  <li><a href="#kolme-erillistä-kysymystä" id="toc-kolme-erillistä-kysymystä" class="nav-link" data-scroll-target="#kolme-erillistä-kysymystä">Kolme erillistä kysymystä</a></li>
-  <li><a href="#mitä-tutkimusnäyttö-sanoo" id="toc-mitä-tutkimusnäyttö-sanoo" class="nav-link" data-scroll-target="#mitä-tutkimusnäyttö-sanoo">Mitä tutkimusnäyttö sanoo?</a></li>
-  <li><a href="#yksinkertainen-kehikko" id="toc-yksinkertainen-kehikko" class="nav-link" data-scroll-target="#yksinkertainen-kehikko">Yksinkertainen kehikko</a></li>
-  <li><a href="#verotus-ja-signaalivaikutus" id="toc-verotus-ja-signaalivaikutus" class="nav-link" data-scroll-target="#verotus-ja-signaalivaikutus">Verotus ja signaalivaikutus</a></li>
-  <li><a href="#kustannusmittakaava" id="toc-kustannusmittakaava" class="nav-link" data-scroll-target="#kustannusmittakaava">Kustannusmittakaava</a></li>
-  <li><a href="#johtopäätös-optimointia-ei-räjäyttämistä" id="toc-johtopäätös-optimointia-ei-räjäyttämistä" class="nav-link" data-scroll-target="#johtopäätös-optimointia-ei-räjäyttämistä">Johtopäätös: optimointia, ei räjäyttämistä</a></li>
-  <li><a href="#viitteet" id="toc-viitteet" class="nav-link" data-scroll-target="#viitteet">Viitteet</a></li>
+  <ul class="collapse">
+  <li><a href="#vasta-singulariteetin-alkuvaiheita" id="toc-vasta-singulariteetin-alkuvaiheita" class="nav-link active" data-scroll-target="#vasta-singulariteetin-alkuvaiheita">“Vasta singulariteetin alkuvaiheita”</a></li>
+  <li><a href="#nordhaus-singulariteetti-ei-ole-lähellä" id="toc-nordhaus-singulariteetti-ei-ole-lähellä" class="nav-link" data-scroll-target="#nordhaus-singulariteetti-ei-ole-lähellä">Nordhaus: “Singulariteetti ei ole lähellä”</a></li>
+  <li><a href="#jones-pullonkaulat-kesyttävät-kasvuräjähdyksen" id="toc-jones-pullonkaulat-kesyttävät-kasvuräjähdyksen" class="nav-link" data-scroll-target="#jones-pullonkaulat-kesyttävät-kasvuräjähdyksen">Jones: pullonkaulat kesyttävät kasvuräjähdyksen</a></li>
+  <li><a href="#teknologiadiskurssi-agenttien-maailma" id="toc-teknologiadiskurssi-agenttien-maailma" class="nav-link" data-scroll-target="#teknologiadiskurssi-agenttien-maailma">Teknologiadiskurssi: agenttien maailma</a></li>
+  <li><a href="#jännite-on-todellinen-ja-hedelmällinen" id="toc-jännite-on-todellinen-ja-hedelmällinen" class="nav-link" data-scroll-target="#jännite-on-todellinen-ja-hedelmällinen">Jännite on todellinen — ja hedelmällinen</a></li>
+  <li><a href="#mitä-tämä-tarkoittaa" id="toc-mitä-tämä-tarkoittaa" class="nav-link" data-scroll-target="#mitä-tämä-tarkoittaa">Mitä tämä tarkoittaa?</a></li>
   </ul>
 </nav>
     </div>
@@ -203,74 +166,89 @@ window.Quarto = {
 
 
 
-<section id="mistä-on-kyse" class="level2">
-<h2 class="anchored" data-anchor-id="mistä-on-kyse">Mistä on kyse?</h2>
-<p>Työterveyslääkäri Eira Roos <a href="https://yle.fi/a/74-20208542">esittää Ylellä</a>, että työhyvinvointipäivät, liikuntaedut ja työsuhdepyörät pitäisi “räjäyttää” ja keskittyä olennaiseen. Roosin argumentti on selkeä: työuupumus syntyy hallinnan tunteen katoamisesta, ja sen korjaa työn organisointi, ei seppeleensidonta eikä liikuntaseteli.</p>
-<p>Roos on todennäköisesti oikeassa pääväitteessään. Parikymmentä vuotta uupuneita hoitaneena lääkärinä hänellä on kliinistä kokemusta, joka tukee tulkintaa: uupumus ei ole yksilön heikkoutta vaan työn ja ihmisen suhteen ongelma. Työterveyslaitoksen Pauliina Mattila-Holappa vahvistaa samassa jutussa, että tutkimus piirtää saman kuvan.</p>
-<p>Mutta siitä, että työn rakenne on <em>tärkein</em> tekijä, ei seuraa, että kaikki muu on hukkaan heitettyä. Tämä on taloustieteellisesti optimointikysymys, ei dikotomia.</p>
-</section>
-<section id="kolme-erillistä-kysymystä" class="level2">
-<h2 class="anchored" data-anchor-id="kolme-erillistä-kysymystä">Kolme erillistä kysymystä</h2>
-<p>Julkisessa keskustelussa sekoittuu usein kolme eri asiaa:</p>
+<section id="vasta-singulariteetin-alkuvaiheita" class="level2">
+<h2 class="anchored" data-anchor-id="vasta-singulariteetin-alkuvaiheita">“Vasta singulariteetin alkuvaiheita”</h2>
+<p>Elon Musk twiittasi helmikuussa 2026: “Just the very early stages of the singularity. We are currently using much less than a billionth of the power of our Sun.” Samaan aikaan Andrej Karpathy kuvaili autonomisten LLM-agenttien verkostoa — 150 000 agenttia jaetulla scratchpadilla — tunnustaen sen olevan “roskispalo”, mutta myös ennennäkemätön kokeilu, jonka toisen asteen vaikutuksia on mahdoton ennustaa.</p>
+<p>Singulariteetti. Sana, joka saa teknologiaoptimistit hehkumaan ja taloustieteilijät varovaisiksi. Mutta mitä sillä oikeastaan tarkoitetaan? Termi liikkuu kolmen eri merkityksen välillä:</p>
 <ol type="1">
-<li><strong>Onko liikunnalla vaikutus työkykyyn?</strong> Kyllä, ja tämä on hyvin dokumentoitu.</li>
-<li><strong>Lisäävätkö työnantajan tarjoamat edut liikuntaa?</strong> Tämä on empiirinen kysymys: lisäävätkö edut liikuntaa vai subventoidaanko niitä, jotka liikkuisivat muutenkin?</li>
-<li><strong>Ovatko edut kustannustehokkaita suhteessa rakenteellisiin parannuksiin?</strong> Tämä on varsinainen taloudellinen ydinkysymys.</li>
+<li><strong>Taloudellinen singulariteetti</strong> — tilanne, jossa BKT:n kasvu kiihtyy rajatta, kun pääoma korvaa työn yhä laajemmin. Tämä on Nordhausin (2021) tutkimuskohde.</li>
+<li><strong>Teknologinen singulariteetti</strong> — piste, jossa tekoäly kykenee rekursiiviseen itseparannukseen ja ylittää inhimillisen älykkyyden. Tästä Musk puhuu, ja Jones (2026) käsittelee sen taloudellisia seurauksia.</li>
+<li><strong>Yhteiskunnallinen singulariteetti</strong> — laajempi murros, jossa työn merkitys, tulonjako ja ihmisen rooli muuttuvat peruuttamattomasti.</li>
 </ol>
-<p>Roos vastaa käytännössä kolmanteen kysymykseen, ja hänen vastauksensa on todennäköisesti usein oikea. Mutta “usein suurempi vaikutus” ei ole sama asia kuin “ainoa vaikutus”. Näiden erottelu on olennaista, jos halutaan päästä retoriikasta resurssien allokointiin.</p>
+<p>Nämä merkitykset kietoutuvat toisiinsa, mutta eivät ole sama asia. Teknologinen singulariteetti on taloudellisen välttämätön mutta ei riittävä ehto — pullonkaulat, diffuusioviiveet ja instituutiot suodattavat teknologista potentiaalia. Tässä kirjoituksessa liikun pääosin kahden ensimmäisen rajapinnalla: mitä talouskasvumallit sanovat tekoälyn mullistavuudesta, ja miten se suhteutuu teknologian etulinjassa näkyvään kehitysvauhtiin.</p>
 </section>
-<section id="mitä-tutkimusnäyttö-sanoo" class="level2">
-<h2 class="anchored" data-anchor-id="mitä-tutkimusnäyttö-sanoo">Mitä tutkimusnäyttö sanoo?</h2>
-<p>Roosin argumenttia tukee se, että paras kokeellinen näyttö wellness-ohjelmien vaikutuksista on yllättävän laiha.</p>
-<p>Jones, Molitor ja Reif (2019) toteuttivat laajan satunnaistetun kokeen Illinoisin yliopistossa lähes 5 000 työntekijällä. Tulokset olivat selkeitä: ohjelma lisäsi terveystarkastusten käyttöä, mutta sillä ei ollut tilastollisesti merkitseviä vaikutuksia terveydenhuoltokuluihin, poissaoloihin, tuottavuuteen tai itse raportoituun terveyteen yli kahden vuoden seurannassa. Tutkimus osoitti myös vahvan valikoitumisongelman – ohjelmaan osallistuivat ne, jotka olivat jo ennestään terveempiä ja aktiivisempia.</p>
-<p>Tämä on juuri se <em>additionality</em>-ongelma, josta Roosin argumentti implisiittisesti kertoo: edut menevät niille, jotka eivät niitä tarvitse. Aiempi meta-analyyttinen evidenssi (Baicker ym. 2010), joka raportoi merkittäviä säästöjä, perustui pitkälti havainnollisiin tutkimuksiin, joissa valikoitumista ei kontrolloitu. Jonesin ym. RCT-tulokset sulkivat pois 84 % aiempien tutkimusten raportoimista kustannussäästöarvioista.</p>
-<p>Mutta tästäkään ei seuraa, että kaikki edut ovat hyödyttömiä. Se seuraa, että <em>huonosti kohdennetut</em> edut ovat hyödyttömiä – mikä on eri väite.</p>
+<section id="nordhaus-singulariteetti-ei-ole-lähellä" class="level2">
+<h2 class="anchored" data-anchor-id="nordhaus-singulariteetti-ei-ole-lähellä">Nordhaus: “Singulariteetti ei ole lähellä”</h2>
+<p>Nobel-palkittu William Nordhaus julkaisi vuonna 2021 perusteellisen tutkimuksen taloudellisen singulariteetin mahdollisuudesta. Hänen analyysinsä on elegantisti yksinkertainen: jos informaatiopääoma ja perinteiset tuotantopanokset ovat <em>joustavia substituutteja</em> — eli informaatio voi korvata työtä ja muuta pääomaa yhä laajemmin — kasvu kiihtyy rajatta. Jos ne ovat <em>joustamattomia</em>, informaatioteknologian edistys jää lopulta taloudellisesti merkityksettömäksi.</p>
+<p>Nordhaus erittelee kolme reittiä, joilla taloudellinen singulariteetti voisi syntyä. Ensimmäinen on superintelligentin tekoälyn tuottama kiihtyvä teknologinen muutos, jossa koneet itse suunnittelevat uusia tuotantoprosesseja. Nordhaus mainitsee tämän mutta hylkää sen liian spekulatiivisena. Toinen reitti kulkee kysynnän kautta: jos kuluttajat siirtyvät nopeasti halpeneviin informaatiotuotteisiin, kokonaiskulutuksen kasvu voi kiihtyä — eräänlainen käänteinen Baumolin tauti, jonka Nordhaus nimeää “Baumolin kasvueuforiaksi”. Empiirinen näyttö ei kuitenkaan tue tätä: halpenevien IT-tuotteiden kulutusosuudet eivät ole kasvaneet riittävästi. Kolmas ja Nordhausin pääasiallinen tutkimuskohde on pääoman syveneminen (capital deepening): jos informaatiopääoma korvaa työtä yhä laajemmin ja substituutiojousto on yli yhden, pääoman tulo-osuus kasvaa ja kasvuvauhti kiihtyy rajatta.</p>
+<p>Nordhaus testasi kuutta empiiristä indikaattoria Yhdysvaltojen taloudesta: pääoman ja työn välistä substituutiojoustoa, tuottavuuskasvun trendiä, pääomatulo-osuuden kehitystä, pääoma-tuotosuhteen muutosta, informaatiopääoman osuutta ja mahdollista piilossa olevaa tuottavuuskasvua. Tulos: neljä testiä kuudesta oli negatiivisia tai moniselitteisiä, ja kaksi heikosti positiivista testiä — pääomatulo-osuuden nousu ja informaatiopääoman kasvava osuus — viittasivat singulariteettiin aikaisintaan vuosisadan päästä.</p>
+<p>Nordhausin keskeinen oivallus on, että informaatioteknologian tuottavuuskasvu ei suoraan käänny kokonaistalouden kasvuksi. Tuotanto vaatii edelleen energiaa, raaka-aineita ja fyysistä työtä, ja näiden käytön tehostuminen on kertaluokkia hitaampaa kuin laskentatehon kasvu.</p>
 </section>
-<section id="yksinkertainen-kehikko" class="level2">
-<h2 class="anchored" data-anchor-id="yksinkertainen-kehikko">Yksinkertainen kehikko</h2>
-<p>Ajatellaan, että työkyky <span class="math inline">\(h\)</span> määräytyy kahdesta tekijästä: liikunnasta <span class="math inline">\(L\)</span> ja työn rakenteesta <span class="math inline">\(D\)</span> (autonomia, johtaminen, kuormitus):</p>
-<p><span class="math display">\[
-h = h_0 + \gamma L + \delta D
-\]</span></p>
-<p>Liikuntaetu <span class="math inline">\(b\)</span> lisää liikuntaa määrällä:</p>
-<p><span class="math display">\[
-L = L_0 + \theta b
-\]</span></p>
-<p>Parametri <span class="math inline">\(\theta\)</span> kertoo, syntyykö aidosti uutta liikuntaa. Jos <span class="math inline">\(\theta = 0\)</span>, etu on puhdas tulonsiirto jo aktiivisille – tasan se tilanne, jonka Illinois-koe dokumentoi. Jos <span class="math inline">\(\theta &gt; 0\)</span>, etu muuttaa käyttäytymistä ja vaikuttaa työkykyyn kertoimella <span class="math inline">\(\gamma\theta\)</span>.</p>
-<p>Roosin argumentti on tulkittavissa niin, että <span class="math inline">\(\delta\)</span> – työn rakenteen vaikutus – on tyypillisesti suurempi kuin <span class="math inline">\(\gamma\theta\)</span>. Se on todennäköistä ja empiirisen näytön tukemaa. Mutta optimaalisessa resurssien kohdentamisessa ei valita yhtä kanavaa, vaan se yhdistelmä, jossa jokaisen euron rajahyöty on suurin.</p>
+<section id="jones-pullonkaulat-kesyttävät-kasvuräjähdyksen" class="level2">
+<h2 class="anchored" data-anchor-id="jones-pullonkaulat-kesyttävät-kasvuräjähdyksen">Jones: pullonkaulat kesyttävät kasvuräjähdyksen</h2>
+<p>Charles I. Jones Stanfordista tarjoaa tammikuussa 2026 julkaistussa esseessään tuoreemman näkökulman. Hän esittää kaksi ääripäätä: toinen, jossa tekoäly kiihdyttää kasvua dramaattisesti, ja toinen, jossa AI on “business as usual” — uusin yleiskäyttöinen teknologia pitkässä sarjassa, joka pitää kasvun tutulla 2 prosentin vuosivauhdilla.</p>
+<div id="fig-bkt" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-bkt-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="bkt_trendi.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-bkt-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Kuva&nbsp;1: USA:n reaalinen BKT henkeä kohti 1870–2024. Logaritmisella asteikolla aikasarja on lähes suora viiva: 2 prosentin vuosikasvu, jota sähkö, transistori, mikrosiru eikä internet muuttanut pysyvästi. Jonesin “suosikkikaavio” tiivistää business as usual -skenaarion ytimen: ehkä AI on vain seuraava GPT, joka pitää kasvun raiteillaan.
+</figcaption>
+</figure>
+</div>
+<p>Jonesin <em>weak links</em> -kehikko tarjoaa kenties tärkeimmän analyyttisen työkalun AI:n taloudellisten vaikutusten ymmärtämiseen. Ajatus on yksinkertainen: taloustuotanto riippuu lukuisista toisiaan täydentävistä tehtävistä, ja tuotanto rajoittuu aina heikoimpaan lenkkiin. Vaikka automatisoisi yhden tehtävän äärettömän tehokkaaksi, kokonaistuotantoa rajoittavat edelleen automatisoimattomat pullonkaulat.</p>
+<p>Luvut ovat hätkähdyttäviä, mutta edellyttävät tärkeän oletuksen. Jonesin peruslaskelmassa tehtävien substituutiojousto on 1/2, eli tehtävät ovat vahvoja komplementteja. Tällöin ohjelmistotuotannon täydellinenkin automaatio nostaisi BKT:ta vain noin 2 prosenttia, koska ohjelmistojen osuus BKT:sta on noin 2 prosenttia. Vastaavasti kaiken tietotyön täydellinen automaatio nostaisi BKT:ta noin 50 prosenttia kolmanneksen tulo-osuudella.</p>
+<p>Mutta tulos on herkkä substituutiojoustolle. Jos jousto lähestyy yhtä, eli Cobb-Douglas-tapausta, jo yhden tehtävän ääretön automaatio riittää kasvattamaan kokonaistuotantoa rajatta. Todellinen maailma asettuu johonkin näiden ääripäiden väliin, ja juuri tässä piilee sekä mallin voima että sen rajoite: emme tiedä tarkasti, kuinka korvattavissa eri tehtävät ovat toisillaan. Jones itse tunnistaa tämän ja korostaa, ettei ohjelmistojen nykyinen 2 prosentin BKT-osuus ole pysyvä. Kun ohjelmistotuotannon kustannus romahtaa, ohjelmistoja aletaan soveltaa tehtäviin, joissa niitä ei aiemmin käytetty.</p>
+<div id="fig-weaklinks" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-weaklinks-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="weak_links.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-weaklinks-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Kuva&nbsp;2: Automaation tuottama BKT-hyöty Jonesin weak links -kehikossa. Vaaka-akselilla automatisoitujen tehtävien osuus BKT:sta, pystyakselilla suhteellinen BKT-kasvu. Ohjelmistojen automaatio (s ≈ 0,02) tuottaa häviävän pienen hyödyn; kaiken tietotyön automaatio (s ≈ 0,33) nostaa BKT:ta noin 50 %. Käyrä jyrkkenee vasta kun lähes kaikki tehtävät on automatisoitu — mutta juuri ne viimeiset tehtävät ovat vaikeimpia.
+</figcaption>
+</figure>
+</div>
+<p>Jones ja Tonetti (2026) rakentavat mallin tämän logiikan pohjalta ja päätyvät tulokseen, joka vaikuttaa ensi silmäyksellä ristiriitaiselta mutta ei ole. Kasvuvauhti kyllä nousee ja ylittää lopulta 5 prosenttia vuodessa, mutta kiihtyminen on hidasta. Alkuvaiheessa vain pieni osa taloudesta on automatisoitu ja suurin osa tuotannosta pysyy pitkään pullonkaulojen takana. Siksi <em>tasoero</em> suhteessa perusuraan on kahdenkymmenen vuoden kohdalla vain noin 5 prosenttia ja neljänkymmenen vuoden kohdalla 20 prosenttia. Vaatimattomia lukuja, kun ottaa huomioon teknologian lupauksen. Kasvuvauhti kiihtyy vasta kun automaatio leviää riittävän laajalle tehtäväkenttään. Pullonkaulat eivät estä singulariteettia, mutta ne tekevät siitä asteittaisen ilmiön.</p>
+<p>Erityisen kiinnostava on Jonesin “Oppenheimer-kysymys”: kuinka suuren eksistentiaalisen riskin rationaalinen toimija olisi valmis hyväksymään vastineeksi AI:n tuomasta kasvusta? Logaritmisella hyötyfunktiolla toimija hyväksyisi jopa kolmasosan todennäköisyyden kaiken tuhoutumiselle 10 prosentin kasvuvauhdin vastineeksi. Mutta riskiaversion arvolla kaksi hyväksyttävä riski putoaa 2,5 prosenttiin. Nykyisellä elintasolla elämä on yksinkertaisesti niin arvokasta, ettei lisäkulutuksen rajahyöty kompensoi kuoleman riskiä.</p>
+<p>Tähän kytkeytyy kilpailun dynamiikka. Jones kuvaa tilannetta vangin dilemmana. Jokainen AI-laboratorio ajattelee, että muut kilpailevat joka tapauksessa: hidastaminen ei vähennä riskejä mutta voiton mahdollisuus menetetään. Tasapaino on, että kaikki kilpailevat, vaikka kaikki hyötyisivät hidastamisesta. Ratkaisuksi Jones ehdottaa veroa GPU- ja TPU-siruille, mikä hidastaisi kilpailua ja rahoittaisi turvallisuustutkimusta samanaikaisesti.</p>
 </section>
-<section id="verotus-ja-signaalivaikutus" class="level2">
-<h2 class="anchored" data-anchor-id="verotus-ja-signaalivaikutus">Verotus ja signaalivaikutus</h2>
-<p>Roosin analyysi katsoo asiaa puhtaasti terveysvaikutuksen kautta. Mutta työnantajan näkökulmasta liikuntaedulla on muitakin funktioita.</p>
-<p><strong>Verotehokkuus.</strong> Suomessa osa työhyvinvointieduista on verovapaita tiettyyn rajaan asti. Jos työnantaja käyttää yhden euron palkankorotukseen, työntekijä saa siitä nettohyötyä vain verojen jälkeen. Verovapaa etu voi tuottaa työntekijälle suuremman koetun arvon samalla työnantajakustannuksella. Tällöin etu voi olla rationaalinen kompensaatiomuoto, <em>vaikka sen terveysvaikutus olisi vaatimaton</em>.</p>
-<p><strong>Signaalivaikutus.</strong> Liikuntaedut ja muut hyvinvointiedut voivat toimia signaalina siitä, että työnantaja välittää henkilöstöstä. Tämä on erillinen mekanismi terveysvaikutuksesta. Rekrytoinnissa ja sitouttamisessa signaalin arvo voi olla merkittävä, vaikka itse liikuntasetelin vaikutus liikuntamäärään olisi nolla. Ironisesti juuri Roosin oma havainto – puolet uupumuksesta toipuneista irtisanoutuu – korostaa sitouttamisen merkitystä.</p>
+<section id="teknologiadiskurssi-agenttien-maailma" class="level2">
+<h2 class="anchored" data-anchor-id="teknologiadiskurssi-agenttien-maailma">Teknologiadiskurssi: agenttien maailma</h2>
+<p>Mutta talousmallit operoivat makrotasolla ja pitkillä aikahorisonteilla. Mitä tapahtuu <em>juuri nyt</em> teknologian etulinjassa?</p>
+<p>Karpathyn havainto 150 000 autonomisesta LLM-agentista on merkittävä ei siksi, mitä ne tekevät tänään — suurin osa on roskaa, huijauksia ja prompt injection -hyökkäyksiä — vaan siksi, mitä se kertoo kehityksen suunnasta. Kuten Karpathy itse tiivistää: enemmistö erimielisyydestä johtuu siitä, katsooko nykyhetkeä vai nykyistä muutosvauhtia.</p>
+<p>Jones tukee tätä havaintoa numeroin. Epoch AI arvioi, että tekoälymallien koulutukseen käytetty “efektiivinen laskenta” kasvaa vuosittain kymmenkertaisesti: nelinkertaisesti paremmista siruista ja 2,5-kertaisesti paremmista algoritmeista. METR mittaa, kuinka vaativia ohjelmistotehtäviä AI-mallit pystyvät suorittamaan 50 prosentin onnistumistodennäköisyydellä. Tämä kynnys kaksinkertaistuu 5–7 kuukauden välein: puolitoista vuotta sitten mallit selviytyivät 19 minuutin tehtävistä, nyt ne ratkaisevat tehtäviä, joihin ihmiseltä kuluu 5 tuntia.</p>
+<p>Nämä luvut ovat vaikuttavia, mutta ansaitsevat pari varausta. Efektiivinen laskenta mittaa panosta eikä suoraan mallien taloudellista tuottavuutta, ja yhteys panosten ja tuotosten välillä voi olla epälineaarinen kumpaankin suuntaan. METR:n ohjelmistotehtävät puolestaan ovat rajattuja benchmarkeja. Ne kertovat mallien kyvystä ratkaista standardoituja koodaustehtäviä, eivät siitä kuinka hyvin AI selviytyy avoimista ja monimutkaisista ongelmista todellisissa organisaatioissa. Eksponentiaalinen parannus benchmarkissa ei välttämättä tarkoita eksponentiaalista parannusta taloudellisessa arvonluonnissa — juuri tämä on Nordhausin perusargumentti sovellettuna uuteen dataan.</p>
+<p>Ja sitten on rekursiivisen itseparannuksen mahdollisuus: AI-mallit, jotka auttavat rakentamaan parempia AI-malleja. Jones kuvaa tätä Dario Amodeita lainaten: “kokonainen maa neroja datakeskuksessa” (<em>a country of geniuses in a data center</em>) — potentiaalisesti miljardeja instansseja edistyneistä malleista, jotka suorittavat lähes mitä tahansa tehtävää, johon lahjakkaat ihmiset pystyvät tietokoneella.</p>
 </section>
-<section id="kustannusmittakaava" class="level2">
-<h2 class="anchored" data-anchor-id="kustannusmittakaava">Kustannusmittakaava</h2>
-<p>Ylen jutussa Roos esittää, että uupunut työntekijä maksaa työnantajalle noin 20 000 euroa vuodessa menetetyn tuottavuuden kautta – jo ennen sairauslomia. Tämä on hyödyllinen vertailukohta.</p>
-<p>Tyypillinen liikuntaetu maksaa työnantajalle muutaman sadan euron vuodessa työntekijää kohden. Jos etu onnistuu vähentämään uupumisriskiä edes marginaalisesti – vaikkapa yhden prosenttiyksikön verran – sen odotettu säästö ylittää kustannuksen.</p>
-<p>Tämä ei tarkoita, että liikuntaetu <em>korvaa</em> työn rakenteen korjaamisen. Se tarkoittaa, että kysymys “kannattaako tämä?” on empiirinen, ei retorinen. Ja vastaus riippuu kohdentamisesta: kenelle, millä ehdoin, missä kontekstissa.</p>
+<section id="jännite-on-todellinen-ja-hedelmällinen" class="level2">
+<h2 class="anchored" data-anchor-id="jännite-on-todellinen-ja-hedelmällinen">Jännite on todellinen — ja hedelmällinen</h2>
+<p>Entä työmarkkinat? Jones muistuttaa, että Geoff Hinton ennusti vuonna 2016 radiologien työpaikkojen katoavan AI:n myötä. Lähes kymmenen vuotta myöhemmin radiologeja on enemmän ja heidän palkkansa ovat nousseet. Radiologit tekevät muutakin kuin lukevat skanneja, ja AI täydentää näitä muita taitoja automatisoimalla osan tehtävistä. Weak links -maailmassa automaatio nostaa jäljellä olevien pullonkaulatehtävien tuottavuutta ja samalla niitä tekevien ihmisten palkkoja. Tämä on optimistinen viesti, mutta sillä on rajansa. Niin kauan kuin ammattiin kuuluu tehtäviä, joita AI ei pysty hoitamaan, automaatio nostaa ammattilaisen tuottavuutta ja palkkaa — radiologi, jolta vapautuu aikaa skannauksesta, voi käyttää sen potilaiden kanssa kommunikointiin. Mutta jos AI lopulta hallitsee kaikki ammatin tehtävät, työnantajalla ei ole syytä maksaa ihmiselle enempää kuin mitä saman työn teettäminen koneella maksaa. Silloin palkka ei enää määräydy ihmisen tuottavuuden vaan koneen käyttökustannuksen mukaan.</p>
+<p>Miten sovittaa yhteen Nordhausin varovainen “ei lähellä”, Jonesin “hidas räjähdys” ja Muskin “singulariteetin alkuvaiheita”?</p>
+<p>Mielestäni vastaus piilee kolmessa oivalluksessa.</p>
+<p><strong>Ensinnäkin aikahorisontti ratkaisee.</strong> Nordhausin empiiriset testit katsovat taaksepäin ja mittaavat, näkyykö singulariteetti jo datassa. Vastaus on selkeästi ei, ainakin Nordhausin käyttämän vuoden 2019 datan perusteella. Mutta tämä ei kerro, mitä tapahtuu seuraavan vuosikymmenen aikana, kun LLM-mallien kyvykkyys kasvaa eksponentiaalisesti. Jones asemoituu tähän väliin: hän ottaa vakavasti sekä kiihtyvän kehityksen että pullonkaulojen hillitsevän voiman.</p>
+<p><strong>Toiseksi tehtäväkenttä ei ole staattinen.</strong> Jonesin weak links -malli olettaa tietyn tehtäväjoukon, mutta todellisuudessa AI luo jatkuvasti uusia tehtäviä ja laajentaa ohjelmistojen ja tietotyön sovellusaluetta. Kun ohjelmistojen marginaalikustannus lähestyy nollaa, ohjelmistoja aletaan käyttää asioihin, joihin niitä ei aiemmin käytetty. 2 prosentin BKT-osuus ei ole kiinteä luku vaan endogeeninen muuttuja, joka muuttuu itsessään automaation myötä.</p>
+<p><strong>Kolmanneksi riskit kasvavat samaa vauhtia kuin mahdollisuudet.</strong> Sama tekoäly, joka voisi kiihdyttää talouskasvua, voisi tuoda myös mahdollistaa uudenlaisia uhkia: esimerkiksi kynnysten madaltumisen bioaseiden suunnittelussa tai hallinnan menettämisen yhä autonomisemmille järjestelmille. Jones käsittelee näitä eksistentiaalisia riskejä tavalla, jota harvoin näkee taloustieteen valtavirrassa. Hänen laskelmiensa mukaan nykyisillä elintasoilla elämä on niin arvokasta ja lisäkulutuksen rajahyöty niin alhainen, että järkevä yhteiskunta olisi valmis käyttämään yllättävän suuria summia näiden riskien pienentämiseen — mahdollisesti 5–10 prosenttia BKT:sta vuodessa. Silti hänen arvionsa mukaan alipainotamme turvallisuusinvestointeja vähintään 30-kertaisesti.</p>
 </section>
-<section id="johtopäätös-optimointia-ei-räjäyttämistä" class="level2">
-<h2 class="anchored" data-anchor-id="johtopäätös-optimointia-ei-räjäyttämistä">Johtopäätös: optimointia, ei räjäyttämistä</h2>
-<p>Roosin kliininen havainto on arvokas: uupumus ei ole yksilön heikkoutta, ja sen juurisyyt ovat työn rakenteessa. Tässä hän on sekä kokemuksen että tutkimusnäytön tukemana oikeassa.</p>
-<p>Mutta johtopäätös – “räjäyttää” edut – ei seuraa premisseistä. Se, että A on tärkeämpi kuin B, ei tarkoita, että B:n arvo on nolla. Taloustieteellisesti oikea kysymys ei ole “edut vai rakenne?” vaan “mikä yhdistelmä tuottaa parhaan tuloksen?”</p>
-<p>Vastaus riippuu kolmesta tekijästä:</p>
-<ol type="1">
-<li><strong>Kohdentaminen.</strong> Lisäävätkö edut liikuntaa niillä, jotka eivät muuten liikkuisi? Illinois-kokeen perusteella tyypillisesti eivät, mutta suunnittelu voi muuttaa tätä.</li>
-<li><strong>Verotehokkuus.</strong> Verovapaus tekee eduista tehokkaita kompensaatiovälineitä riippumatta terveysvaikutuksesta.</li>
-<li><strong>Signaali- ja sitouttamisarvo.</strong> Tätä Roosin terveysvaikutusanalyysi ei kata, mutta se voi olla etujen tärkein funktio.</li>
-</ol>
-<p>Kyse ei ole symbolipolitiikasta vastaan “oikeat ratkaisut”. Kyse on resurssien allokoinnista. Ja siinä kysymyksessä oikea vastaus on harvoin “räjäytä ja keskity yhteen kanavaan”, vaan “kohdenna, mittaa ja optimoi”.</p>
-</section>
-<section id="viitteet" class="level2">
-<h2 class="anchored" data-anchor-id="viitteet">Viitteet</h2>
+<section id="mitä-tämä-tarkoittaa" class="level2">
+<h2 class="anchored" data-anchor-id="mitä-tämä-tarkoittaa">Mitä tämä tarkoittaa?</h2>
+<p>Taloustieteen viesti on lopulta nöyrä mutta tärkeä: emme tiedä varmasti, kumpaan ääripäähän päädymme. Mutta molemmat skenaariot — nopeutuva kasvu ja “business as usual” — ovat vaikutuksiltaan valtavia. Kuten Jones toteaa, hän odottaa AI:n vaikutusten olevan lopulta paljon suurempia kuin internetin, kenties yli kymmenkertaisia, mutta puolen vuosisadan aikajänteellä.</p>
+<p>Muskin ja Karpathyn maailma ei ole ristiriidassa tämän kanssa. Se on lähikuva etulinjasta, jossa eksponentiaalinen muutosvauhti on konkreettista ja hätkähdyttävää. Taloustieteen tehtävä on muistuttaa, että etulinja ei ole koko talous. Pullonkaulat, diffuusioviiveet ja täydentävyydet muokkaavat sitä, miten teknologinen potentiaali lopulta muuttuu elintasoksi.</p>
+<p>Ehkä paras tapa hahmottaa tilannetta on Jonesin suosikkikaavio: Yhdysvaltain reaalinen BKT henkeä kohti viimeiseltä 150 vuodelta — tasainen 2 prosentin vuosikasvu läpi sähköistyksen, puolijohteiden ja internetin. Jokainen näistä oli mullistava. Yksikään ei muuttanut kasvuvauhtia pysyvästi. Tekoäly voi olla erilainen — onhan älykkyyden automatisointi laadullisesti eri asia kuin fyysisen työn automatisointi. Mutta sen osoittaa data aikanaan, eivät twiitit.</p>
+<hr>
+<p><strong>Lähteet:</strong></p>
 <ul>
-<li>Baicker, K., Cutler, D. &amp; Song, Z. (2010). Workplace wellness programs can generate savings. <em>Health Affairs</em>, 29(2), 304–311.</li>
-<li>Jones, D., Molitor, D. &amp; Reif, J. (2019). What do workplace wellness programs do? Evidence from the Illinois Workplace Wellness Study. <em>The Quarterly Journal of Economics</em>, 134(4), 1747–1791.</li>
-<li>Rongen, A. ym. (2013). Workplace health promotion: A meta-analysis of effectiveness. <em>American Journal of Preventive Medicine</em>, 44(4), 406–415.</li>
+<li>Amodei, D. (2024). “Machines of Loving Grace: How AI Could Transform the World for the Better.” <a href="https://darioamodei.com/machines-of-loving-grace">darioamodei.com</a>.</li>
+<li>Epoch AI (2025). “Data on AI Models.” <a href="https://epochai.org/data/notable-ai-models">epochai.org</a>.</li>
+<li>Jones, C.I. (2024). “The AI Dilemma: Growth versus Existential Risk.” <em>American Economic Review: Insights</em>, 6(4), 575–590.</li>
+<li>Jones, C.I. (2025). “How Much Should We Spend to Reduce A.I.’s Existential Risk?” NBER Working Paper 33602.</li>
+<li>Jones, C.I. (2026). “A.I. and Our Economic Future.” Tulossa <em>Journal of Economic Perspectives</em> -lehdessä.</li>
+<li>Jones, C.I. &amp; Tonetti, C. (2026). “Past Automation and Future A.I.: How Weak Links Tame the Growth Explosion.” Julkaisematon käsikirjoitus.</li>
+<li>METR (2025). “Measuring AI Ability to Complete Long Tasks.” <a href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/">metr.org</a>.</li>
+<li>Nordhaus, W.D. (2021). “Are We Approaching an Economic Singularity?” <em>American Economic Journal: Macroeconomics</em>, 13(1), 299–332.</li>
+<li>Musk, E. &amp; Karpathy, A. (2026). X/Twitter-keskustelu, helmikuu 2026.</li>
 </ul>
-
 
 
 </section>

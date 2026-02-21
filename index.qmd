@@ -1,5 +1,5 @@
 ---
-title: "Talousblogi"
+title: "Incentive Lens"
 listing:
   contents: posts
   sort: "date desc"

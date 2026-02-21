@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/ai-singulariteetti/index.html",
+      "/posts/ruoka/index.html",
       "/posts/tyohyvinvointiedut/index.html"
     ]
   }
