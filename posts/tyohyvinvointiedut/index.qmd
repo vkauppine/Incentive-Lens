@@ -1,7 +1,7 @@
 ---
 title: "Ovatko työhyvinvointiedut hukkaan heitettyä rahaa?"
 subtitle: "Taloustieteellinen näkökulma liikuntaetuihin, työsuhdepyöriin ja virkistyspäiviin"
-date: "2025-02-17"
+date: "2026-02-17"
 author: "Vesa"
 categories: [taloustiede, työelämä, työhyvinvointi]
 description: "Työterveyslääkäri Eira Roos ehdottaa Ylellä, että liikuntaedut ja työhyvinvointipäivät pitäisi räjäyttää. Roosin kliininen kokemus on arvokas, mutta taloustieteellisesti asia on monimutkaisempi kuin dikotomia antaa ymmärtää."
