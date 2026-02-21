@@ -4,7 +4,7 @@ subtitle: "Miten kaupunkivaltio rakensi yhden maailman vauraimmista talouksista 
 author: "Vesa"
 date: "2026-02-21"
 categories: [taloustiede, kehitystalous, Singapore]
-image: ""
+image: "pic.jpg"
 format:
   html:
     toc: true
