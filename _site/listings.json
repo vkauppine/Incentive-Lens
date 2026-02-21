@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/singapore/index.html",
       "/posts/ai-singulariteetti/index.html",
       "/posts/ruoka/index.html",
       "/posts/tyohyvinvointiedut/index.html"

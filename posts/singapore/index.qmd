@@ -2,7 +2,7 @@
 title: "Singapore: tehokas selviytymiskone"
 subtitle: "Miten kaupunkivaltio rakensi yhden maailman vauraimmista talouksista — ja mitä se maksoi"
 author: "Vesa"
-date: "2025-02-21"
+date: "2026-02-21"
 categories: [taloustiede, kehitystalous, Singapore]
 image: ""
 format:
@@ -189,29 +189,43 @@ Singapore käyttää aktiivista työperäistä maahanmuuttoa talouden joustavuud
 
 Makrotaloudellisesti tämä pitää palkkainflaation kurissa, nostaa potentiaalista BKT:tä ja lisää talouden joustavuutta suhdannevaihteluissa. Mutta se myös luo kaksoistyömarkkinan, jossa oikeudet ja palkkatasot eroavat dramaattisesti kansalaisuuden perusteella.
 
-Katukuvassa tämä näkyy välittömästi. Bangladeshilaiset ja intialaiset rakennustyöläiset asuvat teollisuusalueiden asuntoloissa — tarkoitukseen rakennetuissa betonitorneissa, varastoista muunnetuissa majoitustiloissa tai työmaiden väliaikaisparakeissa — ja kulkevat työmaalle kuorma-autojen lavoilla. Muutaman kilometrin päässä CBD:n pilvenpiirtäjissä työskentelevät toisenlaiset "vierastyöläiset" — lontoolaiset pankkiirit ja sanfranciscolaiset ohjelmistokehittäjät — joiden Employment Pass avaa tien pysyvään oleskelulupaan ja lopulta kansalaisuuteen. Molemmat ovat siirtotyöläisiä. Heidän Singaporensa eivät ole sama maa. Eriarvoisuus ei ole järjestelmän virhe, vaan se on ominaisuus.
+Katukuvassa tämä näkyy välittömästi. Bangladeshilaiset ja intialaiset rakennustyöläiset asuvat teollisuusalueiden asuntoloissa — tarkoitukseen rakennetuissa betonitorneissa, varastoista muunnetuissa majoitustiloissa tai työmaiden väliaikaisparakeissa — ja kulkevat työmaalle kuorma-autojen lavoilla. Muutaman kilometrin päässä CBD:n pilvenpiirtäjissä työskentelevät toisenlaiset "vierastyöläiset" — lontoolaiset pankkiirit ja sanfranciscolaiset ohjelmistokehittäjät — joiden Employment Pass avaa tien pysyvään oleskelulupaan ja lopulta kansalaisuuteen. Molemmat ovat siirtotyöläisiä. Heidän Singaporensa eivät ole sama maa. Eriarvoisuus ei ole järjestelmän virhe, vaan sen ominaisuus.
 
 ## Eriarvoisuus: kasvua ensin, uudelleenjakoa ehkä myöhemmin
 
+
+
 ```{r}
 #| label: fig-gini
-#| fig-cap: "Gini-kerroin Singaporessa ja vertailumaissa. Lähde: Maailmanpankki (saatavuus vaihtelee vuosittain)."
+#| fig-cap: "Gini-kerroin Singaporessa ja vertailumaissa. Lähteet: Maailmanpankki (WDI), Singapore Department of Statistics."
 
-gini_data <- WDI(
-  country = c("SG", "FI", "KR", "US", "MY"),
+sg_gini <- tibble(
+  year = 2000:2023,
+  gini = c(44.2, 45.4, 45.4, 45.3, 45.6, 46.8, 47.0, 47.2, 47.4, 47.1,
+           47.2, 47.3, 47.3, 46.3, 46.4, 46.3, 45.8, 45.9, 45.8, 45.2,
+           45.2, 44.4, 43.7, 43.3),
+  country_fi = "Singapore"
+)
+
+gini_other <- WDI(
+  country = c("FI", "KR", "US", "MY"),
   indicator = "SI.POV.GINI",
-  start = 2000,
-  end = 2023
+  start = 2000, end = 2023
 ) |>
   rename(gini = SI.POV.GINI) |>
   filter(!is.na(gini)) |>
   mutate(country_fi = case_when(
-    iso2c == "SG" ~ "Singapore",
     iso2c == "FI" ~ "Suomi",
     iso2c == "KR" ~ "Etelä-Korea",
     iso2c == "US" ~ "Yhdysvallat",
     iso2c == "MY" ~ "Malesia"
-  ))
+  )) |>
+  select(year, gini, country_fi)
+
+gini_data <- bind_rows(gini_other, sg_gini)
+
+# Debug — poista kun toimii
+gini_data |> count(country_fi)
 
 ggplot(gini_data, aes(x = year, y = gini, color = country_fi)) +
   geom_line(linewidth = 1) +
@@ -227,7 +241,7 @@ ggplot(gini_data, aes(x = year, y = gini, color = country_fi)) +
     title = "Eriarvoisuus: Singapore muiden joukossa",
     subtitle = "Gini-kerroin (0 = täysi tasa-arvo, 100 = täysi eriarvoisuus)",
     x = NULL, y = NULL, color = NULL,
-    caption = "Lähde: World Bank, World Development Indicators\nHuom: Singaporen virallinen Gini (tulonsiirtojen jälkeen) oli 0.371 vuonna 2023."
+    caption = "Lähteet: World Bank (WDI); Singapore Department of Statistics\nHuom: Singaporen luvut ennen tulonsiirtoja. Tulonsiirtojen jälkeen 0.371 (2023)."
   ) +
   theme(legend.position = "bottom")
 ```
