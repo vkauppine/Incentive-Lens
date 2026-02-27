@@ -40,7 +40,7 @@ Charles I. Jones esittää tuoreemmassa analyysissaan kaksi ääriskenaariota: t
 
 ![USA:n reaalinen BKT henkeä kohti 1870–2024. Logaritmisella asteikolla aikasarja on lähes suora viiva: 2 prosentin vuosikasvu, jota sähkö, transistori, mikrosiru eikä internet muuttanut pysyvästi. Jonesin "suosikkikaavio" tiivistää business as usual -skenaarion ytimen: ehkä AI on vain seuraava GPT, joka pitää kasvun raiteillaan.](bkt_trendi.png){#fig-bkt}
 
-Jonesin *weak links* -kehikko lähtee ajatuksesta, että tuotanto koostuu toisiaan täydentävistä tehtävistä. Kokonaistuotanto määräytyy heikoimman lenkin mukaan. Yksittäisen tehtävän täydellinen automaatio ei siis välttämättä muuta kokonaiskasvua merkittävästi, jos muut vaiheet pysyvät rajoitteina.
+Jones ja Tonetti (2026) rakentavat Acemoglun ja Restrepoin (2018) tehtäväpohjaisen automaatiokehikon päälle, jossa työpaikat koostuvat heterogeenisista, toisiaan täydentävistä tehtävistä. Heidän weak links -kehikkonsa lähtee ajatuksesta, että kokonaistuotanto määräytyy heikoimman lenkin mukaan.
 
 Ilmiö on tuttu taloustieteessä Baumolin tautina: palvelusektorin hinnat nousevat suhteessa teollisuuteen, koska palvelutehtävien tuottavuus kasvaa hitaammin. Weak links -kehikossa sama logiikka yleistyy — hitaimmin automatisoituvat tehtävät määräävät kokonaiskasvun tahdin.
 
@@ -57,8 +57,6 @@ Jones kuvaa AI-kilpajuoksun dynamiikkaa vangin dilemmana. Jokainen AI-laboratori
 ## Teknologinen etulinja
 
 Arviot tekoälyn koulutuksessa käytetyn efektiivisen laskennan kasvusta viittaavat erittäin nopeaan panosten kasvuun: Epoch AI:n (2025) kokoaman datan mukaan koulutukseen käytetty laskentateho on kasvanut noin 4–5 kertaluokkaa vuosikymmenessä. Samoin ohjelmistotehtäviä mittaavat benchmarkit osoittavat mallien suorituskyvyn parantuneen nopeasti — METR:n (2025) pitkäkestoisten tehtävien mittauksissa mallien suorituskyky on karkeasti kaksinkertaistunut noin seitsemän kuukauden välein. Nämä mittarit kuvaavat kuitenkin teknistä kyvykkyyttä, eivät suoraan taloudellista tuottavuutta. Benchmark-suorituskyvyn eksponentiaalinen kasvu ei välttämättä tarkoita vastaavaa kasvua taloudellisessa arvonluonnissa.
-
-Arviot tekoälyn koulutuksessa käytetyn efektiivisen laskennan kasvusta viittaavat erittäin nopeaan panosten kasvuun. Samoin ohjelmistotehtäviä mittaavat benchmarkit osoittavat mallien suorituskyvyn parantuneen nopeasti. Nämä mittarit kuvaavat kuitenkin teknistä kyvykkyyttä, eivät suoraan taloudellista tuottavuutta. Benchmark-suorituskyvyn eksponentiaalinen kasvu ei välttämättä tarkoita vastaavaa kasvua taloudellisessa arvonluonnissa.
 
 Rekursiivisen itseparannuksen mahdollisuus — tekoäly, joka auttaa kehittämään parempaa tekoälyä — muodostaa teoreettisesti merkittävän mutta edelleen epävarman kehityspolun.
 
@@ -85,6 +83,7 @@ Teknologinen etulinja näyttää nopean muutoksen, mutta koko talouden tasolla v
 
 **Lähteet:**
 
+- Acemoglu, D. & Restrepo, P. (2018). "The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment." American Economic Review, 108(6), 1488–1542.
 - Amodei, D. (2024). "Machines of Loving Grace: How AI Could Transform the World for the Better." [darioamodei.com](https://darioamodei.com/machines-of-loving-grace).
 - Epoch AI (2025). "Data on AI Models." [epochai.org](https://epochai.org/data/notable-ai-models).
 - Jones, C.I. (2024). "The AI Dilemma: Growth versus Existential Risk." *American Economic Review: Insights*, 6(4), 575–590.
