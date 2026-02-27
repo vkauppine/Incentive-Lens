@@ -5,50 +5,51 @@ date: 2026-02-24
 categories: [rahapolitiikka, kannustimet, tekoäly, fed]
 ---
 
-## Haukkasta kyyhkyksi yhdessä nimityksessä
+## Haukasta kyyhkyksi yhdessä nimityksessä
 
-Kevin Warsh on mielenkiintoinen tapaus. Vuosina 2006–2011 hän oli Fedin tunnetuimpia inflaatiahaukkoja: vastusti määrällistä elvytystä, kritisoi Ben Bernanken stimuluspolitiikkaa ja lopulta erosi, koska piti keskuspankin taseen paisuttamista vaarallisena. Warsh oli mies, joka vuoden 2008 finanssikriisin keskellä — kun Bear Stearns oli juuri romahtanut — sanoi kollegoilleen, että inflaatioriskit ovat talouden suurempi uhka.
+evin Warsh on rahapolitiikan historiassa tunnettu inflaatiahaukkana. Fedin johtokunnan jäsenenä vuosina 2006–2011 hän vastusti määrällistä elvytystä, kritisoi Ben Bernanken linjaa ja erosi lopulta, koska piti keskuspankin taseen kasvattamista riskialttiina. Finanssikriisin alkuvaiheessa hän varoitti inflaatiosta aikana, jolloin suurin osa kollegoista pelkäsi deflaatiota.
 
-Nyt sama Warsh on Donald Trumpin valinta Fedin seuraavaksi puheenjohtajaksi. Ja hänen viestinsä on täysin erilainen: korot alas, koska tekoäly muuttaa kaiken.
+Nyt Warsh on Donald Trumpin valinta Fedin seuraavaksi puheenjohtajaksi, ja hänen viestinsä on muuttunut: korkoja tulisi laskea, koska tekoäly kiihdyttää tuottavuutta ja hillitsee inflaatiota.
 
-Mitä tapahtui?
+Muutos ei ole pieni, sillä se koskee rahapolitiikan perusasetelmaa.
 
-## AI on "elämämme tuottavin aalto"
 
-Warshin argumentti on tämä: tekoäly on "rakenteellisesti disinflatoorinen" — se kasvattaa tuottavuutta niin paljon, että talous voi kasvaa nopeasti ilman inflaation kiihtymistä. Tästä seuraa, että keskuspankin ei tarvitse pitää korkoja korkealla. Hän viittaa suoraan Alan Greenspaniin, joka 1990-luvun lopulla vastusti kollegojensa vaatimuksia koronnostoista, koska hän uskoi internetin käynnistämään tuottavuusbuumiin. Greenspanin arvio osoittautui oikeaksi: tuottavuus kasvoi noin kolme prosenttia vuodessa 1996–2003, kun edellisten kahden vuosikymmenen vauhti oli puolet siitä.
+## AI tuottavuusargumenttina
 
-Warshin rinnastus kuulostaa houkuttelevalta. Mutta se on myös erittäin valikoiva.
+Warshin mukaan tekoäly on rakenteellisesti disinflatoorinen teknologia. Jos tuottavuus kasvaa nopeasti, talous voi laajentua ilman hintapaineita, eikä keskuspankin tarvitse pitää korkoja korkealla. Hän vertaa tilannetta Alan Greenspanin päätöksiin 1990-luvun lopulla, jolloin Fed ei kiristänyt rahapolitiikkaa internet-talouden alkuvaiheessa.
 
-## Greenspan-analogia ontuu
+Tuolloin työn tuottavuus Yhdysvalloissa kasvoi noin kolme prosenttia vuodessa vuosina 1996–2003, selvästi nopeammin kuin edeltävinä vuosikymmeninä. Greenspanin varovaisuus osoittautui jälkikäteen perustelluksi.
 
-Kriitikot ovat nostaneet esiin useita ongelmia Warshin vertauksessa.
+Vertaus on kuitenkin ongelmallinen useasta syystä.
 
-**Ensinnäkin, Greenspan ei laskenut korkoja tuottavuuden perusteella.** Hän *pidättäytyi nostamasta* niitä. Ero on olennainen. Warsh haluaa aktiivisesti laskea korkoja vedoten tuottavuuskasvuun, jota ei vielä näy makrodatassa. Paul Krugman on huomauttanut tästä suoraan, ja Bank of American Aditya Bhave on todennut saman: Greenspan ei koskaan laskenut korkoja tuottavuuteen vedoten.
+## Greenspan-analogia ei kanna pitkälle
 
-**Toiseksi, 1990-luvun ympäristö oli täysin erilainen.** Inflaatiota hillitsivät tuolloin globalisaation syveneminen, maahanmuuton kasvu ja Clintonin hallinnon budjettiylijäämät. Nyky-Yhdysvalloissa kaikki nämä voimat toimivat päinvastaiseen suuntaan: tullit ovat korkeimmillaan vuosikymmeniin, maahanmuuttoa kiristetään ja budjettivaje kasvaa. Deutsche Bankin Matthew Luzzetti on tiivistänyt: olosuhteet ovat niin erilaiset, ettei ennaltaehkäisevä korkojen lasku ole perusteltua.
+Ensimmäinen ero koskee politiikkatoimia. Greenspan ei laskenut korkoja tuottavuusodotusten vuoksi, vaan pidättäytyi nostamasta niitä. Warshin linja edellyttäisi aktiivista keventämistä tilanteessa, jossa tuottavuusvaikutukset eivät vielä näy makrodatassa. Paul Krugman ja Bank of American Aditya Bhave ovat korostaneet tätä eroa.
 
-**Kolmanneksi, tuottavuuskasvu voi tarkoittaa *korkeampia* korkoja.** Clevelandin Fedin Beth Hammack — jolla on äänioikeus tänä vuonna — on argumentoinut, että vahvempi tuottavuus voi nostaa niin sanottua neutraalia korkotasoa, eli tasoa jolla rahapolitiikka ei elvytä eikä kiristä. Tämä tarkoittaa, että talous kestää korkeammat korot. Fedin varapuheenjohtaja Philip Jefferson on lisännyt toisen ulottuvuuden: vaikka AI pitkällä aikavälillä kasvattaisikin tuotantokapasiteettia, lyhyellä aikavälillä AI-investointien — datakeskusten, muistisirujen, sähkönkulutuksen — aiheuttama kysyntäpaine voi *nostaa* inflaatiota. Krugman on huomauttanut, että muistipiirit ovat jo kallistuneet kolminkertaisiksi datakeskusten kysynnän vuoksi.
+Toinen ero liittyy talousympäristöön. 1990-luvulla inflaatiota hillitsivät globalisaation syveneminen, kasvava työvoiman tarjonta ja Yhdysvaltojen budjettiylijäämät. Nykytilanne on lähes päinvastainen: kauppapolitiikka on kiristynyt, maahanmuutto vähentynyt ja julkinen alijäämä kasvaa. Deutsche Bankin Matthew Luzzetti on huomauttanut, että olosuhteet tekevät ennaltaehkäisevästä koronlaskusta vaikeasti perusteltavan.
 
-Financial Timesin ja Chicagon yliopiston tuore kysely 45 johtavalta ekonomistilta tukee skeptikkoja: lähes 60 prosenttia arvioi, ettei AI vaikuta inflaatioon tai neutraaliin korkoon merkittävästi seuraavan kahden vuoden aikana. Kolmannes vastaajista uskoo AI:n jopa nostavan neutraalia korkotasoa.
+Kolmanneksi tuottavuuden kiihtyminen ei välttämättä tarkoita matalampia korkoja. Clevelandin Fedin Beth Hammack on argumentoinut, että vahvempi tuottavuus voi nostaa neutraalia korkotasoa — tasoa, jolla rahapolitiikka ei elvytä eikä kiristä. Tällöin talous yksinkertaisesti kestää korkeammat korot. Fedin varapuheenjohtaja Philip Jefferson on lisäksi korostanut lyhyen aikavälin investointipainetta: datakeskukset, sirutuotanto ja energiankulutus voivat lisätä kysyntää ja nostaa inflaatiota ennen mahdollisia tuottavuushyötyjä.
 
-## Incentive lens: kuka hyötyy mistäkin argumentista?
+AI-investointien vaikutukset näkyvät jo tietyissä komponenteissa. Muistisirujen hinnat ovat nousseet voimakkaasti datakeskuskysynnän vuoksi.
 
-Tähän asti kyse on ollut taloustieteellisestä debatista. Mutta incentive lens pakottaa kysymään toisenlaisen kysymyksen: *miksi kukin osapuoli argumentoi juuri näin?*
+Financial Timesin ja Chicagon yliopiston ekonomistikysely tukee varovaisempaa tulkintaa: enemmistö vastaajista ei odota tekoälyn vaikuttavan merkittävästi inflaatioon tai neutraaliin korkoon lähivuosina, ja osa arvioi vaikutuksen jopa nostavan korkotasoa.
 
-Tarkastellaan Warshin kannustinrakennetta. Trump on sanonut suoraan haluavansa Fedin johtajan, joka laskee korkoja. Warsh ei olisi saanut nimitystä ilman tätä kantaa. Renaissance Macro Research tiivisti asian X:ssä: "Kevin Warsh on ollut rahapolitiikan haukka koko uransa ajan. Hänen kyyhkymäisyytensä tänään johtuu käytännöllisyydestä." Eli argumentin suunta — korot alas — oli tiedossa ennen kuin löydettiin teoreettinen perustelu sille.
+## Kannustinrakenteet ja argumentointi
 
-Tämä ei välttämättä tarkoita, että Warshin argumentti on väärä. Mutta se tarkoittaa, että sitä pitäisi arvioida eri tavalla kuin argumenttia, jonka esittäjällä ei ole henkilökohtaista panosta lopputuloksessa. Kun inflaatiahaukka kääntyy kyyhkyksi täsmälleen sillä hetkellä kun presidentti etsii kyyhkyä Fedin johtoon, Occamin partaveitsi viittaa kannustimiin eikä uuteen evidenssiin.
+Taloustieteellinen kiista ei yksin selitä keskustelua. Warshin nimitys tapahtui tilanteessa, jossa Trump on avoimesti toivonut Fedin laskevan korkoja. Rahapoliittinen linja oli siis poliittisesti määritelty ennen talousteoreettista perustelua.
 
-Sama logiikka toimii myös toiseen suuntaan. Fedin nykyisten virkamiesten — Hammackin, Jeffersonin, Barrin — kannustimissa on omia jännitteitään. He puolustavat institutionaalista itsenäisyyttä ja nykyistä politiikkalinjaa. Heidän skeptisyytensä AI-tuottavuutta kohtaan voi olla perusteltua, mutta se palvelee myös heidän asemaansa: jos AI todella oikeuttaa korkojen laskun, heidän varovaisuutensa näyttää jälkikäteen virheeltä.
+Renaissance Macro Research tiivisti tilanteen toteamalla, että Warshin uran haukkamainen linja ja nykyinen kyyhkymäisyys ovat vaikeasti erotettavissa nimityksen poliittisesta kontekstista. Argumentti ei välttämättä ole väärä, mutta sen arviointi muuttuu, kun esittäjällä on selkeä institutionaalinen kannustin.
 
-Entä valtiovarainministeri Bessent, joka tukee Warshin narratiivia? Hallituksen kannustinrakenne on selvä: halvempi raha ennen välivaaleja.
+Sama pätee myös kriitikoihin. Fedin nykyjohto puolustaa institutionaalista jatkuvuutta ja keskuspankin riippumattomuutta. Varovainen suhtautuminen AI-tuottavuusargumenttiin tukee samalla nykyistä politiikkalinjaa. Kannustimet eivät tee analyysistä virheellistä, mutta ne vaikuttavat siihen, millaisia riskejä pidetään uskottavina.
 
-## Miksi tämä on tärkeää?
+Myös finanssipolitiikan puolella intressit ovat ilmeiset: matalammat korot helpottaisivat velkarahoitusta ja tukisivat talouskasvua poliittisesti herkällä hetkellä.
 
-Warshin tapaus on lähes oppikirjaesimerkki siitä, miten kannustinrakenteet muovaavat talouspoliittista argumentointia. Kyse ei ole siitä, onko AI:lla tuottavuusvaikutuksia — todennäköisesti on, joskin aikajänne ja suuruusluokka ovat avoimia kysymyksiä. Kyse on siitä, kuka käyttää tätä epävarmuutta ja mihin tarkoitukseen.
+## Miksi keskustelu on merkittävä
 
-McKinseyn marraskuussa 2025 julkaiseman raportin mukaan 88 prosenttia organisaatioista käyttää AI:ta jossain funktiossa, mutta vain yksi prosentti on saavuttanut todellisen AI-kypsyyden. Tuottavuusvoitot ovat todellisia mutta keskittyvät yksittäisiin tehtäviin — ne eivät vielä näy makrotalouden tuottavuustilastoissa tavalla, joka oikeuttaisi rahapolitiikan suunnanmuutoksen.
+Kysymys ei lopulta ole siitä, lisääkö tekoäly tuottavuutta — todennäköisesti lisää — vaan aikataulusta ja mittaluokasta. Rahapolitiikka reagoi toteutuneeseen inflaatioon ja havaittavaan kapasiteettiin, ei teknologisiin odotuksiin.
 
-Silti Warsh kehottaa Fediä tekemään "uskonhypyn" ja toimimaan anekdoottien perusteella ennen kuin data vahvistaa narratiivin. Tämä on rohkea kannanotto — tai harkittu poliittinen strategia. Tai molempia.
+McKinseyn vuoden 2025 raportin mukaan suurin osa organisaatioista käyttää tekoälyä jossakin toiminnossa, mutta vain pieni osa on saavuttanut laajamittaisen käyttöönoton. Tuottavuushyödyt näkyvät toistaiseksi yksittäisissä tehtävissä, eivät koko talouden tasolla.
 
-Seuraavan kerran kun kuulet jonkun argumentoivan, että AI muuttaa kaiken ja siksi politiikkaa X pitäisi muuttaa suuntaan Y, kysy: kuka hyötyy, jos Y toteutuu? Vastaus kertoo argumentista usein enemmän kuin itse argumentti.
+Warshin ehdotus edellyttää politiikkamuutosta ennen kuin data vahvistaa vaikutukset. Se voidaan tulkita optimistiseksi ennakoinniksi tai strategiseksi riskinotoksi. Molemmat ovat mahdollisia samanaikaisesti.
+
+Rahapoliittisessa keskustelussa teknologia toimii usein argumenttina epävarmuuden keskellä. Siksi pelkkä väite tekoälyn mullistavuudesta ei vielä kerro, millainen politiikka on perusteltua — mutta se kertoo usein, millaista politiikkaa joku haluaa.

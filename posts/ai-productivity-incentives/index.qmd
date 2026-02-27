@@ -4,7 +4,7 @@ subtitle: "Kannustinongelma, ei teknologiaongelma"
 author: "Vesa"
 date: "2026-02-27"
 categories: [taloustiede, AI, tuottavuus, kannustimet]
-draft: true
+draft: false
 ---
 
 Tekoälyyn investoidaan satoja miljardeja, ja yritysjohtajat odottavat tuottavuusloikkaa. Toistaiseksi data kertoo maltillisemmasta kehityksestä.
@@ -27,7 +27,7 @@ Nobelisti Daron Acemoglu tarjoaa taloustieteeseen pohjaavan selityksen. Hänen v
 Eloundou et al. (2023) arvioivat, että noin 20 % USA:n työtehtävistä on AI:n ulottuvilla. Svanberg et al. (2024) tarkentavat, että näistä tehtävistä vain 23 % voidaan kannattavasti automatisoida 10 vuoden sisällä. Kokeellisten tutkimusten perusteella keskimääräinen työkustannussäästö on noin 27 %, mikä toimialojen työvoimaosuuksilla muunnettuna tarkoittaa noin 14 % kokonaiskustannussäästöä.
 Tällöin:
 $$
-\text{TFP-kasvu} = 0{,}046 \times 0{,}144 \approx 0{,}66;%;\text{(10 vuodessa)}
+\text{TFP-kasvu} = 0{,}046 \times 0{,}144 \approx 0{,}66\;\%\;\text{(10 vuodessa)}
 $$
 eli noin 0,06 % vuodessa. Goldman Sachs ennustaa 1,5 % vuodessa, McKinsey 1,5--3,4 %. Acemoglun arvio on kertaluokkaa pienempi.
 
