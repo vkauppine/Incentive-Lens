@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Kevin Warsh väittää, että tekoäly oikeuttaa korkojen laskun. Mutta argumentin suunta oli tiedossa ennen perustelua.">
 
-<title>Incentive Lens</title>
+<title>Kenen tuottavuusbuumi? Fedin uuden johtajan AI-argumentin kannustinrakenne – Incentive Lens</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +24,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,77 +69,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Hae"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Incentive Lens</span>
     </a>
   </div>
@@ -151,11 +92,11 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">Vesa Kauppinen</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml.com"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../index.xml.com"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -167,176 +108,88 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Kenen tuottavuusbuumi? Fedin uuden johtajan AI-argumentin kannustinrakenne</h1>
+                  <div>
+        <div class="description">
+          Kevin Warsh väittää, että tekoäly oikeuttaa korkojen laskun. Mutta argumentin suunta oli tiedossa ennen perustelua.
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">rahapolitiikka</div>
+                <div class="quarto-category">kannustimet</div>
+                <div class="quarto-category">tekoäly</div>
+                <div class="quarto-category">fed</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+      <div>
+      <div class="quarto-title-meta-heading">Julkaistu</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">24. helmikuuta 2026</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Incentive Lens</h1>
-</div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>Taloustiedettä, dataa ja analyyttistä ajattelua suomalaisesta näkökulmasta.</p>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="cmFoYXBvbGl0aWlra2ElMkNrYW5udXN0aW1ldCUyQ3Rla28lQzMlQTRseSUyQ2ZlZA==" data-listing-date-sort="1771884000000" data-listing-file-modified-sort="1771911656396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="699">
-<div class="thumbnail"><a href="./posts/warsh/index.html" class="no-external">
 
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+<section id="haukkasta-kyyhkyksi-yhdessä-nimityksessä" class="level2">
+<h2 class="anchored" data-anchor-id="haukkasta-kyyhkyksi-yhdessä-nimityksessä">Haukkasta kyyhkyksi yhdessä nimityksessä</h2>
+<p>Kevin Warsh on mielenkiintoinen tapaus. Vuosina 2006–2011 hän oli Fedin tunnetuimpia inflaatiahaukkoja: vastusti määrällistä elvytystä, kritisoi Ben Bernanken stimuluspolitiikkaa ja lopulta erosi, koska piti keskuspankin taseen paisuttamista vaarallisena. Warsh oli mies, joka vuoden 2008 finanssikriisin keskellä — kun Bear Stearns oli juuri romahtanut — sanoi kollegoilleen, että inflaatioriskit ovat talouden suurempi uhka.</p>
+<p>Nyt sama Warsh on Donald Trumpin valinta Fedin seuraavaksi puheenjohtajaksi. Ja hänen viestinsä on täysin erilainen: korot alas, koska tekoäly muuttaa kaiken.</p>
+<p>Mitä tapahtui?</p>
+</section>
+<section id="ai-on-elämämme-tuottavin-aalto" class="level2">
+<h2 class="anchored" data-anchor-id="ai-on-elämämme-tuottavin-aalto">AI on “elämämme tuottavin aalto”</h2>
+<p>Warshin argumentti on tämä: tekoäly on “rakenteellisesti disinflatoorinen” — se kasvattaa tuottavuutta niin paljon, että talous voi kasvaa nopeasti ilman inflaation kiihtymistä. Tästä seuraa, että keskuspankin ei tarvitse pitää korkoja korkealla. Hän viittaa suoraan Alan Greenspaniin, joka 1990-luvun lopulla vastusti kollegojensa vaatimuksia koronnostoista, koska hän uskoi internetin käynnistämään tuottavuusbuumiin. Greenspanin arvio osoittautui oikeaksi: tuottavuus kasvoi noin kolme prosenttia vuodessa 1996–2003, kun edellisten kahden vuosikymmenen vauhti oli puolet siitä.</p>
+<p>Warshin rinnastus kuulostaa houkuttelevalta. Mutta se on myös erittäin valikoiva.</p>
+</section>
+<section id="greenspan-analogia-ontuu" class="level2">
+<h2 class="anchored" data-anchor-id="greenspan-analogia-ontuu">Greenspan-analogia ontuu</h2>
+<p>Kriitikot ovat nostaneet esiin useita ongelmia Warshin vertauksessa.</p>
+<p><strong>Ensinnäkin, Greenspan ei laskenut korkoja tuottavuuden perusteella.</strong> Hän <em>pidättäytyi nostamasta</em> niitä. Ero on olennainen. Warsh haluaa aktiivisesti laskea korkoja vedoten tuottavuuskasvuun, jota ei vielä näy makrodatassa. Paul Krugman on huomauttanut tästä suoraan, ja Bank of American Aditya Bhave on todennut saman: Greenspan ei koskaan laskenut korkoja tuottavuuteen vedoten.</p>
+<p><strong>Toiseksi, 1990-luvun ympäristö oli täysin erilainen.</strong> Inflaatiota hillitsivät tuolloin globalisaation syveneminen, maahanmuuton kasvu ja Clintonin hallinnon budjettiylijäämät. Nyky-Yhdysvalloissa kaikki nämä voimat toimivat päinvastaiseen suuntaan: tullit ovat korkeimmillaan vuosikymmeniin, maahanmuuttoa kiristetään ja budjettivaje kasvaa. Deutsche Bankin Matthew Luzzetti on tiivistänyt: olosuhteet ovat niin erilaiset, ettei ennaltaehkäisevä korkojen lasku ole perusteltua.</p>
+<p><strong>Kolmanneksi, tuottavuuskasvu voi tarkoittaa <em>korkeampia</em> korkoja.</strong> Clevelandin Fedin Beth Hammack — jolla on äänioikeus tänä vuonna — on argumentoinut, että vahvempi tuottavuus voi nostaa niin sanottua neutraalia korkotasoa, eli tasoa jolla rahapolitiikka ei elvytä eikä kiristä. Tämä tarkoittaa, että talous kestää korkeammat korot. Fedin varapuheenjohtaja Philip Jefferson on lisännyt toisen ulottuvuuden: vaikka AI pitkällä aikavälillä kasvattaisikin tuotantokapasiteettia, lyhyellä aikavälillä AI-investointien — datakeskusten, muistisirujen, sähkönkulutuksen — aiheuttama kysyntäpaine voi <em>nostaa</em> inflaatiota. Krugman on huomauttanut, että muistipiirit ovat jo kallistuneet kolminkertaisiksi datakeskusten kysynnän vuoksi.</p>
+<p>Financial Timesin ja Chicagon yliopiston tuore kysely 45 johtavalta ekonomistilta tukee skeptikkoja: lähes 60 prosenttia arvioi, ettei AI vaikuta inflaatioon tai neutraaliin korkoon merkittävästi seuraavan kahden vuoden aikana. Kolmannes vastaajista uskoo AI:n jopa nostavan neutraalia korkotasoa.</p>
+</section>
+<section id="incentive-lens-kuka-hyötyy-mistäkin-argumentista" class="level2">
+<h2 class="anchored" data-anchor-id="incentive-lens-kuka-hyötyy-mistäkin-argumentista">Incentive lens: kuka hyötyy mistäkin argumentista?</h2>
+<p>Tähän asti kyse on ollut taloustieteellisestä debatista. Mutta incentive lens pakottaa kysymään toisenlaisen kysymyksen: <em>miksi kukin osapuoli argumentoi juuri näin?</em></p>
+<p>Tarkastellaan Warshin kannustinrakennetta. Trump on sanonut suoraan haluavansa Fedin johtajan, joka laskee korkoja. Warsh ei olisi saanut nimitystä ilman tätä kantaa. Renaissance Macro Research tiivisti asian X:ssä: “Kevin Warsh on ollut rahapolitiikan haukka koko uransa ajan. Hänen kyyhkymäisyytensä tänään johtuu käytännöllisyydestä.” Eli argumentin suunta — korot alas — oli tiedossa ennen kuin löydettiin teoreettinen perustelu sille.</p>
+<p>Tämä ei välttämättä tarkoita, että Warshin argumentti on väärä. Mutta se tarkoittaa, että sitä pitäisi arvioida eri tavalla kuin argumenttia, jonka esittäjällä ei ole henkilökohtaista panosta lopputuloksessa. Kun inflaatiahaukka kääntyy kyyhkyksi täsmälleen sillä hetkellä kun presidentti etsii kyyhkyä Fedin johtoon, Occamin partaveitsi viittaa kannustimiin eikä uuteen evidenssiin.</p>
+<p>Sama logiikka toimii myös toiseen suuntaan. Fedin nykyisten virkamiesten — Hammackin, Jeffersonin, Barrin — kannustimissa on omia jännitteitään. He puolustavat institutionaalista itsenäisyyttä ja nykyistä politiikkalinjaa. Heidän skeptisyytensä AI-tuottavuutta kohtaan voi olla perusteltua, mutta se palvelee myös heidän asemaansa: jos AI todella oikeuttaa korkojen laskun, heidän varovaisuutensa näyttää jälkikäteen virheeltä.</p>
+<p>Entä valtiovarainministeri Bessent, joka tukee Warshin narratiivia? Hallituksen kannustinrakenne on selvä: halvempi raha ennen välivaaleja.</p>
+</section>
+<section id="miksi-tämä-on-tärkeää" class="level2">
+<h2 class="anchored" data-anchor-id="miksi-tämä-on-tärkeää">Miksi tämä on tärkeää?</h2>
+<p>Warshin tapaus on lähes oppikirjaesimerkki siitä, miten kannustinrakenteet muovaavat talouspoliittista argumentointia. Kyse ei ole siitä, onko AI:lla tuottavuusvaikutuksia — todennäköisesti on, joskin aikajänne ja suuruusluokka ovat avoimia kysymyksiä. Kyse on siitä, kuka käyttää tätä epävarmuutta ja mihin tarkoitukseen.</p>
+<p>McKinseyn marraskuussa 2025 julkaiseman raportin mukaan 88 prosenttia organisaatioista käyttää AI:ta jossain funktiossa, mutta vain yksi prosentti on saavuttanut todellisen AI-kypsyyden. Tuottavuusvoitot ovat todellisia mutta keskittyvät yksittäisiin tehtäviin — ne eivät vielä näy makrotalouden tuottavuustilastoissa tavalla, joka oikeuttaisi rahapolitiikan suunnanmuutoksen.</p>
+<p>Silti Warsh kehottaa Fediä tekemään “uskonhypyn” ja toimimaan anekdoottien perusteella ennen kuin data vahvistaa narratiivin. Tämä on rohkea kannanotto — tai harkittu poliittinen strategia. Tai molempia.</p>
+<p>Seuraavan kerran kun kuulet jonkun argumentoivan, että AI muuttaa kaiken ja siksi politiikkaa X pitäisi muuttaa suuntaan Y, kysy: kuka hyötyy, jos Y toteutuu? Vastaus kertoo argumentista usein enemmän kuin itse argumentti.</p>
 
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/warsh/index.html" class="no-external">Kenen tuottavuusbuumi? Fedin uuden johtajan AI-argumentin kannustinrakenne</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/warsh/index.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="./posts/warsh/index.html" class="no-external">
-<p>Kevin Warsh väittää, että tekoäly oikeuttaa korkojen laskun. Mutta argumentin suunta oli tiedossa ennen perustelua.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/warsh/index.html" class="no-external">
-<div class="listing-date">
-24.2.2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="dGFsb3VzdGllZGUlMkNrZWhpdHlzdGFsb3VzJTJDU2luZ2Fwb3Jl" data-listing-date-sort="1771624800000" data-listing-file-modified-sort="1771921390137" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13" data-listing-word-count-sort="2469">
-<div class="thumbnail"><a href="./posts/singapore/index.html" class="no-external">
 
-<img loading="lazy" src="./posts/singapore/pic.jpg" class="thumbnail-image">
+</section>
 
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/singapore/index.html" class="no-external">Singapore: tehokas selviytymiskone</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/singapore/index.html" class="no-external">Miten kaupunkivaltio rakensi yhden maailman vauraimmista talouksista — ja mitä se maksoi</a>
-</div>
-<div class="delink listing-description"><a href="./posts/singapore/index.html" class="no-external">
-Singapore on poikkeus. Pieni kaupunkivaltio ilman luonnonvaroja, joka itsenäistyi vuonna 1965 keskellä poliittista kaaosta — ja jonka BKT asukasta kohden ohitti…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/singapore/index.html" class="no-external">
-<div class="listing-date">
-21.2.2026
-</div>
-<div class="listing-author">
-Vesa
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="dGVrbyVDMyVBNGx5JTJDdGFsb3Vza2FzdnUlMkNzaW5ndWxhcml0ZWV0dGk=" data-listing-date-sort="1771452000000" data-listing-file-modified-sort="1771508871039" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1730">
-<div class="thumbnail"><a href="./posts/ai-singulariteetti/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts\ai-singulariteetti\bkt_trendi.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ai-singulariteetti/index.html" class="no-external">Onko singulariteetti lähellä? Taloustiede vs.&nbsp;teknohype</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/ai-singulariteetti/index.html" class="no-external">Mitä talouskasvumallit kertovat tekoälyn mullistavuudesta — ja mitä ne eivät kerro</a>
-</div>
-<div class="delink listing-description"><a href="./posts/ai-singulariteetti/index.html" class="no-external">
-Elon Musk twiittasi helmikuussa 2026: “Just the very early stages of the singularity. We are currently using much less than a billionth of the power of our Sun.” Samaan…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ai-singulariteetti/index.html" class="no-external">
-<div class="listing-date">
-19.2.2026
-</div>
-<div class="listing-author">
-Vesa
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="dGFsb3VzdGllZGUlMkNydW9rYSUyQ2xvZ2lzdGlpa2th" data-listing-date-sort="1771452000000" data-listing-file-modified-sort="1771645857851" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1515">
-<div class="thumbnail"><a href="./posts/ruoka/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ruoka/index.html" class="no-external">Ruuan taloustiede: miksi syömme niin kuin syömme?</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/ruoka/index.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="./posts/ruoka/index.html" class="no-external">
-<p>Pellolta pöytään – ja kaikki taloudelliset voimat siltä väliltä.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ruoka/index.html" class="no-external">
-<div class="listing-date">
-19.2.2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="dGFsb3VzdGllZGUlMkN0eSVDMyVCNmVsJUMzJUE0bSVDMyVBNCUyQ3R5JUMzJUI2aHl2aW52b2ludGk=" data-listing-date-sort="1771279200000" data-listing-file-modified-sort="1771645896195" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="800">
-<div class="thumbnail"><a href="./posts/tyohyvinvointiedut/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/tyohyvinvointiedut/index.html" class="no-external">Ovatko työhyvinvointiedut hukkaan heitettyä rahaa?</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/tyohyvinvointiedut/index.html" class="no-external">Taloustieteellinen näkökulma liikuntaetuihin, työsuhdepyöriin ja virkistyspäiviin</a>
-</div>
-<div class="delink listing-description"><a href="./posts/tyohyvinvointiedut/index.html" class="no-external">
-<p>Työterveyslääkäri Eira Roos ehdottaa Ylellä, että liikuntaedut ja työhyvinvointipäivät pitäisi räjäyttää. Roosin kliininen kokemus on arvokas, mutta taloustieteellisesti asia on monimutkaisempi kuin dikotomia antaa ymmärtää.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/tyohyvinvointiedut/index.html" class="no-external">
-<div class="listing-date">
-17.2.2026
-</div>
-<div class="listing-author">
-Vesa
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">Ei hakutuloksia</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

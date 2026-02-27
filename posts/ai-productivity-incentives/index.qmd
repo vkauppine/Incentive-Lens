@@ -1,0 +1,69 @@
+---
+title: "Miksi AI:n tuottavuuslupaus ei toteudu"
+subtitle: "Kannustinongelma, ei teknologiaongelma"
+author: "Vesa"
+date: "2026-02-27"
+categories: [taloustiede, AI, tuottavuus, kannustimet]
+draft: true
+---
+
+Tekoälyyn investoidaan satoja miljardeja, ja yritysjohtajat odottavat tuottavuusloikkaa. Toistaiseksi data kertoo maltillisemmasta kehityksestä.
+
+Stanfordin Nick Bloomin helmikuussa 2026 julkaisema kysely, jonka toteuttivat Yhdysvaltain, Britannian, Saksan ja Australian keskuspankit, tarjoaa harvinaisen näkymän yritysjohdon kokemuksiin. Aineisto kattaa 6 000 johtajaa, ja tulos on yllättävän yhtenäinen: tekoäly on laajasti käytössä, mutta sen taloudelliset vaikutukset ovat jääneet vähäisiksi.
+
+70 % yrityksistä käyttää AI:ta.
+75 % johtajista käyttää AI:ta henkilökohtaisesti, keskimäärin 1,5 tuntia viikossa.
+91 % raportoi, ettei AI:lla ole ollut tuottavuusvaikutusta viimeisen kolmen vuoden aikana. Keskimääräinen toteutunut myyntikasvuvaikutus: 0,24 % yhteensä kolmessa vuodessa.
+Mutta: johtajat odottavat seuraavalta kolmelta vuodelta 2,25 % myyntikasvua AI:sta.
+
+Odotusten ja toteutuneen välinen ero on lähes kymmenkertainen. Kyse ei ole epärealistisista teknologiavisioista. Vastaajat ovat toimitus- ja talousjohtajia, joiden ennusteet yleensä seuraavat toteutuneita lukuja varsin tarkasti. He tuntevat liiketoimintansa ja osaavat arvioida sitä realistisesti. Silti tekoälyn kohdalla odotukset ja toteuma eivät kohtaa.
+
+Johtajat käyttävät tekoälytyökaluja keskimäärin 1,5 tuntia viikossa ilman näkyvää vaikutusta myyntiin. Tämä viittaa siihen, että tekoäly toimii toistaiseksi henkilökohtaisena apuvälineenä pikemminkin kuin liiketoiminnan tuotantoteknologiana. Se voi nopeuttaa sähköpostien kirjoittamista tai kokousmuistioiden laatimista, mutta ei vielä muuta yrityksen kykyä luoda arvoa.
+
+## Acemoglun laskelma
+
+Nobelisti Daron Acemoglu tarjoaa taloustieteeseen pohjaavan selityksen. Hänen vuoden 2024 NBER-paperinsa The Simple Macroeconomics of AI soveltaa Hultenin teoreemaa: kokonaistuottavuuden (TFP) kasvu on yksinkertaisesti AI:n vaikuttamien tehtävien BKT-osuus kerrottuna keskimääräisellä kustannussäästöllä.
+
+Eloundou et al. (2023) arvioivat, että noin 20 % USA:n työtehtävistä on AI:n ulottuvilla. Svanberg et al. (2024) tarkentavat, että näistä tehtävistä vain 23 % voidaan kannattavasti automatisoida 10 vuoden sisällä. Kokeellisten tutkimusten perusteella keskimääräinen työkustannussäästö on noin 27 %, mikä toimialojen työvoimaosuuksilla muunnettuna tarkoittaa noin 14 % kokonaiskustannussäästöä.
+Tällöin:
+$$
+\text{TFP-kasvu} = 0{,}046 \times 0{,}144 \approx 0{,}66;%;\text{(10 vuodessa)}
+$$
+eli noin 0,06 % vuodessa. Goldman Sachs ennustaa 1,5 % vuodessa, McKinsey 1,5--3,4 %. Acemoglun arvio on kertaluokkaa pienempi.
+
+Keskeinen syy liittyy tehtävien luonteeseen. Tekoäly toimii parhaiten ympäristöissä, joissa onnistuminen on helposti mitattavaa ja ongelmat hyvin määriteltyjä: koodinpätkät, tekstitiivistelmät, luokittelutehtävät. Suuri osa taloudesta koostuu kuitenkin tehtävistä, joissa ratkaisevaa on konteksti, hiljainen tieto ja epätäydellinen informaatio. Näissä tekoäly oppii keskimääräisen toimintatavan, ei huippuasiantuntijan harkintaa.
+
+Kun tämä ero huomioidaan, arvioitu tuottavuusvaikutus pienenee entisestään.
+
+## Kannustimongelma, ei teknologiaongelma
+
+Acemoglun provosoivin väite on, ettei vaatimaton tuottavuuskehitys johdu tekoälyn teknisistä rajoista vaan taloudellisista kannustimista.
+
+Tekoäly voisi täydentää ihmistyötä luomalla uusia tehtäviä — esimerkiksi tarjoamalla asiantuntijoille kontekstisidonnaista tietoa tilanteissa, joissa kokemus on perinteisesti ollut ratkaisevaa. Acemoglun teoreettisessa kehikossa juuri tällainen komplementaarisuus on ainoa kanava joka kasvattaa sekä tuottavuutta, palkkoja että työn osuutta kansantulosta.
+
+Mutta näin ei ole käynyt.
+
+Yleiskäyttöiset mallit sopivat paremmin skaalautuviin kuluttajatuotteisiin kuin kapeisiin ammatillisiin sovelluksiin. Yrityksille automaatio on organisatorisesti helpoin käyttötapa. Startup-ekosysteemi puolestaan palkitsee ratkaisut, jotka integroituvat suurten teknologiayhtiöiden strategioihin. Lisäksi verojärjestelmät suosivat usein pääomaa suhteessa työhön, mikä tekee automatisoinnista suhteellisesti houkuttelevampaa.
+
+Tuloksena syntyy tasapaino, jossa tekoälyä käytetään ensisijaisesti työn korvaamiseen, ei uuden työn luomiseen.
+
+## Omaksumisen dynamiikka
+
+Baylorin yliopiston Scott Cunningham kuvaa tekoälyä kokemushyödykkeeksi: sen arvo paljastuu vasta käytössä. Samalla kehittyneimpien mallien korkea hinta ja ilmaisversioiden rajallisuus johtavat helposti väärään ensivaikutelmaan. Seurauksena syntyy hype–pettymys-sykli: käyttäjät kokeilevat, pettyvät ja lopettavat ennen syvempää omaksumista.
+
+Cunningham erottaa kaksi käyttötapaa: vibe coding — chatbot-pohjainen kopioi–liitä-työskentely — ja agenttien ohjaamiseen perustuva valvova työ (agent supervision).
+
+Ensimmäinen korvaa työtä mutta tuottaa rajallista lisäarvoa. Jälkimmäinen kasvattaa inhimillistä pääomaa, mutta vaatii enemmän osaamista, investointeja ja organisatorista muutosta — juuri niitä asioita, joihin nykyiset kannustimet eivät ohjaa, vaan ne suosivat ensimmäistä lähestymistapaa, joka on nopeampi ja lyhyellä aikavälillä halvempi.
+
+
+## Tuottavuus ei seuraa teknologiasta automaattisesti
+
+Bloomin aineisto, Acemoglun teoria ja Cunninghamin havainnot osoittavat samaan suuntaan. Tekoälyn taloudellinen vaikutus ei määräydy pelkästään teknologian kyvykkyyksistä vaan siitä, millaisiin käyttötarkoituksiin se ohjautuu.
+
+Nykyinen institutionaalinen ympäristö — liiketoimintamallit, rahoituslogiikka, verotus ja omaksumisen käytännöt — suosii automaatiota. Juuri siellä tuottavuusvaikutukset ovat pienimmät.
+
+AI:n tuottavuuslupaus on todellinen. Se ei vain toteudu itsestään.
+
+---
+
+*Lähteet: Acemoglu, D. (2024). The Simple Macroeconomics of AI. NBER WP 32487; Bloom, N. et al. (2026). NBER WP 34836; Cunningham, S. (2026). How to Encourage Adoption of AI Among Faculty. Baylor University; Acemoglu, D. (2026). AI Is Not Improving Productivity. Me, Myself, and AI -podcast, MIT Sloan Management Review.*
