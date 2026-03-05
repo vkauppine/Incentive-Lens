@@ -10,7 +10,69 @@
 <atom:link href="https://vkauppine.github.io/Incentive-Lens/index.xml" rel="self" type="application/rss+xml"/>
 <description>Talousblogi</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Thu, 26 Feb 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Mar 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>EKP osti finanssikurin pois — kuka maksaa laskun?</title>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/ekp/ekp_finanssikuri.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<blockquote class="blockquote">
+<p><em>“Governments and voters respond to incentives too. That is why governments sometimes default on loans and other promises that they have made.”</em></p>
+<p>— Thomas Sargent, UC Berkeley, 2006</p>
+</blockquote>
+<p>Matti Viren nosti hiljattain esiin kuvan, joka kertoo paljon euroalueen poliittisesta taloudesta: keskuspankkien hallussa oleva osuus euroalueen valtionveloista on kasvanut finanssikriisin jälkeen nopeasti, erityisesti EKP:n osto-ohjelmien seurauksena. Useissa maissa keskuspankit omistavat nykyisin merkittävän osan valtionvelasta — Italiassa ja Espanjassa osuudet ovat suurimpien joukossa.</p>
+<p>Kuva havainnollistaa klassista kannustinongelmaa.</p>
+<section id="moral-hazard-rakenteessa" class="level2">
+<h2 class="anchored" data-anchor-id="moral-hazard-rakenteessa">Moral hazard rakenteessa</h2>
+<p>Markkinakuri toimii periaatteessa yksinkertaisella mekanismilla: jos valtio velkaantuu liikaa tai sen finanssipolitiikan uskottavuus heikkenee, sijoittajat vaativat korkeampaa korkoa. Korkeampi korko nostaa velanhoitokuluja ja pakottaa lopulta sopeutukseen.</p>
+<p>Eurokriisi kuitenkin osoitti myös markkinakurien epävakauden. Riskipreemiot voivat pysyä pitkään hyvin matalina ja nousta kriisitilanteessa äkillisesti, mikä voi johtaa itseään ruokkivaan velkakriisiin. Tästä syystä monet taloustieteilijät ovat pitäneet keskuspankin roolia velkakirjamarkkinoiden viimekätisenä vakauttajana perusteltuna.</p>
+<p>EKP:n laajat joukkovelkakirjaostot muuttivat kuitenkin velkakirjamarkkinoiden dynamiikkaa merkittävästi. QE-ohjelmien ja PEPP:n myötä keskuspankista tuli keskeinen ostaja euroalueen valtionvelkakirjamarkkinoilla. Tällöin korkopreemio ei enää heijasta pelkästään luottoriskiä, vaan myös rahapoliittisia interventioita.</p>
+<p>Markkinakurin rooli heikkenee, kun velkakirjamarkkinoilla toimii institutionaalinen ostaja, jonka motiivit eivät ole puhtaasti riskiperusteisia.</p>
+<p>Tämä ei välttämättä ole ongelma, jos poliittinen päätöksenteko on markkinoita kurinalaisempaa. Euroalueen institutionaalinen rakenne tekee tästä kuitenkin epävarmaa: jäsenvaltioilla on täysi budjettisuvereniteetti, mutta velkarahoituksen hinta määräytyy osittain yhteisen rahapolitiikan kautta.</p>
+<p>Kannustin löysempään finanssipolitiikkaan on siis ainakin osittain rakenteellinen.</p>
+</section>
+<section id="disinsentiivi-ei-tarkoita-insentiivien-puuttumista" class="level2">
+<h2 class="anchored" data-anchor-id="disinsentiivi-ei-tarkoita-insentiivien-puuttumista">Disinsentiivi ei tarkoita insentiivien puuttumista</h2>
+<p>Viren puhuu “disinsentiivistä” finanssikurille. Täsmällisemmin sanottuna finanssikurin kustannus on laskenut suhteessa vaihtoehtoon. Kun velkaraha on halpaa ja keskuspankki toimii markkinoiden vakauttajana, sopeutustoimien poliittinen kustannus kasvaa suhteessa niiden välittömään hyötyyn.</p>
+<p>Riskipreemiot eivät ole kadonneet kokonaan — Italian valtionlainojen korot ovat edelleen Saksan korkoja korkeammat — mutta keskuspankin interventiot ovat rajanneet niiden äärimmäisiä liikkeitä.</p>
+<p>Tämä muuttaa finanssipoliittisten päätösten kannustimia.</p>
+</section>
+<section id="eurobondit-eri-diagnoosi" class="level2">
+<h2 class="anchored" data-anchor-id="eurobondit-eri-diagnoosi">Eurobondit: eri diagnoosi</h2>
+<p>Tässä kohtaa astuu kuvaan toinen keskustelu. Olivier Blanchard ja Angel Ubide ovat ehdottaneet yhteisiä eurooppalaisia joukkovelkakirjoja ratkaisuksi euroalueen pirstoutuneille velkakirjamarkkinoille. Heidän näkemyksensä mukaan euroalueelta puuttuu syvä ja likvidi yhteinen turvallinen velkainstrumentti, mikä heikentää rahoitusmarkkinoiden toimintaa ja euroalueen kansainvälistä asemaa.</p>
+<p>Hanno Lustig on esittänyt tähän toisenlaisen näkökulman. Hänen mukaansa euroalueen keskeinen ongelma ei ole velkakirjamarkkinoiden pienuus vaan riskien hinnoittelun heikkeneminen. Jos markkinat olettavat, että euroalueen instituutiot eivät salli valtioiden maksukyvyttömyyttä, osa luottoriskistä siirtyy käytännössä veronmaksajille.</p>
+<p>Eurobondit eivät tällöin poistaisi ongelmaa vaan tekisivät riskien yhteisvastuullisuudesta eksplisiittistä.</p>
+<p>Viren tiivistää olennaisen: jos velkakirjamarkkinoilla riskit eivät heijastu hintoihin, markkinoiden syventäminen ei yksin ratkaise ongelmaa.</p>
+</section>
+<section id="exit-kysymys" class="level2">
+<h2 class="anchored" data-anchor-id="exit-kysymys">Exit-kysymys</h2>
+<p>Keskuspankin tasepolitiikka luo myös polkuriippuvuuden. EKP:n taseen purkaminen ei ole neutraali operaatio: jos suuri määrä valtionvelkaa palautuu markkinoille lyhyessä ajassa, korkopreemiot voivat nousta nopeasti.</p>
+<p>Japania käytetään usein vertailukohtana. Siellä keskuspankki omistaa jo yli puolet valtionvelasta, eikä exit-strategia ole käytännössä keskustelun keskiössä.</p>
+<p>Euroalueella tilanne on kuitenkin institutionaalisesti erilainen. Japanissa keskuspankki ja finanssipolitiikka kuuluvat samaan poliittiseen kokonaisuuteen. Euroalueella taas rahapolitiikka on yhteinen, mutta finanssipolitiikka hajautettu useille valtioille, joilla on erilaiset velkatasot ja poliittiset kannustimet.</p>
+<p>Italia ei ole Saksa — mutta rahapolitiikka on sama.</p>
+</section>
+<section id="kuka-maksaa" class="level2">
+<h2 class="anchored" data-anchor-id="kuka-maksaa">Kuka maksaa?</h2>
+<p>Lopulta kysymys palaa kannustimiin. Keskuspankin tasepolitiikka voi vakauttaa markkinoita kriisissä, mutta samalla se muuttaa finanssipolitiikan kannustinrakennetta.</p>
+<p>Euroalueen rahapolitiikka on viime vuosikymmenellä vakauttanut velkakirjamarkkinoita merkittävästi. Samalla se on kuitenkin vähentänyt markkinakurien roolia finanssipolitiikan ohjaajana.</p>
+<p>Kysymys ei ole siitä, oliko kriisitoimille tarvetta — vaan siitä, millainen institutionaalinen järjestelmä niiden seurauksena syntyy. Tässä keskustelussa euroalue on edelleen kesken.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>rahapolitiikka</category>
+  <category>euroalue</category>
+  <category>moral hazard</category>
+  <category>insentiivit</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/ekp/ekp_finanssikuri.html</guid>
+  <pubDate>Wed, 04 Mar 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/ekp/cover.png" medium="image" type="image/png" height="128" width="144"/>
+</item>
 <item>
   <title>Miksi AI:n tuottavuuslupaus ei toteudu</title>
   <dc:creator>Vesa </dc:creator>
@@ -2694,68 +2756,6 @@ Kuva&nbsp;2: Elintarvikkeiden hintaindeksi suhteessa yleiseen kuluttajahintainde
   <category>työhyvinvointi</category>
   <guid>https://vkauppine.github.io/Incentive-Lens/posts/tyohyvinvointiedut/</guid>
   <pubDate>Mon, 16 Feb 2026 22:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>EKP osti finanssikurin pois — kuka maksaa laskun?</title>
-  <link>https://vkauppine.github.io/Incentive-Lens/posts/ekp/ekp_finanssikuri.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<blockquote class="blockquote">
-<p><em>“Governments and voters respond to incentives too. That is why governments sometimes default on loans and other promises that they have made.”</em></p>
-<p>— Thomas Sargent, UC Berkeley, 2006</p>
-</blockquote>
-<p>Matti Viren nosti hiljattain esiin kuvan, joka kertoo paljon euroalueen poliittisesta taloudesta: keskuspankkien hallussa oleva osuus euroalueen valtionveloista on kasvanut finanssikriisin jälkeen nopeasti, erityisesti EKP:n osto-ohjelmien seurauksena. Useissa maissa keskuspankit omistavat nykyisin merkittävän osan valtionvelasta — Italiassa ja Espanjassa osuudet ovat suurimpien joukossa.</p>
-<p>Kuva havainnollistaa klassista kannustinongelmaa.</p>
-<section id="moral-hazard-rakenteessa" class="level2">
-<h2 class="anchored" data-anchor-id="moral-hazard-rakenteessa">Moral hazard rakenteessa</h2>
-<p>Markkinakuri toimii periaatteessa yksinkertaisella mekanismilla: jos valtio velkaantuu liikaa tai sen finanssipolitiikan uskottavuus heikkenee, sijoittajat vaativat korkeampaa korkoa. Korkeampi korko nostaa velanhoitokuluja ja pakottaa lopulta sopeutukseen.</p>
-<p>Eurokriisi kuitenkin osoitti myös markkinakurien epävakauden. Riskipreemiot voivat pysyä pitkään hyvin matalina ja nousta kriisitilanteessa äkillisesti, mikä voi johtaa itseään ruokkivaan velkakriisiin. Tästä syystä monet taloustieteilijät ovat pitäneet keskuspankin roolia velkakirjamarkkinoiden viimekätisenä vakauttajana perusteltuna.</p>
-<p>EKP:n laajat joukkovelkakirjaostot muuttivat kuitenkin velkakirjamarkkinoiden dynamiikkaa merkittävästi. QE-ohjelmien ja PEPP:n myötä keskuspankista tuli keskeinen ostaja euroalueen valtionvelkakirjamarkkinoilla. Tällöin korkopreemio ei enää heijasta pelkästään luottoriskiä, vaan myös rahapoliittisia interventioita.</p>
-<p>Markkinakurin rooli heikkenee, kun velkakirjamarkkinoilla toimii institutionaalinen ostaja, jonka motiivit eivät ole puhtaasti riskiperusteisia.</p>
-<p>Tämä ei välttämättä ole ongelma, jos poliittinen päätöksenteko on markkinoita kurinalaisempaa. Euroalueen institutionaalinen rakenne tekee tästä kuitenkin epävarmaa: jäsenvaltioilla on täysi budjettisuvereniteetti, mutta velkarahoituksen hinta määräytyy osittain yhteisen rahapolitiikan kautta.</p>
-<p>Kannustin löysempään finanssipolitiikkaan on siis ainakin osittain rakenteellinen.</p>
-</section>
-<section id="disinsentiivi-ei-tarkoita-insentiivien-puuttumista" class="level2">
-<h2 class="anchored" data-anchor-id="disinsentiivi-ei-tarkoita-insentiivien-puuttumista">Disinsentiivi ei tarkoita insentiivien puuttumista</h2>
-<p>Viren puhuu “disinsentiivistä” finanssikurille. Täsmällisemmin sanottuna finanssikurin kustannus on laskenut suhteessa vaihtoehtoon. Kun velkaraha on halpaa ja keskuspankki toimii markkinoiden vakauttajana, sopeutustoimien poliittinen kustannus kasvaa suhteessa niiden välittömään hyötyyn.</p>
-<p>Riskipreemiot eivät ole kadonneet kokonaan — Italian valtionlainojen korot ovat edelleen Saksan korkoja korkeammat — mutta keskuspankin interventiot ovat rajanneet niiden äärimmäisiä liikkeitä.</p>
-<p>Tämä muuttaa finanssipoliittisten päätösten kannustimia.</p>
-</section>
-<section id="eurobondit-eri-diagnoosi" class="level2">
-<h2 class="anchored" data-anchor-id="eurobondit-eri-diagnoosi">Eurobondit: eri diagnoosi</h2>
-<p>Tässä kohtaa astuu kuvaan toinen keskustelu. Olivier Blanchard ja Angel Ubide ovat ehdottaneet yhteisiä eurooppalaisia joukkovelkakirjoja ratkaisuksi euroalueen pirstoutuneille velkakirjamarkkinoille. Heidän näkemyksensä mukaan euroalueelta puuttuu syvä ja likvidi yhteinen turvallinen velkainstrumentti, mikä heikentää rahoitusmarkkinoiden toimintaa ja euroalueen kansainvälistä asemaa.</p>
-<p>Hanno Lustig on esittänyt tähän toisenlaisen näkökulman. Hänen mukaansa euroalueen keskeinen ongelma ei ole velkakirjamarkkinoiden pienuus vaan riskien hinnoittelun heikkeneminen. Jos markkinat olettavat, että euroalueen instituutiot eivät salli valtioiden maksukyvyttömyyttä, osa luottoriskistä siirtyy käytännössä veronmaksajille.</p>
-<p>Eurobondit eivät tällöin poistaisi ongelmaa vaan tekisivät riskien yhteisvastuullisuudesta eksplisiittistä.</p>
-<p>Viren tiivistää olennaisen: jos velkakirjamarkkinoilla riskit eivät heijastu hintoihin, markkinoiden syventäminen ei yksin ratkaise ongelmaa.</p>
-</section>
-<section id="exit-kysymys" class="level2">
-<h2 class="anchored" data-anchor-id="exit-kysymys">Exit-kysymys</h2>
-<p>Keskuspankin tasepolitiikka luo myös polkuriippuvuuden. EKP:n taseen purkaminen ei ole neutraali operaatio: jos suuri määrä valtionvelkaa palautuu markkinoille lyhyessä ajassa, korkopreemiot voivat nousta nopeasti.</p>
-<p>Japania käytetään usein vertailukohtana. Siellä keskuspankki omistaa jo yli puolet valtionvelasta, eikä exit-strategia ole käytännössä keskustelun keskiössä.</p>
-<p>Euroalueella tilanne on kuitenkin institutionaalisesti erilainen. Japanissa keskuspankki ja finanssipolitiikka kuuluvat samaan poliittiseen kokonaisuuteen. Euroalueella taas rahapolitiikka on yhteinen, mutta finanssipolitiikka hajautettu useille valtioille, joilla on erilaiset velkatasot ja poliittiset kannustimet.</p>
-<p>Italia ei ole Saksa — mutta rahapolitiikka on sama.</p>
-</section>
-<section id="kuka-maksaa" class="level2">
-<h2 class="anchored" data-anchor-id="kuka-maksaa">Kuka maksaa?</h2>
-<p>Lopulta kysymys palaa kannustimiin. Keskuspankin tasepolitiikka voi vakauttaa markkinoita kriisissä, mutta samalla se muuttaa finanssipolitiikan kannustinrakennetta.</p>
-<p>Euroalueen rahapolitiikka on viime vuosikymmenellä vakauttanut velkakirjamarkkinoita merkittävästi. Samalla se on kuitenkin vähentänyt markkinakurien roolia finanssipolitiikan ohjaajana.</p>
-<p>Kysymys ei ole siitä, oliko kriisitoimille tarvetta — vaan siitä, millainen institutionaalinen järjestelmä niiden seurauksena syntyy. Tässä keskustelussa euroalue on edelleen kesken.</p>
-
-
-</section>
-
- ]]></description>
-  <category>rahapolitiikka</category>
-  <category>euroalue</category>
-  <category>moral hazard</category>
-  <category>insentiivit</category>
-  <guid>https://vkauppine.github.io/Incentive-Lens/posts/ekp/ekp_finanssikuri.html</guid>
-  <pubDate>Tue, 04 Mar 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/ekp/cover.png" medium="image" type="image/png" height="128" width="144"/>
 </item>
 </channel>
 </rss>
