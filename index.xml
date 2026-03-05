@@ -26,6 +26,12 @@
 </blockquote>
 <p>Matti Viren nosti hiljattain esiin kuvan, joka kertoo paljon euroalueen poliittisesta taloudesta: keskuspankkien hallussa oleva osuus euroalueen valtionveloista on kasvanut finanssikriisin jälkeen nopeasti, erityisesti EKP:n osto-ohjelmien seurauksena. Useissa maissa keskuspankit omistavat nykyisin merkittävän osan valtionvelasta — Italiassa ja Espanjassa osuudet ovat suurimpien joukossa.</p>
 <p>Kuva havainnollistaa klassista kannustinongelmaa.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/ekp/cover.png" class="img-fluid figure-img"></p>
+<figcaption>Keskuspankkien hallussa olevat valtionlainat, % BKT:stä (Q1 2023)</figcaption>
+</figure>
+</div>
 <section id="moral-hazard-rakenteessa" class="level2">
 <h2 class="anchored" data-anchor-id="moral-hazard-rakenteessa">Moral hazard rakenteessa</h2>
 <p>Markkinakuri toimii periaatteessa yksinkertaisella mekanismilla: jos valtio velkaantuu liikaa tai sen finanssipolitiikan uskottavuus heikkenee, sijoittajat vaativat korkeampaa korkoa. Korkeampi korko nostaa velanhoitokuluja ja pakottaa lopulta sopeutukseen.</p>
