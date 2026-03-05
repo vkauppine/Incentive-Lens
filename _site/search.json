@@ -133,6 +133,55 @@
     "text": "Johtopäätös: tehokas selviytymiskone — mutta kenen ehdoilla?\nSingapore on kiistatta taloudellinen menestystarina, mutta se ei ole valmis resepti muille maille. Poliittinen pluralismi on rajallista, työmarkkinat ovat kaksijakoiset ja eriarvoisuus on järjestelmään sisäänrakennettu piirre. Lisäksi kaupunkivaltion koko, sijainti ja demografinen rakenne tekevät mallista vaikeasti kopioitavan.\nYksi oppi kuitenkin yleistyy: instituutioiden toimeenpanokyky ja kannustinrakenne ratkaisevat enemmän kuin se, onko valtio “iso” tai “pieni”. Singapore on esimerkki järjestelmästä, jossa hallinnon kapasiteetti, säästämisen pakotettu arkkitehtuuri ja markkinoiden ennustettavuus on viritetty kasvua varten – ja jossa samalla on hyväksytty selkeitä poliittisia ja sosiaalisia kompromisseja.\n\nLähteet ja lisälukemista:\n\nAcemoglu, D. & Robinson, J. A. (2012). Why Nations Fail: The Origins of Power, Prosperity, and Poverty. Crown Business.\nSolow, R. M. (1956). A Contribution to the Theory of Economic Growth. The Quarterly Journal of Economics, 70(1), 65–94.\nKrugman, P. (1994). The Myth of Asia’s Miracle. Foreign Affairs, 73(6), 62–78.\nWorld Bank. World Development Indicators. data.worldbank.org\nSingapore Department of Statistics. singstat.gov.sg\nCentral Provident Fund Board. cpf.gov.sg\nOECD. (2023). PISA 2022 Results. OECD Publishing."
   },
   {
+    "objectID": "posts/ai-productivity-incentives/index.html",
+    "href": "posts/ai-productivity-incentives/index.html",
+    "title": "Miksi AI:n tuottavuuslupaus ei toteudu",
+    "section": "",
+    "text": "Tekoälyyn investoidaan satoja miljardeja, ja yritysjohtajat odottavat tuottavuusloikkaa. Toistaiseksi data kertoo maltillisemmasta kehityksestä.\nStanfordin Nick Bloomin helmikuussa 2026 julkaisema kysely, jonka toteuttivat Yhdysvaltain, Britannian, Saksan ja Australian keskuspankit, tarjoaa harvinaisen näkymän yritysjohdon kokemuksiin. Aineisto kattaa 6 000 johtajaa, ja tulos on yllättävän yhtenäinen: tekoäly on laajasti käytössä, mutta sen taloudelliset vaikutukset ovat jääneet vähäisiksi.\n70 % yrityksistä käyttää AI:ta. 75 % johtajista käyttää AI:ta henkilökohtaisesti, keskimäärin 1,5 tuntia viikossa. 91 % raportoi, ettei AI:lla ole ollut tuottavuusvaikutusta viimeisen kolmen vuoden aikana. Keskimääräinen toteutunut myyntikasvuvaikutus: 0,24 % yhteensä kolmessa vuodessa. Mutta: johtajat odottavat seuraavalta kolmelta vuodelta 2,25 % myyntikasvua AI:sta.\nOdotusten ja toteutuneen välinen ero on lähes kymmenkertainen. Kyse ei ole epärealistisista teknologiavisioista. Vastaajat ovat toimitus- ja talousjohtajia, joiden ennusteet yleensä seuraavat toteutuneita lukuja varsin tarkasti. He tuntevat liiketoimintansa ja osaavat arvioida sitä realistisesti. Silti tekoälyn kohdalla odotukset ja toteuma eivät kohtaa.\nJohtajat käyttävät tekoälytyökaluja keskimäärin 1,5 tuntia viikossa ilman näkyvää vaikutusta myyntiin. Tämä viittaa siihen, että tekoäly toimii toistaiseksi henkilökohtaisena apuvälineenä pikemminkin kuin liiketoiminnan tuotantoteknologiana. Se voi nopeuttaa sähköpostien kirjoittamista tai kokousmuistioiden laatimista, mutta ei vielä muuta yrityksen kykyä luoda arvoa."
+  },
+  {
+    "objectID": "posts/ai-productivity-incentives/index.html#acemoglun-laskelma",
+    "href": "posts/ai-productivity-incentives/index.html#acemoglun-laskelma",
+    "title": "Miksi AI:n tuottavuuslupaus ei toteudu",
+    "section": "Acemoglun laskelma",
+    "text": "Acemoglun laskelma\nNobelisti Daron Acemoglu tarjoaa taloustieteeseen pohjaavan selityksen. Hänen vuoden 2024 NBER-paperinsa The Simple Macroeconomics of AI soveltaa Hultenin teoreemaa: kokonaistuottavuuden (TFP) kasvu on yksinkertaisesti AI:n vaikuttamien tehtävien BKT-osuus kerrottuna keskimääräisellä kustannussäästöllä.\nEloundou et al. (2023) arvioivat, että noin 20 % USA:n työtehtävistä on AI:n ulottuvilla. Svanberg et al. (2024) tarkentavat, että näistä tehtävistä vain 23 % voidaan kannattavasti automatisoida 10 vuoden sisällä. Kokeellisten tutkimusten perusteella keskimääräinen työkustannussäästö on noin 27 %, mikä toimialojen työvoimaosuuksilla muunnettuna tarkoittaa noin 14 % kokonaiskustannussäästöä. Tällöin: \\[\n\\text{TFP-kasvu} = 0{,}046 \\times 0{,}144 \\approx 0{,}66\\;\\%\\;\\text{(10 vuodessa)}\n\\] eli noin 0,06 % vuodessa. Goldman Sachs ennustaa 1,5 % vuodessa, McKinsey 1,5–3,4 %. Acemoglun arvio on kertaluokkaa pienempi.\nKeskeinen syy liittyy tehtävien luonteeseen. Tekoäly toimii parhaiten ympäristöissä, joissa onnistuminen on helposti mitattavaa ja ongelmat hyvin määriteltyjä: koodinpätkät, tekstitiivistelmät, luokittelutehtävät. Suuri osa taloudesta koostuu kuitenkin tehtävistä, joissa ratkaisevaa on konteksti, hiljainen tieto ja epätäydellinen informaatio. Näissä tekoäly oppii keskimääräisen toimintatavan, ei huippuasiantuntijan harkintaa.\nKun tämä ero huomioidaan, arvioitu tuottavuusvaikutus pienenee entisestään."
+  },
+  {
+    "objectID": "posts/ai-productivity-incentives/index.html#kannustimongelma-ei-teknologiaongelma",
+    "href": "posts/ai-productivity-incentives/index.html#kannustimongelma-ei-teknologiaongelma",
+    "title": "Miksi AI:n tuottavuuslupaus ei toteudu",
+    "section": "Kannustimongelma, ei teknologiaongelma",
+    "text": "Kannustimongelma, ei teknologiaongelma\nAcemoglun provosoivin väite on, ettei vaatimaton tuottavuuskehitys johdu tekoälyn teknisistä rajoista vaan taloudellisista kannustimista.\nTekoäly voisi täydentää ihmistyötä luomalla uusia tehtäviä — esimerkiksi tarjoamalla asiantuntijoille kontekstisidonnaista tietoa tilanteissa, joissa kokemus on perinteisesti ollut ratkaisevaa. Acemoglun teoreettisessa kehikossa juuri tällainen komplementaarisuus on ainoa kanava joka kasvattaa sekä tuottavuutta, palkkoja että työn osuutta kansantulosta.\nMutta näin ei ole käynyt.\nYleiskäyttöiset mallit sopivat paremmin skaalautuviin kuluttajatuotteisiin kuin kapeisiin ammatillisiin sovelluksiin. Yrityksille automaatio on organisatorisesti helpoin käyttötapa. Startup-ekosysteemi puolestaan palkitsee ratkaisut, jotka integroituvat suurten teknologiayhtiöiden strategioihin. Lisäksi verojärjestelmät suosivat usein pääomaa suhteessa työhön, mikä tekee automatisoinnista suhteellisesti houkuttelevampaa.\nTuloksena syntyy tasapaino, jossa tekoälyä käytetään ensisijaisesti työn korvaamiseen, ei uuden työn luomiseen."
+  },
+  {
+    "objectID": "posts/ai-productivity-incentives/index.html#omaksumisen-dynamiikka",
+    "href": "posts/ai-productivity-incentives/index.html#omaksumisen-dynamiikka",
+    "title": "Miksi AI:n tuottavuuslupaus ei toteudu",
+    "section": "Omaksumisen dynamiikka",
+    "text": "Omaksumisen dynamiikka\nBaylorin yliopiston Scott Cunningham kuvaa tekoälyä kokemushyödykkeeksi: sen arvo paljastuu vasta käytössä. Samalla kehittyneimpien mallien korkea hinta ja ilmaisversioiden rajallisuus johtavat helposti väärään ensivaikutelmaan. Seurauksena syntyy hype–pettymys-sykli: käyttäjät kokeilevat, pettyvät ja lopettavat ennen syvempää omaksumista.\nCunningham erottaa kaksi käyttötapaa: vibe coding — chatbot-pohjainen kopioi–liitä-työskentely — ja agenttien ohjaamiseen perustuva valvova työ (agent supervision).\nEnsimmäinen korvaa työtä mutta tuottaa rajallista lisäarvoa. Jälkimmäinen kasvattaa inhimillistä pääomaa, mutta vaatii enemmän osaamista, investointeja ja organisatorista muutosta — juuri niitä asioita, joihin nykyiset kannustimet eivät ohjaa, vaan ne suosivat ensimmäistä lähestymistapaa, joka on nopeampi ja lyhyellä aikavälillä halvempi."
+  },
+  {
+    "objectID": "posts/ai-productivity-incentives/index.html#tuottavuus-ei-seuraa-teknologiasta-automaattisesti",
+    "href": "posts/ai-productivity-incentives/index.html#tuottavuus-ei-seuraa-teknologiasta-automaattisesti",
+    "title": "Miksi AI:n tuottavuuslupaus ei toteudu",
+    "section": "Tuottavuus ei seuraa teknologiasta automaattisesti",
+    "text": "Tuottavuus ei seuraa teknologiasta automaattisesti\nBloomin aineisto, Acemoglun teoria ja Cunninghamin havainnot osoittavat samaan suuntaan. Tekoälyn taloudellinen vaikutus ei määräydy pelkästään teknologian kyvykkyyksistä vaan siitä, millaisiin käyttötarkoituksiin se ohjautuu.\nNykyinen institutionaalinen ympäristö — liiketoimintamallit, rahoituslogiikka, verotus ja omaksumisen käytännöt — suosii automaatiota. Juuri siellä tuottavuusvaikutukset ovat pienimmät.\nAI:n tuottavuuslupaus on todellinen. Se ei vain toteudu itsestään.\n\nLähteet: Acemoglu, D. (2024). The Simple Macroeconomics of AI. NBER WP 32487; Bloom, N. et al. (2026). NBER WP 34836; Cunningham, S. (2026). How to Encourage Adoption of AI Among Faculty. Baylor University; Acemoglu, D. (2026). AI Is Not Improving Productivity. Me, Myself, and AI -podcast, MIT Sloan Management Review."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Vesa Kauppinen",
+    "section": "",
+    "text": "Väitöskirjatutkija Oulun yliopiston tuotantotalouden tutkimusyksikössä. Tämä blogi käsittelee taloustiedettä ja data-analyysiä."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Incentive Lens",
+    "section": "",
+    "text": "Taloustiedettä, dataa ja analyyttistä ajattelua suomalaisesta näkökulmasta.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiksi AI:n tuottavuuslupaus ei toteudu\n\n\nKannustinongelma, ei teknologiaongelma\n\n\n\n\n\n\n\n\n27.2.2026\n\n\nVesa\n\n\n\n\n\n\n\n\n\n\n\n\nKenen tuottavuusbuumi? Fedin uuden johtajan AI-argumentin kannustinrakenne\n\n\n\n\n\nKevin Warsh väittää, että tekoäly oikeuttaa korkojen laskun. Mutta argumentin suunta oli tiedossa ennen perustelua.\n\n\n\n\n\n24.2.2026\n\n\n\n\n\n\n\n\n\n\n\n\nSingapore: tehokas selviytymiskone\n\n\nMiten kaupunkivaltio rakensi yhden maailman vauraimmista talouksista — ja mitä se maksoi\n\n\n\n\n\n\n\n\n21.2.2026\n\n\nVesa\n\n\n\n\n\n\n\n\n\n\n\n\nOnko singulariteetti lähellä? Taloustiede vs. teknohype\n\n\nMitä talouskasvumallit kertovat tekoälyn mullistavuudesta — ja mitä ne eivät kerro\n\n\n\n\n\n\n\n\n19.2.2026\n\n\nVesa\n\n\n\n\n\n\n\n\n\n\n\n\nRuuan taloustiede: miksi syömme niin kuin syömme?\n\n\n\n\n\nPellolta pöytään – ja kaikki taloudelliset voimat siltä väliltä.\n\n\n\n\n\n19.2.2026\n\n\n\n\n\n\n\n\n\n\n\n\nOvatko työhyvinvointiedut hukkaan heitettyä rahaa?\n\n\nTaloustieteellinen näkökulma liikuntaetuihin, työsuhdepyöriin ja virkistyspäiviin\n\n\nTyöterveyslääkäri Eira Roos ehdottaa Ylellä, että liikuntaedut ja työhyvinvointipäivät pitäisi räjäyttää. Roosin kliininen kokemus on arvokas, mutta taloustieteellisesti asia on monimutkaisempi kuin dikotomia antaa ymmärtää.\n\n\n\n\n\n17.2.2026\n\n\nVesa\n\n\n\n\n\nEi hakutuloksia"
+  },
+  {
     "objectID": "posts/ai-singulariteetti/index.html",
     "href": "posts/ai-singulariteetti/index.html",
     "title": "Onko singulariteetti lähellä? Taloustiede vs. teknohype",
@@ -187,55 +236,6 @@
     "title": "Onko singulariteetti lähellä? Taloustiede vs. teknohype",
     "section": "Johtopäätös",
     "text": "Johtopäätös\nTaloustieteen näkökulmasta lopputulos on avoin. Teknologinen etulinja näyttää nopean muutoksen, mutta koko talouden tasolla vaikutukset määräytyvät täydentävyyksien, pullonkaulojen ja institutionaalisen sopeutumisen kautta. Historiallisesti monet mullistavat teknologiat ovat muuttaneet talouden rakennetta ilman pysyvää kasvuvauhdin muutosta. Tekoäly voi muodostaa poikkeuksen, mutta sen osoittaa ajan myötä kertynyt data, ei yksittäiset havainnot tai julkiset lausunnot.\n\nLähteet:\n\nAcemoglu, D. & Restrepo, P. (2018). “The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment.” American Economic Review, 108(6), 1488–1542.\nAmodei, D. (2024). “Machines of Loving Grace: How AI Could Transform the World for the Better.” darioamodei.com.\nEpoch AI (2025). “Data on AI Models.” epochai.org.\nJones, C.I. (2024). “The AI Dilemma: Growth versus Existential Risk.” American Economic Review: Insights, 6(4), 575–590.\nJones, C.I. (2025). “How Much Should We Spend to Reduce A.I.’s Existential Risk?” NBER Working Paper 33602.\nJones, C.I. (2026). “A.I. and Our Economic Future.” Tulossa Journal of Economic Perspectives -lehdessä.\nJones, C.I. & Tonetti, C. (2026). “Past Automation and Future A.I.: How Weak Links Tame the Growth Explosion.” Julkaisematon käsikirjoitus.\nMETR (2025). “Measuring AI Ability to Complete Long Tasks.” metr.org.\nNordhaus, W.D. (2021). “Are We Approaching an Economic Singularity?” American Economic Journal: Macroeconomics, 13(1), 299–332.\nMusk, E. & Karpathy, A. (2026). X/Twitter-keskustelu, helmikuu 2026."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Incentive Lens",
-    "section": "",
-    "text": "Taloustiedettä, dataa ja analyyttistä ajattelua suomalaisesta näkökulmasta.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiksi AI:n tuottavuuslupaus ei toteudu\n\n\nKannustinongelma, ei teknologiaongelma\n\n\n\n\n\n\n\n\n27.2.2026\n\n\nVesa\n\n\n\n\n\n\n\n\n\n\n\n\nKenen tuottavuusbuumi? Fedin uuden johtajan AI-argumentin kannustinrakenne\n\n\n\n\n\nKevin Warsh väittää, että tekoäly oikeuttaa korkojen laskun. Mutta argumentin suunta oli tiedossa ennen perustelua.\n\n\n\n\n\n24.2.2026\n\n\n\n\n\n\n\n\n\n\n\n\nSingapore: tehokas selviytymiskone\n\n\nMiten kaupunkivaltio rakensi yhden maailman vauraimmista talouksista — ja mitä se maksoi\n\n\n\n\n\n\n\n\n21.2.2026\n\n\nVesa\n\n\n\n\n\n\n\n\n\n\n\n\nOnko singulariteetti lähellä? Taloustiede vs. teknohype\n\n\nMitä talouskasvumallit kertovat tekoälyn mullistavuudesta — ja mitä ne eivät kerro\n\n\n\n\n\n\n\n\n19.2.2026\n\n\nVesa\n\n\n\n\n\n\n\n\n\n\n\n\nRuuan taloustiede: miksi syömme niin kuin syömme?\n\n\n\n\n\nPellolta pöytään – ja kaikki taloudelliset voimat siltä väliltä.\n\n\n\n\n\n19.2.2026\n\n\n\n\n\n\n\n\n\n\n\n\nOvatko työhyvinvointiedut hukkaan heitettyä rahaa?\n\n\nTaloustieteellinen näkökulma liikuntaetuihin, työsuhdepyöriin ja virkistyspäiviin\n\n\nTyöterveyslääkäri Eira Roos ehdottaa Ylellä, että liikuntaedut ja työhyvinvointipäivät pitäisi räjäyttää. Roosin kliininen kokemus on arvokas, mutta taloustieteellisesti asia on monimutkaisempi kuin dikotomia antaa ymmärtää.\n\n\n\n\n\n17.2.2026\n\n\nVesa\n\n\n\n\n\nEi hakutuloksia"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Vesa Kauppinen",
-    "section": "",
-    "text": "Väitöskirjatutkija Oulun yliopiston tuotantotalouden tutkimusyksikössä. Tämä blogi käsittelee taloustiedettä ja data-analyysiä."
-  },
-  {
-    "objectID": "posts/ai-productivity-incentives/index.html",
-    "href": "posts/ai-productivity-incentives/index.html",
-    "title": "Miksi AI:n tuottavuuslupaus ei toteudu",
-    "section": "",
-    "text": "Tekoälyyn investoidaan satoja miljardeja, ja yritysjohtajat odottavat tuottavuusloikkaa. Toistaiseksi data kertoo maltillisemmasta kehityksestä.\nStanfordin Nick Bloomin helmikuussa 2026 julkaisema kysely, jonka toteuttivat Yhdysvaltain, Britannian, Saksan ja Australian keskuspankit, tarjoaa harvinaisen näkymän yritysjohdon kokemuksiin. Aineisto kattaa 6 000 johtajaa, ja tulos on yllättävän yhtenäinen: tekoäly on laajasti käytössä, mutta sen taloudelliset vaikutukset ovat jääneet vähäisiksi.\n70 % yrityksistä käyttää AI:ta. 75 % johtajista käyttää AI:ta henkilökohtaisesti, keskimäärin 1,5 tuntia viikossa. 91 % raportoi, ettei AI:lla ole ollut tuottavuusvaikutusta viimeisen kolmen vuoden aikana. Keskimääräinen toteutunut myyntikasvuvaikutus: 0,24 % yhteensä kolmessa vuodessa. Mutta: johtajat odottavat seuraavalta kolmelta vuodelta 2,25 % myyntikasvua AI:sta.\nOdotusten ja toteutuneen välinen ero on lähes kymmenkertainen. Kyse ei ole epärealistisista teknologiavisioista. Vastaajat ovat toimitus- ja talousjohtajia, joiden ennusteet yleensä seuraavat toteutuneita lukuja varsin tarkasti. He tuntevat liiketoimintansa ja osaavat arvioida sitä realistisesti. Silti tekoälyn kohdalla odotukset ja toteuma eivät kohtaa.\nJohtajat käyttävät tekoälytyökaluja keskimäärin 1,5 tuntia viikossa ilman näkyvää vaikutusta myyntiin. Tämä viittaa siihen, että tekoäly toimii toistaiseksi henkilökohtaisena apuvälineenä pikemminkin kuin liiketoiminnan tuotantoteknologiana. Se voi nopeuttaa sähköpostien kirjoittamista tai kokousmuistioiden laatimista, mutta ei vielä muuta yrityksen kykyä luoda arvoa."
-  },
-  {
-    "objectID": "posts/ai-productivity-incentives/index.html#acemoglun-laskelma",
-    "href": "posts/ai-productivity-incentives/index.html#acemoglun-laskelma",
-    "title": "Miksi AI:n tuottavuuslupaus ei toteudu",
-    "section": "Acemoglun laskelma",
-    "text": "Acemoglun laskelma\nNobelisti Daron Acemoglu tarjoaa taloustieteeseen pohjaavan selityksen. Hänen vuoden 2024 NBER-paperinsa The Simple Macroeconomics of AI soveltaa Hultenin teoreemaa: kokonaistuottavuuden (TFP) kasvu on yksinkertaisesti AI:n vaikuttamien tehtävien BKT-osuus kerrottuna keskimääräisellä kustannussäästöllä.\nEloundou et al. (2023) arvioivat, että noin 20 % USA:n työtehtävistä on AI:n ulottuvilla. Svanberg et al. (2024) tarkentavat, että näistä tehtävistä vain 23 % voidaan kannattavasti automatisoida 10 vuoden sisällä. Kokeellisten tutkimusten perusteella keskimääräinen työkustannussäästö on noin 27 %, mikä toimialojen työvoimaosuuksilla muunnettuna tarkoittaa noin 14 % kokonaiskustannussäästöä. Tällöin: \\[\n\\text{TFP-kasvu} = 0{,}046 \\times 0{,}144 \\approx 0{,}66\\;\\%\\;\\text{(10 vuodessa)}\n\\] eli noin 0,06 % vuodessa. Goldman Sachs ennustaa 1,5 % vuodessa, McKinsey 1,5–3,4 %. Acemoglun arvio on kertaluokkaa pienempi.\nKeskeinen syy liittyy tehtävien luonteeseen. Tekoäly toimii parhaiten ympäristöissä, joissa onnistuminen on helposti mitattavaa ja ongelmat hyvin määriteltyjä: koodinpätkät, tekstitiivistelmät, luokittelutehtävät. Suuri osa taloudesta koostuu kuitenkin tehtävistä, joissa ratkaisevaa on konteksti, hiljainen tieto ja epätäydellinen informaatio. Näissä tekoäly oppii keskimääräisen toimintatavan, ei huippuasiantuntijan harkintaa.\nKun tämä ero huomioidaan, arvioitu tuottavuusvaikutus pienenee entisestään."
-  },
-  {
-    "objectID": "posts/ai-productivity-incentives/index.html#kannustimongelma-ei-teknologiaongelma",
-    "href": "posts/ai-productivity-incentives/index.html#kannustimongelma-ei-teknologiaongelma",
-    "title": "Miksi AI:n tuottavuuslupaus ei toteudu",
-    "section": "Kannustimongelma, ei teknologiaongelma",
-    "text": "Kannustimongelma, ei teknologiaongelma\nAcemoglun provosoivin väite on, ettei vaatimaton tuottavuuskehitys johdu tekoälyn teknisistä rajoista vaan taloudellisista kannustimista.\nTekoäly voisi täydentää ihmistyötä luomalla uusia tehtäviä — esimerkiksi tarjoamalla asiantuntijoille kontekstisidonnaista tietoa tilanteissa, joissa kokemus on perinteisesti ollut ratkaisevaa. Acemoglun teoreettisessa kehikossa juuri tällainen komplementaarisuus on ainoa kanava joka kasvattaa sekä tuottavuutta, palkkoja että työn osuutta kansantulosta.\nMutta näin ei ole käynyt.\nYleiskäyttöiset mallit sopivat paremmin skaalautuviin kuluttajatuotteisiin kuin kapeisiin ammatillisiin sovelluksiin. Yrityksille automaatio on organisatorisesti helpoin käyttötapa. Startup-ekosysteemi puolestaan palkitsee ratkaisut, jotka integroituvat suurten teknologiayhtiöiden strategioihin. Lisäksi verojärjestelmät suosivat usein pääomaa suhteessa työhön, mikä tekee automatisoinnista suhteellisesti houkuttelevampaa.\nTuloksena syntyy tasapaino, jossa tekoälyä käytetään ensisijaisesti työn korvaamiseen, ei uuden työn luomiseen."
-  },
-  {
-    "objectID": "posts/ai-productivity-incentives/index.html#omaksumisen-dynamiikka",
-    "href": "posts/ai-productivity-incentives/index.html#omaksumisen-dynamiikka",
-    "title": "Miksi AI:n tuottavuuslupaus ei toteudu",
-    "section": "Omaksumisen dynamiikka",
-    "text": "Omaksumisen dynamiikka\nBaylorin yliopiston Scott Cunningham kuvaa tekoälyä kokemushyödykkeeksi: sen arvo paljastuu vasta käytössä. Samalla kehittyneimpien mallien korkea hinta ja ilmaisversioiden rajallisuus johtavat helposti väärään ensivaikutelmaan. Seurauksena syntyy hype–pettymys-sykli: käyttäjät kokeilevat, pettyvät ja lopettavat ennen syvempää omaksumista.\nCunningham erottaa kaksi käyttötapaa: vibe coding — chatbot-pohjainen kopioi–liitä-työskentely — ja agenttien ohjaamiseen perustuva valvova työ (agent supervision).\nEnsimmäinen korvaa työtä mutta tuottaa rajallista lisäarvoa. Jälkimmäinen kasvattaa inhimillistä pääomaa, mutta vaatii enemmän osaamista, investointeja ja organisatorista muutosta — juuri niitä asioita, joihin nykyiset kannustimet eivät ohjaa, vaan ne suosivat ensimmäistä lähestymistapaa, joka on nopeampi ja lyhyellä aikavälillä halvempi."
-  },
-  {
-    "objectID": "posts/ai-productivity-incentives/index.html#tuottavuus-ei-seuraa-teknologiasta-automaattisesti",
-    "href": "posts/ai-productivity-incentives/index.html#tuottavuus-ei-seuraa-teknologiasta-automaattisesti",
-    "title": "Miksi AI:n tuottavuuslupaus ei toteudu",
-    "section": "Tuottavuus ei seuraa teknologiasta automaattisesti",
-    "text": "Tuottavuus ei seuraa teknologiasta automaattisesti\nBloomin aineisto, Acemoglun teoria ja Cunninghamin havainnot osoittavat samaan suuntaan. Tekoälyn taloudellinen vaikutus ei määräydy pelkästään teknologian kyvykkyyksistä vaan siitä, millaisiin käyttötarkoituksiin se ohjautuu.\nNykyinen institutionaalinen ympäristö — liiketoimintamallit, rahoituslogiikka, verotus ja omaksumisen käytännöt — suosii automaatiota. Juuri siellä tuottavuusvaikutukset ovat pienimmät.\nAI:n tuottavuuslupaus on todellinen. Se ei vain toteudu itsestään.\n\nLähteet: Acemoglu, D. (2024). The Simple Macroeconomics of AI. NBER WP 32487; Bloom, N. et al. (2026). NBER WP 34836; Cunningham, S. (2026). How to Encourage Adoption of AI Among Faculty. Baylor University; Acemoglu, D. (2026). AI Is Not Improving Productivity. Me, Myself, and AI -podcast, MIT Sloan Management Review."
   },
   {
     "objectID": "posts/ruoka/index.html",

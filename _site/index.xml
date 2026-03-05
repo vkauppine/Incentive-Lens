@@ -1,0 +1,2699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Incentive Lens</title>
+<link>https://vkauppine.github.io/Incentive-Lens/</link>
+<atom:link href="https://vkauppine.github.io/Incentive-Lens/index.xml" rel="self" type="application/rss+xml"/>
+<description>Talousblogi</description>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Thu, 26 Feb 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Miksi AI:n tuottavuuslupaus ei toteudu</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/ai-productivity-incentives/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Tekoälyyn investoidaan satoja miljardeja, ja yritysjohtajat odottavat tuottavuusloikkaa. Toistaiseksi data kertoo maltillisemmasta kehityksestä.</p>
+<p>Stanfordin Nick Bloomin helmikuussa 2026 julkaisema kysely, jonka toteuttivat Yhdysvaltain, Britannian, Saksan ja Australian keskuspankit, tarjoaa harvinaisen näkymän yritysjohdon kokemuksiin. Aineisto kattaa 6 000 johtajaa, ja tulos on yllättävän yhtenäinen: tekoäly on laajasti käytössä, mutta sen taloudelliset vaikutukset ovat jääneet vähäisiksi.</p>
+<p>70 % yrityksistä käyttää AI:ta. 75 % johtajista käyttää AI:ta henkilökohtaisesti, keskimäärin 1,5 tuntia viikossa. 91 % raportoi, ettei AI:lla ole ollut tuottavuusvaikutusta viimeisen kolmen vuoden aikana. Keskimääräinen toteutunut myyntikasvuvaikutus: 0,24 % yhteensä kolmessa vuodessa. Mutta: johtajat odottavat seuraavalta kolmelta vuodelta 2,25 % myyntikasvua AI:sta.</p>
+<p>Odotusten ja toteutuneen välinen ero on lähes kymmenkertainen. Kyse ei ole epärealistisista teknologiavisioista. Vastaajat ovat toimitus- ja talousjohtajia, joiden ennusteet yleensä seuraavat toteutuneita lukuja varsin tarkasti. He tuntevat liiketoimintansa ja osaavat arvioida sitä realistisesti. Silti tekoälyn kohdalla odotukset ja toteuma eivät kohtaa.</p>
+<p>Johtajat käyttävät tekoälytyökaluja keskimäärin 1,5 tuntia viikossa ilman näkyvää vaikutusta myyntiin. Tämä viittaa siihen, että tekoäly toimii toistaiseksi henkilökohtaisena apuvälineenä pikemminkin kuin liiketoiminnan tuotantoteknologiana. Se voi nopeuttaa sähköpostien kirjoittamista tai kokousmuistioiden laatimista, mutta ei vielä muuta yrityksen kykyä luoda arvoa.</p>
+<section id="acemoglun-laskelma" class="level2">
+<h2 class="anchored" data-anchor-id="acemoglun-laskelma">Acemoglun laskelma</h2>
+<p>Nobelisti Daron Acemoglu tarjoaa taloustieteeseen pohjaavan selityksen. Hänen vuoden 2024 NBER-paperinsa The Simple Macroeconomics of AI soveltaa Hultenin teoreemaa: kokonaistuottavuuden (TFP) kasvu on yksinkertaisesti AI:n vaikuttamien tehtävien BKT-osuus kerrottuna keskimääräisellä kustannussäästöllä.</p>
+<p>Eloundou et al.&nbsp;(2023) arvioivat, että noin 20 % USA:n työtehtävistä on AI:n ulottuvilla. Svanberg et al.&nbsp;(2024) tarkentavat, että näistä tehtävistä vain 23 % voidaan kannattavasti automatisoida 10 vuoden sisällä. Kokeellisten tutkimusten perusteella keskimääräinen työkustannussäästö on noin 27 %, mikä toimialojen työvoimaosuuksilla muunnettuna tarkoittaa noin 14 % kokonaiskustannussäästöä. Tällöin: <img src="https://latex.codecogs.com/png.latex?%0A%5Ctext%7BTFP-kasvu%7D%20=%200%7B,%7D046%20%5Ctimes%200%7B,%7D144%20%5Capprox%200%7B,%7D66%5C;%5C%25%5C;%5Ctext%7B(10%20vuodessa)%7D%0A"> eli noin 0,06 % vuodessa. Goldman Sachs ennustaa 1,5 % vuodessa, McKinsey 1,5–3,4 %. Acemoglun arvio on kertaluokkaa pienempi.</p>
+<p>Keskeinen syy liittyy tehtävien luonteeseen. Tekoäly toimii parhaiten ympäristöissä, joissa onnistuminen on helposti mitattavaa ja ongelmat hyvin määriteltyjä: koodinpätkät, tekstitiivistelmät, luokittelutehtävät. Suuri osa taloudesta koostuu kuitenkin tehtävistä, joissa ratkaisevaa on konteksti, hiljainen tieto ja epätäydellinen informaatio. Näissä tekoäly oppii keskimääräisen toimintatavan, ei huippuasiantuntijan harkintaa.</p>
+<p>Kun tämä ero huomioidaan, arvioitu tuottavuusvaikutus pienenee entisestään.</p>
+</section>
+<section id="kannustimongelma-ei-teknologiaongelma" class="level2">
+<h2 class="anchored" data-anchor-id="kannustimongelma-ei-teknologiaongelma">Kannustimongelma, ei teknologiaongelma</h2>
+<p>Acemoglun provosoivin väite on, ettei vaatimaton tuottavuuskehitys johdu tekoälyn teknisistä rajoista vaan taloudellisista kannustimista.</p>
+<p>Tekoäly voisi täydentää ihmistyötä luomalla uusia tehtäviä — esimerkiksi tarjoamalla asiantuntijoille kontekstisidonnaista tietoa tilanteissa, joissa kokemus on perinteisesti ollut ratkaisevaa. Acemoglun teoreettisessa kehikossa juuri tällainen komplementaarisuus on ainoa kanava joka kasvattaa sekä tuottavuutta, palkkoja että työn osuutta kansantulosta.</p>
+<p>Mutta näin ei ole käynyt.</p>
+<p>Yleiskäyttöiset mallit sopivat paremmin skaalautuviin kuluttajatuotteisiin kuin kapeisiin ammatillisiin sovelluksiin. Yrityksille automaatio on organisatorisesti helpoin käyttötapa. Startup-ekosysteemi puolestaan palkitsee ratkaisut, jotka integroituvat suurten teknologiayhtiöiden strategioihin. Lisäksi verojärjestelmät suosivat usein pääomaa suhteessa työhön, mikä tekee automatisoinnista suhteellisesti houkuttelevampaa.</p>
+<p>Tuloksena syntyy tasapaino, jossa tekoälyä käytetään ensisijaisesti työn korvaamiseen, ei uuden työn luomiseen.</p>
+</section>
+<section id="omaksumisen-dynamiikka" class="level2">
+<h2 class="anchored" data-anchor-id="omaksumisen-dynamiikka">Omaksumisen dynamiikka</h2>
+<p>Baylorin yliopiston Scott Cunningham kuvaa tekoälyä kokemushyödykkeeksi: sen arvo paljastuu vasta käytössä. Samalla kehittyneimpien mallien korkea hinta ja ilmaisversioiden rajallisuus johtavat helposti väärään ensivaikutelmaan. Seurauksena syntyy hype–pettymys-sykli: käyttäjät kokeilevat, pettyvät ja lopettavat ennen syvempää omaksumista.</p>
+<p>Cunningham erottaa kaksi käyttötapaa: vibe coding — chatbot-pohjainen kopioi–liitä-työskentely — ja agenttien ohjaamiseen perustuva valvova työ (agent supervision).</p>
+<p>Ensimmäinen korvaa työtä mutta tuottaa rajallista lisäarvoa. Jälkimmäinen kasvattaa inhimillistä pääomaa, mutta vaatii enemmän osaamista, investointeja ja organisatorista muutosta — juuri niitä asioita, joihin nykyiset kannustimet eivät ohjaa, vaan ne suosivat ensimmäistä lähestymistapaa, joka on nopeampi ja lyhyellä aikavälillä halvempi.</p>
+</section>
+<section id="tuottavuus-ei-seuraa-teknologiasta-automaattisesti" class="level2">
+<h2 class="anchored" data-anchor-id="tuottavuus-ei-seuraa-teknologiasta-automaattisesti">Tuottavuus ei seuraa teknologiasta automaattisesti</h2>
+<p>Bloomin aineisto, Acemoglun teoria ja Cunninghamin havainnot osoittavat samaan suuntaan. Tekoälyn taloudellinen vaikutus ei määräydy pelkästään teknologian kyvykkyyksistä vaan siitä, millaisiin käyttötarkoituksiin se ohjautuu.</p>
+<p>Nykyinen institutionaalinen ympäristö — liiketoimintamallit, rahoituslogiikka, verotus ja omaksumisen käytännöt — suosii automaatiota. Juuri siellä tuottavuusvaikutukset ovat pienimmät.</p>
+<p>AI:n tuottavuuslupaus on todellinen. Se ei vain toteudu itsestään.</p>
+<hr>
+<p><em>Lähteet: Acemoglu, D. (2024). The Simple Macroeconomics of AI. NBER WP 32487; Bloom, N. et al.&nbsp;(2026). NBER WP 34836; Cunningham, S. (2026). How to Encourage Adoption of AI Among Faculty. Baylor University; Acemoglu, D. (2026). AI Is Not Improving Productivity. Me, Myself, and AI -podcast, MIT Sloan Management Review.</em></p>
+
+
+</section>
+
+ ]]></description>
+  <category>taloustiede</category>
+  <category>AI</category>
+  <category>tuottavuus</category>
+  <category>kannustimet</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/ai-productivity-incentives/</guid>
+  <pubDate>Thu, 26 Feb 2026 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Kenen tuottavuusbuumi? Fedin uuden johtajan AI-argumentin kannustinrakenne</title>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/warsh/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="haukasta-kyyhkyksi-yhdessä-nimityksessä" class="level2">
+<h2 class="anchored" data-anchor-id="haukasta-kyyhkyksi-yhdessä-nimityksessä">Haukasta kyyhkyksi yhdessä nimityksessä</h2>
+<p>evin Warsh on rahapolitiikan historiassa tunnettu inflaatiahaukkana. Fedin johtokunnan jäsenenä vuosina 2006–2011 hän vastusti määrällistä elvytystä, kritisoi Ben Bernanken linjaa ja erosi lopulta, koska piti keskuspankin taseen kasvattamista riskialttiina. Finanssikriisin alkuvaiheessa hän varoitti inflaatiosta aikana, jolloin suurin osa kollegoista pelkäsi deflaatiota.</p>
+<p>Nyt Warsh on Donald Trumpin valinta Fedin seuraavaksi puheenjohtajaksi, ja hänen viestinsä on muuttunut: korkoja tulisi laskea, koska tekoäly kiihdyttää tuottavuutta ja hillitsee inflaatiota.</p>
+<p>Muutos ei ole pieni, sillä se koskee rahapolitiikan perusasetelmaa.</p>
+</section>
+<section id="ai-tuottavuusargumenttina" class="level2">
+<h2 class="anchored" data-anchor-id="ai-tuottavuusargumenttina">AI tuottavuusargumenttina</h2>
+<p>Warshin mukaan tekoäly on rakenteellisesti disinflatoorinen teknologia. Jos tuottavuus kasvaa nopeasti, talous voi laajentua ilman hintapaineita, eikä keskuspankin tarvitse pitää korkoja korkealla. Hän vertaa tilannetta Alan Greenspanin päätöksiin 1990-luvun lopulla, jolloin Fed ei kiristänyt rahapolitiikkaa internet-talouden alkuvaiheessa.</p>
+<p>Tuolloin työn tuottavuus Yhdysvalloissa kasvoi noin kolme prosenttia vuodessa vuosina 1996–2003, selvästi nopeammin kuin edeltävinä vuosikymmeninä. Greenspanin varovaisuus osoittautui jälkikäteen perustelluksi.</p>
+<p>Vertaus on kuitenkin ongelmallinen useasta syystä.</p>
+</section>
+<section id="greenspan-analogia-ei-kanna-pitkälle" class="level2">
+<h2 class="anchored" data-anchor-id="greenspan-analogia-ei-kanna-pitkälle">Greenspan-analogia ei kanna pitkälle</h2>
+<p>Ensimmäinen ero koskee politiikkatoimia. Greenspan ei laskenut korkoja tuottavuusodotusten vuoksi, vaan pidättäytyi nostamasta niitä. Warshin linja edellyttäisi aktiivista keventämistä tilanteessa, jossa tuottavuusvaikutukset eivät vielä näy makrodatassa. Paul Krugman ja Bank of American Aditya Bhave ovat korostaneet tätä eroa.</p>
+<p>Toinen ero liittyy talousympäristöön. 1990-luvulla inflaatiota hillitsivät globalisaation syveneminen, kasvava työvoiman tarjonta ja Yhdysvaltojen budjettiylijäämät. Nykytilanne on lähes päinvastainen: kauppapolitiikka on kiristynyt, maahanmuutto vähentynyt ja julkinen alijäämä kasvaa. Deutsche Bankin Matthew Luzzetti on huomauttanut, että olosuhteet tekevät ennaltaehkäisevästä koronlaskusta vaikeasti perusteltavan.</p>
+<p>Kolmanneksi tuottavuuden kiihtyminen ei välttämättä tarkoita matalampia korkoja. Clevelandin Fedin Beth Hammack on argumentoinut, että vahvempi tuottavuus voi nostaa neutraalia korkotasoa — tasoa, jolla rahapolitiikka ei elvytä eikä kiristä. Tällöin talous yksinkertaisesti kestää korkeammat korot. Fedin varapuheenjohtaja Philip Jefferson on lisäksi korostanut lyhyen aikavälin investointipainetta: datakeskukset, sirutuotanto ja energiankulutus voivat lisätä kysyntää ja nostaa inflaatiota ennen mahdollisia tuottavuushyötyjä.</p>
+<p>AI-investointien vaikutukset näkyvät jo tietyissä komponenteissa. Muistisirujen hinnat ovat nousseet voimakkaasti datakeskuskysynnän vuoksi.</p>
+<p>Financial Timesin ja Chicagon yliopiston ekonomistikysely tukee varovaisempaa tulkintaa: enemmistö vastaajista ei odota tekoälyn vaikuttavan merkittävästi inflaatioon tai neutraaliin korkoon lähivuosina, ja osa arvioi vaikutuksen jopa nostavan korkotasoa.</p>
+</section>
+<section id="kannustinrakenteet-ja-argumentointi" class="level2">
+<h2 class="anchored" data-anchor-id="kannustinrakenteet-ja-argumentointi">Kannustinrakenteet ja argumentointi</h2>
+<p>Taloustieteellinen kiista ei yksin selitä keskustelua. Warshin nimitys tapahtui tilanteessa, jossa Trump on avoimesti toivonut Fedin laskevan korkoja. Rahapoliittinen linja oli siis poliittisesti määritelty ennen talousteoreettista perustelua.</p>
+<p>Renaissance Macro Research tiivisti tilanteen toteamalla, että Warshin uran haukkamainen linja ja nykyinen kyyhkymäisyys ovat vaikeasti erotettavissa nimityksen poliittisesta kontekstista. Argumentti ei välttämättä ole väärä, mutta sen arviointi muuttuu, kun esittäjällä on selkeä institutionaalinen kannustin.</p>
+<p>Sama pätee myös kriitikoihin. Fedin nykyjohto puolustaa institutionaalista jatkuvuutta ja keskuspankin riippumattomuutta. Varovainen suhtautuminen AI-tuottavuusargumenttiin tukee samalla nykyistä politiikkalinjaa. Kannustimet eivät tee analyysistä virheellistä, mutta ne vaikuttavat siihen, millaisia riskejä pidetään uskottavina.</p>
+<p>Myös finanssipolitiikan puolella intressit ovat ilmeiset: matalammat korot helpottaisivat velkarahoitusta ja tukisivat talouskasvua poliittisesti herkällä hetkellä.</p>
+</section>
+<section id="miksi-keskustelu-on-merkittävä" class="level2">
+<h2 class="anchored" data-anchor-id="miksi-keskustelu-on-merkittävä">Miksi keskustelu on merkittävä</h2>
+<p>Kysymys ei lopulta ole siitä, lisääkö tekoäly tuottavuutta — todennäköisesti lisää — vaan aikataulusta ja mittaluokasta. Rahapolitiikka reagoi toteutuneeseen inflaatioon ja havaittavaan kapasiteettiin, ei teknologisiin odotuksiin.</p>
+<p>McKinseyn vuoden 2025 raportin mukaan suurin osa organisaatioista käyttää tekoälyä jossakin toiminnossa, mutta vain pieni osa on saavuttanut laajamittaisen käyttöönoton. Tuottavuushyödyt näkyvät toistaiseksi yksittäisissä tehtävissä, eivät koko talouden tasolla.</p>
+<p>Warshin ehdotus edellyttää politiikkamuutosta ennen kuin data vahvistaa vaikutukset. Se voidaan tulkita optimistiseksi ennakoinniksi tai strategiseksi riskinotoksi. Molemmat ovat mahdollisia samanaikaisesti.</p>
+<p>Rahapoliittisessa keskustelussa teknologia toimii usein argumenttina epävarmuuden keskellä. Siksi pelkkä väite tekoälyn mullistavuudesta ei vielä kerro, millainen politiikka on perusteltua — mutta se kertoo usein, millaista politiikkaa joku haluaa.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>rahapolitiikka</category>
+  <category>kannustimet</category>
+  <category>tekoäly</category>
+  <category>fed</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/warsh/</guid>
+  <pubDate>Mon, 23 Feb 2026 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Singapore: tehokas selviytymiskone</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/singapore/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="johdanto" class="level2">
+<h2 class="anchored" data-anchor-id="johdanto">Johdanto</h2>
+<p>Singapore on taloushistoriallinen poikkeus. Pieni kaupunkivaltio ilman merkittäviä luonnonvaroja itsenäistyi vuonna 1965 vaikeassa poliittisessa tilanteessa. Muutamassa vuosikymmenessä BKT asukasta kohden nousi tasolle, joka ohitti valtaosan teollisuusmaista. Tapaus on taloustieteelle hankala juuri siksi, että se ei istu siististi perusluokkiin: Singapore ei ole libertaarinen minivaltio eikä pohjoismainen hyvinvointivaltio, vaan yhdistelmä markkinakuria, vahvaa hallintoa ja valikoivaa sosiaalipolitiikkaa.</p>
+<p>Tässä kirjoituksessa jäsennän Singaporen mallin keskeisiä osia taloustieteen näkökulmasta: kasvun lähteitä, valtion roolia, julkisen talouden rakennetta, eriarvoisuutta ja mallin haavoittuvuuksia. Tarkoitus ei ole moralisoida vaan ymmärtää, mikä selittää tuloksia ja millä ehdoilla ne on saavutettu.</p>
+</section>
+<section id="menestys-numeroina" class="level2">
+<h2 class="anchored" data-anchor-id="menestys-numeroina">Menestys numeroina</h2>
+<p>Singaporen kehitystä kuvataan usein BKT:llä, mutta yhtä olennaista on se, miten kasvu näkyy inhimillisissä mittareissa.</p>
+<p>Elinajanodote (83,5 vuotta vuonna 2024) on maailman kärkeä. Lapsikuolleisuus on laskenut alle 2,3 kuolemaan tuhatta elävänä syntynyttä kohden, ja lukutaitoaste on käytännössä 100 %. PISA 2022 -tuloksissa Singapore oli ykkönen matematiikassa (575), lukutaidossa (543) ja luonnontieteissä (561). Lisäksi suuri osuus oppilaista yltää matematiikassa korkeimmalle osaamistasolle (41 %), kun OECD-maissa vastaava osuus on selvästi pienempi (noin 9 %). Korkeakoulutuksessa NUS ja NTU sijoittuvat QS World University Rankings 2026 -listalla globaalisti aivan kärkeen. Kotitalouksien mediaanitulot olivat 11 297 Singaporen dollaria kuukaudessa vuonna 2024.</p>
+<p>Mittarit viittaavat siihen, että kasvu on muuttunut monin paikoin palveluiden, terveyden ja koulutuksen paranemiseksi. Samalla “ketkä lasketaan mukaan” on olennainen kysymys, etenkin kun tarkastellaan maahanmuuttoa ja työmarkkinoiden kaksijakoisuutta.</p>
+</section>
+<section id="instituutiot-taloudellisesti-avoin-poliittisesti-kurinalainen" class="level2">
+<h2 class="anchored" data-anchor-id="instituutiot-taloudellisesti-avoin-poliittisesti-kurinalainen">Instituutiot: taloudellisesti avoin, poliittisesti kurinalainen</h2>
+<p>Singaporea on hallinnut itsenäisyydestä lähtien käytännössä yksi puolue (People’s Action Party, PAP). Tämä nostaa esiin peruskysymyksen: miten rajoittunut poliittinen kilpailu sopii yhteen taloudellisen menestyksen kanssa?</p>
+<p>Selitys löytyy ennen kaikkea hallinnon kapasiteetista ja institutionaalisesta laadusta. Lee Kuan Yew’n kaudella rakennettiin virkamieskoneisto, joka on ollut korruption suhteen poikkeuksellisen tiukka, palkkatasoltaan kilpailukykyinen ja toimeenpanokyvyltään vahva. Sopimusoikeuden ja omistusoikeuksien suoja on ollut luotettava, ja päätöksenteko on pystynyt sitoutumaan pitkän aikavälin linjaan ilman jatkuvaa vaalipolitiikan heiluntaa.</p>
+<p>Acemoglun ja Robinsonin kehikossa Singapore on hybridi: poliittiset instituutiot ovat osin rajoittuneet, mutta taloudelliset instituutiot ovat monilta osin inklusiivisia ja markkinaystävällisiä. Yhdistelmä ei kumoa instituutioteoriaa, mutta se pakottaa erottamaan poliittisen ja taloudellisen avoimuuden toisistaan tarkemmin kuin yksinkertainen “pakettiselitys” sallii.</p>
+</section>
+<section id="kasvumalli-solowsta-endogeeniseen-kasvuun" class="level2">
+<h2 class="anchored" data-anchor-id="kasvumalli-solowsta-endogeeniseen-kasvuun">Kasvumalli: Solow’sta endogeeniseen kasvuun</h2>
+<p>Singaporen kasvutarina jakautuu karkeasti kahteen vaiheeseen, jotka vastaavat eri kasvuteorioiden ennusteita.</p>
+<div class="cell">
+<details class="code-fold">
+<summary>Näytä koodi</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Haetaan BKT per capita -data</span></span>
+<span id="cb1-2">gdp_data <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">WDI</span>(</span>
+<span id="cb1-3">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">country =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"SG"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"FI"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"KR"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"MY"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"US"</span>),</span>
+<span id="cb1-4">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">indicator =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"NY.GDP.PCAP.CD"</span>,</span>
+<span id="cb1-5">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">start =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1965</span>,</span>
+<span id="cb1-6">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">end =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2023</span></span>
+<span id="cb1-7">) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span></span>
+<span id="cb1-8">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">rename</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">gdp_pc =</span> NY.GDP.PCAP.CD) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span></span>
+<span id="cb1-9">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">mutate</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">country_fi =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">case_when</span>(</span>
+<span id="cb1-10">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"SG"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Singapore"</span>,</span>
+<span id="cb1-11">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"FI"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Suomi"</span>,</span>
+<span id="cb1-12">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"KR"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Etelä-Korea"</span>,</span>
+<span id="cb1-13">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"MY"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Malesia"</span>,</span>
+<span id="cb1-14">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"US"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Yhdysvallat"</span></span>
+<span id="cb1-15">  ))</span>
+<span id="cb1-16"></span>
+<span id="cb1-17"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ggplot</span>(gdp_data, <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> year, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> gdp_pc, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> country_fi)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb1-18">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_line</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">linewidth =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb1-19">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">scale_y_continuous</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">labels =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">label_dollar</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">prefix =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"$"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">big.mark =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">" "</span>)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb1-20">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">scale_color_manual</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">values =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(</span>
+<span id="cb1-21">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Singapore"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#e63946"</span>,</span>
+<span id="cb1-22">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Suomi"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#457b9d"</span>,</span>
+<span id="cb1-23">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Etelä-Korea"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#2a9d8f"</span>,</span>
+<span id="cb1-24">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Malesia"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#e9c46a"</span>,</span>
+<span id="cb1-25">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Yhdysvallat"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#264653"</span></span>
+<span id="cb1-26">  )) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb1-27">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">labs</span>(</span>
+<span id="cb1-28">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Singaporen nousu: BKT asukasta kohden"</span>,</span>
+<span id="cb1-29">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Käypä USD, 1965–2023"</span>,</span>
+<span id="cb1-30">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">NULL</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">NULL</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">NULL</span>,</span>
+<span id="cb1-31">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Lähde: World Bank, World Development Indicators"</span></span>
+<span id="cb1-32">  ) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb1-33">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">theme</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">legend.position =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"bottom"</span>)</span></code></pre></div></div>
+</details>
+<div class="cell-output-display">
+<div id="fig-gdp-kasvu" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-gdp-kasvu-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://vkauppine.github.io/Incentive-Lens/posts/singapore/index_files/figure-html/fig-gdp-kasvu-1.png" class="img-fluid figure-img" width="672">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-gdp-kasvu-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Kuva&nbsp;1: Singaporen BKT asukasta kohden (käypä USD) verrattuna valikoituihin maihin. Lähde: Maailmanpankki (WDI).
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<section id="ensimmäinen-vaihe-pääomakertymä-19651990" class="level3">
+<h3 class="anchored" data-anchor-id="ensimmäinen-vaihe-pääomakertymä-19651990">Ensimmäinen vaihe: pääomakertymä (1965–1990)</h3>
+<p>Varhaisvaihe vastaa pitkälti Solow’n mallin ennustetta: nopea kasvu perustui korkeaan investointiasteeseen, ulkomaisiin suoriin investointeihin ja työvoiman kasvuun. Köyhä talous otti kiinni rikkaampia ennen kaikkea pääomaa kasaamalla ja tuotantokapasiteettia laajentamalla.</p>
+<p>Keskeinen strateginen valinta oli ulkoinen avoimuus. Singapore ei rakentanut tuontikorvausmallia, vaan houkutteli monikansallisia yrityksiä ja integroi itsensä globaaleihin arvoketjuihin. Pienenä taloutena se teki kilpailukyvystä ja ennustettavuudesta eräänlaisen “tuotteen”: markkinat pidettiin avoimina ja toimintaympäristö kilpailijoita houkuttelevampana.</p>
+</section>
+<section id="toinen-vaihe-osaaminen-ja-tuottavuus-1990" class="level3">
+<h3 class="anchored" data-anchor-id="toinen-vaihe-osaaminen-ja-tuottavuus-1990">Toinen vaihe: osaaminen ja tuottavuus (1990–)</h3>
+<p>1990-luvulta eteenpäin pelkkä pääomakertymä ei enää riittänyt samalla tavalla. Krugmanin (1994) kritiikki Aasian “ihmeestä” osui osin myös Singaporeen: alkuvaiheen kasvu oli pitkälti työpanoksen ja pääoman lisäämistä, ei välttämättä poikkeuksellista kokonaistuottavuuden nousua.</p>
+<p>Tämän jälkeen painopiste siirtyi kohti tuottavuutta ja osaamista. Singapore profiloitui finanssikeskukseksi, logistiikan ja satamatoiminnan tehokkuuden solmukohdaksi sekä korkean osaamisen työmarkkinaksi. Koulutuspolitiikassa STEM-painotus, tutkimuspanostukset ja kansainvälisten osaajien rekrytointi tukivat siirtymää, jossa inhimillinen pääoma ja institutionaalinen laatu alkoivat selittää kasvua fyysistä pääomaa enemmän.</p>
+</section>
+</section>
+<section id="valtion-rooli-valtiokapitalismi-vai-markkinatalous" class="level2">
+<h2 class="anchored" data-anchor-id="valtion-rooli-valtiokapitalismi-vai-markkinatalous">Valtion rooli: valtiokapitalismi vai markkinatalous?</h2>
+<p>SSingapore sijoittuu talousvapausvertailuissa kärkeen, mutta valtion rooli on suurempi kuin pelkkä “pieni valtio” -mielikuva antaa ymmärtää. Temasek Holdings ja GIC hallinnoivat mittavia varallisuusmassoja, ja osa strategisista yhtiöistä on valtion omistuksessa (esim. Singapore Airlines, Singtel, ST Engineering Temasekin salkussa).</p>
+<p>Taloustieteellisesti tästä seuraa kolme kysymystä: (1) onko valtion omistajuus tehokasta, (2) syrjäyttääkö se yksityistä pääomaa, ja (3) toimiiko se riskinkannon välineenä pienessä avoimessa taloudessa.</p>
+<p>Empiirinen kokonaiskuva on usein yllättävän myönteinen. Valtionyhtiöiden hallinto on rakennettu markkinaehtoiseksi, ja poliittinen ohjaus on moniin valtiokapitalistisiin järjestelmiin verrattuna rajatumpaa. “Crowding out” -ilmiötä on vaikea erottaa selvästi; monessa tapauksessa valtion omistajuus näyttää täydentävän rahoitus- ja riskinkantokykyä eikä vain korvaavan yksityistä.</p>
+<p>Singapore toimii esimerkkinä siitä, että valtion aktiivinen rooli ja markkinoiden tehokkuus eivät ole automaattisesti ristiriidassa, jos hallinnon kannustimet ja yritysohjaus on rakennettu tiukasti suorituskyvyn ympärille.</p>
+</section>
+<section id="julkinen-talous-matalat-verot-pakollinen-säästäminen" class="level2">
+<h2 class="anchored" data-anchor-id="julkinen-talous-matalat-verot-pakollinen-säästäminen">Julkinen talous: matalat verot, pakollinen säästäminen</h2>
+<section id="verotus" class="level3">
+<h3 class="anchored" data-anchor-id="verotus">Verotus</h3>
+<p>Julkinen sektori on BKT-suhteessa pieni etenkin pohjoismaiseen vertailuun nähden. Tuloverotus on suhteellisen matalaa (ylin marginaali 22 %), yritysvero kilpailukykyinen (17 %), ja pääomatulo- tai perintöveroa ei käytännössä ole. Kulutusvero (GST) on noussut asteittain 9 prosenttiin vuoteen 2024 mennessä.</p>
+<p>Matalat verot eivät kuitenkaan tarkoita, että valtio olisi “neutraali”. Ohjaus tapahtuu osin muilla instrumenteilla, joista tärkein on CPF.</p>
+</section>
+<section id="cpf-pakollinen-säästämisjärjestelmä" class="level3">
+<h3 class="anchored" data-anchor-id="cpf-pakollinen-säästämisjärjestelmä">CPF: pakollinen säästämisjärjestelmä</h3>
+<p>Central Provident Fund (CPF) on järjestelmän ydininstituutio. Alle 55-vuotiailla työntekijöillä ja työnantajilla yhteenlaskettu maksu on 37 % palkasta. Varat jakautuvat eläke-, terveys- ja yleistileihin. Muodollisesti kyse on yksilön säästöstä, mutta talouspoliittisesti se toimii pakollisena säästämisjärjestelmänä.</p>
+<div class="cell">
+<details class="code-fold">
+<summary>Näytä koodi</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1">savings_data <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">WDI</span>(</span>
+<span id="cb2-2">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">country =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"SG"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"FI"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"KR"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"US"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"JP"</span>),</span>
+<span id="cb2-3">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">indicator =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"NY.GDS.TOTL.ZS"</span>,</span>
+<span id="cb2-4">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">start =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1980</span>,</span>
+<span id="cb2-5">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">end =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2023</span></span>
+<span id="cb2-6">) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span></span>
+<span id="cb2-7">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">rename</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">savings =</span> NY.GDS.TOTL.ZS) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span></span>
+<span id="cb2-8">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">mutate</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">country_fi =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">case_when</span>(</span>
+<span id="cb2-9">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"SG"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Singapore"</span>,</span>
+<span id="cb2-10">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"FI"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Suomi"</span>,</span>
+<span id="cb2-11">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"KR"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Etelä-Korea"</span>,</span>
+<span id="cb2-12">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"US"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Yhdysvallat"</span>,</span>
+<span id="cb2-13">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"JP"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Japani"</span></span>
+<span id="cb2-14">  ))</span>
+<span id="cb2-15"></span>
+<span id="cb2-16"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ggplot</span>(savings_data, <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> year, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> savings, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> country_fi)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb2-17">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_line</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">linewidth =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb2-18">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">scale_y_continuous</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">labels =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">label_percent</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">scale =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb2-19">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">scale_color_manual</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">values =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(</span>
+<span id="cb2-20">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Singapore"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#e63946"</span>,</span>
+<span id="cb2-21">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Suomi"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#457b9d"</span>,</span>
+<span id="cb2-22">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Etelä-Korea"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#2a9d8f"</span>,</span>
+<span id="cb2-23">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Yhdysvallat"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#264653"</span>,</span>
+<span id="cb2-24">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Japani"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#f4a261"</span></span>
+<span id="cb2-25">  )) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb2-26">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">labs</span>(</span>
+<span id="cb2-27">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Singaporen poikkeuksellinen säästämisaste"</span>,</span>
+<span id="cb2-28">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Bruttosäästäminen, % BKT:stä"</span>,</span>
+<span id="cb2-29">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">NULL</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">NULL</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">NULL</span>,</span>
+<span id="cb2-30">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Lähde: World Bank, World Development Indicators"</span></span>
+<span id="cb2-31">  ) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb2-32">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">theme</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">legend.position =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"bottom"</span>)</span></code></pre></div></div>
+</details>
+<div class="cell-output-display">
+<div id="fig-saastaminen" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-saastaminen-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://vkauppine.github.io/Incentive-Lens/posts/singapore/index_files/figure-html/fig-saastaminen-1.png" class="img-fluid figure-img" width="672">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-saastaminen-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Kuva&nbsp;2: Bruttosäästämisaste (% BKT:stä) Singaporessa ja vertailumaissa. Lähde: Maailmanpankki.
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>Makrotasolla vaikutus on selvä: korkea kansallinen säästämisaste tukee investointeja ja vähentää julkisen budjetin eläkevastuuta verrattuna järjestelmiin, joissa eläkkeet rahoitetaan laajasti verovaroin. Samalla riskejä ja vastuuta siirretään yksilölle – ei vapaaehtoisuuden, vaan pakon kautta.</p>
+</section>
+</section>
+<section id="hdb-asuntopolitiikka-varallisuuspolitiikkana" class="level2">
+<h2 class="anchored" data-anchor-id="hdb-asuntopolitiikka-varallisuuspolitiikkana">HDB: asuntopolitiikka varallisuuspolitiikkana</h2>
+<p>Housing &amp; Development Board (HDB) on asuntopolitiikan lisäksi varallisuus- ja legitimiteettipolitiikkaa. Noin 80 % asukkaista asuu HDB-asunnoissa, ja CPF-säästöjä voi käyttää niiden rahoittamiseen.</p>
+<p>Taloustieteellisesti järjestelmä tekee kolme asiaa yhtä aikaa: se kasvattaa kotitalouksien nettovarallisuutta, ankkuroiden keskiluokan poliittisesti vakaaseen omistaja-asemaan; se ohjaa pakollista säästämistä konkreettiseen omaisuuserään; ja se luo mekanismin, jossa kansalaiset hyötyvät kasvusta ilman laajaa universaalia tulonsiirtojärjestelmää.</p>
+<p>Järjestelmän heikkous on symmetrinen: jos HDB-asuntojen arvot laskisivat merkittävästi, vaikutus olisi sekä taloudellinen että poliittinen. Kun varallisuus on sidottu asuntoihin ja asumisen kehys on vahvasti julkinen, hintatason hallinnasta tulee osa järjestelmän uskottavuutta.</p>
+</section>
+<section id="maahanmuutto-ja-kaksoistyömarkkinat" class="level2">
+<h2 class="anchored" data-anchor-id="maahanmuutto-ja-kaksoistyömarkkinat">Maahanmuutto ja kaksoistyömarkkinat</h2>
+<p>Singapore käyttää työperäistä maahanmuuttoa talouden joustona. Käytännössä järjestelmä jakautuu kahteen virtaan: korkean osaamisen maahanmuutto (finanssi, teknologia, tutkimus) ja matalapalkkaiset vierastyöläiset (rakennus, siivous, osa hoivasta).</p>
+<p>Makrotaloudellisesti tämä lisää työvoiman tarjontaa, vaimentaa palkkainflaatiota ja nostaa tuotantopotentiaalia. Samalla se luo kaksoistyömarkkinan, jossa oikeudet, asuminen ja turva eroavat jyrkästi statuksen ja kansalaisuuden perusteella.</p>
+<p>Tämä näkyy myös arjessa. Rakennustyövoima asuu usein erillisissä asuntoloissa ja liikkuu työmaille järjestetyillä kuljetuksilla. Toisaalla korkean osaamisen “expat”-työvoima toimii kansainvälisillä työmarkkinoilla, joilla oleskeluluvat, urapolut ja varallisuuskehitys ovat täysin eri luokkaa. Molemmat ovat ulkomaista työvoimaa, mutta instituutiot kohtelevat heitä kahtena eri ryhmänä.</p>
+</section>
+<section id="eriarvoisuus-kasvua-ensin-uudelleenjakoa-ehkä-myöhemmin" class="level2">
+<h2 class="anchored" data-anchor-id="eriarvoisuus-kasvua-ensin-uudelleenjakoa-ehkä-myöhemmin">Eriarvoisuus: kasvua ensin, uudelleenjakoa ehkä myöhemmin</h2>
+<div class="cell">
+<details class="code-fold">
+<summary>Näytä koodi</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1">sg_gini <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tibble</span>(</span>
+<span id="cb3-2">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">year =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2000</span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2023</span>,</span>
+<span id="cb3-3">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">gini =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">44.2</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">45.4</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">45.4</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">45.3</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">45.6</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">46.8</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">47.0</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">47.2</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">47.4</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">47.1</span>,</span>
+<span id="cb3-4">           <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">47.2</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">47.3</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">47.3</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">46.3</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">46.4</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">46.3</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">45.8</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">45.9</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">45.8</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">45.2</span>,</span>
+<span id="cb3-5">           <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">45.2</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">44.4</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">43.7</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">43.3</span>),</span>
+<span id="cb3-6">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">country_fi =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Singapore"</span></span>
+<span id="cb3-7">)</span>
+<span id="cb3-8"></span>
+<span id="cb3-9">gini_other <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">WDI</span>(</span>
+<span id="cb3-10">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">country =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"FI"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"KR"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"US"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"MY"</span>),</span>
+<span id="cb3-11">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">indicator =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"SI.POV.GINI"</span>,</span>
+<span id="cb3-12">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">start =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2000</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">end =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2023</span></span>
+<span id="cb3-13">) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span></span>
+<span id="cb3-14">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">rename</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">gini =</span> SI.POV.GINI) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span></span>
+<span id="cb3-15">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">filter</span>(<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">!</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">is.na</span>(gini)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span></span>
+<span id="cb3-16">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">mutate</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">country_fi =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">case_when</span>(</span>
+<span id="cb3-17">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"FI"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Suomi"</span>,</span>
+<span id="cb3-18">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"KR"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Etelä-Korea"</span>,</span>
+<span id="cb3-19">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"US"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Yhdysvallat"</span>,</span>
+<span id="cb3-20">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"MY"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Malesia"</span></span>
+<span id="cb3-21">  )) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span></span>
+<span id="cb3-22">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">select</span>(year, gini, country_fi)</span>
+<span id="cb3-23"></span>
+<span id="cb3-24">gini_data <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">bind_rows</span>(gini_other, sg_gini)</span>
+<span id="cb3-25"></span>
+<span id="cb3-26"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Debug — poista kun toimii</span></span>
+<span id="cb3-27">gini_data <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">count</span>(country_fi)</span></code></pre></div></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>   country_fi  n
+1 Etelä-Korea 11
+2     Malesia  8
+3   Singapore 24
+4       Suomi 22
+5 Yhdysvallat 24</code></pre>
+</div>
+<details class="code-fold">
+<summary>Näytä koodi</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ggplot</span>(gini_data, <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> year, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> gini, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> country_fi)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb5-2">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_line</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">linewidth =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb5-3">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_point</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">alpha =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.7</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb5-4">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">scale_color_manual</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">values =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(</span>
+<span id="cb5-5">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Singapore"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#e63946"</span>,</span>
+<span id="cb5-6">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Suomi"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#457b9d"</span>,</span>
+<span id="cb5-7">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Etelä-Korea"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#2a9d8f"</span>,</span>
+<span id="cb5-8">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Yhdysvallat"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#264653"</span>,</span>
+<span id="cb5-9">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Malesia"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#e9c46a"</span></span>
+<span id="cb5-10">  )) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb5-11">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">labs</span>(</span>
+<span id="cb5-12">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Eriarvoisuus: Singapore muiden joukossa"</span>,</span>
+<span id="cb5-13">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Gini-kerroin (0 = täysi tasa-arvo, 100 = täysi eriarvoisuus)"</span>,</span>
+<span id="cb5-14">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">NULL</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">NULL</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">NULL</span>,</span>
+<span id="cb5-15">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Lähteet: World Bank (WDI); Singapore Department of Statistics</span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">\n</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">Huom: Singaporen luvut ennen tulonsiirtoja. Tulonsiirtojen jälkeen 0.371 (2023)."</span></span>
+<span id="cb5-16">  ) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb5-17">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">theme</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">legend.position =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"bottom"</span>)</span></code></pre></div></div>
+</details>
+<div class="cell-output-display">
+<div id="fig-gini" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-gini-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://vkauppine.github.io/Incentive-Lens/posts/singapore/index_files/figure-html/fig-gini-1.png" class="img-fluid figure-img" width="672">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-gini-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Kuva&nbsp;3: Gini-kerroin Singaporessa ja vertailumaissa. Lähteet: Maailmanpankki (WDI), Singapore Department of Statistics.
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>Singaporen markkinatulojen Gini on korkea (esim. 0,435 vuonna 2024 ennen tulonsiirtoja). Verojen ja tulonsiirtojen jälkeen eriarvoisuus pienenee selvästi (0,364 vuonna 2024), mutta taso jää silti kauas pohjoismaisesta mallista.</p>
+<p>Järjestelmän logiikka on johdonmukainen: universaalia uudelleenjakoa on vähän, tuki kohdistetaan pienituloisille ja riskiryhmille. Perusajatus on, että kasvu rakennetaan ensin ja korjaukset tehdään kohdennetusti – ei laajalla tulonsiirtoarkkitehtuurilla.</p>
+</section>
+<section id="avoimuus-ja-haavoittuvuus" class="level2">
+<h2 class="anchored" data-anchor-id="avoimuus-ja-haavoittuvuus">Avoimuus ja haavoittuvuus</h2>
+<div class="cell">
+<details class="code-fold">
+<summary>Näytä koodi</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1">trade_data <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">WDI</span>(</span>
+<span id="cb6-2">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">country =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"SG"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"FI"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"KR"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"US"</span>),</span>
+<span id="cb6-3">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">indicator =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"NE.TRD.GNFS.ZS"</span>,</span>
+<span id="cb6-4">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">start =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1965</span>,</span>
+<span id="cb6-5">  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">end =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2023</span></span>
+<span id="cb6-6">) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span></span>
+<span id="cb6-7">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">rename</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">trade =</span> NE.TRD.GNFS.ZS) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span></span>
+<span id="cb6-8">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">mutate</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">country_fi =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">case_when</span>(</span>
+<span id="cb6-9">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"SG"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Singapore"</span>,</span>
+<span id="cb6-10">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"FI"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Suomi"</span>,</span>
+<span id="cb6-11">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"KR"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Etelä-Korea"</span>,</span>
+<span id="cb6-12">    iso2c <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"US"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">~</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Yhdysvallat"</span></span>
+<span id="cb6-13">  ))</span>
+<span id="cb6-14"></span>
+<span id="cb6-15"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ggplot</span>(trade_data, <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> year, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> trade, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> country_fi)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb6-16">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_line</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">linewidth =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb6-17">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">scale_y_continuous</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">labels =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">label_percent</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">scale =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb6-18">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">scale_color_manual</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">values =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(</span>
+<span id="cb6-19">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Singapore"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#e63946"</span>,</span>
+<span id="cb6-20">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Suomi"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#457b9d"</span>,</span>
+<span id="cb6-21">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Etelä-Korea"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#2a9d8f"</span>,</span>
+<span id="cb6-22">    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Yhdysvallat"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#264653"</span></span>
+<span id="cb6-23">  )) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb6-24">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">labs</span>(</span>
+<span id="cb6-25">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Singaporen äärimmäinen avoimuus"</span>,</span>
+<span id="cb6-26">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Kauppa (vienti + tuonti), % BKT:stä"</span>,</span>
+<span id="cb6-27">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">NULL</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">NULL</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">NULL</span>,</span>
+<span id="cb6-28">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Lähde: World Bank, World Development Indicators"</span></span>
+<span id="cb6-29">  ) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb6-30">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">theme</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">legend.position =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"bottom"</span>)</span></code></pre></div></div>
+</details>
+<div class="cell-output-display">
+<div id="fig-kauppa" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-kauppa-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://vkauppine.github.io/Incentive-Lens/posts/singapore/index_files/figure-html/fig-kauppa-1.png" class="img-fluid figure-img" width="672">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-kauppa-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Kuva&nbsp;4: Kaupan avoimuus (vienti + tuonti, % BKT:stä). Singaporen poikkeuksellinen riippuvuus ulkomaankaupasta. Lähde: Maailmanpankki.
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>Kaupan osuus BKT:stä ylittää 300 %:n, mikä tekee Singaporesta yhden maailman avoimimmista talouksista. Sama piirre on sekä kilpailuetu että riskilähde.</p>
+<p>Keskeisiä haavoittuvuuksia on kolme. Ensinnäkin geopoliittinen riippuvuus: järjestelmä nojaa globaaleihin arvoketjuihin ja sääntöperustaiseen kauppaan, mikä tekee Kiina–Yhdysvallat-jännitteistä pysyvän riskin. Toiseksi väestörakenne: ikääntyminen on nopeaa ja työvoiman ylläpito edellyttää maahanmuuttoa, mikä kytkeytyy suoraan poliittiseen hyväksyttävyyteen. Kolmanneksi legitimiteettirakenne: kun taloudellinen suorituskyky toimii järjestelmän tärkeimpänä oikeutuksena, kasvun hidastuminen alkaa helposti näkyä poliittisena paineena.</p>
+</section>
+<section id="teoreettinen-tulkinta" class="level2">
+<h2 class="anchored" data-anchor-id="teoreettinen-tulkinta">Teoreettinen tulkinta</h2>
+<p>Singaporea voi lukea usean kasvuteorian läpi. Varhaisvaihe sopii Solow-tyyppiseen konvergenssitarinaan: investoinnit, työvoima ja avoimuus nostivat tuotantoa nopeasti. Myöhempi vaihe nojaa endogeenisen kasvun elementteihin: inhimillinen pääoma, teknologia ja instituutiot selittävät tuottavuuden kautta tapahtuvaa nousua. Pienen avoimen talouden näkökulmasta valtion varallisuusinstituutiot (GIC, Temasek) toimivat puskurina ja riskinkantokykynä maailmantalouden heilahteluissa. Lisäksi Singapore osoittaa, että valtion omistajuus ei automaattisesti tarkoita tehottomuutta, jos yritysohjaus on rakennettu kurinalaiseksi ja tavoitteet ovat selkeästi taloudellisia.</p>
+<p>Yleistulkinta on käytännöllinen: instituutiot näyttävät olevan ideologiaa tärkeämpiä. Markkinat toimivat, kun oikeusjärjestys, toimeenpano ja hallinnon kannustimet tukevat investointeja ja kilpailua. Valtio voi olla aktiivinen ilman, että siitä seuraa väistämättä tehottomuutta.</p>
+<p>Lee Kuan Yew’n pragmaattiset lausumat (“toimiiko tämä?”) kuvaavat tätä ajattelutapaa. Pitkän aikavälin sitoutuminen on ollut kilpailuetu – mutta se on rakennettu poliittisten vapauksien kustannuksella, eikä asetelmaa voi ohittaa, kun mallia arvioidaan.</p>
+</section>
+<section id="johtopäätös-tehokas-selviytymiskone-mutta-kenen-ehdoilla" class="level2">
+<h2 class="anchored" data-anchor-id="johtopäätös-tehokas-selviytymiskone-mutta-kenen-ehdoilla">Johtopäätös: tehokas selviytymiskone — mutta kenen ehdoilla?</h2>
+<p>Singapore on kiistatta taloudellinen menestystarina, mutta se ei ole valmis resepti muille maille. Poliittinen pluralismi on rajallista, työmarkkinat ovat kaksijakoiset ja eriarvoisuus on järjestelmään sisäänrakennettu piirre. Lisäksi kaupunkivaltion koko, sijainti ja demografinen rakenne tekevät mallista vaikeasti kopioitavan.</p>
+<p>Yksi oppi kuitenkin yleistyy: instituutioiden toimeenpanokyky ja kannustinrakenne ratkaisevat enemmän kuin se, onko valtio “iso” tai “pieni”. Singapore on esimerkki järjestelmästä, jossa hallinnon kapasiteetti, säästämisen pakotettu arkkitehtuuri ja markkinoiden ennustettavuus on viritetty kasvua varten – ja jossa samalla on hyväksytty selkeitä poliittisia ja sosiaalisia kompromisseja.</p>
+<hr>
+<p><em>Lähteet ja lisälukemista:</em></p>
+<ul>
+<li>Acemoglu, D. &amp; Robinson, J. A. (2012). <a href="https://en.wikipedia.org/wiki/Why_Nations_Fail"><em>Why Nations Fail: The Origins of Power, Prosperity, and Poverty</em></a>. Crown Business.</li>
+<li>Solow, R. M. (1956). <a href="https://doi.org/10.2307/1884513">A Contribution to the Theory of Economic Growth</a>. <em>The Quarterly Journal of Economics</em>, 70(1), 65–94.</li>
+<li>Krugman, P. (1994). <a href="https://www.foreignaffairs.com/articles/asia/1994-11-01/myth-asias-miracle">The Myth of Asia’s Miracle</a>. <em>Foreign Affairs</em>, 73(6), 62–78.</li>
+<li>World Bank. <em>World Development Indicators</em>. <a href="https://data.worldbank.org/">data.worldbank.org</a></li>
+<li>Singapore Department of Statistics. <a href="https://www.singstat.gov.sg/">singstat.gov.sg</a></li>
+<li>Central Provident Fund Board. <a href="https://www.cpf.gov.sg/">cpf.gov.sg</a></li>
+<li>OECD. (2023). <a href="https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en.html"><em>PISA 2022 Results</em></a>. OECD Publishing.</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>taloustiede</category>
+  <category>kehitystalous</category>
+  <category>Singapore</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/singapore/</guid>
+  <pubDate>Fri, 20 Feb 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/singapore/pic.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Onko singulariteetti lähellä? Taloustiede vs. teknohype</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/ai-singulariteetti/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="vasta-singulariteetin-alkuvaiheita" class="level2">
+<h2 class="anchored" data-anchor-id="vasta-singulariteetin-alkuvaiheita">Vasta singulariteetin alkuvaiheita</h2>
+<p>Elon Musk kirjoitti helmikuussa 2026 olevamme “singulariteetin hyvin varhaisessa vaiheessa”. Samoihin aikoihin Andrej Karpathy kuvaili autonomisten LLM-agenttien verkostoa — noin 150 000 agenttia jaetulla scratchpadilla — kokeiluna, joka on vielä teknisesti sekava mutta mittakaavaltaan poikkeuksellinen.</p>
+<p>Singulariteetti-termiä käytetään kuitenkin useassa eri merkityksessä:</p>
+<ol type="1">
+<li><strong>Taloudellinen singulariteetti</strong> tarkoittaa tilannetta, jossa talouskasvu kiihtyy rajatta pääoman korvatessa työpanosta yhä laajemmin (Nordhaus, 2021).</li>
+<li><strong>Teknologinen singulariteetti</strong> viittaa pisteeseen, jossa tekoäly kykenee rekursiiviseen itseparannukseen ja ylittää inhimillisen älykkyyden.</li>
+<li><strong>Yhteiskunnallinen singulariteetti</strong> kuvaa laajempaa murrosta, jossa työn merkitys, tulonjako ja ihmisen rooli muuttuvat pysyvästi.</li>
+</ol>
+<p>Käsitteet liittyvät toisiinsa, mutta eivät ole identtisiä. Teknologinen läpimurto ei automaattisesti johda taloudelliseen singulariteettiin, koska diffuusioviiveet, instituutiot ja tuotannon pullonkaulat suodattavat teknologian vaikutuksia. Tarkastelu keskittyy tässä taloudellisen ja teknologisen singulariteetin rajapintaan: mitä kasvuteoria ennustaa ja miten nämä ennusteet suhteutuvat nykyiseen teknologiseen kehitykseen.</p>
+</section>
+<section id="nordhaus-singulariteetti-ei-näy-datassa" class="level2">
+<h2 class="anchored" data-anchor-id="nordhaus-singulariteetti-ei-näy-datassa">Nordhaus: singulariteetti ei näy datassa</h2>
+<p>William Nordhaus analysoi vuonna 2021 taloudellisen singulariteetin mahdollisuutta kasvuteorian näkökulmasta. Keskeinen kysymys on substituutiojousto informaatiopääoman ja muiden tuotantopanosten välillä. Jos informaatio voi korvata työtä ja fyysistä pääomaa laajasti, kasvu voi kiihtyä rajatta. Jos substituutio on rajallista, teknologinen kehitys ei muuta pitkän aikavälin kasvuvauhtia olennaisesti.</p>
+<p>Nordhaus tunnistaa kolme mahdollista mekanismia. Ensimmäinen on tekoälyn kiihdyttämä teknologinen innovaatio, jossa koneet suunnittelevat uusia tuotantoprosesseja. Hän pitää tätä mahdollisuutta liian spekulatiivisena empiiriseen arviointiin. Toinen liittyy kulutusrakenteeseen: jos kulutus siirtyisi nopeasti halpeneviin informaatiotuotteisiin, kokonaiskasvu voisi kiihtyä. Empiirinen näyttö ei tue tätä. Kolmas mekanismi on pääoman syveneminen: jos informaatiopääoma korvaa työvoimaa riittävän joustavasti, pääoman tulo-osuus kasvaa ja kasvu nopeutuu.</p>
+<p>Nordhaus testasi hypoteesia useilla Yhdysvaltojen taloutta kuvaavilla indikaattoreilla, kuten substituutiojoustolla, tuottavuustrendillä ja pääomatulo-osuudella. Suurin osa tuloksista ei tukenut singulariteettia. Positiiviset signaalit viittasivat korkeintaan hyvin pitkän aikavälin mahdollisuuteen.</p>
+<p>Keskeinen johtopäätös on, että laskentatehon nopea kehitys ei automaattisesti muutu kokonaistalouden kasvuksi. Tuotanto edellyttää edelleen energiaa, materiaaleja ja fyysisiä prosesseja, joiden tehokkuus kehittyy hitaammin.</p>
+</section>
+<section id="jones-pullonkaulat-kesyttävät-kasvuräjähdyksen" class="level2">
+<h2 class="anchored" data-anchor-id="jones-pullonkaulat-kesyttävät-kasvuräjähdyksen">Jones: pullonkaulat kesyttävät kasvuräjähdyksen</h2>
+<p>Charles I. Jones esittää tuoreemmassa analyysissaan kaksi ääriskenaariota: tekoäly voi joko kiihdyttää kasvua merkittävästi tai jatkaa historiallista noin kahden prosentin kasvutrendiä uutena yleiskäyttöisenä teknologiana.</p>
+<div id="fig-bkt" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-bkt-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://vkauppine.github.io/Incentive-Lens/posts/ai-singulariteetti/bkt_trendi.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-bkt-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Kuva&nbsp;1: USA:n reaalinen BKT henkeä kohti 1870–2024. Logaritmisella asteikolla aikasarja on lähes suora viiva: 2 prosentin vuosikasvu, jota sähkö, transistori, mikrosiru eikä internet muuttanut pysyvästi. Jonesin “suosikkikaavio” tiivistää business as usual -skenaarion ytimen: ehkä AI on vain seuraava GPT, joka pitää kasvun raiteillaan.
+</figcaption>
+</figure>
+</div>
+<p>Jones ja Tonetti (2026) rakentavat Acemoglun ja Restrepoin (2018) tehtäväpohjaisen automaatiokehikon päälle, jossa työpaikat koostuvat heterogeenisista, toisiaan täydentävistä tehtävistä. Heidän weak links -kehikkonsa lähtee ajatuksesta, että kokonaistuotanto määräytyy heikoimman lenkin mukaan.</p>
+<p>Ilmiö on tuttu taloustieteessä Baumolin tautina: palvelusektorin hinnat nousevat suhteessa teollisuuteen, koska palvelutehtävien tuottavuus kasvaa hitaammin. Weak links -kehikossa sama logiikka yleistyy — hitaimmin automatisoituvat tehtävät määräävät kokonaiskasvun tahdin.</p>
+<p>Tulokset riippuvat ratkaisevasti substituutiojoustosta. Jos tehtävät ovat vahvoja komplementteja, yksittäisen sektorin automaatio vaikuttaa vain rajallisesti kokonaistuotantoon. Jos substituutio on joustavampaa, vaikutukset voivat kasvaa huomattavasti. Todellinen talous sijoittuu näiden ääripäiden väliin, eikä tarkkaa arvoa tunneta.</p>
+<div id="fig-weaklinks" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-weaklinks-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://vkauppine.github.io/Incentive-Lens/posts/ai-singulariteetti/weak_links.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-weaklinks-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Kuva&nbsp;2: Automaation tuottama BKT-hyöty Jonesin weak links -kehikossa. Vaaka-akselilla automatisoitujen tehtävien osuus BKT:sta, pystyakselilla suhteellinen BKT-kasvu. Ohjelmistojen automaatio (s ≈ 0,02) tuottaa häviävän pienen hyödyn; kaiken tietotyön automaatio (s ≈ 0,33) nostaa BKT:ta noin 50 %. Käyrä jyrkkenee vasta kun lähes kaikki tehtävät on automatisoitu — mutta juuri ne viimeiset tehtävät ovat vaikeimpia.
+</figcaption>
+</figure>
+</div>
+<p>Jones ja Tonetti (2026) päätyvät mallissaan tilanteeseen, jossa kasvu kiihtyy, mutta hitaasti. Automaatio leviää aluksi rajatulle tehtäväalueelle, ja vasta laaja diffuusio muuttaa kasvuvauhtia selvästi. Pullonkaulat eivät estä nopeampaa kasvua, mutta tekevät siitä asteittaisen prosessin.</p>
+<p>Jones tarkastelee myös riskejä. Hyöty-riskilaskelmat viittaavat siihen, että merkittäväkin kasvupotentiaali ei automaattisesti oikeuta suuria eksistentiaalisia riskejä, koska lisäkulutuksen rajahyöty on korkeilla tulotasoilla suhteellisen pieni.</p>
+<p>Jones kuvaa AI-kilpajuoksun dynamiikkaa vangin dilemmana. Jokainen AI-laboratorio ajattelee, että muut kilpailevat joka tapauksessa: hidastaminen ei vähennä riskejä mutta voiton mahdollisuus menetetään. Tasapaino on, että kaikki kilpailevat, vaikka kaikki hyötyisivät hidastamisesta. Ratkaisuksi Jones ehdottaa veroa GPU- ja TPU-siruille, mikä hidastaisi kilpailua ja rahoittaisi turvallisuustutkimusta samanaikaisesti.</p>
+</section>
+<section id="teknologinen-etulinja" class="level2">
+<h2 class="anchored" data-anchor-id="teknologinen-etulinja">Teknologinen etulinja</h2>
+<p>Arviot tekoälyn koulutuksessa käytetyn efektiivisen laskennan kasvusta viittaavat erittäin nopeaan panosten kasvuun: Epoch AI:n (2025) kokoaman datan mukaan koulutukseen käytetty laskentateho on kasvanut noin 4–5 kertaluokkaa vuosikymmenessä. Samoin ohjelmistotehtäviä mittaavat benchmarkit osoittavat mallien suorituskyvyn parantuneen nopeasti — METR:n (2025) pitkäkestoisten tehtävien mittauksissa mallien suorituskyky on karkeasti kaksinkertaistunut noin seitsemän kuukauden välein. Nämä mittarit kuvaavat kuitenkin teknistä kyvykkyyttä, eivät suoraan taloudellista tuottavuutta. Benchmark-suorituskyvyn eksponentiaalinen kasvu ei välttämättä tarkoita vastaavaa kasvua taloudellisessa arvonluonnissa.</p>
+<p>Rekursiivisen itseparannuksen mahdollisuus — tekoäly, joka auttaa kehittämään parempaa tekoälyä — muodostaa teoreettisesti merkittävän mutta edelleen epävarman kehityspolun.</p>
+</section>
+<section id="työmarkkinavaikutukset" class="level2">
+<h2 class="anchored" data-anchor-id="työmarkkinavaikutukset">Työmarkkinavaikutukset</h2>
+<p>Historialliset esimerkit viittaavat siihen, että automaatio täydentää usein työtä ennen kuin korvaa sen. Radiologien tapaus on havainnollinen: tekoäly on automatisoinut osia työstä, mutta ammatti ei ole kadonnut, koska siihen sisältyy useita tehtäviä, joita teknologia ei vielä kata. Pullonkaulamallissa automaatio voi jopa nostaa jäljelle jäävien tehtävien arvoa.</p>
+<p>Tämä logiikka toimii kuitenkin vain niin kauan kuin osa tehtävistä säilyy ihmisillä. Jos kaikki tehtävät automatisoituvat, palkkataso alkaa määräytyä koneen käyttökustannuksen mukaan.</p>
+</section>
+<section id="tulkinta" class="level2">
+<h2 class="anchored" data-anchor-id="tulkinta">Tulkinta</h2>
+<p>Nordhausin, Jonesin sekä teknologia-alan toimijoiden näkemykset eivät ole keskenään ristiriidassa, vaan painottavat eri aikahorisonteja. Empiirinen makrodata ei vielä osoita singulariteettia. Samalla teknologinen kehitysvauhti on selvästi kiihtynyt. Pullonkaulat ja diffuusioviiveet selittävät, miksi nämä havainnot voivat olla yhtä aikaa totta.</p>
+<p>Lisäksi tehtäväkenttä ei ole vakio. Automaatio muuttaa sitä, mitä taloudessa tuotetaan ja missä ohjelmistoja käytetään. Talouden rakenne mukautuu teknologian mukana, mikä tekee pitkän aikavälin vaikutuksista vaikeasti ennustettavia.</p>
+<p>Dario Amodei (2024) edustaa optimistisempaa tulkintaa: hänen mukaansa tekoälyn hyödyt — lääketieteessä, koulutuksessa ja tieteellisessä tutkimuksessa — voivat realisoitua nopeasti, jos teknologian käyttöönottoa ei hidasteta tarpeettomasti. Tämä näkemys olettaa lyhyitä diffuusioviiveitä ja nopeaa institutionaalista sopeutumista — juuri niitä oletuksia, joita Nordhausin ja Jonesin analyysit kyseenalaistavat. Samalla riskit kasvavat teknologisen kapasiteetin mukana. Taloudelliset hyödyt ja turvallisuuskysymykset kietoutuvat toisiinsa tavalla, jota perinteinen kasvuteoria on käsitellyt vain rajallisesti.</p>
+</section>
+<section id="johtopäätös" class="level2">
+<h2 class="anchored" data-anchor-id="johtopäätös">Johtopäätös</h2>
+<p>Taloustieteen näkökulmasta lopputulos on avoin. Teknologinen etulinja näyttää nopean muutoksen, mutta koko talouden tasolla vaikutukset määräytyvät täydentävyyksien, pullonkaulojen ja institutionaalisen sopeutumisen kautta. Historiallisesti monet mullistavat teknologiat ovat muuttaneet talouden rakennetta ilman pysyvää kasvuvauhdin muutosta. Tekoäly voi muodostaa poikkeuksen, mutta sen osoittaa ajan myötä kertynyt data, ei yksittäiset havainnot tai julkiset lausunnot.</p>
+<hr>
+<p><strong>Lähteet:</strong></p>
+<ul>
+<li>Acemoglu, D. &amp; Restrepo, P. (2018). “The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment.” American Economic Review, 108(6), 1488–1542.</li>
+<li>Amodei, D. (2024). “Machines of Loving Grace: How AI Could Transform the World for the Better.” <a href="https://darioamodei.com/machines-of-loving-grace">darioamodei.com</a>.</li>
+<li>Epoch AI (2025). “Data on AI Models.” <a href="https://epochai.org/data/notable-ai-models">epochai.org</a>.</li>
+<li>Jones, C.I. (2024). “The AI Dilemma: Growth versus Existential Risk.” <em>American Economic Review: Insights</em>, 6(4), 575–590.</li>
+<li>Jones, C.I. (2025). “How Much Should We Spend to Reduce A.I.’s Existential Risk?” NBER Working Paper 33602.</li>
+<li>Jones, C.I. (2026). “A.I. and Our Economic Future.” Tulossa <em>Journal of Economic Perspectives</em> -lehdessä.</li>
+<li>Jones, C.I. &amp; Tonetti, C. (2026). “Past Automation and Future A.I.: How Weak Links Tame the Growth Explosion.” Julkaisematon käsikirjoitus.</li>
+<li>METR (2025). “Measuring AI Ability to Complete Long Tasks.” <a href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/">metr.org</a>.</li>
+<li>Nordhaus, W.D. (2021). “Are We Approaching an Economic Singularity?” <em>American Economic Journal: Macroeconomics</em>, 13(1), 299–332.</li>
+<li>Musk, E. &amp; Karpathy, A. (2026). X/Twitter-keskustelu, helmikuu 2026.</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>tekoäly</category>
+  <category>talouskasvu</category>
+  <category>singulariteetti</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/ai-singulariteetti/</guid>
+  <pubDate>Wed, 18 Feb 2026 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Ruuan taloustiede: miksi syömme niin kuin syömme?</title>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/ruoka/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="johdanto-peruna-ei-päädy-lautaselle-sattumalta" class="level2">
+<h2 class="anchored" data-anchor-id="johdanto-peruna-ei-päädy-lautaselle-sattumalta">Johdanto: peruna ei päädy lautaselle sattumalta</h2>
+<p>Miksi suomalaisessa ruokapöydässä on perunaa eikä jamssia? Miksi avokado oli 1990-luvulla harvinainen luksus mutta on nyt arkipäivää? Selitys ei löydy pelkästä mausta vaan tuotannosta, hinnoista, logistiikasta ja instituutioista – eli taloustieteestä.</p>
+<p>Ruoka on perustarve, mutta taloudellisena hyödykkeenä se on poikkeuksellisen monimutkainen. Sen tuottaminen on resurssien kohdentamista, ostaminen valintaa epävarman tiedon varassa, kuljettaminen toimitusketjujen optimointia ja syöminen kulttuurinen käytäntö. Tässä kirjoituksessa ruoka puretaan näihin osiin.</p>
+</section>
+<section id="tuotanto-kun-pelto-kohtaa-tuotantofunktion" class="level2">
+<h2 class="anchored" data-anchor-id="tuotanto-kun-pelto-kohtaa-tuotantofunktion">Tuotanto: kun pelto kohtaa tuotantofunktion</h2>
+<p>Ruuantuotanto alkaa pellolta, kasvihuoneesta, mereltä tai tehtaasta. Taloustieteessä se on tuotantoprosessi, jossa maata, työvoimaa, pääomaa ja teknologiaa yhdistellään kannattavasti. Perusmuoto <img src="https://latex.codecogs.com/png.latex?Y%20=%20f(L,%20K,%20A)"> toimii maataloudessakin, vaikka tuotanto on altis satunnaisuudelle: sää, maaperä, taudit ja muut riskit heiluttavat tulosta tavalla, jota tehdastuotannossa on helpompi hallita. Tällöin analyysi tarvitsee erottelun sen välillä, mikä on teknistä tehottomuutta ja mikä puhdasta huonoa tuuria; tähän on kehitetty esimerkiksi <em>stochastic frontier</em> -menetelmiä.</p>
+<p>Suomen maatalouden pitkä tuottavuuskehitys kertoo, mitä teknologinen muutos käytännössä tarkoittaa. Kun työvoimaa siirtyy pois alkutuotannosta, tuotanto voi silti kasvaa, jos koneistuminen, jalostus, lannoitteet, logistiikka ja mittakaavaetu parantavat tehokkuutta. Samalla “tehokkuus” on myös rakennemuutos: vähemmän ihmisiä tuottaa enemmän, ja osa työstä katoaa tai muuttuu toiseksi.</p>
+<p>Tuotantoteknologiat selittävät myös maiden välisiä eroja. Suomalainen teollinen maatalous ja vietnamilainen pienviljely toimivat eri kustannusrakenteilla ja eri riskeillä. Näistä eroista syntyy komparatiivisia etuja: kaikki eivät ole hyviä tuottamaan kaikkea, eikä niiden tarvitsekaan olla.</p>
+<p>Tuotanto ei kuitenkaan ole vain tekniikkaa. Se on institutionaalinen kysymys. Maanomistus, vesioikeudet, luotto, vakuudet ja markkinoille pääsy määrittävät, kuka voi tuottaa ja millä ehdoilla. Monessa köyhässä maassa ongelma ei ole viljelijän osaaminen vaan se, ettei hän saa rahoitusta, varastointia tai pääsyä ostajille. Silloin kasvu ei kaadu agronomiaan vaan instituutioihin.</p>
+</section>
+<section id="signalointi-kerro-mitä-syöt-kerron-kuka-olet" class="level2">
+<h2 class="anchored" data-anchor-id="signalointi-kerro-mitä-syöt-kerron-kuka-olet">Signalointi: kerro mitä syöt, kerron kuka olet</h2>
+<p>Ruoka viestii. Talousnobelisti Michael Spencen signaaliteoria syntyi työmarkkinoiden analyysiin, mutta sama rakenne näkyy ruokavalinnoissa: kuluttaja kertoo arvoista, identiteetistä ja sosiaalisesta asemasta tuotteiden kautta.</p>
+<p>Luomu viestii ympäristötietoisuudesta ja terveydestä, lähiruoka paikallisuuden arvostamisesta. Brändäys toimii ruoassa hyvin, koska tuotteiden laatu on usein vaikeasti havaittavissa ostohetkellä. Kahvipaketin valinta ei ole vain kofeiinin ostamista, vaan valinta tarinasta, alkuperästä ja prosessista. Tässä on kyse informaatioasymmetriasta: kuluttaja ei voi helposti todentaa, onko “paikallinen” paikallista tai “luomu” luomua. Sertifikaatit, alkuperämerkinnät ja brändit ovat luottamuksen infrastruktuuria, joka vähentää tiedonhankinnan transaktiokustannuksia.</p>
+<p>Signalointi myös muuttuu ajan myötä. Peruna oli alkuun köyhän ruokaa, sushi pitkään erikoisuus. Kun saatavuus paranee ja normit muuttuvat, signaalit “arkistuvat”. Se ei ole pelkkä makuasia, vaan seurausta hinnoista, tarjonnasta ja kulttuurisesta oppimisesta.</p>
+</section>
+<section id="logistiikka-maailman-monimutkaisin-lautanen" class="level2">
+<h2 class="anchored" data-anchor-id="logistiikka-maailman-monimutkaisin-lautanen">Logistiikka: maailman monimutkaisin lautanen</h2>
+<p>Ehkä kaikkein aliarvostetuin osa ruuan taloustiedettä on logistiikka. Kun ostat banaanin, ostat samalla toimitusketjun: viljely, pakkaus, jäähdytys, kuljetus, tullaus, tukkukauppa, jakelu ja myymälälogistiikka. Ruoka on herkkää, nopeasti pilaantuvaa ja volyymiltaan valtavaa, joten logistiikan merkitys on poikkeuksellinen.</p>
+<p>Globaalit ruokaketjut ovat erittäin tehokkaita ja samalla haavoittuvia. Pandemia teki näkyväksi, miten häiriö yhdessä kohdassa kertautuu ketjussa: tarjontashokki voi näkyä hyllyissä ja hinnoissa viiveellä, ja varautuminen voi itse pahentaa heilahtelua (<em>bullwhip</em>-ilmiö). Ruoka on hyvä esimerkki markkinasta, jossa “normaali” on ohut tasapaino suuren koordinointikoneiston varassa.</p>
+<p>Toimitusketjun pituus on myös valinta. Pitkä ketju tarjoaa skaalaetuja ja valikoimaa, lyhyempi ketju vähentää välikäsiä ja voi tuoda paikallisia hyötyjä. Molemmissa on kustannus–hyöty -vaihtokauppa, eikä optimaalinen ratkaisu ole sama kaikissa tuotteissa tai kaikissa arvoasetelmissa.</p>
+<p>Lisäksi logistiikka on politiikkaa. Tuet, tullit, turvallisuusnormit ja infrastruktuuri muokkaavat ruoan liikkumista yhtä paljon kuin markkinat. EU:n yhteinen maatalouspolitiikka toimii yhtä aikaa tulonsiirtona, markkinoiden vakauttajana ja suojamekanismina – riippuen tarkastelukulmasta.</p>
+</section>
+<section id="polkuriippuvuus-miksi-ruokakulttuurit-ovat-niin-erilaisia" class="level2">
+<h2 class="anchored" data-anchor-id="polkuriippuvuus-miksi-ruokakulttuurit-ovat-niin-erilaisia">Polkuriippuvuus: miksi ruokakulttuurit ovat niin erilaisia?</h2>
+<p>Ruokakulttuurien erot eivät selity vain tulotasolla. Japanissa ja Suomessa tulot ovat suurin piirtein samalla tasolla, mutta ruokavalio on erilainen. Tätä selittää <em>polkuriippuvuus</em>: historian varhaiset olosuhteet ja valinnat rakentavat polkuja, joilta poikkeaminen on kallista.</p>
+<p>Maantiede ja ilmasto luovat alkuehdot. Ruis kasvaa Suomessa, riisi ei. Mutta globalisaatio heikentää tämän selitysvoimaa: riisiä voidaan tuoda halvalla, silti ruisleipä pysyy. Syynä ovat vaihtokustannukset ja lukkiutumat. Ruokakulttuuri on infrastruktuuria: viljelykierto, myllyt, leipomot, jakelu, reseptit ja makutottumukset ovat investointeja, jotka uusintavat itseään.</p>
+<p>Preferenssit myös periytyvät. Lapsuuden maut ja tavat sitovat ruokaan identiteettiä, eikä niitä vaihdeta samalla logiikalla kuin sähköyhtiötä. Tämä näkyy maahanmuuttajayhteisöissä: ruokakulttuuri säilyy pitkään, vaikka alkuehdot (ilmasto, tuotanto) ovat muuttuneet. Kyse ei ole “irrationaalisuudesta”, vaan siitä, että hyötyfunktiossa on muutakin kuin hinta ja ravinto.</p>
+<p>Instituutiot vahvistavat polkuja. Nimisuojat, ruokasuositukset, julkinen ruokailu ja hankinnat uusintavat tiettyjä valintoja. Kun jokin ruoka on osa koulua, armeijaa ja arkea, siitä tulee oletus eikä vain tuote.</p>
+<p>Polut voivat silti murtua. Sushin yleistyminen vaati samaan aikaan kylmäketjun kehittymistä, kansainvälistymistä ja uudenlaista kulttuurista tulkintaa (eksoottinen, “kevyt”, terveellinen). Ruokamuoti muuttuu usein hitaasti ja sitten nopeasti, koska lukkiutumat purkautuvat usean mekanismin avautuessa yhtä aikaa.</p>
+</section>
+<section id="engelin-laki-ja-muuttuva-ruokapöytä" class="level2">
+<h2 class="anchored" data-anchor-id="engelin-laki-ja-muuttuva-ruokapöytä">Engelin laki ja muuttuva ruokapöytä</h2>
+<p>Engelin laki on yksi kestävimmistä empiirisistä havainnoista: tulojen kasvaessa ruoan osuus kulutuksesta pienenee. Suomessa muutos on ollut suuri. 1900-luvun alussa ruoka vei valtaosan yksityisestä kulutuksesta; 2020-luvulla elintarvikkeiden osuus on selvästi pienempi.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code hidden" id="cb1" data-startfrom="71" data-source-offset="-55" style="background: #f1f3f5;"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 70;"><span id="cb1-71">engelData <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> [</span>
+<span id="cb1-72">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1900</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">60</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-73">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1920</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">52</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-74">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1940</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">45</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-75">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1950</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">40</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-76">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1960</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">35</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-77">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1966</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">30</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-78">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1970</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">27</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-79">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1980</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">22</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-80">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1985</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">20</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-81">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1990</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">18</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-82">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1995</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">16</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-83">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2001</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">14</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-84">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2006</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">12.5</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-85">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2012</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">12.8</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-86">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2016</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">12.2</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-87">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2022</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">osuus</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">12.0</span>}</span>
+<span id="cb1-88">]</span>
+<span id="cb1-89"></span>
+<span id="cb1-90">Plot<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">.</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">plot</span>({</span>
+<span id="cb1-91">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">width</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">680</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-92">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">height</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">400</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-93">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">marginLeft</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">50</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-94">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">marginBottom</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">40</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-95">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">x</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">label</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Vuosi"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">tickFormat</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"d"</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-96">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">y</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">label</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Osuus kulutusmenoista (%)"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">domain</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> [<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">65</span>]}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-97">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">marks</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> [</span>
+<span id="cb1-98">    Plot<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">.</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">areaY</span>(engelData<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">x</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"vuosi"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">y</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"osuus"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">fill</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#e8d5b7"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">fillOpacity</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.5</span>})<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-99">    Plot<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">.</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">lineY</span>(engelData<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">x</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"vuosi"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">y</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"osuus"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">stroke</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#8B4513"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">strokeWidth</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2.5</span>})<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-100">    Plot<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">.</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">dot</span>(engelData<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">x</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"vuosi"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">y</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"osuus"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">fill</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#8B4513"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">r</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">3</span>})<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb1-101">    Plot<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">.</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ruleY</span>([<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0</span>])</span>
+<span id="cb1-102">  ]</span>
+<span id="cb1-103">})</span></code></pre></div></div>
+<div id="fig-engel-suomi" class="cell quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-engel-suomi-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display">
+<div id="fig-engel-suomi-1" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-subfloat-fig figure">
+<div aria-describedby="fig-engel-suomi-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div id="ojs-cell-1-1" data-nodetype="declaration">
+
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-engel-suomi-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+(a)
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="cell-output cell-output-display">
+<div id="fig-engel-suomi-2" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-subfloat-fig figure">
+<div aria-describedby="fig-engel-suomi-2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div id="ojs-cell-1-2" data-nodetype="expression">
+
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-engel-suomi-2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+(b)
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-engel-suomi-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Kuva&nbsp;1: Ruoan ja juomien osuus yksityisestä kulutuksesta Suomessa (arvio). Lähde: Tilastokeskus, kansantalouden tilinpito.
+</figcaption>
+</figure>
+</div>
+</div>
+<p>Tämä ei tarkoita, että ruokaa ostettaisiin vähemmän, vaan että muut menot kasvavat nopeammin. Sama näkyy tuloryhmien välillä: pienituloisilla ruoka vie suuremman osuuden kulutuksesta kuin suurituloisilla. Siksi ruoan hinnannousu osuu suhteellisesti kovimmin pienituloisiin.</p>
+<p>Samalla ruokakorin sisältö muuttuu. Kun perustarve on turvattu, valinnat siirtyvät kohti laatua, monipuolisuutta ja mukavuutta: tuoreita kasviksia, hedelmiä, valmisruokia, ravintolapalveluita. Tämä on Engelin lain “toinen puoli”: suhteellinen osuus pienenee, mutta ruoan merkitykset ja erot kulutuksessa kasvavat.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code hidden" id="cb2" data-startfrom="115" data-source-offset="-52" style="background: #f1f3f5;"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 114;"><span id="cb2-115">hintaData <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> [</span>
+<span id="cb2-116">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2000</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">elintarvikkeet</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">82</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">yleinen</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">82</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-117">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2005</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">elintarvikkeet</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">86</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">yleinen</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">90</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-118">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2008</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">elintarvikkeet</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">95</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">yleinen</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">95</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-119">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2010</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">elintarvikkeet</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">95</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">yleinen</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">96</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-120">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2012</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">elintarvikkeet</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">100</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">yleinen</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">98</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-121">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2015</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">elintarvikkeet</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">100</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">yleinen</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">100</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-122">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2018</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">elintarvikkeet</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">101</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">yleinen</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">103</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-123">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2020</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">elintarvikkeet</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">104</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">yleinen</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">105</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-124">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2022</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">elintarvikkeet</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">117</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">yleinen</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">113</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-125">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2023</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">elintarvikkeet</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">122</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">yleinen</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">120</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-126">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2024</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">elintarvikkeet</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">122</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">yleinen</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">122</span>}</span>
+<span id="cb2-127">]</span>
+<span id="cb2-128"></span>
+<span id="cb2-129">hintaLong <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span> hintaData<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">.</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">flatMap</span>(d <span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">=&gt;</span> [</span>
+<span id="cb2-130">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> d<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">.</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">indeksi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> d<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">.</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">elintarvikkeet</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">sarja</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Elintarvikkeet"</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-131">  {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> d<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">.</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">vuosi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">indeksi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> d<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">.</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">yleinen</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">sarja</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Yleinen hintataso"</span>}</span>
+<span id="cb2-132">])</span>
+<span id="cb2-133"></span>
+<span id="cb2-134">Plot<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">.</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">plot</span>({</span>
+<span id="cb2-135">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">width</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">680</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-136">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">height</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">400</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-137">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">marginLeft</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">50</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-138">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">marginBottom</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">40</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-139">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">color</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">legend</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">true</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">domain</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> [<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Elintarvikkeet"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Yleinen hintataso"</span>]<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">range</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> [<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#d35400"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#2c3e50"</span>]}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-140">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">x</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">label</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Vuosi"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">tickFormat</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"d"</span>}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-141">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">y</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">label</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Indeksi (2015 = 100)"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">domain</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> [<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">75</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">130</span>]}<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-142">  <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">marks</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> [</span>
+<span id="cb2-143">    Plot<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">.</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">lineY</span>(hintaLong<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">x</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"vuosi"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">y</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"indeksi"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">stroke</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"sarja"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">strokeWidth</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2.5</span>})<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-144">    Plot<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">.</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">dot</span>(hintaLong<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">x</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"vuosi"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">y</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"indeksi"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">fill</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"sarja"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">r</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">3</span>})<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span></span>
+<span id="cb2-145">    Plot<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">.</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ruleY</span>([<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">100</span>]<span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> {<span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">stroke</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#999"</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">strokeDasharray</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"4,4"</span>})</span>
+<span id="cb2-146">  ]</span>
+<span id="cb2-147">})</span></code></pre></div></div>
+<div id="fig-hintakehitys" class="cell quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-hintakehitys-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output cell-output-display">
+<div id="fig-hintakehitys-1" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-subfloat-fig figure">
+<div aria-describedby="fig-hintakehitys-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div id="ojs-cell-2-1" data-nodetype="declaration">
+
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-hintakehitys-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+(a)
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="cell-output cell-output-display">
+<div id="fig-hintakehitys-2" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-subfloat-fig figure">
+<div aria-describedby="fig-hintakehitys-2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div id="ojs-cell-2-2" data-nodetype="declaration">
+
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-hintakehitys-2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+(b)
+</figcaption>
+</figure>
+</div>
+</div>
+<div class="cell-output cell-output-display">
+<div id="fig-hintakehitys-3" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-subfloat-fig figure">
+<div aria-describedby="fig-hintakehitys-3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div id="ojs-cell-2-3" data-nodetype="expression">
+
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-hintakehitys-3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+(c)
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-hintakehitys-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Kuva&nbsp;2: Elintarvikkeiden hintaindeksi suhteessa yleiseen kuluttajahintaindeksiin Suomessa (2015=100). Lähde: Tilastokeskus.
+</figcaption>
+</figure>
+</div>
+</div>
+<p>Pitkään ruoan hinnat nousivat hitaammin kuin yleinen hintataso, mikä teki ruuasta suhteellisesti edullisempaa. Vuosien 2022–2023 inflaatiojakso katkaisi tämän hetkeksi: elintarvikkeiden hinnat nousivat nopeasti ja kotitalouksien budjettirajoite kiristyi. Tässä Engelin lain jakautuma näkyy konkreettisesti.</p>
+</section>
+<section id="lopuksi-ruoka-yhteiskunnan-peilinä" class="level2">
+<h2 class="anchored" data-anchor-id="lopuksi-ruoka-yhteiskunnan-peilinä">Lopuksi: ruoka yhteiskunnan peilinä</h2>
+<p>Ruoan taloustiede ei ole sivujuonne, vaan tiivis kuva siitä, miten yhteiskunta organisoi perustarpeen. Tuotanto kertoo teknologiasta ja instituutioista. Signalointi näyttää, miten arvot ja informaatio ohjaavat kulutusta. Polkuriippuvuus selittää, miksi tavat pysyvät, vaikka hinnat ja tarjonta muuttuvat. Logistiikka paljastaa, kuinka riippuvaisia olemme järjestelmistä, jotka yleensä toimivat näkymättömästi. Engelin laki muistuttaa, että taloudellinen kehitys muuttaa ruoan asemaa: se siirtyy välttämättömyydestä myös valinnaksi, eroksi ja merkitykseksi.</p>
+<p>Ruokapöydässä on ravinnon lisäksi teknologiaa, markkinoita, toimitusketjuja ja historiaa. Ja todennäköisesti myös perunaa. Sen komparatiivinen etu on Suomessa edelleen ylivoimainen.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>taloustiede</category>
+  <category>ruoka</category>
+  <category>logistiikka</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/ruoka/</guid>
+  <pubDate>Wed, 18 Feb 2026 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Ovatko työhyvinvointiedut hukkaan heitettyä rahaa?</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/tyohyvinvointiedut/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="mistä-on-kyse" class="level2">
+<h2 class="anchored" data-anchor-id="mistä-on-kyse">Mistä on kyse?</h2>
+<p>Työterveyslääkäri Eira Roos <a href="https://yle.fi/a/74-20208542">esittää Ylellä</a>, että työhyvinvointipäivät, liikuntaedut ja työsuhdepyörät pitäisi “räjäyttää” ja keskittyä olennaiseen. Roosin argumentti on selkeä: työuupumus syntyy hallinnan tunteen katoamisesta, ja sen korjaa työn organisointi, ei seppeleensidonta eikä liikuntaseteli.</p>
+<p>Roos on todennäköisesti oikeassa pääväitteessään. Parikymmentä vuotta uupuneita hoitaneena lääkärinä hänellä on kliinistä kokemusta, joka tukee tulkintaa: uupumus ei ole yksilön heikkoutta vaan työn ja ihmisen suhteen ongelma. Työterveyslaitoksen Pauliina Mattila-Holappa vahvistaa samassa jutussa, että tutkimus piirtää saman kuvan.</p>
+<p>Mutta siitä, että työn rakenne on <em>tärkein</em> tekijä, ei seuraa, että kaikki muu on hukkaan heitettyä. Tämä on taloustieteellisesti optimointikysymys, ei dikotomia.</p>
+</section>
+<section id="kolme-erillistä-kysymystä" class="level2">
+<h2 class="anchored" data-anchor-id="kolme-erillistä-kysymystä">Kolme erillistä kysymystä</h2>
+<p>Julkisessa keskustelussa sekoittuu usein kolme eri asiaa:</p>
+<ol type="1">
+<li><strong>Onko liikunnalla vaikutus työkykyyn?</strong> Kyllä, ja tämä on hyvin dokumentoitu.</li>
+<li><strong>Lisäävätkö työnantajan tarjoamat edut liikuntaa?</strong> Tämä on empiirinen kysymys: lisäävätkö edut liikuntaa vai subventoidaanko niitä, jotka liikkuisivat muutenkin?</li>
+<li><strong>Ovatko edut kustannustehokkaita suhteessa rakenteellisiin parannuksiin?</strong> Tämä on varsinainen taloudellinen ydinkysymys.</li>
+</ol>
+<p>Roos vastaa käytännössä kolmanteen kysymykseen, ja hänen vastauksensa on todennäköisesti usein oikea. Mutta “usein suurempi vaikutus” ei ole sama asia kuin “ainoa vaikutus”. Näiden erottelu on olennaista, jos halutaan päästä retoriikasta resurssien allokointiin.</p>
+</section>
+<section id="mitä-tutkimusnäyttö-sanoo" class="level2">
+<h2 class="anchored" data-anchor-id="mitä-tutkimusnäyttö-sanoo">Mitä tutkimusnäyttö sanoo?</h2>
+<p>Roosin argumenttia tukee se, että paras kokeellinen näyttö wellness-ohjelmien vaikutuksista on yllättävän laiha.</p>
+<p>Jones, Molitor ja Reif (2019) toteuttivat laajan satunnaistetun kokeen Illinoisin yliopistossa lähes 5 000 työntekijällä. Tulokset olivat selkeitä: ohjelma lisäsi terveystarkastusten käyttöä, mutta sillä ei ollut tilastollisesti merkitseviä vaikutuksia terveydenhuoltokuluihin, poissaoloihin, tuottavuuteen tai itse raportoituun terveyteen yli kahden vuoden seurannassa. Tutkimus osoitti myös vahvan valikoitumisongelman – ohjelmaan osallistuivat ne, jotka olivat jo ennestään terveempiä ja aktiivisempia.</p>
+<p>Tämä on juuri se <em>additionality</em>-ongelma, josta Roosin argumentti implisiittisesti kertoo: edut menevät niille, jotka eivät niitä tarvitse. Aiempi meta-analyyttinen evidenssi (Baicker ym. 2010), joka raportoi merkittäviä säästöjä, perustui pitkälti havainnollisiin tutkimuksiin, joissa valikoitumista ei kontrolloitu. Jonesin ym. RCT-tulokset sulkivat pois 84 % aiempien tutkimusten raportoimista kustannussäästöarvioista.</p>
+<p>Mutta tästäkään ei seuraa, että kaikki edut ovat hyödyttömiä. Se seuraa, että <em>huonosti kohdennetut</em> edut ovat hyödyttömiä – mikä on eri väite.</p>
+</section>
+<section id="yksinkertainen-kehikko" class="level2">
+<h2 class="anchored" data-anchor-id="yksinkertainen-kehikko">Yksinkertainen kehikko</h2>
+<p>Ajatellaan, että työkyky <img src="https://latex.codecogs.com/png.latex?h"> määräytyy kahdesta tekijästä: liikunnasta <img src="https://latex.codecogs.com/png.latex?L"> ja työn rakenteesta <img src="https://latex.codecogs.com/png.latex?D"> (autonomia, johtaminen, kuormitus):</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0Ah%20=%20h_0%20+%20%5Cgamma%20L%20+%20%5Cdelta%20D%0A"></p>
+<p>Liikuntaetu <img src="https://latex.codecogs.com/png.latex?b"> lisää liikuntaa määrällä:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0AL%20=%20L_0%20+%20%5Ctheta%20b%0A"></p>
+<p>Parametri <img src="https://latex.codecogs.com/png.latex?%5Ctheta"> kertoo, syntyykö aidosti uutta liikuntaa. Jos <img src="https://latex.codecogs.com/png.latex?%5Ctheta%20=%200">, etu on puhdas tulonsiirto jo aktiivisille – tasan se tilanne, jonka Illinois-koe dokumentoi. Jos <img src="https://latex.codecogs.com/png.latex?%5Ctheta%20%3E%200">, etu muuttaa käyttäytymistä ja vaikuttaa työkykyyn kertoimella <img src="https://latex.codecogs.com/png.latex?%5Cgamma%5Ctheta">.</p>
+<p>Roosin argumentti on tulkittavissa niin, että <img src="https://latex.codecogs.com/png.latex?%5Cdelta"> – työn rakenteen vaikutus – on tyypillisesti suurempi kuin <img src="https://latex.codecogs.com/png.latex?%5Cgamma%5Ctheta">. Se on todennäköistä ja empiirisen näytön tukemaa. Mutta optimaalisessa resurssien kohdentamisessa ei valita yhtä kanavaa, vaan se yhdistelmä, jossa jokaisen euron rajahyöty on suurin.</p>
+</section>
+<section id="verotus-ja-signaalivaikutus" class="level2">
+<h2 class="anchored" data-anchor-id="verotus-ja-signaalivaikutus">Verotus ja signaalivaikutus</h2>
+<p>Roosin analyysi katsoo asiaa puhtaasti terveysvaikutuksen kautta. Mutta työnantajan näkökulmasta liikuntaedulla on muitakin funktioita.</p>
+<p><strong>Verotehokkuus.</strong> Suomessa osa työhyvinvointieduista on verovapaita tiettyyn rajaan asti. Jos työnantaja käyttää yhden euron palkankorotukseen, työntekijä saa siitä nettohyötyä vain verojen jälkeen. Verovapaa etu voi tuottaa työntekijälle suuremman koetun arvon samalla työnantajakustannuksella. Tällöin etu voi olla rationaalinen kompensaatiomuoto, <em>vaikka sen terveysvaikutus olisi vaatimaton</em>.</p>
+<p><strong>Signaalivaikutus.</strong> Liikuntaedut ja muut hyvinvointiedut voivat toimia signaalina siitä, että työnantaja välittää henkilöstöstä. Tämä on erillinen mekanismi terveysvaikutuksesta. Rekrytoinnissa ja sitouttamisessa signaalin arvo voi olla merkittävä, vaikka itse liikuntasetelin vaikutus liikuntamäärään olisi nolla. Ironisesti juuri Roosin oma havainto – puolet uupumuksesta toipuneista irtisanoutuu – korostaa sitouttamisen merkitystä.</p>
+</section>
+<section id="kustannusmittakaava" class="level2">
+<h2 class="anchored" data-anchor-id="kustannusmittakaava">Kustannusmittakaava</h2>
+<p>Ylen jutussa Roos esittää, että uupunut työntekijä maksaa työnantajalle noin 20 000 euroa vuodessa menetetyn tuottavuuden kautta – jo ennen sairauslomia. Tämä on hyödyllinen vertailukohta.</p>
+<p>Tyypillinen liikuntaetu maksaa työnantajalle muutaman sadan euron vuodessa työntekijää kohden. Jos etu onnistuu vähentämään uupumisriskiä edes marginaalisesti – vaikkapa yhden prosenttiyksikön verran – sen odotettu säästö ylittää kustannuksen.</p>
+<p>Tämä ei tarkoita, että liikuntaetu <em>korvaa</em> työn rakenteen korjaamisen. Se tarkoittaa, että kysymys “kannattaako tämä?” on empiirinen, ei retorinen. Ja vastaus riippuu kohdentamisesta: kenelle, millä ehdoin, missä kontekstissa.</p>
+</section>
+<section id="johtopäätös-optimointia-ei-räjäyttämistä" class="level2">
+<h2 class="anchored" data-anchor-id="johtopäätös-optimointia-ei-räjäyttämistä">Johtopäätös: optimointia, ei räjäyttämistä</h2>
+<p>Roosin kliininen havainto on arvokas: uupumus ei ole yksilön heikkoutta, ja sen juurisyyt ovat työn rakenteessa. Tässä hän on sekä kokemuksen että tutkimusnäytön tukemana oikeassa.</p>
+<p>Mutta johtopäätös – “räjäyttää” edut – ei seuraa premisseistä. Se, että A on tärkeämpi kuin B, ei tarkoita, että B:n arvo on nolla. Taloustieteellisesti oikea kysymys ei ole “edut vai rakenne?” vaan “mikä yhdistelmä tuottaa parhaan tuloksen?”</p>
+<p>Vastaus riippuu kolmesta tekijästä:</p>
+<ol type="1">
+<li><strong>Kohdentaminen.</strong> Lisäävätkö edut liikuntaa niillä, jotka eivät muuten liikkuisi? Illinois-kokeen perusteella tyypillisesti eivät, mutta suunnittelu voi muuttaa tätä.</li>
+<li><strong>Verotehokkuus.</strong> Verovapaus tekee eduista tehokkaita kompensaatiovälineitä riippumatta terveysvaikutuksesta.</li>
+<li><strong>Signaali- ja sitouttamisarvo.</strong> Tätä Roosin terveysvaikutusanalyysi ei kata, mutta se voi olla etujen tärkein funktio.</li>
+</ol>
+<p>Kyse ei ole symbolipolitiikasta vastaan “oikeat ratkaisut”. Kyse on resurssien allokoinnista. Ja siinä kysymyksessä oikea vastaus on harvoin “räjäytä ja keskity yhteen kanavaan”, vaan “kohdenna, mittaa ja optimoi”.</p>
+</section>
+<section id="viitteet" class="level2">
+<h2 class="anchored" data-anchor-id="viitteet">Viitteet</h2>
+<ul>
+<li>Baicker, K., Cutler, D. &amp; Song, Z. (2010). Workplace wellness programs can generate savings. <em>Health Affairs</em>, 29(2), 304–311.</li>
+<li>Jones, D., Molitor, D. &amp; Reif, J. (2019). What do workplace wellness programs do? Evidence from the Illinois Workplace Wellness Study. <em>The Quarterly Journal of Economics</em>, 134(4), 1747–1791.</li>
+<li>Rongen, A. ym. (2013). Workplace health promotion: A meta-analysis of effectiveness. <em>American Journal of Preventive Medicine</em>, 44(4), 406–415.</li>
+</ul>
+
+
+
+</section>
+
+ ]]></description>
+  <category>taloustiede</category>
+  <category>työelämä</category>
+  <category>työhyvinvointi</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/tyohyvinvointiedut/</guid>
+  <pubDate>Mon, 16 Feb 2026 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
