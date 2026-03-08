@@ -10,7 +10,102 @@
 <atom:link href="https://vkauppine.github.io/Incentive-Lens/index.xml" rel="self" type="application/rss+xml"/>
 <description>Talousblogi</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Wed, 04 Mar 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Tekoäly ja kysyntäshokki — mitä Citrinin doomer-skenaario tarkoittaa suomalaiselle pk-kentälle?</title>
+  <dc:creator>Vesa Kauppinen</dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/citrini/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="fiktiivinen-makromuistio-vuodelta-2028" class="level2">
+<h2 class="anchored" data-anchor-id="fiktiivinen-makromuistio-vuodelta-2028">Fiktiivinen makromuistio vuodelta 2028</h2>
+<p>Citrini Researchin helmikuussa 2026 julkaistu raportti <em>2028 GIC</em> (Citrini Research, 2026) on kirjoitettu ajatusharjoituksena: fiktiivinen makromuistio kesäkuulta 2028, jossa analyytikko katsoo taaksepäin ja rekonstruoi kriisin etenemisen. Tekijät painottavat itsekin, ettei kyseessä ole ennuste vaan skenaario — alikartoitetun vasemman hännän riskin mallinnus. Skenaariota on kuitenkin luettu laajasti ennusteena, ja se ansaitsee analyyttisen tarkastelun.</p>
+<p>Citrinin skenaario on hyödyllinen ajatuskoe, mutta se edellyttää tuottavuusdiffuusion nopeutta, jolle ei ole historiallista tai empiiristä tukea.</p>
+<p>Skenaarion ydinlogiikka on negatiivinen feedback-silmukka, jonka tekijät kutsuvat “intelligence displacement spiraliksi”: tekoäly paranee → yritykset leikkaavat henkilöstöä → säästöt investoidaan tekoälyyn → tekoäly paranee edelleen. Silmukassa ei ole luonnollista jarrua, koska tekoäly-investointi ei ole perinteistä pääomainvestointia (CapEx) vaan operatiivista korvautumista (OpEx): yritys joka käytti 100 miljoonaa henkilöstöön ja 5 miljoonaa tekoälyyn käyttää nyt 70 miljoonaa henkilöstöön ja 20 miljoonaa tekoälyyn. Kokonaiskustannukset laskevat, mutta tekoäly-investointi kasvaa moninkertaiseksi.</p>
+<p>Citrinin skenaariossa tästä seuraa kolme aaltoa. Ensimmäinen aalto on SaaS-sektorin romahdus: agenttiset koodaustyökalut mahdollistavat yritysten sisäiset ratkaisut, jotka korvaavat kuusinumeroisia SaaS-sopimuksia viikoissa. Toinen aalto on kitkan katoaminen: tekoälyagentit poistavat kuluttajakaupan kitkan, joka on ylläpitänyt kokonaisia liiketoimintamalleja — tilausten passiivisen uusimisen, hintavertailun vaivan, vakuutusten inertiauusinnan. Citrini kutsuu tätä “habitual intermediation” -vallihautojen tuhoutumiseksi. Kolmas aalto on rahoitusjärjestelmän tartunta: private credit -markkinan PE-rahoitteiset SaaS-yritykset alkavat laiminlyödä velkojaan, ja tappiot kulkeutuvat vakuutusyhtiöiden annuiteettien kautta kotitalouksiin. Lopulta tietotyöläisten tulonmenetys uhkaa 13 biljoonan dollarin asuntolainamarkkinoita.</p>
+<p>Skenaario huipentuu “Ghost GDP” -käsitteeseen: tuotanto kasvaa, mutta tulovirrat eivät kierrä kulutuksen kautta takaisin talouteen, koska koneet eivät käytä rahaa harkinnanvaraiseen kulutukseen.</p>
+<p>Raportti on herättänyt keskustelua myös Suomessa. Juhani Mykkänen käsitteli Citrinin skenaariota Neuvottelija-podcastin jaksossa 374 (Mykkänen, 2026) ja esitti sen vakavasti otettavana riskinä, johon vastaus on proaktiivinen politiikka. Inderesin Verneri Pulkkinen (Pulkkinen, 2026) tarkasteli samaa raporttia sijoittajan kriittisin silmin ja nosti esiin base rates -ajattelun: kuinka usein tämänkaltaiset skenaariot ovat toteutuneet?</p>
+<p>Tässä tekstissä arvioin Citrinin argumenttiketjua kolmesta näkökulmasta: tuoreen tutkimusevidenssin, suomalaisen pk-kentän todellisuuden ja historiallisen ennusteosumatarkkuuden kautta.</p>
+</section>
+<section id="mikä-argumentissa-pitää-ja-mikä-ei" class="level2">
+<h2 class="anchored" data-anchor-id="mikä-argumentissa-pitää-ja-mikä-ei">Mikä argumentissa pitää — ja mikä ei?</h2>
+<p>Citrinin peruslogiikka ei ole perusteeton. Imas (2026a) on esittänyt akateemisemman version samasta kysymyksestä: jos tekoäly korvaa työtä nopeammin kuin uusia tehtäviä syntyy, palkkatulojen osuus kansantulosta supistuu ja kulutuskysyntä heikkenee. Acemoglu, Autor ja Johnson (2024) ovat varoittaneet, ettei tekoälyn vaikutus kokonaistalouden tuottavuuteen ja palkkoihin ole automaattisesti positiivinen. Ratkaisevaa on, korvaako tekoäly työtä tehtävissä, joissa se on vain marginaalisesti ihmistä parempi — jolloin kustannussäästöt jäävät pieniksi mutta työpaikat katoavat — vai luoko se uusia tehtäviä ja täydentää ihmistyötä tavalla, joka nostaa sekä tuottavuutta että palkkoja.</p>
+<p>Mutta Citrinin aikajana — kaksi vuotta kaaokseen — edellyttää, että tuottavuusvaikutukset materialisoituvat nopeudella, jolle ei löydy tukea datasta.</p>
+<p>Imas (2026b) on koonnut kattavan katsauksen tekoälyn tuottavuusvaikutuksista, ja hänen yhteenvetonsa on poikkeuksellisen rehellinen: mikrotason tutkimukset osoittavat todellisia tuottavuushyötyjä, mutta ne eivät vielä näy makrotason tilastoissa. Tämä mikro–makro-kuilu on keskeinen ongelma Citrinin aikajanalle.</p>
+<p>Mikrotasolla tulokset ovat rohkaisevia mutta vaihtelevia. Brynjolfsson, Li ja Raymond (2025) havaitsivat asiakaspalvelussa 14–15 prosentin tuottavuuskasvun, joka oli suurin vähemmän kokeneilla työntekijöillä. Cui ym. (2025) raportoivat kolmesta satunnaistetusta kokeesta noin 26 prosentin kasvun ohjelmistokehittäjien valmiiksi saatetuissa pull requesteissa. Toisaalta METR-tutkimuksessa (Becker ym., 2025) kokeneet avoimen lähdekoodin kehittäjät olivat tekoälyn kanssa 19 prosenttia <em>hitaampia</em> — ja uskoivat silti tekoälyn nopeuttaneen heitä. Mittaamaton kokemus tuottavuudesta ja mitattu tuottavuus voivat siis osoittaa vastakkaisiin suuntiin. Tämä muistuttaa siitä, että tekoäly voi siirtää aikaa muualle työprosessissa, vaikka yksittäinen tehtävä nopeutuisi.</p>
+<p>Makrotason näyttö on varovaisempaa. Humlum ja Vestergaard (2025) seurasivat Tanskan työmarkkinoita kaksi vuotta ChatGPT:n julkaisun jälkeen eivätkä löytäneet tilastollisesti merkitseviä vaikutuksia ansioihin tai työtunteihin. Yotzov ym. (2026) havaitsivat kansainvälisessä kyselyssä, että yli 80 prosenttia yrityksistä raportoi nollavaikutusta työllisyyteen tai tuottavuuteen. Penn Whartonin budjettimallin (2025) arvion mukaan tekoälyn kontribuutio kokonaistuottavuuden kasvuun oli vuonna 2025 noin 0,01 prosenttiyksikköä.</p>
+<p>Erityisen mielenkiintoinen on Babinan ym. (2023) havainto: tekoäly-investoinnit eivät tuottaneet tuottavuusparannuksia vaan tuoteinnovaatioita — enemmän tavaramerkkejä, patentteja ja tuotevalikoimaa. Tekoäly näyttää toimivan innovaatiotyökaluna pikemminkin kuin Citrinin olettamana kustannusleikkaajana. Tämä haastaa koko feedback-silmukan premissin: jos yritykset käyttävät tekoälyä ensisijaisesti uusien tuotteiden kehittämiseen eikä henkilöstön korvaamiseen, negatiivinen kierre ei käynnisty samalla tavalla.</p>
+</section>
+<section id="j-käyrä-ja-solown-varjo" class="level2">
+<h2 class="anchored" data-anchor-id="j-käyrä-ja-solown-varjo">J-käyrä ja Solow’n varjo</h2>
+<p>Miksi tekoälyn mikrotason tuottavuushyödyt eivät näy makrodatassa? Vastausta voi hakea teknologiadiffuusion peruslogiikasta. Imas (2026b) tunnistaa useita mekanismeja, jotka kaikki toimivat Citrinin aikataulua vastaan.</p>
+<p>Tekoälyn käyttöönotto on endogeenista: työntekijät valikoituvat itse käyttäjiksi, eikä heillä usein ole riittävää koulutusta. BCG:n kyselyssä vain 36 prosenttia työntekijöistä koki saaneensa asianmukaisen koulutuksen. Työt koostuvat monista tehtävistä, ja vaikka tekoäly nopeuttaisi koodaamista, koodikatselmukset, kokoukset ja organisatoriset prosessit toimivat pullonkauloina.</p>
+<p>Todennäköisesti olemme myös tuottavuuden J-käyrän laskevalla osuudella. Brynjolfsson, Rock ja Syverson (2021) ovat osoittaneet, että yleiskäyttöisten teknologioiden käyttöönoton alkuvaiheessa mitattu tuottavuus voi jopa laskea, koska resursseja käytetään oppimiseen ja uudelleenorganisointiin. Solow havaitsi vuonna 1987, että tietokoneajan näkee kaikkialla paitsi tuottavuustilastoissa. Sähkömoottorin täysi tuottavuusvaikutus realisoitui vasta vuosikymmenten viiveellä, kun tehtaat suunniteltiin uudelleen sen ympärille.</p>
+<p>Citrinin skenaario edellyttää, että tämä J-käyrä ohitetaan kahdessa vuodessa. Se ei ole mahdoton mutta edellyttäisi historiallisesti poikkeuksellista diffuusionopeutta, jota makrodata ei toistaiseksi tue.</p>
+</section>
+<section id="suomalainen-pk-todellisuus" class="level2">
+<h2 class="anchored" data-anchor-id="suomalainen-pk-todellisuus">Suomalainen pk-todellisuus</h2>
+<p>Citrinin skenaario on kirjoitettu amerikkalaisen tietotyötalouden näkökulmasta: Fortune 500 -yritysten SaaS-hankinnat, Manhattanin tietotyöläisten asuntolainat, Silicon Valleyn disruptio. Mutta miltä sen logiikka näyttää suomalaisesta pk-kentästä katsottuna?</p>
+<p>Suomalaisten valmistavan teollisuuden ja logistiikan pk-yritysten digitaalinen kypsyys on monessa tapauksessa vielä perustasoilla. Viimeaikaiset kotimaiset selvitykset osoittavat, että pk-yritysten lähtötaso poikkeaa merkittävästi Citrinin oletuksista. Puhumme yrityksistä, joissa ERP-järjestelmä saattaa olla käytössä mutta sen hyödyntäminen rajoittuu perustoimintoihin. Usein tuotantotadata ei ole integroitunut osaksi johtamista, analytiikka puuttuu ja prosessit ovat manuaalisia. Agenttiset koodaustyökalut, jotka Citrinin skenaariossa korvaavat SaaS-tuotteita viikoissa, edellyttävät organisaatioilta rakenteellista, osaamiseen ja prosesseihin kytkeytyvää kyvykkyyttä, jota monella pk-yrityksellä ei ainakaan toistaiseksi ole.</p>
+<p>Eurooppalainen data tukee tätä. Aldasoro ym. (2026) havaitsivat EU-aineistossaan, että tekoälyn käyttöönotto vaihtelee rajusti yrityskoon mukaan: suuryrityksistä 45 prosenttia on ottanut tekoälyn käyttöön, pk-yrityksistä vain 24 prosenttia. Sama tutkimus osoitti myös, että koulutus on ratkaisevan tärkeä täydentävä investointi: jokainen lisäprosenttiyksikkö henkilöstökoulutukseen käytettyä rahaa tuotti 5,9 prosenttiyksikköä lisää tuottavuutta.</p>
+<p>Pk-kentän hitaus on sekä suoja että riski. Suoja siksi, että Citrinin kuvaamaa nopeaa silmukkaa — leikkaa, investoi tekoälyyn, leikkaa lisää — ei pk-kentällä tapahdu lähivuosina. Riski siksi, että kun suuryritykset sopeutuvat ja arvoketjut muuttuvat, pk-yritykset jotka eivät ole rakentaneet omia kyvykkyyksiään jäävät jälkeen.</p>
+<p>Mykkänen teki kotimaisen tekoälykentän kartoituksessaan saman havainnon: 60 tapaamisen perusteella ymmärrys tekoälyn potentiaalista on olemassa, mutta resurssit puuttuvat (Mykkänen, 2026). Kyse ei ole tietämättömyydestä vaan konkreettisten rakenteiden ja investointikyvyn puutteesta. Industry 5.0 -kehys (Euroopan komissio, 2021) tarjoaa periaatteet ihmiskeskeisestä ja resilientistä teollisuudesta, mutta suomalaisen pk-kentän kannalta oleellisempi kysymys on, miten nämä periaatteet muuttuvat käytännön kyvykkyyksiksi yritystasolla.</p>
+</section>
+<section id="base-rates-ja-se-ketä-oikeasti-pitäisi-pelätä" class="level2">
+<h2 class="anchored" data-anchor-id="base-rates-ja-se-ketä-oikeasti-pitäisi-pelätä">Base rates ja se, ketä oikeasti pitäisi pelätä</h2>
+<p>Pulkkinen (2026) nosti Vernerin Vartissa esiin base rates -ajattelun: mikä on historiallinen perustaso sille, että teknologiadystopia toteutuu ennustetulla tavalla ja aikataululla?</p>
+<p>Evidenssi ei ole rohkaisevaa ennustajille. Automaatiopelot 1960-luvulla ennustivat massatyöttömyyttä, jota ei tullut. Frey ja Osborne (2013) arvioivat, että 47 prosenttia Yhdysvaltain työpaikoista olisi alttiina automatisoinnille — vuosikymmen myöhemmin arvio näyttää rajusti ylimitoitetulta. Citrinin tekijät tietävät tämän itsekin ja kehystävät skenaarionsa nimenomaan ajatusharjoituksena, mutta raportin narratiivinen voima saa sen tuntumaan ennusteelta.</p>
+<p>Toisaalta: vaikka kokonaisdystopia on epätodennäköinen, varhaiset signaalit epätasaisesta jakautumisesta ovat jo näkyvissä. Brynjolfsson, Chandar ja Chen (2025) havaitsivat, että nuorten työntekijöiden (22–25-vuotiaat) työllisyys tekoälylle alttiissa ammateissa on laskenut noin 15–16 prosenttia suhteessa muihin ammatteihin. Hosseini Maasoum ja Lichtinger (2025) osoittivat, että juniorityöntekijöiden palkkaaminen hidastui tekoälyä käyttöönottaneissa yrityksissä senioreiden aseman pysyessä vakaana. Tekoäly näyttää toimivan senioriteettiä suosivana teknologisena muutoksena.</p>
+<p>Suomalaisen pk-kentän kannalta tämä on olennaisempaa kuin Citrinin kokonaiskuva. Todennäköisempi lähitulevaisuuden riski ei ole makrotalouden romahdus vaan se, että tekoäly vähentää aloitustason rekrytointeja ja vaikeuttaa nuorten pääsyä työmarkkinoille. Samalla pk-yritykset, jotka eivät investoi kyvykkyyksiin, menettävät kilpailukykyään suuryrityksiin nähden vääjäämättä.</p>
+</section>
+<section id="politiikkaa-etukenossa" class="level2">
+<h2 class="anchored" data-anchor-id="politiikkaa-etukenossa">Politiikkaa etukenossa</h2>
+<p>Citrinin skenaarion suurin arvo on siinä, että se pakottaa miettimään, mitä jos emme tee mitään. Mykkänen (2026) asetti saman valinnan: proaktiivinen polku, jossa verotus, tulonsiirrot ja uudelleenkoulutus suunnitellaan etukäteen, vai reaktiivinen polku, jossa odotetaan ja toivotaan parasta.</p>
+<p>Aldasoron ym. (2026) EU-tulokset antavat konkreettisen suuntaviitan: tekoäly nosti tuottavuutta neljä prosenttia keskimäärin eikä lyhyellä aikavälillä vähentänyt työpaikkoja, ja koulutusinvestoinnit moninkertaistivat hyödyt. Suomella on toimivat instituutiot ja perinne aktiivisesta työvoimapolitiikasta. Proaktiivinen polku on Suomelle luonteva, mutta se edellyttää, että pk-yritysten kyvykkyysrakentaminen aloitetaan nyt eikä kriisin jälkeen.</p>
+</section>
+<section id="johtopäätös-hyödyllinen-ajatuskoe-huono-ennuste" class="level2">
+<h2 class="anchored" data-anchor-id="johtopäätös-hyödyllinen-ajatuskoe-huono-ennuste">Johtopäätös: hyödyllinen ajatuskoe, huono ennuste</h2>
+<p>Citrinin <em>2028 GIC</em> on retorisesti vahva narratiivinen harjoitus. Sen kuvaamat mekanismit — OpEx-korvautuminen, kitkan katoaminen, private credit -tartunta — ovat älykkäästi konstruoituja ja pakottavat ajattelemaan toisen kertaluvun vaikutuksia, joita tyypillisessä teknologiaoptimismissa ei käsitellä.</p>
+<p>Mutta ennusteena se on ongelmallinen. Aikajana edellyttää diffuusionopeutta, jolle ei ole historiallista ennakkotapausta ja jota tuorein makroevidenssi ei tue. Perusoletus tekoälystä ensisijaisena kustannusleikkaajana on kyseenalaistettu tutkimuksessa, joka viittaa pikemminkin innovaatio- kuin automatisointi-vaikutuksiin. Ja skenaario on kirjoitettu amerikkalaisen tietotyötalouden kontekstissa, joka ei sellaisenaan sovellu suomalaiseen pk-kenttään.</p>
+<p>Olennaista on, miten siirtymän kustannukset jakautuvat. Tutkimusnäyttö viittaa siihen, että tekoäly kohdistuu ensimmäisenä aloitustason tehtäviin ja nuoriin työntekijöihin. Pk-yritykset tarvitsevat konkreettista tukea digitaalisten ja tekoälykyvykkyyksien rakentamiseen: ilman kyvykkyyksiä ne eivät pääse hyötymään teknologiasta ja menettävät kilpailukykyään asteittain.</p>
+<p>Citrinin tekijät päättävät raporttinsa muistuttamalla, että lukija lukee sitä helmikuussa 2026, ei kesäkuussa 2028: “The canary is still alive.” Samaa voi sanoa suomalaisesta pk-kentästä. Tilanne ei ole kriisiytynyt. Nyt on aika rakentaa kyvykkyydet, ei odottaa kriisiä.</p>
+</section>
+<section id="lähteet" class="level2">
+<h2 class="anchored" data-anchor-id="lähteet">Lähteet</h2>
+<p>Acemoglu, D., Autor, D., &amp; Johnson, S. (2024). Simple macroeconomics of AI. <em>NBER Working Paper</em> 32487.</p>
+<p>Aldasoro, I., Gambacorta, L., Pál, R., Revoltella, D., Weiss, C., &amp; Wolski, M. (2026). How AI is affecting productivity and jobs in Europe. <em>VoxEU/CEPR</em>, 17.2.2026.</p>
+<p>Babina, T., Fedyk, A., He, A., &amp; Hodson, J. (2023). Artificial intelligence, firm growth, and product innovation. <em>Journal of Financial Economics</em>, 151, 103745.</p>
+<p>Becker, J., Rush, N., Barnes, B., &amp; Rein, D. (2025). Measuring the impact of early-2025 AI on experienced open-source developer productivity. <em>arXiv:2507.09089</em>.</p>
+<p>Brynjolfsson, E., Chandar, B., &amp; Chen, R. (2025). Canaries in the coal mine? Six facts about the recent employment effects of artificial intelligence. Working paper.</p>
+<p>Brynjolfsson, E., Li, D., &amp; Raymond, L. R. (2025). Generative AI at work. <em>Quarterly Journal of Economics</em>, 140(2), 889–942.</p>
+<p>Brynjolfsson, E., Rock, D., &amp; Syverson, C. (2021). The productivity J-curve: How intangibles complement general purpose technologies. <em>American Economic Journal: Macroeconomics</em>, 13(1), 333–372.</p>
+<p>Citrini Research. (2026). The 2028 Global Intelligence Crisis: A thought exercise in financial history, from the future. <em>Citrini Research</em> (Substack), 22.2.2026. Saatavilla: https://www.citriniresearch.com/p/2028gic</p>
+<p>Euroopan komissio. (2021). <em>Industry 5.0: Towards a sustainable, human-centric and resilient European industry</em>. Luxemburg: Publications Office of the EU.</p>
+<p>Frey, C. B., &amp; Osborne, M. A. (2013). The future of employment: How susceptible are jobs to computerisation? <em>Technological Forecasting and Social Change</em>, 114, 254–280.</p>
+<p>Hosseini Maasoum, S. M., &amp; Lichtinger, G. (2025). Generative AI as seniority-biased technological change: Evidence from U.S. résumé and job posting data. <em>SSRN Working Paper</em>.</p>
+<p>Humlum, A., &amp; Vestergaard, E. (2025). Large language models, small labor market effects. <em>NBER Working Paper</em> 33777.</p>
+<p>Imas, A. (2026a). Can advanced AI lead to negative economic growth? Considering the role of demand in the economics of AI. <em>Ghosts of Electricity</em> (Substack), 7.1.2026.</p>
+<p>Imas, A. (2026b). What is the impact of AI on productivity? Reconciling the micro and the macro evidence. <em>Ghosts of Electricity</em> (Substack), 29.1.2026.</p>
+<p>Mykkänen, J. (2026). Ihmistyön loppu. <em>Neuvottelija</em>, jakso 374.</p>
+<p>Penn Wharton Budget Model. (2025). AI’s contribution to total factor productivity. University of Pennsylvania.</p>
+<p>Pulkkinen, V. (2026). Aiheuttaako tekoäly finanssikriisin? – Citrinin raportin kritiikki. <em>Vernerin Vartti</em>, Inderes, 3.3.2026. Saatavilla: https://www.inderes.fi/videos/aiheuttaako-tekoaly-finanssikriisin-citrinin-raportin-kritiikki-or-vernerin-vartti</p>
+<p>Yotzov, I., Barrero, J. M., Bloom, N., ym. (2026). Firm data on AI. <em>NBER Working Paper</em> 34836.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>tekoäly</category>
+  <category>talouspolitiikka</category>
+  <category>pk-yritykset</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/citrini/</guid>
+  <pubDate>Sat, 07 Mar 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/citrini" medium="image"/>
+</item>
 <item>
   <title>EKP osti finanssikurin pois — kuka maksaa laskun?</title>
   <link>https://vkauppine.github.io/Incentive-Lens/posts/ekp/ekp_finanssikuri.html</link>
