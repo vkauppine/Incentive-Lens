@@ -5,7 +5,7 @@ author: "Vesa Kauppinen"
 date: "2026-03-08"
 categories: [tekoäly, talouspolitiikka, pk-yritykset]
 image: ""
-draft: true
+
 ---
 
 ## Fiktiivinen makromuistio vuodelta 2028
