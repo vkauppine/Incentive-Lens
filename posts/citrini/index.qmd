@@ -4,8 +4,8 @@ description: "Citrini Researchin raportti ennustaa tekoälyn aiheuttamaa kysynt�
 author: "Vesa Kauppinen"
 date: "2026-03-08"
 categories: [tekoäly, talouspolitiikka, pk-yritykset]
-image: ""
-
+image: image.png
+draft: false
 ---
 
 ## Fiktiivinen makromuistio vuodelta 2028
