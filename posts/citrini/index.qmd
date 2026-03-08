@@ -2,7 +2,7 @@
 title: "Tekoäly ja kysyntäshokki — mitä Citrinin doomer-skenaario tarkoittaa suomalaiselle pk-kentälle?"
 description: "Citrini Researchin raportti ennustaa tekoälyn aiheuttamaa kysyntäromahdusta. Miltä argumentti näyttää taloustieteen ja suomalaisen pk-todellisuuden valossa?"
 author: "Vesa Kauppinen"
-date: "2026-03-05"
+date: "2026-03-08"
 categories: [tekoäly, talouspolitiikka, pk-yritykset]
 image: ""
 draft: true
@@ -12,11 +12,13 @@ draft: true
 
 Citrini Researchin helmikuussa 2026 julkaistu raportti *2028 GIC* (Citrini Research, 2026) on kirjoitettu ajatusharjoituksena: fiktiivinen makromuistio kesäkuulta 2028, jossa analyytikko katsoo taaksepäin ja rekonstruoi kriisin etenemisen. Tekijät painottavat itsekin, ettei kyseessä ole ennuste vaan skenaario — alikartoitetun vasemman hännän riskin mallinnus. Skenaariota on kuitenkin luettu laajasti ennusteena, ja se ansaitsee analyyttisen tarkastelun.
 
+Citrinin skenaario on hyödyllinen ajatuskoe, mutta se edellyttää tuottavuusdiffuusion nopeutta, jolle ei ole historiallista tai empiiristä tukea.
+
 Skenaarion ydinlogiikka on negatiivinen feedback-silmukka, jonka tekijät kutsuvat "intelligence displacement spiraliksi": tekoäly paranee → yritykset leikkaavat henkilöstöä → säästöt investoidaan tekoälyyn → tekoäly paranee edelleen. Silmukassa ei ole luonnollista jarrua, koska tekoäly-investointi ei ole perinteistä pääomainvestointia (CapEx) vaan operatiivista korvautumista (OpEx): yritys joka käytti 100 miljoonaa henkilöstöön ja 5 miljoonaa tekoälyyn käyttää nyt 70 miljoonaa henkilöstöön ja 20 miljoonaa tekoälyyn. Kokonaiskustannukset laskevat, mutta tekoäly-investointi kasvaa moninkertaiseksi.
 
 Citrinin skenaariossa tästä seuraa kolme aaltoa. Ensimmäinen aalto on SaaS-sektorin romahdus: agenttiset koodaustyökalut mahdollistavat yritysten sisäiset ratkaisut, jotka korvaavat kuusinumeroisia SaaS-sopimuksia viikoissa. Toinen aalto on kitkan katoaminen: tekoälyagentit poistavat kuluttajakaupan kitkan, joka on ylläpitänyt kokonaisia liiketoimintamalleja — tilausten passiivisen uusimisen, hintavertailun vaivan, vakuutusten inertiauusinnan. Citrini kutsuu tätä "habitual intermediation" -vallihautojen tuhoutumiseksi. Kolmas aalto on rahoitusjärjestelmän tartunta: private credit -markkinan PE-rahoitteiset SaaS-yritykset alkavat laiminlyödä velkojaan, ja tappiot kulkeutuvat vakuutusyhtiöiden annuiteettien kautta kotitalouksiin. Lopulta tietotyöläisten tulonmenetys uhkaa 13 biljoonan dollarin asuntolainamarkkinoita.
 
-Skenaario huipentuu "Ghost GDP" -käsitteeseen: tuotanto näkyy kansantalouden tilinpidossa, mutta se ei kierrä reaalitaloudessa, koska koneet eivät käytä rahaa harkinnanvaraiseen kulutukseen.
+Skenaario huipentuu "Ghost GDP" -käsitteeseen: tuotanto kasvaa, mutta tulovirrat eivät kierrä kulutuksen kautta takaisin talouteen, koska koneet eivät käytä rahaa harkinnanvaraiseen kulutukseen.
 
 Raportti on herättänyt keskustelua myös Suomessa. Juhani Mykkänen käsitteli Citrinin skenaariota Neuvottelija-podcastin jaksossa 374 (Mykkänen, 2026) ja esitti sen vakavasti otettavana riskinä, johon vastaus on proaktiivinen politiikka. Inderesin Verneri Pulkkinen (Pulkkinen, 2026) tarkasteli samaa raporttia sijoittajan kriittisin silmin ja nosti esiin base rates -ajattelun: kuinka usein tämänkaltaiset skenaariot ovat toteutuneet?
 
@@ -28,11 +30,11 @@ Citrinin peruslogiikka ei ole perusteeton. Imas (2026a) on esittänyt akateemise
 
 Mutta Citrinin aikajana — kaksi vuotta kaaokseen — edellyttää, että tuottavuusvaikutukset materialisoituvat nopeudella, jolle ei löydy tukea datasta.
 
-Imas (2026b) on koonnut kattavan katsauksen tekoälyn tuottavuusvaikutuksista, ja hänen yhteenvetonsa on poikkeuksellisen rehellinen: mikrotason tutkimukset osoittavat todellisia tuottavuushyötyjä, mutta ne eivät vielä näy makrotason tilastoissa. Tämä mikro–makro-kuilu on Citrini-kritiikin ydin.
+Imas (2026b) on koonnut kattavan katsauksen tekoälyn tuottavuusvaikutuksista, ja hänen yhteenvetonsa on poikkeuksellisen rehellinen: mikrotason tutkimukset osoittavat todellisia tuottavuushyötyjä, mutta ne eivät vielä näy makrotason tilastoissa. Tämä mikro–makro-kuilu on keskeinen ongelma Citrinin aikajanalle.
 
-Mikrotasolla tulokset ovat rohkaisevia mutta vaihtelevia. Brynjolfsson, Li ja Raymond (2025) havaitsivat asiakaspalvelussa 14–15 prosentin tuottavuuskasvun, joka oli suurin vähemmän kokeneilla työntekijöillä. Cui ym. (2025) raportoivat kolmesta satunnaistetusta kokeesta noin 26 prosentin kasvun ohjelmistokehittäjien valmiiksi saatetuissa pull requesteissa. Toisaalta METR-tutkimuksessa (Becker ym., 2025) kokeneet avoimen lähdekoodin kehittäjät olivat tekoälyn kanssa 19 prosenttia *hitaampia* — ja uskoivat silti tekoälyn nopeuttaneen heitä. Mittaamaton kokemus tuottavuudesta ja mitattu tuottavuus voivat siis osoittaa vastakkaisiin suuntiin.
+Mikrotasolla tulokset ovat rohkaisevia mutta vaihtelevia. Brynjolfsson, Li ja Raymond (2025) havaitsivat asiakaspalvelussa 14–15 prosentin tuottavuuskasvun, joka oli suurin vähemmän kokeneilla työntekijöillä. Cui ym. (2025) raportoivat kolmesta satunnaistetusta kokeesta noin 26 prosentin kasvun ohjelmistokehittäjien valmiiksi saatetuissa pull requesteissa. Toisaalta METR-tutkimuksessa (Becker ym., 2025) kokeneet avoimen lähdekoodin kehittäjät olivat tekoälyn kanssa 19 prosenttia *hitaampia* — ja uskoivat silti tekoälyn nopeuttaneen heitä. Mittaamaton kokemus tuottavuudesta ja mitattu tuottavuus voivat siis osoittaa vastakkaisiin suuntiin. Tämä muistuttaa siitä, että tekoäly voi siirtää aikaa muualle työprosessissa, vaikka yksittäinen tehtävä nopeutuisi.
 
-Makrotason evidenssi on varovaisempaa. Humlum ja Vestergaard (2025) seurasivat Tanskan työmarkkinoita kaksi vuotta ChatGPT:n julkaisun jälkeen eivätkä löytäneet tilastollisesti merkitseviä vaikutuksia ansioihin tai työtunteihin. Yotzov ym. (2026) havaitsivat kansainvälisessä kyselyssä, että yli 80 prosenttia yrityksistä raportoi nollavaikutusta työllisyyteen tai tuottavuuteen. Penn Whartonin budjettimallin (2025) arvion mukaan tekoälyn kontribuutio kokonaistuottavuuden kasvuun oli vuonna 2025 noin 0,01 prosenttiyksikköä.
+Makrotason näyttö on varovaisempaa. Humlum ja Vestergaard (2025) seurasivat Tanskan työmarkkinoita kaksi vuotta ChatGPT:n julkaisun jälkeen eivätkä löytäneet tilastollisesti merkitseviä vaikutuksia ansioihin tai työtunteihin. Yotzov ym. (2026) havaitsivat kansainvälisessä kyselyssä, että yli 80 prosenttia yrityksistä raportoi nollavaikutusta työllisyyteen tai tuottavuuteen. Penn Whartonin budjettimallin (2025) arvion mukaan tekoälyn kontribuutio kokonaistuottavuuden kasvuun oli vuonna 2025 noin 0,01 prosenttiyksikköä.
 
 Erityisen mielenkiintoinen on Babinan ym. (2023) havainto: tekoäly-investoinnit eivät tuottaneet tuottavuusparannuksia vaan tuoteinnovaatioita — enemmän tavaramerkkejä, patentteja ja tuotevalikoimaa. Tekoäly näyttää toimivan innovaatiotyökaluna pikemminkin kuin Citrinin olettamana kustannusleikkaajana. Tämä haastaa koko feedback-silmukan premissin: jos yritykset käyttävät tekoälyä ensisijaisesti uusien tuotteiden kehittämiseen eikä henkilöstön korvaamiseen, negatiivinen kierre ei käynnisty samalla tavalla.
 
@@ -50,7 +52,7 @@ Citrinin skenaario edellyttää, että tämä J-käyrä ohitetaan kahdessa vuode
 
 Citrinin skenaario on kirjoitettu amerikkalaisen tietotyötalouden näkökulmasta: Fortune 500 -yritysten SaaS-hankinnat, Manhattanin tietotyöläisten asuntolainat, Silicon Valleyn disruptio. Mutta miltä sen logiikka näyttää suomalaisesta pk-kentästä katsottuna?
 
-DigiKyvykäs-hankkeen (2024–2027) havaintojen perusteella suomalaisten valmistavan teollisuuden ja logistiikan pk-yritysten digitaalinen kypsyys on monessa tapauksessa vielä perustasoilla. Hanke kartoittaa EU-osarahoitteisesti pk-yritysten kyvykkyyksiä teknologioiden hankinnassa, käyttöönotossa ja niiden vaikutusten hallinnassa — ja juuri tämä kartoitus osoittaa, että monien yritysten lähtötaso poikkeaa merkittävästi Citrinin oletuksista. Puhumme yrityksistä, joissa ERP-järjestelmä saattaa olla käytössä mutta sen hyödyntäminen rajoittuu perustoimintoihin. Agenttiset koodaustyökalut, jotka Citrinin skenaariossa korvaavat SaaS-tuotteita viikoissa, edellyttävät organisaatioilta rakenteellista, osaamiseen ja prosesseihin kytkeytyvää kyvykkyyttä, jota monella pk-yrityksellä ei ainakaan toistaiseksi ole.
+Suomalaisten valmistavan teollisuuden ja logistiikan pk-yritysten digitaalinen kypsyys on monessa tapauksessa vielä perustasoilla. Viimeaikaiset kotimaiset selvitykset osoittavat, että pk-yritysten lähtötaso poikkeaa merkittävästi Citrinin oletuksista. Puhumme yrityksistä, joissa ERP-järjestelmä saattaa olla käytössä mutta sen hyödyntäminen rajoittuu perustoimintoihin. Usein tuotantotadata ei ole integroitunut osaksi johtamista, analytiikka puuttuu ja prosessit ovat manuaalisia. Agenttiset koodaustyökalut, jotka Citrinin skenaariossa korvaavat SaaS-tuotteita viikoissa, edellyttävät organisaatioilta rakenteellista, osaamiseen ja prosesseihin kytkeytyvää kyvykkyyttä, jota monella pk-yrityksellä ei ainakaan toistaiseksi ole.
 
 Eurooppalainen data tukee tätä. Aldasoro ym. (2026) havaitsivat EU-aineistossaan, että tekoälyn käyttöönotto vaihtelee rajusti yrityskoon mukaan: suuryrityksistä 45 prosenttia on ottanut tekoälyn käyttöön, pk-yrityksistä vain 24 prosenttia. Sama tutkimus osoitti myös, että koulutus on ratkaisevan tärkeä täydentävä investointi: jokainen lisäprosenttiyksikkö henkilöstökoulutukseen käytettyä rahaa tuotti 5,9 prosenttiyksikköä lisää tuottavuutta.
 
@@ -101,8 +103,6 @@ Brynjolfsson, E., Li, D., & Raymond, L. R. (2025). Generative AI at work. *Quart
 Brynjolfsson, E., Rock, D., & Syverson, C. (2021). The productivity J-curve: How intangibles complement general purpose technologies. *American Economic Journal: Macroeconomics*, 13(1), 333–372.
 
 Citrini Research. (2026). The 2028 Global Intelligence Crisis: A thought exercise in financial history, from the future. *Citrini Research* (Substack), 22.2.2026. Saatavilla: https://www.citriniresearch.com/p/2028gic
-
-DigiKyvykäs-hanke. (2024–2027). Digikyvykkyydellä tuottavuutta ja hyvinvointia. Oulun yliopisto, Tampereen yliopisto, Turun yliopisto ym. EU-osarahoitteinen hanke. Saatavilla: https://parempityoelamahanke.fi/hanke/digikyvykas-digikyvykkyydella-tuottavuutta-ja-hyvinvointia/
 
 Euroopan komissio. (2021). *Industry 5.0: Towards a sustainable, human-centric and resilient European industry*. Luxemburg: Publications Office of the EU.
 
