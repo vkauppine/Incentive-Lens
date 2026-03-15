@@ -10,7 +10,69 @@
 <atom:link href="https://vkauppine.github.io/Incentive-Lens/index.xml" rel="self" type="application/rss+xml"/>
 <description>Talousblogi</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Sat, 07 Mar 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Lainattu osaaminen</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/ai-and-skills/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Generatiivisen tekoälyn käyttö on jo osa monen tietotyöläisen, opiskelijan ja koululaisen arkea. Kielimallit voivat auttaa tiivistämään tietoa, tuottamaan oikeita vastauksia ja ihan pätevää tekstiä, toimivasta koodista puhumattakaan. Opiskelu voi tuntua nopealta ja työnteko ennenkokemattoman tehokkaalta; enemmän tuloksia vähemmällä vaivalla. Nopeus ja vaivattomuus houkuttelevat ulkoistamaan tehtäviä ja jopa ajattelua tekoälylle. Mutta millaisia vaikutuksia tällä on uuden oppimiseen ja osaamisen ylläpitoon? Tuoreen tutkimustiedon perusteella on syytä varovaisuuteen.</p>
+<section id="oppiminen-vaatii-vaivannäköä" class="level2">
+<h2 class="anchored" data-anchor-id="oppiminen-vaatii-vaivannäköä">Oppiminen vaatii vaivannäköä</h2>
+<p>Oppiminen vaatii kognitiivista ponnistelua: epävarmuuden sietämistä, erehtymistä, suunnan korjaamista, aktiivista päättelemistä ja vaikeuksien voittamista. Oppimistutkimuksessa tämä ei ole uusi asia. Oppiminen voidaan määritellä muutoksiksi pitkäaikaisessa muistissa, ja edellyttää aina huomion kiinnittämistä ja vaativaa ajattelua (Bjork &amp; Bjork). Juuri se kitka, jonka tekoäly poistaa, on pysyvän oppimisen edellytys. Kielimallien käyttö voi entisestään lisätä “Google-vaikutusta”, jossa opiskelijat lähinnä oppivat muistamaan, mistä tietoa voi hakea.</p>
+<p>Kaksi vakiintunutta kognitiivisen psykologian teoriaa selittää ilmiötä. <strong>Kognitiivinen ulkoistaminen</strong> (<em>cognitive offloading</em>): tekoälyn avulla ajatteluprosessi ulkoistetaan, eivätkä aivot tee sitä työtä, joka tuottaa pysyviä muistijälkiä. <strong>Hyödylliset vaikeudet</strong> (<em>desirable difficulties</em>): tekoäly poistaa opiskelusta oppimisen kannalta välttämättömät hankaluudet ja kamppailun.</p>
+<p>Brasilialaisessa satunnaistetussa kokeessa (n = 120) tutkittiin ChatGPT:n vaikutusta pitkäaikaiseen osaamiseen (Barcaui 2025). 45 päivän kuluttua järjestetyssä yllätystestissä tekoälyä käyttäneet opiskelijat menestyivät noin yhden arvosanan verran heikommin kuin perinteisin menetelmin opiskellut verrokkiryhmä.</p>
+<p>Anthropicin tutkijoiden (Shen ja Tamkin 2026) satunnaistettu koe tutki, miten AI-avustajan käyttö vaikuttaa uuden ohjelmointikirjaston oppimiseen ammattilaiskehittäjillä. Konteksti on erityisen relevantti: tuottavuuden näkökulmasta juuri aloittelevat kehittäjät hyötyvät eniten tekoälyn käytöstä, mutta ovat myös kaikkein haavoittuvimpia taitojen kehittymisen kannalta. Tutkimuksen löydös on merkittävä: tekoälyä käyttäneet saivat 17 % huonommat pisteet osaamiskokeessa eikä tehtävän suorittamisaika parantunut tilastollisesti merkitsevästi.</p>
+<p>Nämä tutkimukset eivät ole ainoita:</p>
+<ul>
+<li><strong>Microsoftin Future of Work -raportti</strong> (2026) korostaa, että kokeneet osaajat hyötyvät tekoälystä, mutta aloittelijoiden oppimispolku vaarantuu.</li>
+<li><strong>CACM:n katsaus</strong> AI:n deskilling-paradoksista: AI tekee työntekijöistä tuottavampia lyhyellä aikavälillä samalla kun se rappeuttaa taitoja jotka tekevät heistä arvokkaita.</li>
+</ul>
+<p>Barcaui kutsuu ilmiötä <em>lainatuksi osaamiseksi</em>: AI tarjoaa sanaston, rakenteen ja päättelyketjut ja luo illuusion osaamisesta. Todellista enkoodausta pitkäkestoiseen muistiin ei kuitenkaan tapahdu.</p>
+</section>
+<section id="kannustinongelma-jälleen-kerran" class="level2">
+<h2 class="anchored" data-anchor-id="kannustinongelma-jälleen-kerran">Kannustinongelma, jälleen kerran</h2>
+<p>Taloustieteen linssin läpi tarkasteltuna kyseessä on taas kerran kannustinongelma. Tekoälyn käyttö synnyttää kannustinrakenteen, jossa hyöty on välitön ja näkyvä. Tehtävä valmistuu nopeammin ja tulos näyttää hyvältä. Kustannus on taas näkymätön ja viivästynyt. Osaaminen ei kerry, mutta sen puuttuminen paljastuu vasta myöhemmin. Yksilö tekee lyhyellä aikavälillä rationaalisen valinnan käyttää tekoälyä, mutta pitkällä aikavälillä tulos on suboptimaalinen: osaamispääomaa ei kerry tai se jopa rapautuu.</p>
+<p>Ongelma kärjistyy erityisesti uransa alkuvaiheessa olevilla. Kokenut ammattilainen voi käyttää AI:ta tehokkaasti, koska hänellä on olemassa oleva osaamispohja jota vasten arvioida tuloksia. Aloittelija ei tiedä mitä ei tiedä eikä pysty arvioimaan AI:n tuotoksen laatua tai huomaamaan, ettei opi. Dynamiikka on hankala: aloittelija ei ainoastaan jätä osaamista kartuttamatta, vaan saa siitä huolimatta positiivisen palautteen. Tehtävä valmistuu, koodi toimii, essee näyttää hyvältä. Oppimisen puute ei näy välittömästi missään: ei itselle, ei opettajalle, ei esihenkilölle. Aukko paljastuu vasta myöhemmin tilanteessa jossa vaaditaan itsenäistä soveltamista tai ongelmanratkaisua ilman tekoälyä. Shen ja Tamkin kuvaavat tätä hauskasti: tekoäly voi toimia eksoskeletonina, mutta ilman sitä ihminen ei ole sen vahvempi kuin ennen.</p>
+</section>
+<section id="oppimista-tukevat-käyttötavat" class="level2">
+<h2 class="anchored" data-anchor-id="oppimista-tukevat-käyttötavat">Oppimista tukevat käyttötavat</h2>
+<p>Ratkaisu ei ole AI:n välttäminen. Shen ja Tamkinin tutkimus osoittaa, että tietoisella käyttötavalla oppiminen voi säilyä. Mutta se edellyttää <em>tietoista vaivannäköä</em> — aktiivista päätöstä olla ulkoistamatta ajattelua. Artikkeli antaa kolme konkreettista suositusta oppimista tukevista käyttötavoista:</p>
+<ol type="1">
+<li><p><strong>Ensin oma yritys, sitten AI</strong>. Opiskele tai ratkaise ongelma ensin itse. Tämän jälkeen tekoälyä voi käyttää vastausten vertailuun, testaamiseen ja aukkojen löytämiseen.</p></li>
+<li><p><strong>Käyttö palautetyökaluna, ei vastausautomaattina</strong>. Tee ensin oma vastaus, ja kysy sen jälkeen palautetta tekoälyltä. Tämä säilyttää oppimisen kannalta välttämättömän oman ponnistelun ja ajattelun.</p></li>
+<li><p><strong>Viivästä tekoälyn käyttöä uuden materiaalin kanssa</strong>: Käsitteellisesti vaikeissa asioissa kannattaa ensin kamppailla itsensä kanssa. Juuri hankalissa asioissa hyödyllisten vaikeuksien arvo on suurin.</p></li>
+</ol>
+<p>Oulussa tätä testataan käytännössä. Sanna Järvelän johtamassa Oulun yliopiston Hybrid Intelligence -tutkimusohjelmassa kehitetty <em>Mai</em> — metakognitiivinen AI-agentti — on suunniteltu tekemään juuri päinvastoin kuin ChatGPT. Lähtökohtana on hybridin älykkyyden idea: ihmisen ja tekoälyn vahvuudet yhdistettynä tuottavat enemmän kuin kumpikaan erikseen, mutta vain jos AI <em>parantaa</em> ihmisen ajattelua eikä korvaa sitä. Mai ei anna valmiita vastauksia vaan toimii ryhmän valmentajana. Se tarkkailee oppilaiden työskentelyä, hoksauttaa haasteista ja ohjaa keskusteluun. Ritaharjun yläkoulussa 132 seiskaluokkalaista testasi agenttia fysiikan opetuksessa. Oppilaat raportoivat ratkaisseensa ongelmia paremmin yhdessä ja muistaneensa opetettavat asiat paremmin Mai:n haastamisen jälkeen. Tiimityössä hybridimallit voivat toimia erityisen hyvin, koska sosiaalinen vertaispaine ja AI-valmennus vahvistavat toisiaan.</p>
+<p>Oppilaan havainto tiivistää olennaisen: <em>“Koska valmiita vastauksia siltä ei saa, joutuu itse miettimään ja oppii sitä kautta asian paremmin.”</em></p>
+<hr>
+<p><em>Lähteet:</em></p>
+<ul>
+<li>Barcaui, A. (2025). <a href="https://doi.org/10.1016/j.ssaho.2025.102287">ChatGPT as a cognitive crutch: Evidence from a randomized controlled trial on knowledge retention</a>. <em>Social Sciences &amp; Humanities Open</em>, 12, 102287.</li>
+<li>Bjork, E. L. &amp; Bjork, R. A. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. Teoksessa Gernsbacher et al.&nbsp;(toim.), Psychology and the Real World. Worth Publishers.</li>
+<li>Shen, J. H. &amp; Tamkin, A. (2025). <a href="https://arxiv.org/abs/2601.20245">How AI Impacts Skill Formation</a>. arXiv:2601.20245.</li>
+<li>Crowston, K. (2025). <a href="https://crowston.syr.edu/sites/crowston.syr.edu/files/GAI_and_skills.pdf">Deskilling and Upskilling with AI Systems</a>.</li>
+<li><a href="https://cacm.acm.org/news/the-ai-deskilling-paradox/">The AI Deskilling Paradox</a>. Communications of the ACM.</li>
+<li><a href="https://allwork.space/2026/01/workers-gain-hours-with-ai-but-risk-losing-skills-according-to-microsofts-new-future-of-work-report/">Workers Gain Hours With AI But Risk Losing Skills</a>. AllWork/Microsoft Future of Work Report, 2026.</li>
+<li><a href="https://www.imf.org/en/blogs/articles/2026/01/14/new-skills-and-ai-are-reshaping-the-future-of-work">New Skills and AI Are Reshaping the Future of Work</a>. IMF Blog, 2026.</li>
+<li>Järvelä, S. et al.&nbsp;/ Oulun yliopisto (2025). <a href="https://www.oulu.fi/en/blogs/science-arctic-attitude/hybrid-intelligence-ensures-ai-does-not-replace-learning-or-make-learner-lazy">Hybrid Intelligence ensures AI does not replace learning</a>. Oulun yliopisto; ks. myös <a href="https://yle.fi/a/74-20130127">Yle 14.3.2025</a>.</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>ai</category>
+  <category>kannustimet</category>
+  <category>inhimillinen pääoma</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/ai-and-skills/</guid>
+  <pubDate>Fri, 13 Mar 2026 22:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Tekoäly ja kysyntäshokki — mitä Citrinin doomer-skenaario tarkoittaa suomalaiselle pk-kentälle?</title>
   <dc:creator>Vesa Kauppinen</dc:creator>

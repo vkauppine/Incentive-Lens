@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Vesa">
+<meta name="description" content="Tekoäly luo kannustimen ulkoistaa ajattelu, mutta oppiminen edellyttää kognitiivista vaivannäköä.">
 
-<title>Incentive Lens</title>
+<title>Lainattu osaaminen – Incentive Lens</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +25,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,77 +70,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Hae"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Incentive Lens" href="index.xml" data-external="1"></head>
+<link rel="stylesheet" href="../../styles.css">
+</head>
 
 <body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Incentive Lens</span>
     </a>
   </div>
@@ -151,11 +93,11 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">Vesa Kauppinen</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml.com"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../index.xml.com"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -167,285 +109,101 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Lainattu osaaminen</h1>
+                  <div>
+        <div class="description">
+          Tekoäly luo kannustimen ulkoistaa ajattelu, mutta oppiminen edellyttää kognitiivista vaivannäköä.
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">ai</div>
+                <div class="quarto-category">kannustimet</div>
+                <div class="quarto-category">inhimillinen pääoma</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Tekijä</div>
+      <div class="quarto-title-meta-contents">
+               <p>Vesa </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Julkaistu</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">14. maaliskuuta 2026</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Incentive Lens</h1>
-</div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>Taloustiedettä, dataa ja analyyttistä ajattelua suomalaisesta näkökulmasta.</p>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="YWklMkNrYW5udXN0aW1ldCUyQ2luaGltaWxsaW5lbiUyMHAlQzMlQTQlQzMlQTRvbWE=" data-listing-date-sort="1773439200000" data-listing-file-modified-sort="1773549918257" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="840">
-<div class="thumbnail"><a href="./posts/ai-and-skills/index.html" class="no-external">
 
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+<p>Generatiivisen tekoälyn käyttö on jo osa monen tietotyöläisen, opiskelijan ja koululaisen arkea. Kielimallit voivat auttaa tiivistämään tietoa, tuottamaan oikeita vastauksia ja ihan pätevää tekstiä, toimivasta koodista puhumattakaan. Opiskelu voi tuntua nopealta ja työnteko ennenkokemattoman tehokkaalta; enemmän tuloksia vähemmällä vaivalla. Nopeus ja vaivattomuus houkuttelevat ulkoistamaan tehtäviä ja jopa ajattelua tekoälylle. Mutta millaisia vaikutuksia tällä on uuden oppimiseen ja osaamisen ylläpitoon? Tuoreen tutkimustiedon perusteella on syytä varovaisuuteen.</p>
+<section id="oppiminen-vaatii-vaivannäköä" class="level2">
+<h2 class="anchored" data-anchor-id="oppiminen-vaatii-vaivannäköä">Oppiminen vaatii vaivannäköä</h2>
+<p>Oppiminen vaatii kognitiivista ponnistelua: epävarmuuden sietämistä, erehtymistä, suunnan korjaamista, aktiivista päättelemistä ja vaikeuksien voittamista. Oppimistutkimuksessa tämä ei ole uusi asia. Oppiminen voidaan määritellä muutoksiksi pitkäaikaisessa muistissa, ja edellyttää aina huomion kiinnittämistä ja vaativaa ajattelua (Bjork &amp; Bjork). Juuri se kitka, jonka tekoäly poistaa, on pysyvän oppimisen edellytys. Kielimallien käyttö voi entisestään lisätä “Google-vaikutusta”, jossa opiskelijat lähinnä oppivat muistamaan, mistä tietoa voi hakea.</p>
+<p>Kaksi vakiintunutta kognitiivisen psykologian teoriaa selittää ilmiötä. <strong>Kognitiivinen ulkoistaminen</strong> (<em>cognitive offloading</em>): tekoälyn avulla ajatteluprosessi ulkoistetaan, eivätkä aivot tee sitä työtä, joka tuottaa pysyviä muistijälkiä. <strong>Hyödylliset vaikeudet</strong> (<em>desirable difficulties</em>): tekoäly poistaa opiskelusta oppimisen kannalta välttämättömät hankaluudet ja kamppailun.</p>
+<p>Brasilialaisessa satunnaistetussa kokeessa (n = 120) tutkittiin ChatGPT:n vaikutusta pitkäaikaiseen osaamiseen (Barcaui 2025). 45 päivän kuluttua järjestetyssä yllätystestissä tekoälyä käyttäneet opiskelijat menestyivät noin yhden arvosanan verran heikommin kuin perinteisin menetelmin opiskellut verrokkiryhmä.</p>
+<p>Anthropicin tutkijoiden (Shen ja Tamkin 2026) satunnaistettu koe tutki, miten AI-avustajan käyttö vaikuttaa uuden ohjelmointikirjaston oppimiseen ammattilaiskehittäjillä. Konteksti on erityisen relevantti: tuottavuuden näkökulmasta juuri aloittelevat kehittäjät hyötyvät eniten tekoälyn käytöstä, mutta ovat myös kaikkein haavoittuvimpia taitojen kehittymisen kannalta. Tutkimuksen löydös on merkittävä: tekoälyä käyttäneet saivat 17 % huonommat pisteet osaamiskokeessa eikä tehtävän suorittamisaika parantunut tilastollisesti merkitsevästi.</p>
+<p>Nämä tutkimukset eivät ole ainoita:</p>
+<ul>
+<li><strong>Microsoftin Future of Work -raportti</strong> (2026) korostaa, että kokeneet osaajat hyötyvät tekoälystä, mutta aloittelijoiden oppimispolku vaarantuu.</li>
+<li><strong>CACM:n katsaus</strong> AI:n deskilling-paradoksista: AI tekee työntekijöistä tuottavampia lyhyellä aikavälillä samalla kun se rappeuttaa taitoja jotka tekevät heistä arvokkaita.</li>
+</ul>
+<p>Barcaui kutsuu ilmiötä <em>lainatuksi osaamiseksi</em>: AI tarjoaa sanaston, rakenteen ja päättelyketjut ja luo illuusion osaamisesta. Todellista enkoodausta pitkäkestoiseen muistiin ei kuitenkaan tapahdu.</p>
+</section>
+<section id="kannustinongelma-jälleen-kerran" class="level2">
+<h2 class="anchored" data-anchor-id="kannustinongelma-jälleen-kerran">Kannustinongelma, jälleen kerran</h2>
+<p>Taloustieteen linssin läpi tarkasteltuna kyseessä on taas kerran kannustinongelma. Tekoälyn käyttö synnyttää kannustinrakenteen, jossa hyöty on välitön ja näkyvä. Tehtävä valmistuu nopeammin ja tulos näyttää hyvältä. Kustannus on taas näkymätön ja viivästynyt. Osaaminen ei kerry, mutta sen puuttuminen paljastuu vasta myöhemmin. Yksilö tekee lyhyellä aikavälillä rationaalisen valinnan käyttää tekoälyä, mutta pitkällä aikavälillä tulos on suboptimaalinen: osaamispääomaa ei kerry tai se jopa rapautuu.</p>
+<p>Ongelma kärjistyy erityisesti uransa alkuvaiheessa olevilla. Kokenut ammattilainen voi käyttää AI:ta tehokkaasti, koska hänellä on olemassa oleva osaamispohja jota vasten arvioida tuloksia. Aloittelija ei tiedä mitä ei tiedä eikä pysty arvioimaan AI:n tuotoksen laatua tai huomaamaan, ettei opi. Dynamiikka on hankala: aloittelija ei ainoastaan jätä osaamista kartuttamatta, vaan saa siitä huolimatta positiivisen palautteen. Tehtävä valmistuu, koodi toimii, essee näyttää hyvältä. Oppimisen puute ei näy välittömästi missään: ei itselle, ei opettajalle, ei esihenkilölle. Aukko paljastuu vasta myöhemmin tilanteessa jossa vaaditaan itsenäistä soveltamista tai ongelmanratkaisua ilman tekoälyä. Shen ja Tamkin kuvaavat tätä hauskasti: tekoäly voi toimia eksoskeletonina, mutta ilman sitä ihminen ei ole sen vahvempi kuin ennen.</p>
+</section>
+<section id="oppimista-tukevat-käyttötavat" class="level2">
+<h2 class="anchored" data-anchor-id="oppimista-tukevat-käyttötavat">Oppimista tukevat käyttötavat</h2>
+<p>Ratkaisu ei ole AI:n välttäminen. Shen ja Tamkinin tutkimus osoittaa, että tietoisella käyttötavalla oppiminen voi säilyä. Mutta se edellyttää <em>tietoista vaivannäköä</em> — aktiivista päätöstä olla ulkoistamatta ajattelua. Artikkeli antaa kolme konkreettista suositusta oppimista tukevista käyttötavoista:</p>
+<ol type="1">
+<li><p><strong>Ensin oma yritys, sitten AI</strong>. Opiskele tai ratkaise ongelma ensin itse. Tämän jälkeen tekoälyä voi käyttää vastausten vertailuun, testaamiseen ja aukkojen löytämiseen.</p></li>
+<li><p><strong>Käyttö palautetyökaluna, ei vastausautomaattina</strong>. Tee ensin oma vastaus, ja kysy sen jälkeen palautetta tekoälyltä. Tämä säilyttää oppimisen kannalta välttämättömän oman ponnistelun ja ajattelun.</p></li>
+<li><p><strong>Viivästä tekoälyn käyttöä uuden materiaalin kanssa</strong>: Käsitteellisesti vaikeissa asioissa kannattaa ensin kamppailla itsensä kanssa. Juuri hankalissa asioissa hyödyllisten vaikeuksien arvo on suurin.</p></li>
+</ol>
+<p>Oulussa tätä testataan käytännössä. Sanna Järvelän johtamassa Oulun yliopiston Hybrid Intelligence -tutkimusohjelmassa kehitetty <em>Mai</em> — metakognitiivinen AI-agentti — on suunniteltu tekemään juuri päinvastoin kuin ChatGPT. Lähtökohtana on hybridin älykkyyden idea: ihmisen ja tekoälyn vahvuudet yhdistettynä tuottavat enemmän kuin kumpikaan erikseen, mutta vain jos AI <em>parantaa</em> ihmisen ajattelua eikä korvaa sitä. Mai ei anna valmiita vastauksia vaan toimii ryhmän valmentajana. Se tarkkailee oppilaiden työskentelyä, hoksauttaa haasteista ja ohjaa keskusteluun. Ritaharjun yläkoulussa 132 seiskaluokkalaista testasi agenttia fysiikan opetuksessa. Oppilaat raportoivat ratkaisseensa ongelmia paremmin yhdessä ja muistaneensa opetettavat asiat paremmin Mai:n haastamisen jälkeen. Tiimityössä hybridimallit voivat toimia erityisen hyvin, koska sosiaalinen vertaispaine ja AI-valmennus vahvistavat toisiaan.</p>
+<p>Oppilaan havainto tiivistää olennaisen: <em>“Koska valmiita vastauksia siltä ei saa, joutuu itse miettimään ja oppii sitä kautta asian paremmin.”</em></p>
+<hr>
+<p><em>Lähteet:</em></p>
+<ul>
+<li>Barcaui, A. (2025). <a href="https://doi.org/10.1016/j.ssaho.2025.102287">ChatGPT as a cognitive crutch: Evidence from a randomized controlled trial on knowledge retention</a>. <em>Social Sciences &amp; Humanities Open</em>, 12, 102287.</li>
+<li>Bjork, E. L. &amp; Bjork, R. A. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. Teoksessa Gernsbacher et al.&nbsp;(toim.), Psychology and the Real World. Worth Publishers.</li>
+<li>Shen, J. H. &amp; Tamkin, A. (2025). <a href="https://arxiv.org/abs/2601.20245">How AI Impacts Skill Formation</a>. arXiv:2601.20245.</li>
+<li>Crowston, K. (2025). <a href="https://crowston.syr.edu/sites/crowston.syr.edu/files/GAI_and_skills.pdf">Deskilling and Upskilling with AI Systems</a>.</li>
+<li><a href="https://cacm.acm.org/news/the-ai-deskilling-paradox/">The AI Deskilling Paradox</a>. Communications of the ACM.</li>
+<li><a href="https://allwork.space/2026/01/workers-gain-hours-with-ai-but-risk-losing-skills-according-to-microsofts-new-future-of-work-report/">Workers Gain Hours With AI But Risk Losing Skills</a>. AllWork/Microsoft Future of Work Report, 2026.</li>
+<li><a href="https://www.imf.org/en/blogs/articles/2026/01/14/new-skills-and-ai-are-reshaping-the-future-of-work">New Skills and AI Are Reshaping the Future of Work</a>. IMF Blog, 2026.</li>
+<li>Järvelä, S. et al.&nbsp;/ Oulun yliopisto (2025). <a href="https://www.oulu.fi/en/blogs/science-arctic-attitude/hybrid-intelligence-ensures-ai-does-not-replace-learning-or-make-learner-lazy">Hybrid Intelligence ensures AI does not replace learning</a>. Oulun yliopisto; ks. myös <a href="https://yle.fi/a/74-20130127">Yle 14.3.2025</a>.</li>
+</ul>
 
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ai-and-skills/index.html" class="no-external">Lainattu osaaminen</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/ai-and-skills/index.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="./posts/ai-and-skills/index.html" class="no-external">
-<p>Tekoäly luo kannustimen ulkoistaa ajattelu, mutta oppiminen edellyttää kognitiivista vaivannäköä.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ai-and-skills/index.html" class="no-external">
-<div class="listing-date">
-14.3.2026
-</div>
-<div class="listing-author">
-Vesa
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="dGVrbyVDMyVBNGx5JTJDdGFsb3VzcG9saXRpaWtrYSUyQ3BrLXlyaXR5a3NldA==" data-listing-date-sort="1772920800000" data-listing-file-modified-sort="1772954649712" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1758">
-<div class="thumbnail"><a href="./posts/citrini/index.html" class="no-external">
 
-<img loading="lazy" src="./posts/citrini/image.png" class="thumbnail-image">
+</section>
 
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/citrini/index.html" class="no-external">Tekoäly ja kysyntäshokki — mitä Citrinin doomer-skenaario tarkoittaa suomalaiselle pk-kentälle?</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/citrini/index.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="./posts/citrini/index.html" class="no-external">
-<p>Citrini Researchin raportti ennustaa tekoälyn aiheuttamaa kysyntäromahdusta. Miltä argumentti näyttää taloustieteen ja suomalaisen pk-todellisuuden valossa?</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/citrini/index.html" class="no-external">
-<div class="listing-date">
-8.3.2026
-</div>
-<div class="listing-author">
-Vesa Kauppinen
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="cmFoYXBvbGl0aWlra2ElMkNldXJvYWx1ZSUyQ21vcmFsJTIwaGF6YXJkJTJDaW5zZW50aWl2aXQ=" data-listing-date-sort="1772661600000" data-listing-file-modified-sort="1772719516555" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="505">
-<div class="thumbnail"><a href="./posts/ekp/ekp_finanssikuri.html" class="no-external">
-
-<img loading="lazy" src="./posts/ekp/cover.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ekp/ekp_finanssikuri.html" class="no-external">EKP osti finanssikurin pois — kuka maksaa laskun?</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/ekp/ekp_finanssikuri.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="./posts/ekp/ekp_finanssikuri.html" class="no-external">
-<em>“Governments and voters respond to incentives too. That is why governments sometimes default on loans and other promises that they have made.”</em>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ekp/ekp_finanssikuri.html" class="no-external">
-<div class="listing-date">
-5.3.2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="dGFsb3VzdGllZGUlMkNBSSUyQ3R1b3R0YXZ1dXMlMkNrYW5udXN0aW1ldA==" data-listing-date-sort="1772143200000" data-listing-file-modified-sort="1772179553287" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="626">
-<div class="thumbnail"><a href="./posts/ai-productivity-incentives/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ai-productivity-incentives/index.html" class="no-external">Miksi AI:n tuottavuuslupaus ei toteudu</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/ai-productivity-incentives/index.html" class="no-external">Kannustinongelma, ei teknologiaongelma</a>
-</div>
-<div class="delink listing-description"><a href="./posts/ai-productivity-incentives/index.html" class="no-external">
-Tekoälyyn investoidaan satoja miljardeja, ja yritysjohtajat odottavat tuottavuusloikkaa. Toistaiseksi data kertoo maltillisemmasta kehityksestä.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ai-productivity-incentives/index.html" class="no-external">
-<div class="listing-date">
-27.2.2026
-</div>
-<div class="listing-author">
-Vesa
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="cmFoYXBvbGl0aWlra2ElMkNrYW5udXN0aW1ldCUyQ3Rla28lQzMlQTRseSUyQ2ZlZA==" data-listing-date-sort="1771884000000" data-listing-file-modified-sort="1772191037121" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="526">
-<div class="thumbnail"><a href="./posts/warsh/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/warsh/index.html" class="no-external">Kenen tuottavuusbuumi? Fedin uuden johtajan AI-argumentin kannustinrakenne</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/warsh/index.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="./posts/warsh/index.html" class="no-external">
-<p>Kevin Warsh väittää, että tekoäly oikeuttaa korkojen laskun. Mutta argumentin suunta oli tiedossa ennen perustelua.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/warsh/index.html" class="no-external">
-<div class="listing-date">
-24.2.2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="dGFsb3VzdGllZGUlMkNrZWhpdHlzdGFsb3VzJTJDU2luZ2Fwb3Jl" data-listing-date-sort="1771624800000" data-listing-file-modified-sort="1773548705775" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2236">
-<div class="thumbnail"><a href="./posts/singapore/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/singapore/pic.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/singapore/index.html" class="no-external">Singapore: tehokas selviytymiskone</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/singapore/index.html" class="no-external">Miten kaupunkivaltio rakensi yhden maailman vauraimmista talouksista — ja mitä se maksoi</a>
-</div>
-<div class="delink listing-description"><a href="./posts/singapore/index.html" class="no-external">
-Singapore on taloushistoriallinen poikkeus. Pieni kaupunkivaltio päiväntasaajalla ilman merkittäviä luonnonvaroja itsenäistyi vuonna 1965 vaikeassa poliittisessa…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/singapore/index.html" class="no-external">
-<div class="listing-date">
-21.2.2026
-</div>
-<div class="listing-author">
-Vesa
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="dGVrbyVDMyVBNGx5JTJDdGFsb3Vza2FzdnUlMkNzaW5ndWxhcml0ZWV0dGk=" data-listing-date-sort="1771452000000" data-listing-file-modified-sort="1772223494865" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1074">
-<div class="thumbnail"><a href="./posts/ai-singulariteetti/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts\ai-singulariteetti\bkt_trendi.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ai-singulariteetti/index.html" class="no-external">Onko singulariteetti lähellä? Taloustiede vs.&nbsp;teknohype</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/ai-singulariteetti/index.html" class="no-external">Mitä talouskasvumallit kertovat tekoälyn mullistavuudesta — ja mitä ne eivät kerro</a>
-</div>
-<div class="delink listing-description"><a href="./posts/ai-singulariteetti/index.html" class="no-external">
-Elon Musk kirjoitti helmikuussa 2026 olevamme “singulariteetin hyvin varhaisessa vaiheessa”. Samoihin aikoihin Andrej Karpathy kuvaili autonomisten LLM-agenttien verkostoa —…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ai-singulariteetti/index.html" class="no-external">
-<div class="listing-date">
-19.2.2026
-</div>
-<div class="listing-author">
-Vesa
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-categories="dGFsb3VzdGllZGUlMkNydW9rYSUyQ2xvZ2lzdGlpa2th" data-listing-date-sort="1771452000000" data-listing-file-modified-sort="1772192119750" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1286">
-<div class="thumbnail"><a href="./posts/ruoka/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ruoka/index.html" class="no-external">Ruuan taloustiede: miksi syömme niin kuin syömme?</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/ruoka/index.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="./posts/ruoka/index.html" class="no-external">
-<p>Pellolta pöytään – ja kaikki taloudelliset voimat siltä väliltä.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ruoka/index.html" class="no-external">
-<div class="listing-date">
-19.2.2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="8" data-categories="dGFsb3VzdGllZGUlMkN0eSVDMyVCNmVsJUMzJUE0bSVDMyVBNCUyQ3R5JUMzJUI2aHl2aW52b2ludGk=" data-listing-date-sort="1771279200000" data-listing-file-modified-sort="1771645896195" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="800">
-<div class="thumbnail"><a href="./posts/tyohyvinvointiedut/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/tyohyvinvointiedut/index.html" class="no-external">Ovatko työhyvinvointiedut hukkaan heitettyä rahaa?</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/tyohyvinvointiedut/index.html" class="no-external">Taloustieteellinen näkökulma liikuntaetuihin, työsuhdepyöriin ja virkistyspäiviin</a>
-</div>
-<div class="delink listing-description"><a href="./posts/tyohyvinvointiedut/index.html" class="no-external">
-<p>Työterveyslääkäri Eira Roos ehdottaa Ylellä, että liikuntaedut ja työhyvinvointipäivät pitäisi räjäyttää. Roosin kliininen kokemus on arvokas, mutta taloustieteellisesti asia on monimutkaisempi kuin dikotomia antaa ymmärtää.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/tyohyvinvointiedut/index.html" class="no-external">
-<div class="listing-date">
-17.2.2026
-</div>
-<div class="listing-author">
-Vesa
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">Ei hakutuloksia</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

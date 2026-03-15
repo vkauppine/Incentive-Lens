@@ -231,11 +231,109 @@
     "text": "Johtopäätös\nTaloustieteen näkökulmasta lopputulos on avoin. Teknologinen etulinja näyttää nopean muutoksen, mutta koko talouden tasolla vaikutukset määräytyvät täydentävyyksien, pullonkaulojen ja institutionaalisen sopeutumisen kautta. Historiallisesti monet mullistavat teknologiat ovat muuttaneet talouden rakennetta ilman pysyvää kasvuvauhdin muutosta. Tekoäly voi muodostaa poikkeuksen, mutta sen osoittaa ajan myötä kertynyt data, ei yksittäiset havainnot tai julkiset lausunnot.\n\nLähteet:\n\nAcemoglu, D. & Restrepo, P. (2018). “The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment.” American Economic Review, 108(6), 1488–1542.\nAmodei, D. (2024). “Machines of Loving Grace: How AI Could Transform the World for the Better.” darioamodei.com.\nEpoch AI (2025). “Data on AI Models.” epochai.org.\nJones, C.I. (2024). “The AI Dilemma: Growth versus Existential Risk.” American Economic Review: Insights, 6(4), 575–590.\nJones, C.I. (2025). “How Much Should We Spend to Reduce A.I.’s Existential Risk?” NBER Working Paper 33602.\nJones, C.I. (2026). “A.I. and Our Economic Future.” Tulossa Journal of Economic Perspectives -lehdessä.\nJones, C.I. & Tonetti, C. (2026). “Past Automation and Future A.I.: How Weak Links Tame the Growth Explosion.” Julkaisematon käsikirjoitus.\nMETR (2025). “Measuring AI Ability to Complete Long Tasks.” metr.org.\nNordhaus, W.D. (2021). “Are We Approaching an Economic Singularity?” American Economic Journal: Macroeconomics, 13(1), 299–332.\nMusk, E. & Karpathy, A. (2026). X/Twitter-keskustelu, helmikuu 2026."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Incentive Lens",
+    "objectID": "posts/ai-and-skills/index.html",
+    "href": "posts/ai-and-skills/index.html",
+    "title": "Lainattu osaaminen",
     "section": "",
-    "text": "Taloustiedettä, dataa ja analyyttistä ajattelua suomalaisesta näkökulmasta.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTekoäly ja kysyntäshokki — mitä Citrinin doomer-skenaario tarkoittaa suomalaiselle pk-kentälle?\n\n\n\n\n\nCitrini Researchin raportti ennustaa tekoälyn aiheuttamaa kysyntäromahdusta. Miltä argumentti näyttää taloustieteen ja suomalaisen pk-todellisuuden valossa?\n\n\n\n\n\n8.3.2026\n\n\nVesa Kauppinen\n\n\n\n\n\n\n\n\n\n\n\n\nEKP osti finanssikurin pois — kuka maksaa laskun?\n\n\n\n\n\n\n\n\n\n\n\n5.3.2026\n\n\n\n\n\n\n\n\n\n\n\n\nMiksi AI:n tuottavuuslupaus ei toteudu\n\n\nKannustinongelma, ei teknologiaongelma\n\n\n\n\n\n\n\n\n27.2.2026\n\n\nVesa\n\n\n\n\n\n\n\n\n\n\n\n\nKenen tuottavuusbuumi? Fedin uuden johtajan AI-argumentin kannustinrakenne\n\n\n\n\n\nKevin Warsh väittää, että tekoäly oikeuttaa korkojen laskun. Mutta argumentin suunta oli tiedossa ennen perustelua.\n\n\n\n\n\n24.2.2026\n\n\n\n\n\n\n\n\n\n\n\n\nSingapore: tehokas selviytymiskone\n\n\nMiten kaupunkivaltio rakensi yhden maailman vauraimmista talouksista — ja mitä se maksoi\n\n\n\n\n\n\n\n\n21.2.2026\n\n\nVesa\n\n\n\n\n\n\n\n\n\n\n\n\nOnko singulariteetti lähellä? Taloustiede vs. teknohype\n\n\nMitä talouskasvumallit kertovat tekoälyn mullistavuudesta — ja mitä ne eivät kerro\n\n\n\n\n\n\n\n\n19.2.2026\n\n\nVesa\n\n\n\n\n\n\n\n\n\n\n\n\nRuuan taloustiede: miksi syömme niin kuin syömme?\n\n\n\n\n\nPellolta pöytään – ja kaikki taloudelliset voimat siltä väliltä.\n\n\n\n\n\n19.2.2026\n\n\n\n\n\n\n\n\n\n\n\n\nOvatko työhyvinvointiedut hukkaan heitettyä rahaa?\n\n\nTaloustieteellinen näkökulma liikuntaetuihin, työsuhdepyöriin ja virkistyspäiviin\n\n\nTyöterveyslääkäri Eira Roos ehdottaa Ylellä, että liikuntaedut ja työhyvinvointipäivät pitäisi räjäyttää. Roosin kliininen kokemus on arvokas, mutta taloustieteellisesti asia on monimutkaisempi kuin dikotomia antaa ymmärtää.\n\n\n\n\n\n17.2.2026\n\n\nVesa\n\n\n\n\n\nEi hakutuloksia"
+    "text": "Generatiivisen tekoälyn käyttö on jo osa monen tietotyöläisen, opiskelijan ja koululaisen arkea. Kielimallit voivat auttaa tiivistämään tietoa, tuottamaan oikeita vastauksia ja ihan pätevää tekstiä, toimivasta koodista puhumattakaan. Opiskelu voi tuntua nopealta ja työnteko ennenkokemattoman tehokkaalta; enemmän tuloksia vähemmällä vaivalla. Nopeus ja vaivattomuus houkuttelevat ulkoistamaan tehtäviä ja jopa ajattelua tekoälylle. Mutta millaisia vaikutuksia tällä on uuden oppimiseen ja osaamisen ylläpitoon? Tuoreen tutkimustiedon perusteella on syytä varovaisuuteen."
+  },
+  {
+    "objectID": "posts/ai-and-skills/index.html#oppiminen-vaatii-vaivannäköä",
+    "href": "posts/ai-and-skills/index.html#oppiminen-vaatii-vaivannäköä",
+    "title": "Lainattu osaaminen",
+    "section": "Oppiminen vaatii vaivannäköä",
+    "text": "Oppiminen vaatii vaivannäköä\nOppiminen vaatii kognitiivista ponnistelua: epävarmuuden sietämistä, erehtymistä, suunnan korjaamista, aktiivista päättelemistä ja vaikeuksien voittamista. Oppimistutkimuksessa tämä ei ole uusi asia. Oppiminen voidaan määritellä muutoksiksi pitkäaikaisessa muistissa, ja edellyttää aina huomion kiinnittämistä ja vaativaa ajattelua (Bjork & Bjork). Juuri se kitka, jonka tekoäly poistaa, on pysyvän oppimisen edellytys. Kielimallien käyttö voi entisestään lisätä “Google-vaikutusta”, jossa opiskelijat lähinnä oppivat muistamaan, mistä tietoa voi hakea.\nKaksi vakiintunutta kognitiivisen psykologian teoriaa selittää ilmiötä. Kognitiivinen ulkoistaminen (cognitive offloading): tekoälyn avulla ajatteluprosessi ulkoistetaan, eivätkä aivot tee sitä työtä, joka tuottaa pysyviä muistijälkiä. Hyödylliset vaikeudet (desirable difficulties): tekoäly poistaa opiskelusta oppimisen kannalta välttämättömät hankaluudet ja kamppailun.\nBrasilialaisessa satunnaistetussa kokeessa (n = 120) tutkittiin ChatGPT:n vaikutusta pitkäaikaiseen osaamiseen (Barcaui 2025). 45 päivän kuluttua järjestetyssä yllätystestissä tekoälyä käyttäneet opiskelijat menestyivät noin yhden arvosanan verran heikommin kuin perinteisin menetelmin opiskellut verrokkiryhmä.\nAnthropicin tutkijoiden (Shen ja Tamkin 2026) satunnaistettu koe tutki, miten AI-avustajan käyttö vaikuttaa uuden ohjelmointikirjaston oppimiseen ammattilaiskehittäjillä. Konteksti on erityisen relevantti: tuottavuuden näkökulmasta juuri aloittelevat kehittäjät hyötyvät eniten tekoälyn käytöstä, mutta ovat myös kaikkein haavoittuvimpia taitojen kehittymisen kannalta. Tutkimuksen löydös on merkittävä: tekoälyä käyttäneet saivat 17 % huonommat pisteet osaamiskokeessa eikä tehtävän suorittamisaika parantunut tilastollisesti merkitsevästi.\nNämä tutkimukset eivät ole ainoita:\n\nMicrosoftin Future of Work -raportti (2026) korostaa, että kokeneet osaajat hyötyvät tekoälystä, mutta aloittelijoiden oppimispolku vaarantuu.\nCACM:n katsaus AI:n deskilling-paradoksista: AI tekee työntekijöistä tuottavampia lyhyellä aikavälillä samalla kun se rappeuttaa taitoja jotka tekevät heistä arvokkaita.\n\nBarcaui kutsuu ilmiötä lainatuksi osaamiseksi: AI tarjoaa sanaston, rakenteen ja päättelyketjut ja luo illuusion osaamisesta. Todellista enkoodausta pitkäkestoiseen muistiin ei kuitenkaan tapahdu."
+  },
+  {
+    "objectID": "posts/ai-and-skills/index.html#kannustinongelma-jälleen-kerran",
+    "href": "posts/ai-and-skills/index.html#kannustinongelma-jälleen-kerran",
+    "title": "Lainattu osaaminen",
+    "section": "Kannustinongelma, jälleen kerran",
+    "text": "Kannustinongelma, jälleen kerran\nTaloustieteen linssin läpi tarkasteltuna kyseessä on taas kerran kannustinongelma. Tekoälyn käyttö synnyttää kannustinrakenteen, jossa hyöty on välitön ja näkyvä. Tehtävä valmistuu nopeammin ja tulos näyttää hyvältä. Kustannus on taas näkymätön ja viivästynyt. Osaaminen ei kerry, mutta sen puuttuminen paljastuu vasta myöhemmin. Yksilö tekee lyhyellä aikavälillä rationaalisen valinnan käyttää tekoälyä, mutta pitkällä aikavälillä tulos on suboptimaalinen: osaamispääomaa ei kerry tai se jopa rapautuu.\nOngelma kärjistyy erityisesti uransa alkuvaiheessa olevilla. Kokenut ammattilainen voi käyttää AI:ta tehokkaasti, koska hänellä on olemassa oleva osaamispohja jota vasten arvioida tuloksia. Aloittelija ei tiedä mitä ei tiedä eikä pysty arvioimaan AI:n tuotoksen laatua tai huomaamaan, ettei opi. Dynamiikka on hankala: aloittelija ei ainoastaan jätä osaamista kartuttamatta, vaan saa siitä huolimatta positiivisen palautteen. Tehtävä valmistuu, koodi toimii, essee näyttää hyvältä. Oppimisen puute ei näy välittömästi missään: ei itselle, ei opettajalle, ei esihenkilölle. Aukko paljastuu vasta myöhemmin tilanteessa jossa vaaditaan itsenäistä soveltamista tai ongelmanratkaisua ilman tekoälyä. Shen ja Tamkin kuvaavat tätä hauskasti: tekoäly voi toimia eksoskeletonina, mutta ilman sitä ihminen ei ole sen vahvempi kuin ennen."
+  },
+  {
+    "objectID": "posts/ai-and-skills/index.html#oppimista-tukevat-käyttötavat",
+    "href": "posts/ai-and-skills/index.html#oppimista-tukevat-käyttötavat",
+    "title": "Lainattu osaaminen",
+    "section": "Oppimista tukevat käyttötavat",
+    "text": "Oppimista tukevat käyttötavat\nRatkaisu ei ole AI:n välttäminen. Shen ja Tamkinin tutkimus osoittaa, että tietoisella käyttötavalla oppiminen voi säilyä. Mutta se edellyttää tietoista vaivannäköä — aktiivista päätöstä olla ulkoistamatta ajattelua. Artikkeli antaa kolme konkreettista suositusta oppimista tukevista käyttötavoista:\n\nEnsin oma yritys, sitten AI. Opiskele tai ratkaise ongelma ensin itse. Tämän jälkeen tekoälyä voi käyttää vastausten vertailuun, testaamiseen ja aukkojen löytämiseen.\nKäyttö palautetyökaluna, ei vastausautomaattina. Tee ensin oma vastaus, ja kysy sen jälkeen palautetta tekoälyltä. Tämä säilyttää oppimisen kannalta välttämättömän oman ponnistelun ja ajattelun.\nViivästä tekoälyn käyttöä uuden materiaalin kanssa: Käsitteellisesti vaikeissa asioissa kannattaa ensin kamppailla itsensä kanssa. Juuri hankalissa asioissa hyödyllisten vaikeuksien arvo on suurin.\n\nOulussa tätä testataan käytännössä. Sanna Järvelän johtamassa Oulun yliopiston Hybrid Intelligence -tutkimusohjelmassa kehitetty Mai — metakognitiivinen AI-agentti — on suunniteltu tekemään juuri päinvastoin kuin ChatGPT. Lähtökohtana on hybridin älykkyyden idea: ihmisen ja tekoälyn vahvuudet yhdistettynä tuottavat enemmän kuin kumpikaan erikseen, mutta vain jos AI parantaa ihmisen ajattelua eikä korvaa sitä. Mai ei anna valmiita vastauksia vaan toimii ryhmän valmentajana. Se tarkkailee oppilaiden työskentelyä, hoksauttaa haasteista ja ohjaa keskusteluun. Ritaharjun yläkoulussa 132 seiskaluokkalaista testasi agenttia fysiikan opetuksessa. Oppilaat raportoivat ratkaisseensa ongelmia paremmin yhdessä ja muistaneensa opetettavat asiat paremmin Mai:n haastamisen jälkeen. Tiimityössä hybridimallit voivat toimia erityisen hyvin, koska sosiaalinen vertaispaine ja AI-valmennus vahvistavat toisiaan.\nOppilaan havainto tiivistää olennaisen: “Koska valmiita vastauksia siltä ei saa, joutuu itse miettimään ja oppii sitä kautta asian paremmin.”\n\nLähteet:\n\nBarcaui, A. (2025). ChatGPT as a cognitive crutch: Evidence from a randomized controlled trial on knowledge retention. Social Sciences & Humanities Open, 12, 102287.\nBjork, E. L. & Bjork, R. A. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. Teoksessa Gernsbacher et al. (toim.), Psychology and the Real World. Worth Publishers.\nShen, J. H. & Tamkin, A. (2025). How AI Impacts Skill Formation. arXiv:2601.20245.\nCrowston, K. (2025). Deskilling and Upskilling with AI Systems.\nThe AI Deskilling Paradox. Communications of the ACM.\nWorkers Gain Hours With AI But Risk Losing Skills. AllWork/Microsoft Future of Work Report, 2026.\nNew Skills and AI Are Reshaping the Future of Work. IMF Blog, 2026.\nJärvelä, S. et al. / Oulun yliopisto (2025). Hybrid Intelligence ensures AI does not replace learning. Oulun yliopisto; ks. myös Yle 14.3.2025."
+  },
+  {
+    "objectID": "CLAUDE.html",
+    "href": "CLAUDE.html",
+    "title": "Incentive Lens — CLAUDE.md",
+    "section": "",
+    "text": "Quarto-pohjainen blogi GitHub Pagesissa. Taloustiede ja kannustinanalyysi suomeksi. GitHub: vkauppine/Incentive-Lens (vkauppine.github.io/Incentive-Lens)\n\n\n\n\nKaikki julkaistu sisältö suomeksi\nSelkeä, argumentatiivinen proosa — ei akateeminen mutta teoreettisesti perusteltu\nLukija oletetaan älykkääksi mutta ei välttämättä ekonomistiksi\nÄlä käytä swedes­ismiä “toimesta” äläkä finglish-verbejä\n\n\n\n\nTaloudellisten kannustinrakenteiden analyysi — miten kannustimet muovaavat käyttäytymistä yksilö-, yritys- ja instituutiotasolla. Markkinatalouden näkökulma joka tunnistaa rakenteelliset ongelmat.\n\n\n\n\nRahapolitiikka ja keskuspankkien kannustimet (EKP, Fed)\nAI:n talousvaikutukset ja tuottavuus (Brynjolfsson, Nordhaus, Jones)\nSuomalaisten pk-yritysten näkökulma makrokehitykseen\nSingaporen talousmallin analyysi\nAlankomaiden 1600-luvun talousmalli (kiinnostuksen kohde, tulevat postit)\n\n\n\n\n\nPostit: .qmd-formaatti YAML-headereineen\nNimeämiskäytäntö: aihe_v[versio].qmd tai aihe_indeksi.qmd\nHakemisto: posts/\n\n\n\n\n---\ntitle: \"Otsikko tähän\"\ndate: \"YYYY-MM-DD\"\ncategories: [rahapolitiikka, ai, pk-yritykset]\ndescription: \"Lyhyt kuvaus.\"\n---\n\n\n\n\nEKP:n joukko-osto-ohjelmat ja finanssidisipliinin kannustimet (Matti Viren -inspiraatio)\nKevin Warsh / Fed ja AI-tuottavuusargumentti (kannustinrakenteen kehys)\nAI-singulariteetti talousteorian kautta (Nordhaus, Jones, heikot lenkit)\nAI-tuottavuusparadoksit JD-R ja Bayesilainen workflow\nCitrini Research 2028 -skenaariokritiikki suomalaisen pk-yrityksen näkökulmasta (tiedosto: tekoaly_kysyntashokki_v4.md)\nSingaporen talousmalli R/WDI-visualisaatioilla\n\n\n\n\n\nR-koodia käytetään datavisualisaatioihin (WDI-paketti World Bank -dataan)\nKuviot integroidaan suoraan Quarto-dokumenttiin\nTyyliohje: selkeä, minimalistinen\n\n\n\n\n\nGoatCounter-analytiikka: vkauppine.goatcounter.com\nGiscus-kommentit käytössä\nRSS-syöte konfiguroitu\n\n\n\n\n\nUuden postauksen luominen: tee .qmd oikealla headerilla ja argumenttirakenne\nTalouslogiikan tarkistus: onko kannustinmekanismi eksplikoitu selkeästi?\nKieliasu: tarkista suomen oikeellisuus, vältä toimesta/finglish-ongelmat\nR-koodin integrointi: visualisaatiot Quarto code chunkeihin"
+  },
+  {
+    "objectID": "CLAUDE.html#projektin-kuvaus",
+    "href": "CLAUDE.html#projektin-kuvaus",
+    "title": "Incentive Lens — CLAUDE.md",
+    "section": "",
+    "text": "Quarto-pohjainen blogi GitHub Pagesissa. Taloustiede ja kannustinanalyysi suomeksi. GitHub: vkauppine/Incentive-Lens (vkauppine.github.io/Incentive-Lens)"
+  },
+  {
+    "objectID": "CLAUDE.html#kieli-ja-tyyli",
+    "href": "CLAUDE.html#kieli-ja-tyyli",
+    "title": "Incentive Lens — CLAUDE.md",
+    "section": "",
+    "text": "Kaikki julkaistu sisältö suomeksi\nSelkeä, argumentatiivinen proosa — ei akateeminen mutta teoreettisesti perusteltu\nLukija oletetaan älykkääksi mutta ei välttämättä ekonomistiksi\nÄlä käytä swedes­ismiä “toimesta” äläkä finglish-verbejä"
+  },
+  {
+    "objectID": "CLAUDE.html#blogi-identiteetti",
+    "href": "CLAUDE.html#blogi-identiteetti",
+    "title": "Incentive Lens — CLAUDE.md",
+    "section": "",
+    "text": "Taloudellisten kannustinrakenteiden analyysi — miten kannustimet muovaavat käyttäytymistä yksilö-, yritys- ja instituutiotasolla. Markkinatalouden näkökulma joka tunnistaa rakenteelliset ongelmat."
+  },
+  {
+    "objectID": "CLAUDE.html#sisältöalueet",
+    "href": "CLAUDE.html#sisältöalueet",
+    "title": "Incentive Lens — CLAUDE.md",
+    "section": "",
+    "text": "Rahapolitiikka ja keskuspankkien kannustimet (EKP, Fed)\nAI:n talousvaikutukset ja tuottavuus (Brynjolfsson, Nordhaus, Jones)\nSuomalaisten pk-yritysten näkökulma makrokehitykseen\nSingaporen talousmallin analyysi\nAlankomaiden 1600-luvun talousmalli (kiinnostuksen kohde, tulevat postit)"
+  },
+  {
+    "objectID": "CLAUDE.html#tiedostorakenne",
+    "href": "CLAUDE.html#tiedostorakenne",
+    "title": "Incentive Lens — CLAUDE.md",
+    "section": "",
+    "text": "Postit: .qmd-formaatti YAML-headereineen\nNimeämiskäytäntö: aihe_v[versio].qmd tai aihe_indeksi.qmd\nHakemisto: posts/"
+  },
+  {
+    "objectID": "CLAUDE.html#yaml-header-malli",
+    "href": "CLAUDE.html#yaml-header-malli",
+    "title": "Incentive Lens — CLAUDE.md",
+    "section": "",
+    "text": "---\ntitle: \"Otsikko tähän\"\ndate: \"YYYY-MM-DD\"\ncategories: [rahapolitiikka, ai, pk-yritykset]\ndescription: \"Lyhyt kuvaus.\"\n---"
+  },
+  {
+    "objectID": "CLAUDE.html#julkaistuja-tai-luonnosvaiheessa-olevia-postauksia-referenssi",
+    "href": "CLAUDE.html#julkaistuja-tai-luonnosvaiheessa-olevia-postauksia-referenssi",
+    "title": "Incentive Lens — CLAUDE.md",
+    "section": "",
+    "text": "EKP:n joukko-osto-ohjelmat ja finanssidisipliinin kannustimet (Matti Viren -inspiraatio)\nKevin Warsh / Fed ja AI-tuottavuusargumentti (kannustinrakenteen kehys)\nAI-singulariteetti talousteorian kautta (Nordhaus, Jones, heikot lenkit)\nAI-tuottavuusparadoksit JD-R ja Bayesilainen workflow\nCitrini Research 2028 -skenaariokritiikki suomalaisen pk-yrityksen näkökulmasta (tiedosto: tekoaly_kysyntashokki_v4.md)\nSingaporen talousmalli R/WDI-visualisaatioilla"
+  },
+  {
+    "objectID": "CLAUDE.html#visualisoinnit",
+    "href": "CLAUDE.html#visualisoinnit",
+    "title": "Incentive Lens — CLAUDE.md",
+    "section": "",
+    "text": "R-koodia käytetään datavisualisaatioihin (WDI-paketti World Bank -dataan)\nKuviot integroidaan suoraan Quarto-dokumenttiin\nTyyliohje: selkeä, minimalistinen"
+  },
+  {
+    "objectID": "CLAUDE.html#tekniset-huomiot",
+    "href": "CLAUDE.html#tekniset-huomiot",
+    "title": "Incentive Lens — CLAUDE.md",
+    "section": "",
+    "text": "GoatCounter-analytiikka: vkauppine.goatcounter.com\nGiscus-kommentit käytössä\nRSS-syöte konfiguroitu"
+  },
+  {
+    "objectID": "CLAUDE.html#tyypilliset-tehtävät",
+    "href": "CLAUDE.html#tyypilliset-tehtävät",
+    "title": "Incentive Lens — CLAUDE.md",
+    "section": "",
+    "text": "Uuden postauksen luominen: tee .qmd oikealla headerilla ja argumenttirakenne\nTalouslogiikan tarkistus: onko kannustinmekanismi eksplikoitu selkeästi?\nKieliasu: tarkista suomen oikeellisuus, vältä toimesta/finglish-ongelmat\nR-koodin integrointi: visualisaatiot Quarto code chunkeihin"
   },
   {
     "objectID": "about.html",
@@ -243,6 +341,13 @@
     "title": "Vesa Kauppinen",
     "section": "",
     "text": "Väitöskirjatutkija Oulun yliopiston tuotantotalouden tutkimusyksikössä. Tämä blogi käsittelee taloustiedettä ja data-analyysiä."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Incentive Lens",
+    "section": "",
+    "text": "Taloustiedettä, dataa ja analyyttistä ajattelua suomalaisesta näkökulmasta.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLainattu osaaminen\n\n\n\n\n\nTekoäly luo kannustimen ulkoistaa ajattelu, mutta oppiminen edellyttää kognitiivista vaivannäköä.\n\n\n\n\n\n14.3.2026\n\n\nVesa\n\n\n\n\n\n\n\n\n\n\n\n\nTekoäly ja kysyntäshokki — mitä Citrinin doomer-skenaario tarkoittaa suomalaiselle pk-kentälle?\n\n\n\n\n\nCitrini Researchin raportti ennustaa tekoälyn aiheuttamaa kysyntäromahdusta. Miltä argumentti näyttää taloustieteen ja suomalaisen pk-todellisuuden valossa?\n\n\n\n\n\n8.3.2026\n\n\nVesa Kauppinen\n\n\n\n\n\n\n\n\n\n\n\n\nEKP osti finanssikurin pois — kuka maksaa laskun?\n\n\n\n\n\n\n\n\n\n\n\n5.3.2026\n\n\n\n\n\n\n\n\n\n\n\n\nMiksi AI:n tuottavuuslupaus ei toteudu\n\n\nKannustinongelma, ei teknologiaongelma\n\n\n\n\n\n\n\n\n27.2.2026\n\n\nVesa\n\n\n\n\n\n\n\n\n\n\n\n\nKenen tuottavuusbuumi? Fedin uuden johtajan AI-argumentin kannustinrakenne\n\n\n\n\n\nKevin Warsh väittää, että tekoäly oikeuttaa korkojen laskun. Mutta argumentin suunta oli tiedossa ennen perustelua.\n\n\n\n\n\n24.2.2026\n\n\n\n\n\n\n\n\n\n\n\n\nSingapore: tehokas selviytymiskone\n\n\nMiten kaupunkivaltio rakensi yhden maailman vauraimmista talouksista — ja mitä se maksoi\n\n\n\n\n\n\n\n\n21.2.2026\n\n\nVesa\n\n\n\n\n\n\n\n\n\n\n\n\nOnko singulariteetti lähellä? Taloustiede vs. teknohype\n\n\nMitä talouskasvumallit kertovat tekoälyn mullistavuudesta — ja mitä ne eivät kerro\n\n\n\n\n\n\n\n\n19.2.2026\n\n\nVesa\n\n\n\n\n\n\n\n\n\n\n\n\nRuuan taloustiede: miksi syömme niin kuin syömme?\n\n\n\n\n\nPellolta pöytään – ja kaikki taloudelliset voimat siltä väliltä.\n\n\n\n\n\n19.2.2026\n\n\n\n\n\n\n\n\n\n\n\n\nOvatko työhyvinvointiedut hukkaan heitettyä rahaa?\n\n\nTaloustieteellinen näkökulma liikuntaetuihin, työsuhdepyöriin ja virkistyspäiviin\n\n\nTyöterveyslääkäri Eira Roos ehdottaa Ylellä, että liikuntaedut ja työhyvinvointipäivät pitäisi räjäyttää. Roosin kliininen kokemus on arvokas, mutta taloustieteellisesti asia on monimutkaisempi kuin dikotomia antaa ymmärtää.\n\n\n\n\n\n17.2.2026\n\n\nVesa\n\n\n\n\n\nEi hakutuloksia"
   },
   {
     "objectID": "posts/ai-productivity-incentives/index.html",
