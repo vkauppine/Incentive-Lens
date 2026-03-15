@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:yle.fi)",
+      "WebFetch(domain:www.oulu.fi)"
+    ]
+  }
+}

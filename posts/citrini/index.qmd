@@ -60,7 +60,7 @@ Pk-kentän hitaus on sekä suoja että riski. Suoja siksi, että Citrinin kuvaam
 
 Mykkänen teki kotimaisen tekoälykentän kartoituksessaan saman havainnon: 60 tapaamisen perusteella ymmärrys tekoälyn potentiaalista on olemassa, mutta resurssit puuttuvat (Mykkänen, 2026). Kyse ei ole tietämättömyydestä vaan konkreettisten rakenteiden ja investointikyvyn puutteesta. Industry 5.0 -kehys (Euroopan komissio, 2021) tarjoaa periaatteet ihmiskeskeisestä ja resilientistä teollisuudesta, mutta suomalaisen pk-kentän kannalta oleellisempi kysymys on, miten nämä periaatteet muuttuvat käytännön kyvykkyyksiksi yritystasolla.
 
-## Base rates ja se, ketä oikeasti pitäisi pelätä
+## Base rates ja se, kenellä on syytä pelätä
 
 Pulkkinen (2026) nosti Vernerin Vartissa esiin base rates -ajattelun: mikä on historiallinen perustaso sille, että teknologiadystopia toteutuu ennustetulla tavalla ja aikataululla?
 
