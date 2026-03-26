@@ -17,6 +17,6 @@ Kirjan aihe on marginalistinen vallankumous: 1800-luvun lopun murros, jossa kolm
 
 ![Täydellisen kilpailun tasapaino: yritys tuottaa pisteeseen Q*, jossa rajakustannus (MC) leikkaa markkinahinnan (P = MR). Tämä on marginalismin peruskaavio.](mr-mc.png)
 
-Myös formaattivalinta on marginalistinen kysymys. Missä on lisäarvo nyt? Onko se taitossa, typografiassa ja valmiiksi paketoidussa objektissa, vai siinä, että teksti on mahdollisimman kitkattomasti luettavissa myös koneelle? Informaatiohyödykkeissä kopioinnin ja jakelun rajakustannus on jo lähellä nollaa. Kun jakelu ja tekstin jäsentäminen ovat molemmat lähes ilmaisia, arvo kasautuu siihen mikä on niukkaa: kirjoittajan nimeen, ajatuksiin, yleisöön ja luottamukseen.
+Myös formaattivalinta on marginalistinen kysymys. Missä on lisäarvo nyt? Onko se taitossa, typografiassa ja valmiiksi paketoidussa objektissa, vai siinä, että teksti on mahdollisimman kitkattomasti luettavissa myös koneelle? Informaatiohyödykkeissä kopioinnin ja jakelun rajakustannus on jo lähellä nollaa. Kun myös tekstin käsittelyn kustannus lähestyy nollaa, arvo alkaa kasautua siihen, mikä on niukkaa: kirjoittajan nimeen, ajatuksiin, yleisöön ja luottamukseen..
 
 Voit kokeilla itse: [lataa teksti](https://tylercowen.com/marginal-revolution-generative-book/) ja kysy kielimallilta vaikkapa "Miten Jevonsin ja Mengerin marginalismi eroavat toisistaan?" tai "Miten tekoäly muuttaa taloustieteen tutkimusmenetelmiä?"
