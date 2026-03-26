@@ -1,0 +1,280 @@
+---
+title: "The AI productivity and jobs debate: a living map"
+date: 2026-03-19
+date-modified: last-modified
+author: Vesa Kauppinen
+categories: [AI, productivity, labor markets, monetary policy, debate map]
+image: cover.jpg
+description: "An interactive map of the current debate on AI, productivity, jobs, and macroeconomic policy — tracking positions, fault lines, and key texts as the discussion evolves."
+lang: en
+bibliography: references.bib
+csl: apa.csl
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+## Why a debate map
+
+The conversation about AI's economic effects has fractured into at least six distinct positions — from catastrophic displacement scenarios to productivity-boom optimism to process-level sociotechnical analysis. These positions share some premises, diverge sharply on others, and are often talking past each other because they operate at different levels of analysis and on different time horizons.
+
+This page maps the debate as it stands in early 2026. It is not a literature review. It is a structured overview of *who argues what*, *where they agree*, and *where the real fault lines are* — with pointers to the key texts that define each position. I update it as the debate evolves; the [commit history](https://github.com/vkauppine/Incentive-Lens) is itself a record of how the conversation has shifted.
+
+The intended audience is anyone trying to orient themselves in a fast-moving discussion that spans macroeconomics, labor economics, monetary policy, technology adoption, and organizational design — and who finds that most commentary engages only one or two of these simultaneously.
+
+## The positions
+
+```{=html}
+<figure style="max-width: 700px; margin: 1.5em auto;">
+<svg viewBox="0 0 680 480" width="100%" xmlns="http://www.w3.org/2000/svg" style="font-family: system-ui, sans-serif;">
+
+  <!-- Axis labels -->
+  <text x="340" y="470" text-anchor="middle" fill="currentColor" opacity="0.45" font-size="11">
+    ← Fast displacement · · · Speed of expected change · · · Gradual / conditional →
+  </text>
+  <text transform="translate(14, 240) rotate(-90)" text-anchor="middle" fill="currentColor" opacity="0.45" font-size="11">
+    ← Technology is destiny · · · Agency of firms &amp; policy · · · Design shapes outcomes →
+  </text>
+
+  <!-- Fault lines (dashed) with labels -->
+
+  <!-- displacement → scurve: Speed of displacement -->
+  <line x1="170" y1="122" x2="382" y2="140" stroke="currentColor" stroke-opacity="0.15" stroke-dasharray="4 4"/>
+  <text x="276" y="112" text-anchor="middle" fill="currentColor" opacity="0.4" font-size="8.5" font-style="italic">Speed of displacement</text>
+
+  <!-- displacement → boom: Inflation vs deflation -->
+  <line x1="170" y1="122" x2="223" y2="212" stroke="currentColor" stroke-opacity="0.15" stroke-dasharray="4 4"/>
+  <text x="168" y="178" text-anchor="start" fill="currentColor" opacity="0.4" font-size="8.5" font-style="italic">Inflation vs deflation</text>
+
+  <!-- boom → jcurve: Timing of productivity gains -->
+  <line x1="223" y1="212" x2="329" y2="266" stroke="currentColor" stroke-opacity="0.15" stroke-dasharray="4 4"/>
+  <text x="252" y="254" text-anchor="start" fill="currentColor" opacity="0.4" font-size="8.5" font-style="italic">Timing of gains</text>
+
+  <!-- boom → scurve: Compute cost trajectory -->
+  <line x1="223" y1="212" x2="382" y2="140" stroke="currentColor" stroke-opacity="0.15" stroke-dasharray="4 4"/>
+  <text x="320" y="168" text-anchor="middle" fill="currentColor" opacity="0.4" font-size="8.5" font-style="italic">Compute cost trajectory</text>
+
+  <!-- scurve → proworker: Role of firm agency -->
+  <line x1="382" y1="140" x2="488" y2="248" stroke="currentColor" stroke-opacity="0.15" stroke-dasharray="4 4"/>
+  <text x="452" y="182" text-anchor="middle" fill="currentColor" opacity="0.4" font-size="8.5" font-style="italic">Role of firm agency</text>
+
+  <!-- proworker → sts: Level of analysis -->
+  <line x1="488" y1="248" x2="514" y2="338" stroke="currentColor" stroke-opacity="0.15" stroke-dasharray="4 4"/>
+  <text x="520" y="296" text-anchor="start" fill="currentColor" opacity="0.4" font-size="8.5" font-style="italic">Level of analysis</text>
+
+  <!-- Position nodes -->
+
+  <!-- Displacement crisis -->
+  <a href="#pos-displacement">
+    <circle cx="170" cy="122" r="28" fill="#E24B4A" fill-opacity="0.15" stroke="#E24B4A" stroke-width="1.5"/>
+    <circle cx="170" cy="122" r="6" fill="#E24B4A"/>
+    <text x="170" y="82" text-anchor="middle" fill="#E24B4A" font-size="11" font-weight="600">Displacement crisis</text>
+  </a>
+
+  <!-- S-curve realism -->
+  <a href="#pos-scurve">
+    <circle cx="382" cy="140" r="28" fill="#378ADD" fill-opacity="0.15" stroke="#378ADD" stroke-width="1.5"/>
+    <circle cx="382" cy="140" r="6" fill="#378ADD"/>
+    <text x="382" y="100" text-anchor="middle" fill="#378ADD" font-size="11" font-weight="600">S-curve realism</text>
+  </a>
+
+  <!-- Productivity boom -->
+  <a href="#pos-boom">
+    <circle cx="223" cy="212" r="28" fill="#534AB7" fill-opacity="0.15" stroke="#534AB7" stroke-width="1.5"/>
+    <circle cx="223" cy="212" r="6" fill="#534AB7"/>
+    <text x="223" y="172" text-anchor="middle" fill="#534AB7" font-size="11" font-weight="600">Productivity boom</text>
+  </a>
+
+  <!-- J-curve / delayed gains -->
+  <a href="#pos-jcurve">
+    <circle cx="329" cy="266" r="28" fill="#BA7517" fill-opacity="0.15" stroke="#BA7517" stroke-width="1.5"/>
+    <circle cx="329" cy="266" r="6" fill="#BA7517"/>
+    <text x="329" y="226" text-anchor="middle" fill="#BA7517" font-size="11" font-weight="600">J-curve / delayed gains</text>
+  </a>
+
+  <!-- Pro-worker AI design -->
+  <a href="#pos-proworker">
+    <circle cx="488" cy="248" r="28" fill="#1D9E75" fill-opacity="0.15" stroke="#1D9E75" stroke-width="1.5"/>
+    <circle cx="488" cy="248" r="6" fill="#1D9E75"/>
+    <text x="488" y="208" text-anchor="middle" fill="#1D9E75" font-size="11" font-weight="600">Pro-worker AI design</text>
+  </a>
+
+  <!-- Sociotechnical mediation -->
+  <a href="#pos-sts">
+    <circle cx="514" cy="338" r="28" fill="#D85A30" fill-opacity="0.15" stroke="#D85A30" stroke-width="1.5"/>
+    <circle cx="514" cy="338" r="6" fill="#D85A30"/>
+    <text x="514" y="298" text-anchor="middle" fill="#D85A30" font-size="11" font-weight="600">Sociotechnical mediation</text>
+  </a>
+
+</svg>
+<figcaption style="text-align: center; font-size: 0.85em; opacity: 0.6; margin-top: 0.3em;">Click a position to jump to its description below. Dashed lines mark fault lines between camps.</figcaption>
+</figure>
+```
+
+The two axes capture the most consequential disagreements: how fast displacement will happen (horizontal), and how much agency firms, workers, and policymakers have to shape outcomes (vertical). Positions near the top-left treat AI as a fast-moving force that technology alone determines. Positions near the bottom-right see outcomes as contingent on organizational and institutional choices, unfolding over longer time horizons.
+
+This is a simplification — every camp contains internal variation — but the spatial arrangement reveals which positions are natural allies and where the sharpest disagreements lie.
+
+### Positions at a glance
+
+| Position | Time horizon | Evidence base | Policy implication | Key voices |
+|----------|-------------|---------------|-------------------|------------|
+| [Displacement crisis](#pos-displacement) | Months–3 yrs | Speculative scenarios, corporate anecdotes | Emergency fiscal response | Citrini, Shah |
+| [S-curve realism](#pos-scurve) | Decades | Macro indicators, job postings, capex | Monitor; avoid overreaction | Citadel (Flight) |
+| [Productivity boom](#pos-boom) | 5–15 yrs | 1990s analogy, conviction-based | Accommodative monetary policy | Warsh, Bessent |
+| [J-curve / delayed gains](#pos-jcurve) | 10–25 yrs | Economic history, intangible capital | Invest in complementary assets | Brynjolfsson, Agrawal |
+| [Pro-worker AI design](#pos-proworker) | Policy-dependent | Task analysis, historical wages | Regulate for complementarity | Acemoglu, Johnson, Autor |
+| [Sociotechnical mediation](#pos-sts) | Firm-specific | Workplace studies, interventions | Redesign work systems | STS/HFE, JD-R tradition |
+
+### Displacement crisis {#pos-displacement}
+
+The most alarming position in the current debate. The defining text is @citrini2026, a speculative scenario framed as a macro memo from June 2028 describing an S&P 500 decline of 38%, unemployment at 10.2%, and a deflationary spiral driven by mass white-collar displacement.
+
+The argument assumes rapid and near-total labor substitution in knowledge work, a negative feedback loop where displacement reduces purchasing power and triggers further automation, and unconstrained scaling of AI compute. It treats technology diffusion as fast and friction-free.
+
+The piece went viral in February 2026 and briefly moved markets, which is itself an interesting data point about the narrative power of speculative scenario-building in financial markets.
+
+**Analytical assessment.** The scenario's internal logic is coherent, but it rests on a conjunction of conditions that are each individually unlikely: rapid adoption *and* near-total substitution *and* no fiscal response *and* negligible investment absorption *and* unconstrained compute scaling. As @flight2026 pointed out in the most substantive rebuttal, forward-looking labor market data as of early 2026 shows software engineering job postings rising, not collapsing.
+
+### S-curve realism {#pos-scurve}
+
+The data-driven counter to displacement narratives. The key text is @flight2026, Citadel Securities' macro strategy note published in late February 2026, which systematically challenges the Citrini scenario using real-time economic indicators.
+
+Three core arguments:
+
+First, technological diffusion follows S-curves, not exponentials. Early adoption is slow, acceleration follows as costs fall and complementary infrastructure develops, then saturation sets in. Markets tend to extrapolate the acceleration phase linearly, but history shows pace of adoption decelerates as organizational integration challenges emerge.
+
+Second, there is a natural economic boundary to labor substitution: if automation expands rapidly, compute demand rises, which pushes up the marginal cost of compute. When the marginal cost of compute exceeds the marginal cost of human labor for specific tasks, substitution stops. This is a clean price-theoretic argument against narratives that assume frictionless replication of intelligence.
+
+Third, the Keynes analogy: Keynes predicted a 15-hour workweek by the 21st century, correctly forecasting productivity growth but profoundly misunderstanding labor market dynamics. Productivity gains expanded the consumption frontier rather than reducing work. The elasticity of human wants absorbed the gains.
+
+**Analytical assessment.** The strongest position empirically as of early 2026, but it is fundamentally a *present-tense* argument: current data does not show displacement. It says less about what happens if the S-curve accelerates, and it underweights the possibility that aggregate data may lag firm-level changes — precisely the measurement gap that the J-curve position emphasizes.
+
+### Pro-worker AI design {#pos-proworker}
+
+The institutional-economics position, most fully articulated by @acemoglu2026. The argument is that AI's effects on workers are not determined by the technology's capabilities but by design choices: whether systems are built to augment or replace, whether productivity gains are shared or captured entirely by capital, and whether institutional frameworks (regulation, unions, firm governance) steer adoption toward complementarity.
+
+This position does not predict either doom or boom — it argues that both are possible, and that the path depends on identifiable choices being made now. It draws on historical evidence that previous waves of automation had varied distributional consequences depending on institutional context.
+
+**Analytical assessment.** The most intellectually mature position, and the one most compatible with empirical research on technology adoption. Its limitation is that it describes conditions for good outcomes without a strong theory of *why those conditions would emerge* — the political economy of pro-worker AI design is underspecified. It also operates primarily at the national or sectoral level, saying less about how individual firms (especially SMEs) navigate these choices with limited resources.
+
+### J-curve / delayed gains {#pos-jcurve}
+
+The economic-historian position. General-purpose technologies (GPTs) require large complementary investments in reorganization, skills, and process redesign before their productivity effects become visible in macro data. The @brynjolfsson2021 J-curve framework predicts that measured productivity may actually *dip* initially as firms invest in intangible capital (new processes, training, organizational restructuring) that is not captured by conventional productivity statistics.
+
+This position explains the "Solow paradox" — the observation that transformative technologies are visible everywhere except in the productivity statistics — as a measurement and timing problem rather than evidence that the technology is less transformative than claimed.
+
+**Analytical assessment.** Empirically well-grounded and compatible with most other positions. The J-curve framework does not contradict S-curve realism (both predict slow initial effects); it adds a mechanism for *why* adoption is slow. The position's main limitation is its indeterminacy: it predicts that macro productivity effects will eventually materialize, but cannot specify when. This makes it difficult to falsify in real time.
+
+### Productivity boom {#pos-boom}
+
+The supply-side optimist position, currently most consequential because its leading proponent — Kevin Warsh — is President Trump's nominee to chair the Federal Reserve, with confirmation expected for a May 15, 2026 start date.
+
+Warsh argues that AI represents a structurally disinflationary force analogous to the internet in the 1990s. He explicitly invokes Alan Greenspan's decision in 1993-96 to resist rate hikes despite apparent overheating, on the conviction that internet-driven productivity gains were raising the economy's speed limit. Warsh's proposed framework — dubbed "productive dovishness" or the "Run It Hot" approach — combines short-term rate cuts (to lower capital costs for AI infrastructure investment) with aggressive balance sheet reduction (quantitative tightening to shrink the Fed's post-2008 footprint).
+
+Treasury Secretary Scott Bessent and National Economic Council Director Kevin Hassett share this view, framing the current moment as "the nascent stages of a productivity boom, not unlike the 1990s."
+
+**Analytical assessment.** The position has three significant vulnerabilities:
+
+First, the Greenspan analogy is selectively presented. Greenspan held off on rate *increases* — he did not *cut* rates on the basis of anticipated productivity. He also reversed course in 1999, raising rates from 4.75% to 6.5%. As Dario Perkins of TS Lombard noted, the administration cites only the dovish 1995-96 Greenspan, not the hawkish 1999-2000 variant.
+
+Second, the measurement problem cuts both ways. Warsh himself acknowledges that AI productivity won't appear in traditional statistics, which means policymakers must "make a bet" on conviction rather than evidence. But if the measurement frameworks are failing, the appropriate response may be to build better frameworks, not to bet on unmeasured gains.
+
+Third, the near-term dynamics are inflationary, not disinflationary. AI capex ($650bn in 2026, approximately 2% of GDP), energy demand from data centers, and semiconductor supply constraints all push prices *up* before the productivity gains arrive to push them down. The Citadel Securities position highlights this tension directly.
+
+Several current FOMC members — including Chicago Fed president Austan Goolsbee, Cleveland Fed president Beth Hammack, and Dallas Fed president Lorie Logan — have expressed skepticism, suggesting potential friction if Warsh is confirmed.
+
+### Sociotechnical mediation {#pos-sts}
+
+The micro-level position, rooted in sociotechnical systems theory (STS), human factors and ergonomics (HFE), and the Job Demands-Resources (JD-R) model. The argument is that technology effects are always mediated by organizational design, work systems, management practices, and human factors. AI does not have "effects on workers" in the abstract — it has effects *as implemented in specific organizational contexts*.
+
+This position is less visible in the public macro debate but is where the empirical research on actual workplace adoption is concentrated. Findings from firm-level studies consistently show that technology introduction without corresponding changes to work design, management systems, and employee involvement produces either null or negative outcomes for both productivity and worker wellbeing.
+
+**Analytical assessment.** The position most grounded in workplace-level evidence and most useful for practitioners. Its limitation in the current debate is that it operates at a level of analysis that macro commentators rarely engage with — the gap between "AI will transform the economy" and "this specific firm implemented an AI tool in this specific process with these specific results" is vast, and the STS tradition lives on the latter side. Bridging this gap — connecting firm-level configurational evidence to macro-level claims — is one of the underexploited opportunities in the current discussion.
+
+## Zones of agreement
+
+Despite their differences, most positions in this debate converge on several points:
+
+1. **Composition, not elimination.** AI will change *which* jobs exist, not whether jobs exist. Even the displacement camp frames the problem as a transition crisis, not permanent technological unemployment.
+
+2. **Near-term capex is real.** The scale of AI infrastructure investment (data centers, chips, energy systems) has macroeconomic effects regardless of whether the technology delivers on its productivity promises.
+
+3. **Organizational factors matter.** Every position except the most extreme displacement view acknowledges that institutional and organizational context mediates outcomes. They differ on *how much* it matters relative to technological capability.
+
+4. **Historical analogies are informative but imperfect.** All camps invoke historical precedent (electricity, computing, the internet), while acknowledging that AI may differ from previous GPTs in important ways — particularly in its ability to affect cognitive rather than physical labor.
+
+5. **SMEs face different dynamics.** Large firms dominate both the public debate and the empirical evidence base. The adoption dynamics, resource constraints, and organizational capabilities of SMEs are underrepresented in all camps.
+
+## Fault lines
+
+### Speed of displacement
+
+The deepest disagreement. Citrini's scenario assumes months to 2-3 years for mass displacement. Citadel and the J-curve position predict decades-long S-curves. Acemoglu argues speed depends on policy choices being made now. Warsh implicitly assumes fast enough to justify preemptive monetary policy, but not so fast as to cause a crisis.
+
+The empirical evidence as of early 2026 — rising software engineering job postings, 4.28% unemployment, strong AI-adjacent construction hiring — favors the slower camps. But this is precisely the evidence that the J-curve position would expect during the investment phase, before the reorganization payoff arrives.
+
+### Inflation vs deflation
+
+Citrini assumes AI is deflationary through labor cost collapse. Warsh assumes AI is disinflationary through productivity gains. Citadel argues AI capex is *inflationary* in the near term (compute, energy, semiconductor bottlenecks). The J-curve position suggests inflationary transition costs followed by uncertain long-term effects.
+
+This is not a purely theoretical disagreement — it has direct monetary policy implications. If Warsh is confirmed as Fed chair, his assessment of this question will shape interest rate decisions through the late 2020s.
+
+### Agency of firms and workers
+
+The displacement view treats technology as destiny — capabilities determine outcomes. The productivity boom camp is only slightly more agentic, locating agency primarily with policymakers (monetary policy) rather than firms or workers. The pro-worker design position places agency at the institutional level (regulation, unions, firm governance). The STS position places it at the work-system level (job design, management practice, employee involvement).
+
+These are not competing claims about the same thing — they are claims about different levels of a nested system. The challenge is connecting them: how do firm-level work design choices aggregate into sector-level patterns that appear in the macro data?
+
+### What counts as evidence
+
+Citadel relies on macro indicators (job postings, unemployment rates, capex figures). Citrini uses forward-looking scenario construction and anecdotal corporate reports. Acemoglu uses task-level analysis and historical wage data. The J-curve tradition uses economic history and intangible capital accounting. The STS tradition uses firm-level process observation and intervention studies. Configurational methods (fsQCA) identify equifinal pathways across firm samples.
+
+The positions are partly ships-passing-in-the-night because they accept fundamentally different evidence bases.
+
+### Role of compute costs
+
+Citadel's most novel contribution: the marginal cost of compute creates a natural economic boundary against full labor substitution. As demand for AI compute rises, so does its price; when compute costs exceed labor costs for a given task, substitution halts. Citrini implicitly assumes compute costs trend toward zero. Warsh assumes cost declines are fast enough to enable the productivity boom but does not engage directly with the substitution-boundary argument.
+
+This is among the most empirically testable fault lines in the debate, and — as of early 2026 — among the least empirically investigated.
+
+## Key texts
+
+::: {.callout-note appearance="minimal"}
+This is a curated list, not a comprehensive bibliography. Texts are grouped by the position they most closely represent. Many span multiple positions.
+:::
+
+### Displacement crisis
+- @citrini2026 — The viral scenario that catalyzed the current debate
+
+### S-curve realism
+- @flight2026 — The most substantive rebuttal to the displacement narrative
+
+### Pro-worker AI design
+- @acemoglu2026 — The case for institutional design over technological determinism
+- @acemoglu2024power — Earlier framework on AI, automation, and new tasks
+- @autor2024applying — Task-level analysis of AI labor market effects
+
+### J-curve / delayed gains
+- @brynjolfsson2021 — The productivity J-curve framework
+- @agrawal2019economics — AI as prediction technology; economic analysis of adoption
+
+### Productivity boom
+- Warsh interview with Sadi Khan, December 2025 — The Greenspan analogy and "structurally disinflationary" AI
+- @greenspan_era — For historical context on the 1990s productivity debate
+
+### Sociotechnical mediation
+- @karasek1990healthy — Job Demands-Control model foundational text
+- @bakker2017jdr — JD-R theory update
+- @teece2007dynamic — Dynamic capabilities framework
+
+## Changelog
+
+| Date | Change |
+|------|--------|
+| 2026-03-19 | Initial version: six positions, five fault lines, key texts |
+
+---
+
+*This page is part of [Incentive Lens](https://vkauppine.github.io/Incentive-Lens/), a blog on economics and incentive analysis. The debate map is a living document; updates are tracked in the [commit history](https://github.com/vkauppine/Incentive-Lens). For the Finnish-language discussion of AI productivity paradoxes, see [the J-curve post](../ai-productivity-paradox/index.html).*
