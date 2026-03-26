@@ -2,7 +2,7 @@
 title: "Marginalistinen vallankumous markdownina"
 author: "Vesa"
 date: "2026-03-25"
-categories: [taloustiede, kannustimet, ai]
+categories: [taloustiede, tekoäly, julkaiseminen]
 description: "Tyler Cowen julkaisi kirjan marginalismista tekstitiedostona."
 image: "cover.jpg"
 ---
