@@ -1,0 +1,61 @@
+---
+title: "Vastuu kuulijalle: *chotto* ja pittää kahtoo"
+subtitle: "Epäsuoruuden käyttöarvosta epävarmoissa tilanteissa"
+author: "Vesa"
+date: "2026-04-21"
+categories: [peliteoria, kielitiede, kannustimet, savolaisuus]
+image: "cover.jpg"
+format:
+  html:
+    toc: false
+---
+
+Tokiossa kokouksessa kysymykseen saatiin vastaukseksi *chotto*. Huone jäi odottamaan täsmennystä. Minusta tuntui heti, että täsmennystä ei enää tulisi. Olin kuullut vastauksen ennenkin, vain toisella kielellä: *pittää kahtoo*.
+
+Kollegat kysyivät myöhemmin mitä sana oikeastaan tarkoitti. Japanilainen isäntämme yritti selittää eikä oikein onnistunut. Kirjaimellisesti chotto on "vähän". Käytännössä se on kesken jäävä lause, kieltäytyminen jonka kuulijan odotetaan päättävän itse päässään.
+
+## Mitä kaikki suomalaiset tietävät
+
+Savolainen jättää vastuun kuulijalle. Tämä on vitsi, jonka jokainen suomalainen tunnistaa, ja pakinoita siitä on kirjoitettu sellainen määrä, että niistä voisi koota kirjahyllyn. Ruotsin radion Heli Blomberg kuvasi helmikuussa 2018 [Kielipuoli-kolumnissaan](https://www.sverigesradio.se/artikel/6885605) puhelua Ylä-Savoon, jossa hän yritti saada vanhempiaan tulemaan joulunviettoon Ruotsiin. Vastaukset olivat edustavia: *"No ee myö oo ehitty miettimmään."* *"No voeshan se olla ens viikolla, mutta katottaan nyt sitä sitten vielä."* *"No katottaan, katottaan. Ei kaet se ihan mahotonta oo."* Blomberg nimitti tätä luikertelemiseksi kysymyksestä ulos. Iahn osuva kuvaus ilmiöstä, mutta sen takana on jotain syvempää.
+
+Yksi tuoreempi havainto: Savon radalla jossain Mikkelin paikkeilla vaunun tunnelma muuttuu. Konnarit alkavat vitsailla. *"Meneehän tämä juna suoraan Kuopioon?". *"Männöö, männöö mutta mutkittelloo."* Matkustajien puhelimet alkavat soida, ja toisesta päästä kantautuvat vastaukset alkavat kuulostaa erilaisilta. *"Pittää kahtoo."* *"Näkkööpähän."* Rekisteri alkaa vaihtua jossakin Kouvolan ja Kuopion välillä.
+
+Tavanomainen selitys — että savolainen on kiero tai välttää selkeän kannan ottamista on karikatyyri. Kiinnostavinta on, että kuulijan oletetaan osaavan kuulla kierron läpi. Puhuja ja kuulija tekevät yhteistyötä.
+
+## Mitä epäsuoruudesta saa
+
+Täsmällinen lause sulkee vaihtoehtoja. Epätarkka lause pitää niitä auki. Jos et vielä tiedä mihin suuntaan tilanne liikkuu, avoimeksi jätetty lause voi olla arvokkaampi kuin täsmällinen. Taloustieteessä tälle on nimi: *option value*. Mahdollisuuden säilyttämisestä kannattaa maksaa, käyttipä sitä lopulta tai ei.
+
+"Soon tuol noin" sitoo enemmän kuin "voes olla tuolla päin". Jälkimmäinen välittää suunnan, mutta ei anna kuulijalle oikeutta palata myöhemmin vaatimaan täyttä vastuuta väärästä tarkkuudesta. Jos osoite osoittautuu vääräksi, puhuja oli ollut varovainen. Jos se osoittautuu oikeaksi, puhuja oli ollut oikeassa. Kumpaankin tulokseen on etukäteen varauduttu.
+
+Edellisessä kirjoituksessani käsittelin sitoumusmekanismia — makaajaa joka sulkee mahdollisuuksia pois pelilaudalta. Makaaja toimii nimenomaan siksi, että hän sitoutuu näkyvästi johonkin. Savolainen puhetapa on saman logiikan peilikuva. Se kommunikoi nimenomaan sitä, ettei sitouduta. Sekin on informaatiota, ja usein sille on käyttöä.
+
+Kaikki tämä olettaa, että puhuja ja kuulija jakavat sen verran taustaa että jälkimmäinen osaa asettaa sanotun oikeaan skaalaan. Aina näin ei ole.
+
+## Japanilainen serkku
+
+Japanin kielessä ja tapakulttuurissa tällainen epäsuoruus on nimetty ja kuvattu tarkemmin kuin meillä. Kielitieteessä puhutaan *elliptisistä ilmauksista*, joissa tärkein osa lausetta jää sanomatta. *Chotto* on niistä tunnetuimpia. Sosiaalinen kehys on nimeltään *kuuki wo yomu*, "lukea ilmaa" — taito tulkita mitä ei ole sanottu.
+
+Suomalainen voisi luulla, että tällaisen strategian takana on jotain erityisen japanilaista: jäykän hierarkian tuottama pelko kasvojen menettämisestä. Se on osittain totta. Kiinnostavampaa on kuitenkin, että toisenlainen ympäristö — harvempi asutus, väljempänä koettu hierarkia ja toisenlainen sosiaalinen rytmi — voi päätyä suosimaan samankaltaista kielellistä ratkaisua.
+
+Savo ei ole Japani pienoiskoossa. Hyvin erilaisissa oloissa voi olla rationaalista puhua niin, että tärkein osa viestistä jää kuulijan pääteltäväksi. Britanniassa samaa rakennetta kutsutaan helpommin kohteliaisuudeksi kuin kieroudeksi. Sama puhetapa arvioidaan eri tavoin sen mukaan, kuka sitä käyttää, missä asemassa ja kenelle.
+
+## Ympäristö joka palkitsee
+
+En tiedä mistä savolainen puhetapa on syntynyt. Murteiden historiallinen rekonstruktio on hankalaa puuhaa ja menee hypoteesien puolelle nopeasti. Voidaan silti sanoa sen verran, että puhetapa käy järkeen ympäristössä, jossa tilanteet ovat epäsäännöllisiä ja liian aikainen sitoutuminen voi kääntyä puhujan tappioksi.
+
+Pohjanmaa on kiinnostava kontrasti siksi, että puhetavan ympäristöehdot näyttävät siellä toisenlaisilta. Suora puhe on halpaa ympäristössä, jossa samojen naapurien kanssa ollaan tekemisissä useiden sukupolvien yli. Kaikki tulee ajan myötä selväksi, eikä epäsuoruudesta saatava etu kestä kun samat ihmiset kohtaavat toistuvasti. Pohjalainen sanoo miten on. Savolainen sanoo miten voes olla. Molemmat strategiat toimivat omissa ympäristöissään ja olisivat epätarkoituksenmukaisia toisen kotipaikassa.
+
+Ja hyvä huomata: ei kaikki kiertely ole hienostunutta strategiaa. Osa on vain kiertelyä. Kiinnostava väite on kapeampi. Epäsuoruutta ei aina kannata pitää tyhmyytenä tai moraalisena vikana.
+
+## Kun ympäristö muuttuu
+
+Edellisen postauksen eräs peliteoreettinen pointti oli, että kollektiiviset tasapainot ovat hauraita. Kun Marseille jätti makaajan pois, Szoboszlai rankaisi siitä. Sama logiikka koskee kielellisiä strategioita. Strategia, joka on voinut olla käyttökelpoinen epävarmassa ja väljien sitoumusten ympäristössä, ei välttämättä ole sitä virastohuoneessa, työhaastattelussa tai Teams-palaverissa.
+
+Moni savolainen osaa kääntää puheensa tilanteen mukaan. Savolainen on kaksikielinen oman kielensä sisällä, ja murteessa voi jättää ilmaan enemmän kuin byrokratiassa. Kyse on tilannetajusta: eri ympäristöihin eri puhetapa. Siksi Savon radan juna on niin hyvä havaintopaikka. Matkustaja siirtyy yhdestä kielipelistä toiseen kirjaimellisesti kilometri kerrallaan, ja rekisteri seuraa mukana.
+
+Ongelma tulee silloin, kun sama lause siirtyy kontekstista toiseen ilman, että puhuja osaa vaihtaa rekisteriä. Kaveri kertoi Turusta, että siellä tapahtumakutsuun vastattu "pittää nyt kahtoo" tulkittiin niin, että kanta on vielä auki — Savossa se olisi tarkoittanut, että todennäköisesti en tule. Sama kaveri huomasi aikanaan controllerina, että johtoryhmälle tuotekannattavuudesta raportoidessa piti vaihtaa yleiskieleen: jos puhui savoa, luultiin että vitsailee, eikä asiaa otettu vakavasti.
+
+## Lauseen loppu
+
+Kokoushuone jäi odottamaan lisäsanoja. Minä kuulin jo, ettei niitä enää tulisi. Savossa sen olisi kuullut moni muukin. Joissakin kielipeleissä lause lopetetaan kohteliaisuuteen, toisissa vastuu siirretään kuulijalle.
