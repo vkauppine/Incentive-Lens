@@ -1,6 +1,6 @@
 ---
 title: "Kun punk huomasi Cantillon-efektin"
-subtitle: "Bad Religionin \"Robin Hood in Reverse\" on vasemmistolainen korporaatiokritiikki, jonka mekanismi sopii klassisen liberaalin rahapolitiikan kritiikin työkalupakkiin."
+subtitle: "Bad Religionin \"Robin Hood in Reverse\" on vasemmistolainen korporaatiokritiikki, jonka mekanismi sopii klassisen liberalismin rahapolitiikan kritiikin työkalupakkiin."
 author: "Vesa"
 date: "2026-05-03"
 categories: [rahapolitiikka, musiikki, Hayek]
