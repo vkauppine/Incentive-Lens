@@ -10,7 +10,125 @@
 <atom:link href="https://vkauppine.github.io/Incentive-Lens/index.xml" rel="self" type="application/rss+xml"/>
 <description>Talousblogi</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Wed, 22 Apr 2026 21:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 03 May 2026 21:00:00 GMT</lastBuildDate>
+<item>
+  <title>Jevons vai uudelleenjärjestely?</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/jevons/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="radiologi-ei-kadonnut" class="level2">
+<h2 class="anchored" data-anchor-id="radiologi-ei-kadonnut">Radiologi ei kadonnut</h2>
+<p>Vuosikymmen sitten radiologit olivat vakioesimerkki tekoälyn korvaamista ammateista. Kuvantamisen tulkinta oli ilmiselvä automaation kohde: rajattu tehtävä, runsaasti opetusdataa, mitattava lopputulos.</p>
+<p>Tänään yhdysvaltalaisen radiologin keskipalkka on Medscapen <a href="https://www.medscape.com/p11/return-normalization-medscape-physician-compensation-report-2026a10009um">tuoreimman raportin</a> (huhtikuu 2026) mukaan noin 571 000 dollaria vuodessa, ja kasvua edellisvuoteen oli 9 %. Doximityn 2025-raportti antaa samansuuntaisen luvun. Työllisyys kasvaa edelleen, ja AAMC ennustaa Yhdysvalloissa kymmenien tuhansien radiologien vajetta vuoteen 2034 mennessä. Apollo Global Managementin pääekonomisti Torsten Sløk käytti tätä havaintoa avauksena <a href="https://www.apollo.com/wealth/the-daily-spark/the-jevons-employment-effect-from-ai">muistiossaan</a>, jossa hän esittää, että keskustelu AI:n työllisyysvaikutuksista on rakennettu väärälle perustalle. Skannien lukeminen on tehtävä, ja kun tehtävä halpenee, kysyntä koko ammatille kasvaa.</p>
+<p>Sløk kutsuu tätä Jevonsin työllisyysvaikutukseksi.</p>
+<p>Argumentti kääntää korvaamisennusteen nurin. Mekanismi ansaitsee tarkemman katseen kuin yhden sivun muistio antaa.</p>
+</section>
+<section id="jevonsin-paradoksi" class="level2">
+<h2 class="anchored" data-anchor-id="jevonsin-paradoksi">Jevonsin paradoksi</h2>
+<p>William Stanley Jevons huomasi vuonna 1865, että James Wattin tehokkaampi höyrykone ei vähentänyt hiilen kulutusta Britanniassa: tehokkaampi kone teki hiilestä kannattavan polttoaineen sovelluksiin, joihin se ei aiemmin sopinut. Marginaalikustannuksen lasku avasi uutta kysyntää, ja kokonaiskulutus moninkertaistui.</p>
+<p>Tekoälyyn sovellettuna ajatus on yksinkertainen. Jokainen asiantuntija-ammatti on kokoelma tehtäviä: lakimies laatii sopimuksia, neuvottelee ehdoista ja arvioi riskejä; tilintarkastaja täsmäyttää kirjanpitoa, valmistelee työpapereita ja dokumentoi havaintoja; konsultti analysoi, haastattelee ja kokoaa esitysmateriaaleja. Kun AI halpuuttaa yhden vaiheen, koko palvelun rajakustannus voi laskea. Jos vaihe on ollut pullonkaula ja palvelulle olisi käyttöä nykyistä enemmän, volyymi kasvaa: skanneja tehdään enemmän, sopimuksia käsitellään enemmän, tarkastuksia tilataan enemmän.</p>
+</section>
+<section id="mitä-sløkin-data-ei-vielä-osoita" class="level2">
+<h2 class="anchored" data-anchor-id="mitä-sløkin-data-ei-vielä-osoita">Mitä Sløkin data ei vielä osoita</h2>
+<p>Sløkin näyttö nojaa kahteen havaintoon: nuorten työntekijöiden työttömyys laskee nopeammin kuin yleinen työttömyys, ja uusia yrityksiä perustetaan Yhdysvalloissa ennätystahtiin. Hän tulkitsee tämän niin, että vastavalmistuneet ja nuoret korkeakoulutetut perustavat tekoälyä hyödyntäviä yrityksiä, jotka voivat kilpailla vakiintuneiden toimijoiden kanssa.</p>
+<p>Nämä havainnot eivät vielä näytä klassista Jevons-mekanismia. Klassinen tarina kulkisi vakiintuneiden organisaatioiden kautta: lakitoimistot, Big Four ja konsulttitalot palkkaisivat enemmän junioreita, koska halvemmalla tuotettu valmistelutyö avaisi lisää asiakaskysyntää. Tästä Sløk ei näytä dataa.</p>
+<p>Sen sijaan hänen esimerkkinsä viittaa toiseen mekanismiin: tehtäviä siirtyy uusille toimijoille. AI voi madaltaa yrityksen perustamisen ja asiantuntijapalvelun tuottamisen kynnystä niin, että pienet uudet toimijat kilpailevat vakiintuneiden kanssa. Kokonaistyöllisyys voi näyttää hyvältä, vaikka ammatin sisäinen oppimisrakenne muuttuu. Työ ei katoa, mutta tarve positioille, joissa vastavalmistuneet ovat aiemmin oppineet ammatin, voivat vähentyä.</p>
+<p>Vielä helmikuussa Sløk kirjoitti Solow’n paradoksin paluusta: tekoälystä puhutaan kaikkialla, mutta sen vaikutukset eivät näy selvästi tuottavuudessa, inflaatiossa tai työmarkkinadatassa. Huhtikuun Jevons-väite ei siis voi nojata siihen, että vaikutus olisi jo makrotasolla osoitettu. Se on tulkinta varhaisista signaaleista, ja samat signaalit sopivat yhtä hyvin tarinaan suhdanteesta, yrittäjyyden kannustimista tai työn siirtymisestä vanhoista organisaatioista uusiin.</p>
+</section>
+<section id="kaikki-halpeneminen-ei-kasvata-työtä" class="level2">
+<h2 class="anchored" data-anchor-id="kaikki-halpeneminen-ei-kasvata-työtä">Kaikki halpeneminen ei kasvata työtä</h2>
+<p>Klassinen Jevons-mekanismi vaatii toteutumatonta kysyntää. Hiilen kohdalla sitä oli runsaasti: tehokkaampi höyrykone teki hiilestä kannattavan energialähteen tehtaissa, kaivoksissa, rautateillä ja laivoissa. Siellä, missä se oli aiemmin liian kallista.</p>
+<p>Osa asiantuntijatyön tarpeista ratkaistaan jo nykyisillä hinnoilla. Merkittävä sopimusneuvottelu hoidetaan usein omalla lakiosastolla, ulkoisella neuvonantajalla tai näiden yhdistelmällä. Hinta vaikuttaa järjestelyyn, mutta harvoin siihen, jätetäänkö työ kokonaan tekemättä. Jos AI halpuuttaa sopimusten valmistelua, vaikutus voi näkyä hinnoissa, katteissa tai asiakkaan hyödyssä ennen kuin se näkyy uutena työnä. Sama koskee lakisääteistä tilintarkastusta.</p>
+<p>Toisaalla palvelulle olisi käyttöä, mutta hinta tai osaaminen on pitänyt sen ulottumattomissa. Pieni yritys käyttää vanhaa sopimuspohjaa juristin sijaan. Mikroyrittäjä hoitaa kirjanpidon minimivaatimusten mukaan eikä osta talousneuvontaa. Pieni yhdistys tekee strategiansa itse, koska konsultti ei mahdu budjettiin. Jos AI laskee kustannusta riittävästi, kysyntä voi laajeta.</p>
+<p>Suomalaisessa pk-kentässä monen yrityksen raja kulkee kyvykkyydessä ja resursseissa. Palvelut ja kehittämiskäytännöt, joita suuremmat yritykset käyttävät rutiinilla, jäävät pieniltä ostamatta. AI voi madaltaa tätä rajaa. Vaikutus näkyisi markkinan reunoilla: kevyempinä palveluina, pienempinä toimeksiantoina ja tarjoajina, jotka palvelevat aiemmin huonosti tavoitettua segmenttiä.</p>
+<p>Markkina voi kasvaa ilman, että kasvu näkyy vanhojen organisaatioiden palkkalistoilla.</p>
+</section>
+<section id="mitä-datassa-pitäisi-näkyä" class="level2">
+<h2 class="anchored" data-anchor-id="mitä-datassa-pitäisi-näkyä">Mitä datassa pitäisi näkyä</h2>
+<p>Sløkin hypoteesi on falsifioitavissa. Jos klassinen Jevons-vaikutus pätee, datassa näkyisi seuraavan viiden–kymmenen vuoden aikana kolme asiaa: junioritason palkkaaminen lakitoimistoissa, konsulttitaloissa ja Big Four -firmoissa kääntyisi nousuun; pk-yritysten ostokset lakipalveluista ja konsultoinnista kasvaisivat volyymissä, vaikka tuntihinnat laskisivat; ja ammatin sisäinen tulonjako pysyisi vakaana, eivätkä hyödyt valuisi vain asiakkaille tai pääomalle.</p>
+<p>Jos taas näkyy se, mitä Sløkin oma data jo näyttää — startup-buumi vakiintuneiden toimijoiden kustannuksella ja juniorityön samanaikainen taantuma — kyseessä on uudelleenjärjestely. Talouden tasolla se voi olla myönteinen ilmiö, mutta sen kustannukset jäävät kokonaistyöllisyyden alle piiloon.</p>
+</section>
+<section id="lopuksi" class="level2">
+<h2 class="anchored" data-anchor-id="lopuksi">Lopuksi</h2>
+<p>Sløk voi hyvin olla oikeassa siinä, että halvemmat panokset eivät kutista toimialoja. Ne voivat kasvattaa markkinaa ja järjestellä sen samalla uudelleen. Uudelleenjärjestelyn kohteeksi joutuvalle paradoksi on laiha lohtu.</p>
+<p>Radiologin palkka osoittaa lähinnä sen, ettei yksinkertainen korvaamisennuste toteutunut, mutta ei vielä osoita Jevons-vaikutusta. Sen osoittaminen vaatisi palkkojen lisäksi työnjaon tarkastelua: miten kuvantamisen kasvu muuttaa radiologien, harjoittelijoiden, teknikkojen ja tukiroolien tehtäviä.</p>
+<p>Jevonsin paradoksi kuvaa yhden mekanismin. Työmarkkinoilla niitä on enemmän.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>tekoäly</category>
+  <category>työmarkkinat</category>
+  <category>taloustiede</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/jevons/</guid>
+  <pubDate>Sun, 03 May 2026 21:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Kun punk huomasi Cantillon-efektin</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/bad-religion/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="punkbändi-joka-ei-vain-huuda" class="level2">
+<h2 class="anchored" data-anchor-id="punkbändi-joka-ei-vain-huuda">Punkbändi joka ei vain huuda</h2>
+<p>Bad Religion on outo instituutio. Kalifornialaisen punkbändin kappaleet ovat kolmen soinnun melodista punkia maustettuna lauluharmonioilla ja kestoltaan tyypillisesti noin kaksi minuuttia. Jo kappaleiden nimet, kuten <em>Markovian process</em>, kuitenkin vihjaavat, että nyt ei lauleta kolmesta tölkistä Lidlin kassissa. Yhtye perustettiin 1980 San Fernando Valleyn autotallissa, kun laulaja Greg Graffin oli 15-vuotias. Sen jälkeen se on tehnyt seitsemäntoista studiolevyä, joissa toistuvat samat aiheet: uskonnon kritiikki, korporaatiovalta, amerikkalainen laumakäyttäytyminen, ihmisen kyky itsepetokseen.</p>
+<p>Graffin ei ole mikään kiljupunkkari. Hän väitteli Cornellissa 2003, ja hänen väitöskirjansa käsitteli evoluutiobiologien suhdetta uskontoon ja naturalismiin. Sen jälkeen hän on opettanut evoluutiota sekä Cornellissa että UCLA:ssa kiertueiden välissä. Tämä kuuluu sanoituksissa. Ne tarjoilevat harvoin valmiita julistuksia.</p>
+<p>Parhaat Bad Religion -tekstit eivät vanhene päivänpoliittisten kohteidensa mukana. Niiden kohde on mekanismi.</p>
+<p>“Robin Hood in Reverse” <em>True North</em> -levyltä (2013) on tästä hyvä esimerkki. Bändin omasta näkökulmasta biisi käsittelee Yhdysvaltain korkeimman oikeuden Citizens United -päätöstä ja korporaatiovallan oikeudellista normalisointia. Se on tunnistettavasti vasemmistolainen korporaatiokritiikki. Sen rakenteellinen havainto — instituutio joka lupaa suojata heikkoa mutta päätyy vahvistamaan vahvaa — kestää myös toisenlaisen luennan, jossa varsinainen mekanismi sijaitsee kokonaan muualla kuin Graffin ehkä ajatteli.</p>
+</section>
+<section id="robin-hood-in-reverse-ja-citizens-united-vs.-fec" class="level2">
+<h2 class="anchored" data-anchor-id="robin-hood-in-reverse-ja-citizens-united-vs.-fec">“Robin Hood in Reverse” ja Citizens United vs.&nbsp;FEC</h2>
+<p>Biisin avaus on lasten sormileikki: <em>here is the church, there is the steeple, open up the door, corporations are people.</em> Alkuperäisessä leikissä viimeinen rivi on “open the doors and see all the people” — sormet aukeavat ja sisällä paljastuu joukko ihmisiä, jotka muodostuvat ristissä olevista sormista. Graffin korvaa ihmiset korporaatioilla, ja samalla pudottaa “näkemisen” pois: kukaan ei enää avaa ovia katsoakseen, korporaatiot vain ovat siellä ihmisten paikalla. Tätä seuraa biisin tärkein retorinen ele: kaksi riviä järkyttynyttä hämmästystä. <em>Wait, what did he say? What the fuck did he say?</em></p>
+<p>Välitön kaikupohja on Mitt Romneyn vuoden 2011 Iowan messuilla lausuma <a href="https://www.youtube.com/watch?v=FxUsRedO4UY">“corporations are people” -repliikki</a>. Syvempi kohde on <a href="https://en.wikipedia.org/wiki/Citizens_United_v._FEC">Citizens United -päätös</a>, jossa sama ajatus saa institutionaalisen muodon iskulauseen sijaan: perustuslaillisena oikeutuksena poliittiselle rahankäytölle. Päätös kumosi rajoituksia, jotka koskivat yritysten ja ammattiliittojen riippumattomia vaalimenoja. Yrityksistä ei tullut ihmisiä arkisessa mielessä, eikä päätös vapauttanut suoria lahjoituksia ehdokkaille samalla tavalla. Ratkaisevaa oli se, että yritysten ja liittojen poliittinen viestintä tulkittiin ensimmäisen lisäyksen suojaamaksi puheeksi.</p>
+<p>Kertosäkeen <em>nine in black robes all went berserk</em> viittaa korkeimman oikeuden tuomareihin: yhdeksän mustakaapuista kääntää pelin. Robin Hood -myytti kääntyy päinvastaiseksi. Oikeusjärjestelmä, jonka pitäisi suojata kansalaisia, suojaakin rikkaiden ja korporaatioiden vaikutusvaltaa.</p>
+<p>Toisessa säkeistössä Graffin tekee tästä jotain hienovaraisempaa. Hän ottaa nimen “Citizens United” ja kääntää sen ensin toiveikkaaksi: <em>citizens united, I was excited.</em> Sanat erotettuna oikeustapauksesta tarkoittavat juuri sitä mitä ne sanovat — kansalaiset yhdistyneinä. Solidaarisuutta ja kollektiivista vastarintaa. Sitten kaikuu Sham 69:n vuoden 1978 punklaulun “If the Kids Are United” rivi: <em>when the kids are united, they can never be divided.</em></p>
+<p>Sham 69 oli englantilainen työväenluokan punkbändi, ja “If the Kids Are United” on klassinen solidaarisuuslaulu — punk-versio työväenliikkeen perinteisestä yhteenkuuluvuusvirrestä. Lukijalle, jolle Sham 69 ei ole tuttu, biisin teesi on yksinkertainen: jos pidämme yhtä, meitä ei voi voittaa. Tämä on kollektiivisen vastarinnan klassinen logiikka, ja Bad Religion on osa samaa traditiota.</p>
+<p>Sanaleikki menee siis kolmessa kerroksessa: Citizens United on korkeimman oikeuden tapaus, joka mahdollistaa yritysten poliittisen rahankäytön; “kansalaiset yhdistyneinä” on toiveikas ajatus demokraattisesta solidaarisuudesta; Sham 69:n biisi on punkin oma traditio nuorisosta yhdistyneenä työväenluokan rintamassa. Ja sitten Graffin tappaa toivon yhdellä rivillä: <em>but that was yesterday, there’s a brand new sham today.</em> Sana <strong>sham</strong> (“petos, huijaus”) viittaa bändiin, mutta tarkoittaa, että koko ajatus kansalaisten tai työväen yhtenäisyydestä on nyt huijaus. Oikeasti yhdistyneitä ovat yritykset ja niitä suojaavat instituutiot.</p>
+<p>Tämä on biisin ilmeinen luenta. Se toimii. Sen keskimmäinen säkeistö vihjaa kuitenkin toisesta tasosta, jonka bändi todennäköisesti tarkoitti vain finanssikriisin yleisluontoiseksi taustaksi:</p>
+<blockquote class="blockquote">
+<p><em>It couldn’t last, they had to crash</em><br>
+<em>Some parties are just made that way</em><br>
+<em>But when the bell rings, the boys will sing</em><br>
+<em>Swing low sweet precariat</em></p>
+</blockquote>
+<p>Tästä alkaa toinen lukutapa. <em>Some parties are just made that way</em> — jotkut bileet on rakennettu loppumaan äkisti. Tämä on klassinen itävaltalaisen suhdanneteorian intuitio: matalat korot ja keinotekoinen luotontarjonta tuottavat vääriä hintasignaaleja, joiden varaan väistämättömän korjattausliikkeen vaativa kupla rakentuu. Hayekin alkuperäisessä teoriassa crash on välttämätön korjausmekanismi.</p>
+</section>
+<section id="cantillon-efekti-raha-ei-tule-yhteiskuntaan-tasaisesti" class="level2">
+<h2 class="anchored" data-anchor-id="cantillon-efekti-raha-ei-tule-yhteiskuntaan-tasaisesti">Cantillon-efekti: raha ei tule yhteiskuntaan tasaisesti</h2>
+<p>Bad Religion ei kirjoittanut laulua keskuspankkipolitiikasta. Mutta finanssikriisin jälkeinen maailma antoi kappaleen nimelle toisen, ehkä vielä mielenkiintoisemman tulkinnan. Käänteinen Robin Hood on muutakin kuin tuomioistuin, joka tulkitsee yritysten rahankäytön sananvapaudeksi. Se voi olla myös rahapoliittinen järjestelmä, jossa uusi likviditeetti kulkee ensin niiden taseisiin, joilla jo on omaisuutta.</p>
+<p>Jos keskuspankki kriisin jälkeen painaa korkoja alas ja ostaa omaisuuseriä, se tekee muutakin kuin “elvyttää taloutta”. Se muuttaa hintasignaaleja. Korkokäyrän madaltuminen muuttaa kannattavuusarvioita kaikilla markkinoilla samanaikaisesti, ja varallisuuserien arvostuskertoimet nousevat kun diskonttokorko laskee. Tämä näyttää tekniseltä operaatiolta, mutta sen jakovaikutus on kaikkea muuta.</p>
+<p>Richard Cantillon huomasi 1700-luvulla, että uusi raha kulkee talouteen kanavien kautta — ja ne jotka ovat lähimpänä rahan syntypistettä hyötyvät enemmän kuin ne jotka ovat kauempana. Kun Espanjaan virtasi hopeaa Amerikoista, uusi raha ei levinnyt talouteen tasaisesti. Ensimmäisinä siitä hyötyivät ne, joiden käsiin hopea ensin tuli: Habsburg-kruunu, saksalaiset ja genovalaiset pankkiirit, jotka olivat antaneet sille luottoa, sekä kaupankäyntiverkostot Sevillassa ja Cádizissa. Kun raha myöhemmin levisi laajemmalle, muut kohtasivat jo muuttuneet suhteelliset hinnat. Cantillonin pointti on rakenteellinen: rahan vaikutus riippuu myös siitä, missä, milloin ja kenen kautta se virtaa talouteen.</p>
+<p>Modernissa rahajärjestelmässä vastaava reitti kulkee ennen kaikkea arvopaperimarkkinoiden kautta. Kun keskuspankki ostaa velkakirjoja, se painaa niiden tuottovaatimuksia alas. Kun turvallisten sijoitusten tuotto laskee, sijoittajat etsivät tuottoa muualta. Se nostaa osakkeiden, yrityslainojen, kiinteistöjen ja muiden omaisuuserien arvostuksia.</p>
+<p>Tämä kuulostaa tekniseltä, mutta jakovaikutus on ilmeinen. Jos politiikka nostaa omaisuuserien hintoja, ensimmäisenä hyötyvät ne, joilla on jo omaisuutta. Palkansaaja voi hyötyä myöhemmin matalamman työttömyysriskin ja paremman suhdannetilanteen kautta. Omistaja saa tämän lisäksi nousevan taseen.</p>
+<p>Finanssikriisin jälkeen keskuspankit tekivät sen, minkä ne katsoivat välttämättömäksi. Ne lisäsivät likviditeettiä, laskivat korkoja ja ostivat omaisuuseriä. Tavoite oli estää järjestelmän romahdus. Tavoite ei kuitenkaan tee keinosta neutraalia.</p>
+<p>Tässä “Robin Hood in Reverse” alkaa toimia myös rahapolitiikan kuvana. Keskuspankit eivät jakaneet rahaa suoraan kansalaisille, vaan vakauttivat järjestelmää sen omien markkinakanavien avulla. Pelastus kulki pankkien, velkakirjojen, osakkeiden, kiinteistöjen ja rahoitusmarkkinoiden kautta. Juuri siellä varallisuus oli jo valmiiksi keskittynyt.</p>
+<p>Tästä ei tarvitse tehdä salaliittoa. Jos elvytys esti syvemmän laman, konkurssiaallon ja joukkotyöttömyyden, myös pienituloiset hyötyivät. Sama politiikka voi vakauttaa työmarkkinoita ja nostaa varallisuushintoja tavalla, joka hyödyttää eniten ylimpiä varallisuusryhmiä.</p>
+<p>Tälle on myös empiiristä tukea. BIS:n analyysi korostaa, että kriisin jälkeiset omaisuushintojen muutokset vaikuttivat varallisuuseroihin ja että erityisesti osakehintojen nousu saattoi lisätä varallisuuseroja. New York Fedin vuoden 2024 tutkimus tiivistää ristiriidan vielä selvemmin: epätavanomainen rahapolitiikka vähensi eriarvoisuutta alimman 90 prosentin sisällä laskemalla työttömyyttä, mutta kasvatti ylimmän 10 prosentin ja muiden välistä kuilua voittojen ja osakehintojen kautta. EKP:n Isabel Schnabel on tehnyt saman varauksen eurooppalaisemmin: omaisuuseräostot voivat suosia niitä, jotka omistavat rahoitusvarallisuutta, vaikka rahapolitiikka voi samalla tukea pienituloisia työmarkkinakanavan kautta.</p>
+<p>Tästä syntyy biisin kannustinanalyyttinen hetki. Bad Religion näkee oikeudellisen fiktion, jossa yritysten rahankäyttö muuttuu sananvapaudeksi ja poliittiseksi oikeudeksi. Cantillon-efektin kautta lukeva näkee rinnakkaisen rahapoliittisen fiktion, jossa likviditeetin lisääminen esitetään teknisenä vakautuksena, vaikka sen vaikutukset riippuvat siitä, mistä uusi raha tulee talouteen ja kuka ehtii käyttää sen ensin.</p>
+<p>“Robin Hood in Reverse” tunnistaa rakenteen: instituution toimintareitti vahvistaa valmiiksi vahvoja.</p>
+<p>Bad Religionin vasemmistolainen korporaatiokritiikki ja klassisen liberaalin epäily keskitetystä rahapolitiikasta — Cantillonista Hayekiin — osuvat tässä samaan kohtaan. Molemmat kysyvät, mitä tapahtuu, kun instituutio saa vallan määritellä pelin säännöt. Vastaus on kappaleen nimessä: Robin Hood toimii yhä, mutta suunta on vaihtunut.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>rahapolitiikka</category>
+  <category>musiikki</category>
+  <category>Hayek</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/bad-religion/</guid>
+  <pubDate>Sat, 02 May 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/bad-religion/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Miksi yleisö hurraa Keynesille</title>
   <dc:creator>Vesa Kauppinen</dc:creator>
