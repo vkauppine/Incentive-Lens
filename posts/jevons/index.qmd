@@ -56,6 +56,6 @@ Jos taas näkyy se, mitä Sløkin oma data jo näyttää — startup-buumi vakii
 
 Sløk voi hyvin olla oikeassa siinä, että halvemmat panokset eivät kutista toimialoja. Ne voivat kasvattaa markkinaa ja järjestellä sen samalla uudelleen. Uudelleenjärjestelyn kohteeksi joutuvalle paradoksi on laiha lohtu.
 
-Radiologin palkka osoittaa lähinnä sen, ettei yksinkertainen korvaamisennuste toteutunut, mutta ei vielä osoita Jevons-vaikutusta. Sen osoittaminen vaatisi palkkojen lisäksi työnjaon tarkastelua: miten kuvantamisen kasvu muuttaa radiologien, harjoittelijoiden, teknikkojen ja tukiroolien tehtäviä.
+Radiologin palkka osoittaa lähinnä sen, ettei yksinkertainen korvaamisennuste toteutunut, mutta ei vielä osoita Jevons-vaikutusta. Sen osoittaminen vaatisi palkkojen lisäksi työnjaon tarkastelua: miten AI muuttaa radiologien, harjoittelijoiden, teknikkojen ja tukiroolien tehtäviä.
 
 Jevonsin paradoksi kuvaa yhden mekanismin. Työmarkkinoilla niitä on enemmän.
