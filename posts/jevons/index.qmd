@@ -4,6 +4,7 @@ subtitle: "Torsten Sløk näkee tekoälyssä työllisyyttä kasvattavan paradoks
 author: "Vesa"
 date: "2026-05-04"
 categories: [tekoäly, työmarkkinat, taloustiede]
+image: "cover.jpg"
 
 ---
 
