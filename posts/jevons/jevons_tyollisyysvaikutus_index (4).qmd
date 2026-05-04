@@ -1,0 +1,60 @@
+---
+title: "Jevons vai uudelleenjärjestely?"
+subtitle: "Torsten Sløk näkee tekoälyssä työllisyyttä kasvattavan paradoksin. Hänen oma näyttönsä kertoo varovaisemman tarinan."
+author: "Vesa"
+date: today
+categories: [tekoäly, työmarkkinat, taloustiede]
+draft: true
+---
+
+## Radiologi ei kadonnut
+
+Vuosikymmen sitten radiologit olivat vakioesimerkki tekoälyn korvaamista ammateista. Kuvantamisen tulkinta oli ilmiselvä automaation kohde: rajattu tehtävä, runsaasti opetusdataa, mitattava lopputulos.
+
+Tänään yhdysvaltalaisen radiologin keskipalkka on Medscapen [tuoreimman raportin](https://www.medscape.com/p11/return-normalization-medscape-physician-compensation-report-2026a10009um) (huhtikuu 2026) mukaan noin 571 000 dollaria vuodessa, ja kasvua edellisvuoteen oli 9 %. Doximityn 2025-raportti antaa samansuuntaisen luvun. Työllisyys kasvaa edelleen, ja AAMC ennustaa Yhdysvalloissa kymmenien tuhansien radiologien vajetta vuoteen 2034 mennessä. Apollo Global Managementin pääekonomisti Torsten Sløk käytti tätä havaintoa avauksena [muistiossaan](https://www.apollo.com/wealth/the-daily-spark/the-jevons-employment-effect-from-ai), jossa hän esittää, että keskustelu AI:n työllisyysvaikutuksista on rakennettu väärälle perustalle. Skannien lukeminen on tehtävä, ja kun tehtävä halpenee, kysyntä koko ammatille kasvaa.
+
+Sløk kutsuu tätä Jevonsin työllisyysvaikutukseksi.
+
+Argumentti kääntää korvaamisennusteen nurin. Mekanismi ansaitsee tarkemman katseen kuin yhden sivun muistio antaa.
+
+## Jevonsin paradoksi
+
+William Stanley Jevons huomasi vuonna 1865, että James Wattin tehokkaampi höyrykone ei vähentänyt hiilen kulutusta Britanniassa: tehokkaampi kone teki hiilestä kannattavan polttoaineen sovelluksiin, joihin se ei aiemmin sopinut. Marginaalikustannuksen lasku avasi uutta kysyntää, ja kokonaiskulutus moninkertaistui.
+
+Tekoälyyn sovellettuna ajatus on yksinkertainen. Jokainen asiantuntija-ammatti on kokoelma tehtäviä: lakimies laatii sopimuksia, neuvottelee ehdoista ja arvioi riskejä; tilintarkastaja täsmäyttää kirjanpitoa, valmistelee työpapereita ja dokumentoi havaintoja; konsultti analysoi, haastattelee ja kokoaa esitysmateriaaleja. Kun AI halpuuttaa yhden vaiheen, koko palvelun rajakustannus voi laskea. Jos vaihe on ollut pullonkaula ja palvelulle olisi käyttöä nykyistä enemmän, volyymi kasvaa: skanneja tehdään enemmän, sopimuksia käsitellään enemmän, tarkastuksia tilataan enemmän.
+
+## Mitä Sløkin data ei vielä osoita
+
+Sløkin näyttö nojaa kahteen havaintoon: nuorten työntekijöiden työttömyys laskee nopeammin kuin yleinen työttömyys, ja uusia yrityksiä perustetaan Yhdysvalloissa ennätystahtiin. Hän tulkitsee tämän niin, että vastavalmistuneet ja nuoret korkeakoulutetut perustavat tekoälyä hyödyntäviä yrityksiä, jotka voivat kilpailla vakiintuneiden toimijoiden kanssa.
+
+Nämä havainnot eivät vielä näytä klassista Jevons-mekanismia. Klassinen tarina kulkisi vakiintuneiden organisaatioiden kautta: lakitoimistot, Big Four ja konsulttitalot palkkaisivat enemmän junioreita, koska halvemmalla tuotettu valmistelutyö avaisi lisää asiakaskysyntää. Tästä Sløk ei näytä dataa.
+
+Sen sijaan hänen esimerkkinsä viittaa toiseen mekanismiin: tehtäviä siirtyy uusille toimijoille. AI voi madaltaa yrityksen perustamisen ja asiantuntijapalvelun tuottamisen kynnystä niin, että pienet uudet toimijat kilpailevat vakiintuneiden kanssa. Kokonaistyöllisyys voi näyttää hyvältä, vaikka ammatin sisäinen oppimisrakenne muuttuu. Työ ei katoa, mutta voi siirtyä pois niistä paikoista, joissa aloittelijat ovat aiemmin oppineet ammatin.
+
+Vielä helmikuussa Sløk kirjoitti Solow'n paradoksin paluusta: tekoälystä puhutaan kaikkialla, mutta sen vaikutukset eivät näy selvästi tuottavuudessa, inflaatiossa tai työmarkkinadatassa. Huhtikuun Jevons-väite ei siis voi nojata siihen, että vaikutus olisi jo makrotasolla osoitettu. Se on tulkinta varhaisista signaaleista, ja samat signaalit sopivat yhtä hyvin tarinaan suhdanteesta, yrittäjyyden kannustimista tai työn siirtymisestä vanhoista organisaatioista uusiin.
+
+## Kaikki halpeneminen ei kasvata työtä
+
+Klassinen Jevons-mekanismi vaatii toteutumatonta kysyntää. Hiilen kohdalla sitä oli runsaasti: tehokkaampi höyrykone teki hiilestä kannattavan energialähteen tehtaissa, kaivoksissa, rautateillä ja laivoissa myös siellä, missä se oli aiemmin liian kallista.
+
+Osa asiantuntijatyön tarpeista ratkaistaan jo nykyisillä hinnoilla. Merkittävä sopimusneuvottelu hoidetaan usein omalla lakiosastolla, ulkoisella neuvonantajalla tai näiden yhdistelmällä. Hinta vaikuttaa järjestelyyn, mutta harvoin siihen, jätetäänkö työ kokonaan tekemättä. Jos AI halpuuttaa sopimusten valmistelua, vaikutus voi näkyä hinnoissa, katteissa tai asiakkaan hyödyssä ennen kuin se näkyy uutena työnä. Sama koskee lakisääteistä tilintarkastusta.
+
+Toisaalla palvelulle olisi käyttöä, mutta hinta tai osaaminen on pitänyt sen ulottumattomissa. Pieni yritys käyttää vanhaa sopimuspohjaa juristin sijaan. Nikroyrittäjä hoitaa kirjanpidon minimivaatimusten mukaan eikä osta talousneuvontaa. Pieni yhdistys tekee strategiansa itse, koska konsultti ei mahdu budjettiin. Jos AI laskee kustannusta riittävästi, kysyntä voi laajeta.
+
+Suomalaisessa pk-kentässä monen yrityksen raja kulkee kyvykkyydessä ja resursseissa. Palvelut ja kehittämiskäytännöt, joita suuremmat yritykset käyttävät rutiinilla, jäävät pieniltä ostamatta. AI voi madaltaa tätä rajaa. Vaikutus näkyisi markkinan reunoilla: kevyempinä palveluina, pienempinä toimeksiantoina ja tarjoajina, jotka palvelevat aiemmin huonosti tavoitettua segmenttiä.
+
+Markkina voi kasvaa ilman, että kasvu näkyy vanhojen organisaatioiden palkkalistoilla.
+
+## Mitä datassa pitäisi näkyä
+
+Sløkin hypoteesi on falsifioitavissa. Jos klassinen Jevons-vaikutus pätee, datassa näkyisi seuraavan viiden–kymmenen vuoden aikana kolme asiaa: junioritason palkkaaminen lakitoimistoissa, konsulttitaloissa ja Big Four -firmoissa kääntyisi nousuun; pk-yritysten ostokset lakipalveluista ja konsultoinnista kasvaisivat volyymissä, vaikka tuntihinnat laskisivat; ja ammatin sisäinen tulonjako pysyisi vakaana, eivätkä hyödyt valuisi vain asiakkaille tai pääomalle.
+
+Jos taas näkyy se, mitä Sløkin oma data jo näyttää — startup-buumi vakiintuneiden toimijoiden kustannuksella ja juniorityön samanaikainen taantuma — kyseessä on uudelleenjärjestely. Talouden tasolla se voi olla myönteinen ilmiö, mutta sen kustannukset jäävät kokonaistyöllisyyden alle piiloon.
+
+## Lopuksi
+
+Sløk voi hyvin olla oikeassa siinä, että halvemmat panokset eivät kutista toimialoja. Ne voivat kasvattaa markkinaa ja järjestellä sen samalla uudelleen. Uudelleenjärjestelyn kohteeksi joutuvalle paradoksi on laihaa lohtua.
+
+Radiologin palkka osoittaa lähinnä sen, ettei yksinkertainen korvaamisennuste toteutunut. Se ei vielä osoita Jevons-vaikutusta. Sen osoittaminen vaatisi palkkojen lisäksi katsetta työnjakoon: miten kuvantamisen kasvu muuttaa radiologien, kouluttautujien, teknikkojen ja tukiroolien tehtäviä.
+
+Jevonsin paradoksi kuvaa yhden mekanismin. Työmarkkinoilla niitä on enemmän.
