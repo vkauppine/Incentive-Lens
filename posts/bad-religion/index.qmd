@@ -44,7 +44,7 @@ Tästä alkaa toinen lukutapa. *Some parties are just made that way* — jotkut 
 
 ## Cantillon-efekti: raha ei tule yhteiskuntaan tasaisesti
 
-Bad Religion ei kirjoittanut laulua keskuspankkipolitiikasta. Mutta finanssikriisin jälkeinen maailma antoi kappaleen nimelle toisen, ehkä vielä mielenkiintoisemman tulkinnan. Käänteinen Robin Hood on muutakin kuin tuomioistuin, joka tulkitsee yritysten rahankäytön sananvapaudeksi. Se voi olla myös rahapoliittinen järjestelmä, jossa uusi likviditeetti kulkee ensin niiden taseisiin, joilla jo on omaisuutta.
+Bad Religion ei kirjoittanut laulua keskuspankkipolitiikasta. Mutta finanssikriisin jälkeinen maailma antoi kappaleen nimelle toisen, ehkä vielä mielenkiintoisemman tulkinnan. Käänteinen Robin Hood voi olla myös rahapoliittinen järjestelmä, jossa uusi likviditeetti kulkee ensin niiden taseisiin, joilla jo on omaisuutta.
 
 Jos keskuspankki kriisin jälkeen painaa korkoja alas ja ostaa omaisuuseriä, se tekee muutakin kuin "elvyttää taloutta". Se muuttaa hintasignaaleja. Korkokäyrän madaltuminen muuttaa kannattavuusarvioita kaikilla markkinoilla samanaikaisesti, ja varallisuuserien arvostuskertoimet nousevat kun diskonttokorko laskee. Tämä näyttää tekniseltä operaatiolta, mutta sen jakovaikutus on kaikkea muuta.
 
