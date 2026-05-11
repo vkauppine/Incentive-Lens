@@ -10,7 +10,7 @@ image: "cover.jpg"
 
 Oulun yliopiston laskentatoimen professori Juha-Pekka Kallunki tutkimusryhmineen on dokumentoinut, että suomalaisten ja ruotsalaisten pörssiyhtiöiden johdossa rikostaustat eivät ole harvinaisuus. Ruotsalaisaineistossa rikostuomio oli noin joka kolmannella johtajalla.[^kallunki-swe] Suomessa noin viidenneksellä pörssiyhtiöiden toimitusjohtajista ja hallituksen jäsenistä oli tuomio taustallaan.[^kallunki-fin]
 
-Rikostausta näkyy seurauksissa, joita omistajat eivät tavallisesti toivo: aggressiivisempaa verosuunnittelua, suurempia liikearvon alaskirjauksia, heikompaa kirjanpidollista varovaisuutta, suurempaa konkurssiriskiä. Kallungin tulkinta on, että rattijuopumus, väkivaltarikos tai muu tuomio voi toimia proxynä piirteille, jotka merkitsevät yritykselle riskiä: impulsiivisuudelle, riskihakuisuudelle ja heikolle itsehillinnälle. Suositus seuraa tästä melko suoraan: pankki- ja vakuutusalan kelpoisuustarkastuksia pitäisi laajentaa muillekin toimialoille.
+Rikostausta näkyy seurauksissa, joita omistajat eivät tavallisesti toivo: suurempia liikearvon alaskirjauksia, heikompaa kirjanpidollista varovaisuutta, suurempaa konkurssiriskiä. Kallungin tulkinta on, että rattijuopumus, väkivaltarikos tai muu tuomio voi toimia proxynä piirteille, jotka merkitsevät yritykselle riskiä: impulsiivisuudelle, riskihakuisuudelle ja heikolle itsehillinnälle. Suositus seuraa tästä melko suoraan: pankki- ja vakuutusalan kelpoisuustarkastuksia pitäisi laajentaa muillekin toimialoille.
 
 Suositus olettaa, että ongelma on tiedon puute. Omistajat eivät palkkaisi riskijohtajia, jos he tietäisivät paremmin.
 
