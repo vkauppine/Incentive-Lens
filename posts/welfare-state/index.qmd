@@ -1,5 +1,5 @@
 ---
-title: "Tukholmaan ei muuteta Zürichist"
+title: "Tukholmaan ei muuteta Zürichistä"
 subtitle: "Mitä paljastetut mieltymykset kertovat pohjoismaisesta mallista"
 author: "Vesa Kauppinen"
 date: "2026-05-13"
