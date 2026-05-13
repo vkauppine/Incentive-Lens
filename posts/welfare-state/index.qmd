@@ -8,7 +8,7 @@ image: "cover.png"
 
 ---
 ![](cover.png)
-Country Navigator julkaisi tällä viikolla raportin siitä, minne amerikkalaiset haluavat muuttaa. Mittari yhdistää Google-hakuja, toteutuneita muuttajamääriä, työmarkkinatilannetta, poliittista vakautta ja kulttuurista etäisyyttä. Hakudata ei yksin ole muuttopäätös, mutta yhdistelmänä se kertoo melko hyvin minne ihmiset ajattelevat realistisesti voivansa lähteä.
+Country Navigator julkaisi tällä viikolla raportin siitä, minne amerikkalaiset haluavat muuttaa. Mittari yhdistää Google-hakuja, toteutuneita muuttajamääriä, työmarkkinatilannetta, poliittista vakautta ja kulttuurista etäisyyttä. Hakudata ei ole sama kuin muuttopäätös, mutta yhdistelmämittari kertoo melko hyvin minne ihmiset ajattelevat realistisesti haluavansa muuttaa.
 
 Top viisi painotetulla pistemäärällä: Sveitsi, Uusi-Seelanti, Irlanti, Alankomaat, Kanada. Norja ja Tanska seuraavat sijoilla kuusi ja seitsemän. Australia, Singapore ja Britannia täydentävät kymmenen kärjen.
 
@@ -42,7 +42,7 @@ Suunta on linjassa ETLA:n tuoreen muistion (Ropponen & Kauhanen, *Preferential T
 
 Voidaan esittää vastaväite: ihmisethän muuttavat Suomeenkin. Eikö Suomeen muuttaminenkin ole paljastettu mieltymys?
 
-On, mutta kyse on eri valintajoukosta. Pakolaiselle, perheenyhdistäjälle, opiskelijalle, matalapalkka-alan työntekijälle ja globaalisti liikkuvalle erityisasiantuntijalle avautuvat eri maat, eri ehdot ja eri reitit. Sveitsi ja Singapore eivät avaudu ilman korkeaa koulutusta tai työtarjousta. Suomi voi olla erinomainen vaihtoehto ihmiselle, jonka vertailukohtina ovat heikommat instituutiot, turvattomuus tai selvästi matalampi elintaso. Se ei tarkoita, että Suomi olisi ensisijainen kohde ihmiselle, joka voi realistisesti valita Zürichin, Dublinin, Toronton, Amsterdamin tai Singaporen.
+On, mutta kyse on eri valintajoukosta. Pakolaiselle, perheenyhdistäjälle, opiskelijalle, matalapalkka-alan työntekijälle ja globaalisti liikkuvalle erityisasiantuntijalle avautuvat eri maat, eri ehdot ja eri reitit. Sveitsi ja Singapore eivät avaudu ilman korkeaa koulutusta tai työtarjousta. Suomi voi olla erinomainen vaihtoehto ihmiselle, jonka lähtömaassa on turvattomuutta, selvästi matalampi eilintaso ja heikommat instituutiot. Se ei tarkoita, että Suomi olisi erityisen houkutteleva kohde ihmiselle, joka voi tosiasiallisesti valita Zürichin, Dublinin, Toronton, Amsterdamin tai Singaporen.
 
 ## Kaksi väitettä jotka kannattaa erottaa
 
