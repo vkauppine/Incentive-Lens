@@ -1,0 +1,62 @@
+---
+title: "Tukholmaan ei muuteta Zürichist"
+subtitle: "Mitä paljastetut mieltymykset kertovat pohjoismaisesta mallista"
+author: "Vesa Kauppinen"
+date: "2026-05-13"
+categories: [taloustiede, instituutiot, paljastetut mieltymykset]
+image: "cover.png"
+
+---
+![](cover.png)
+Country Navigator julkaisi tällä viikolla raportin siitä, minne amerikkalaiset haluavat muuttaa. Mittari yhdistää Google-hakuja, toteutuneita muuttajamääriä, työmarkkinatilannetta, poliittista vakautta ja kulttuurista etäisyyttä. Hakudata ei yksin ole muuttopäätös, mutta yhdistelmänä se kertoo melko hyvin minne ihmiset ajattelevat realistisesti voivansa lähteä.
+
+Top viisi painotetulla pistemäärällä: Sveitsi, Uusi-Seelanti, Irlanti, Alankomaat, Kanada. Norja ja Tanska seuraavat sijoilla kuusi ja seitsemän. Australia, Singapore ja Britannia täydentävät kymmenen kärjen.
+
+Ruotsia ei näy. Suomi tuskin edes nousi kenenkään kansainvälistä, hyväpalkkaista uraa hakevan short listille.
+
+## Mitä muut lähteet sanovat
+
+Maailmanpankin Global Talent Flows -tutkimus seuraa korkeasti koulutettujen ammattilaisten toteutuneita muuttoja OECD-maissa. Tulos: noin 70 % keskittyy neljään maahan — USA, Britannia, Kanada, Australia. Nature-lehden GlobSci-tutkimus tutkijoiden liikkuvuudesta kertoo saman: USA on ykkösmaa lähes jokaisesta lähtömaasta, ja anglosaksinen klusteri (USA, UK, Kanada, Australia) hallitsee. Computer science -tutkijoiden 30 vuoden aineistoa tarkastellut tuore tutkimus toistaa kuvion: USA kärjessä, Saksa, UK ja Ranska Euroopassa.
+
+Pohjoismaita ei näy kärkisijoilla. Norja ja osin Tanska ovat poikkeuksia, mutta syistä joihin palataan kohta.
+
+## Mikä yhdistää voittajia
+
+Kärkimaita yhdistää käytännöllinen paketti. Korkea palkkataso, englantia osaava työympäristö, kansainväliset yrityskeskittymät, ennustettavat instituutiot ja riittävä käteen jäävä tulo. Sveitsi ja SIngapore tarjoavat globaalille osaajalle saman lupauksen: työnteko kannattaa ja järjestelmä toimii.
+
+Country Navigatorin raportin kiinnostavin sivuhuomio on, että Suomi arvioidaan kulttuurisesti lähimmäksi Yhdysvaltoja kaikista vertailluista maista — mutta se ei silti nouse kymmenen houkuttelevimman maan joukkoon. Edes matala kulttuurinen etäisyys ei riitä, jos palkkataso, työmarkkina, urapolut ja verokohtelu eivät muodosta tarpeeksi vahvaa pakettia. (Joku voisi huomata, että Sveitsi, USA ja Alankomaat ovat kaikki kalvinistisia, mutta jätetään tämä niille, joiden mielestä kaikki palautuu lopulta Max Weberiin.)
+
+## Entä Norja ja Tanska?
+
+Norja on listalla, koska se on käytännössä öljyrahasto, jolla on sivutoimisesti valtio. Pohjanmerellä öljynporauslautan kokki tienaa aivan eri palkkaa kuin Michelin-tason ravintolassa Helsingissä.
+
+Tanskan sijoitus taas on osoitus tehokkaasta brändäyksestä. Hygge, Kööpenhamina, Noma, värikkäät talot Nyhavnissa, Borgen, design, pyöräilyutopia. Tanska on onnistunut markkinoinnissaan hyvin. Vaikka Suomi ohitti Tanskan World Happiness Reportin kärjessä ja on pitänyt paikkaa nyt yhdeksän vuotta, tässä pelissä Suomi ei pärjää Tanskalle. Sama pohjoismainen malli, mutta parempi markkinointi.
+
+## Suomi on jo huomannut tämän
+
+Mielenkiintoinen sivuhuomio: vaikka pohjoismainen hyvinvointivaltio on kuulemma ihmiskunnan suurin saavutus, Suomi joutui 1.1.2026 alentamaan ulkomaisten avainhenkilöiden lähdeveron 32 prosentista 25 prosenttiin, ja ulottamaan edun myös paluumuuttaviin Suomen kansalaisiin. Eli järjestelmä on niin houkutteleva, että sille piti rakentaa vielä houkuttelevampi rinnakkaisjärjestelmä.
+
+Suunta on linjassa ETLA:n tuoreen muistion (Ropponen & Kauhanen, *Preferential Tax Schemes and High-Skilled Immigration: Lessons for Finland*) kanssa. Suositus on käytännössä: kopioikaa Alankomaiden malli, jossa veroetuus voi olla määräajan jopa 30 % bruttopalkasta. ETLAn perustelu: korkeasti koulutettujen maahanmuutto lisää tutkitusti yritysten tuottavuutta ja innovaatioita, ja muut maat kilpailevat heistä avoimesti. Suomalainen verotus ei ole tässä kilpailuetu.
+
+## Entä maahanmuuttajat 
+
+Voidaan esittää vastaväite: ihmisethän muuttavat Suomeenkin. Eikö Suomeen muuttaminenkin ole paljastettu mieltymys?
+
+On, mutta kyse on eri valintajoukosta. Pakolaiselle, perheenyhdistäjälle, opiskelijalle, matalapalkka-alan työntekijälle ja globaalisti liikkuvalle erityisasiantuntijalle avautuvat eri maat, eri ehdot ja eri reitit. Sveitsi ja Singapore eivät avaudu ilman korkeaa koulutusta tai työtarjousta. Suomi voi olla erinomainen vaihtoehto ihmiselle, jonka vertailukohtina ovat heikommat instituutiot, turvattomuus tai selvästi matalampi elintaso. Se ei tarkoita, että Suomi olisi ensisijainen kohde ihmiselle, joka voi realistisesti valita Zürichin, Dublinin, Toronton, Amsterdamin tai Singaporen.
+
+## Kaksi väitettä jotka kannattaa erottaa
+
+Suomi ei ole huono paikka asua. Asun itsekin Oulussa ja vieläpä lähes vapaaehtoisesti. Mutta on hyödyllistä erottaa kaksi väitettä:
+
+1. Suomi on hyvä paikka asua suomalaiselle, jolla on suomalainen sosiaalinen verkosto, kestää suomalaista ilmastoa ja sopeutuu suomalaiseen palkkatasoon ja verotukseen.
+2. Pohjoismainen hyvinvointivaltio on ihannevaltio, jossa kaikki haluaisivat asua.
+
+Ensimmäinen on todennäköisesti totta. Toinen on tarina, jota kerromme itsellemme.
+
+Kun tarkastellaan ihmisiä, joilla on realistinen pääsy useisiin korkean tulotason maihin, pohjoismainen malli ei näytä suurelta vetovoimatekijältä. Turvallisuus, palvelut ja vakaus ovat arvokkaita, mutta ne eivät yksin voita palkkaa, uramahdollisuuksia, kieltä, yrityskeskittymiä ja käteen jäävää tuloa. Juuri siksi Suomi joutuu nyt tekemään sitä, mitä moni muu maa tekee jo avoimesti: ostamaan osaajien huomion paremmalla verokohtelulla.
+
+Tukholma on kaunis kaupunki. Silti harva Brooklynissa tai Ang Mo Kiossa edes googlaa, että kannattaisiko muuttaa Östermalmiin. Ritaharjusta puhumattakaan.
+
+---
+
+*Lähteet: Country Navigator, "The Top Countries Attracting American Talent in 2026" -raportti, raportoitu [Japan Timesissä](https://www.japantimes.co.jp/news/2026/05/11/japan/society/americans-move-japan-survey/). Kerr et al., "Global Talent Flows", World Bank Policy Research Working Paper 7852. "Global mobility: Science on the move", Nature 490 (2012). Ropponen & Kauhanen, "Preferential Tax Schemes and High-Skilled Immigration: Lessons for Finland", ETLA Muistio 168. Verohallinto, "Ulkomailta tulevan avainhenkilön lähdevero alenee" (8.12.2025).*
