@@ -3,7 +3,7 @@ title: "Kenen tasa-arvoa? Koulun rikkinäinen kannustinrakenne"
 author: "Vesa Kauppinen"
 date: "2026-05-15"
 categories: [koulutus, kannustimet, tasa-arvo]
-image: "cover.jpg"
+image: "cover.png"
 ---
 ![Juhani Ahon yläaste 90-luvulla](kuva.png)
 
