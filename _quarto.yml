@@ -9,7 +9,7 @@ website:
     right:
       - about.qmd
       - icon: rss
-        href: index.xml.com
+        href: index.xml
 format:
   html:
     theme:
@@ -19,6 +19,3 @@ format:
     lang: fi
     include-after-body:
       text: '<script data-goatcounter="https://vkauppine.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
-
-
-
