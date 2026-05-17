@@ -10,7 +10,131 @@
 <atom:link href="https://vkauppine.github.io/Incentive-Lens/index.xml" rel="self" type="application/rss+xml"/>
 <description>Talousblogi</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Thu, 14 May 2026 21:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 May 2027 21:00:00 GMT</lastBuildDate>
+<item>
+  <title>Skinnerin häkki ilman häkkiä</title>
+  <dc:creator>Vesa Kauppinen</dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/threads/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/threads/kuva.png" class="img-fluid"></p>
+<p>Avasin Threadsin ja vastaan tuli sarja postauksia, joita juuri kukaan ei olisi tehnyt vielä parikymmentä vuotta sitten. Henkilökohtaisia paljastuksia, kehonkuvaprojekteja, yksityiselämän noloja yksityiskohtia. Kaikkien nähtävillä ja tehty tykkäysten toivossa. Aikaisemmin ajattelin, että helvetissä ainoa some on LinkedIn. Threads teki helvetistä tarpeettoman ja ilmiö pakottaa kysymään Greg Graffinin tyyliin <em>more a question than a curse — how could hell be any worse</em>. Vilpittömänä kysymyksenä. Miten tähän tultiin?</p>
+<p>Helppo selitys olisi, että somen käyttäjäkunta on muuttunut. Vanhempi internet — IRC, Usenet, foorumit — opetti tiettyjä asioita. Että netti on julkinen ja nimimerkkiä kannattaa käyttää. Jos sanot jotain typerää, joku sanoo sen sinulle. Ehkä karkeasti, mutta se voi samalla olla myös välittämistä. Facebookin kautta someen tulleet ohittivat tämän koulutuksen kokonaan. He oppivat someksi sen, jossa nimi ja kasvot ovat etusivulla ja yleisö on lähipiiri.</p>
+<p>Demografia on muuttunut — IRC:iä ja Usenetiä käyttivät nörtit ja yliopistotyypit. Tämä ei kuitenkaan riitä selitykseksi. Juttuja, joita ennen olisi pidetty noloina postaavat Threadsiin myös tekniikan tohtorit ja toimitusjohtajat. Taustalla on mekanismi, joka ei selity käyttäjien kognitiivisellä kyvykkyydellä tai sen puutteella.</p>
+<section id="mekanismi" class="level2">
+<h2 class="anchored" data-anchor-id="mekanismi">Mekanismi</h2>
+<p>B.F. Skinner tutki 1930-luvulta alkaen operant conditioning -kammiota, jota kutsutaan myös Skinnerin häkiksi. Eläin painaa vipua, saa palkkion. Yksinkertaista. Mielenkiintoinen löydös tuli, kun Skinner alkoi muutella palkkion ajoitusta. Satunnaisesti tuleva palkkio — <em>variable ratio reinforcement</em> — tuottaa kompulsiivista käytöstä, jonka houkutusta on vaikea vastustaa. Sama mekanismi tekee uhkapeleistä koukuttavia.</p>
+<p>Some-feedit on rakennettu tällä logiikalla, ja tästä ovat kertoneet mmyös Piilaakson omat insinöörit. Tristan Harris, Googlen entinen <em>design ethicist</em> ja Center for Humane Technologyn perustaja, on kutsunut älypuhelinta “taskussa olevaksi hedelmäpeliksi” (<em>slot machine in your pocket</em>). Hänen mukaansa pull-to-refresh -ele on mekaanisesti identtinen yksikätisen rosvon vivun vetämisen kanssa: et tiedä mitä saat, ja juuri siksi vedät uudestaan. Chamath Palihapitiya, Facebookin entinen Growth-yksikön johtaja, on sanonut saman karummin: “short-term, dopamine-driven feedback loops are destroying how society works.”</p>
+<p>Somet kehittäneet insinöörit tiesivät tämän ja sovelsivat kuusikymmentä vuotta vanhaa psykologian tutkimustietoa. Se toimi.</p>
+<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/threads/cover.png" class="img-fluid"></p>
+</section>
+<section id="kannustinrakenne-ja-aikahorisontti" class="level2">
+<h2 class="anchored" data-anchor-id="kannustinrakenne-ja-aikahorisontti">Kannustinrakenne ja aikahorisontti</h2>
+<p>Somessa käyttäjä saa palkkion välittömästi: dopamiinipiikki, validointi, samaistumiskommentit. Kustannukset realisoituvat hitaasti ja epävarmasti. Kollegat, sukulaiset, tulevat työnantajat ja mahdolliset asiakkaat lukevat ja muistavat. Kukaan ei välttämättä sano mitään ääneen, mutta sosiaalinen maine muokkautuu.</p>
+<p>Tämä on klassinen kannustinongelma. Palkkio on välitön ja konkreettinen, kustannus viivästetty ja abstrakti. Sama logiikka kuin päihteissä, pikavipeissä tai vaikka sokerissa. Rationaalinenkin toimija, joka tietää nämä mekanismit teoriassa, päätyy käyttäytymään samalla tavalla, koska palautesilmukka on suunniteltu niin. Lyhyen aikavälin signaali peittää pitkän.</p>
+<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/threads/kuva1.png" class="img-fluid"></p>
+</section>
+<section id="varhainen-internet-ja-peelo" class="level2">
+<h2 class="anchored" data-anchor-id="varhainen-internet-ja-peelo">Varhainen internet ja peelo</h2>
+<p>Vanhassa suomalaisessa internetissä oli oma sana niille, jotka eivät osanneet käyttäytyä: peelo. Sana viittasi henkilöön, joka rikkoi tahallisesti tai tahattomasti yhteisön konventioita — kirjoitti capslockilla, ei tajunnut huumoria, kysyi FAQissa jo vastattuja kysymyksiä, lainasi koko edellisen viestin vaikka kommentoi vain yhtä riviä. Peeloksi nimeäminen oli julkinen sosiaalinen sanktio. Se palveli yhteisön normien ylläpitoa: opi tavat tai poistu.</p>
+<p>Sanan etymologia on jännä. Pekka Elo (1949–2013) oli opetusneuvos, Kouluhallituksen ja sittemmin Opetushallituksen ylitarkastaja, Ylioppilastutkintolautakunnan jäsen ja Suomen Humanistiliiton puheenjohtaja. Siis epäilemättä oppinut mies. Hänen Freenet-tunnuksensa oli “peelo” — etunimien ja sukunimen alkukirjaimet. Internetin keskusteluissa isot kirjaimet ja välimerkit tuottivat kuitenkin hänelle ongelmia. Eräänä päivänä hän valitsi Freenetin valikosta vaihtoehdon, joka heitti hänet vahingossa #freenet-kanavalle IRCissä. Sieltä syntyi kanavalaisten raivo, ja hänen tunnuksestaan tuli haukkumasana. Skrolli-lehti selvitti tätä keväällä 2024 ja päätyi pitämään tarinaa uskottavana.</p>
+<p>Tarinan sanoma on vähän epäreilu, mutta valaiseva. Elo oli sivistynyt humanisti, joka kirjoitti elämänkatsomustiedon oppikirjoja ja edusti UNESCOa. Hänet leimattiin, koska hänellä oli hankaluuksia tekstieditorin käytön kanssa, ja ei ehkä lukenut sen aikaisen internetin sosiaalista normistoa oikein. Vanhan internetin yhteisö ei aina osannut erottaa teknistä osaamattomuutta sisällöllisestä typeryydestä, ja osasi olla myös aika julma. Vertaisten antama palaute kuitenkin toimi. Se tuotti oppimista, koska tyhmästä käytöksestä joutui maksamaan mainekustannuksen heti.</p>
+<p>Tämä korjausmekanismi toimi, koska se täytti kolme ehtoa. Se tuli vertaisilta eli ihmisiltä joiden mielipide painoi. Se oli julkinen eli muutkin oppivat. Ja se osui samaan kontekstiin missä virhe oli tehty, eli yhteys teon ja seurauksen välillä oli ilmeinen.</p>
+<p>Algoritmisesti kuratoitu feed rikkoo kaikki kolme ehtoa kerralla. Postaus ei näy ensisijaisesti niille, jotka tuntevat postaajan hyvin ja voisivat sanoa “älä laita tällaista”, vaan tuntemattomille, jotka reagoivat tunnepohjaisesti. Negatiivinen palaute ei saa näkyvyyttä, koska se tuottaa vähemmän engagementia kuin positiivinen, joten kollektiivista oppimista ei tapahdu. Palkkion saa heti, mutta sosiaalinen kustannus tulee viipeellä.</p>
+<p>Lopputulos on ennustettava. Feed täynnä ihmisiä, jotka kertovat tuntemattomille asioita, joita ennen kerrottiin korkeintaan parhaalle ystävälle oluttuopin äärellä. Ympäristö on muuttunut niin, että peeloksi nimeäminen on muuttunut taloudellisesti kannattamattomaksi alustalle. Vanhassa systeemissä yhteisö valvoi normeja vapaaehtoistyönä. Uudessa systeemissä alustalla on aktiivinen intressi siihen, ettei kukaan koskaan nimeä toista peeloksi.</p>
+<p>Tämä on kiinnostava käänne talous- ja kannustinanalyyttisesti. Vanha internet oli kallis ylläpitää sosiaalisesti — yhteisö moderoi, sieti konflikteja, antoi palautetta. Mutta se tuotti oppimista. Algoritmi-feed poistaa tämän kustannuksen alustalta ja siirtää sen käyttäjälle. Lasku tulee oman sosiaalisen pääoman muodossa, ehkä vuosien viipeellä.</p>
+</section>
+<section id="threads-käyttäjä-ei-ole-skinnerin-pulu" class="level2">
+<h2 class="anchored" data-anchor-id="threads-käyttäjä-ei-ole-skinnerin-pulu">Threads-käyttäjä ei ole Skinnerin pulu</h2>
+<p>Skinnerin pulut eivät tietenkään ymmärtäneet olevansa koeasetelmassa. Ne painoivat vipua koska se tuntui hyvältä. Threads-käyttäjällä olisi mahdollisuus ymmärtää, mutta usein hän ei edes halua.</p>
+</section>
+<section id="lähteitä-ja-jatkoluettavaa" class="level2">
+<h2 class="anchored" data-anchor-id="lähteitä-ja-jatkoluettavaa">Lähteitä ja jatkoluettavaa</h2>
+<ul>
+<li>Tristan Harris, Center for Humane Technology — <a href="https://www.humanetech.com">humanetech.com</a></li>
+<li>Harris, T. (2016). <em>How Technology is Hijacking Your Mind</em>. Medium.</li>
+<li><em>The Social Dilemma</em> (2020), ohj. Jeff Orlowski. Netflix-dokumentti.</li>
+<li>Palihapitiya, C. (2017). Stanford GSB -puhe palautesilmukoista.</li>
+<li>Skinner, B. F. (1953). <em>Science and Human Behavior</em>. Macmillan.</li>
+<li>Schüll, N. D. (2012). <em>Addiction by Design: Machine Gambling in Las Vegas</em>. Princeton University Press.</li>
+<li>Linja-aho, V. (2024). “Peelo-sanan historiasta.” <em>Skrolli</em>, kesäkuu 2024.</li>
+<li>Viznut, “Ajatuksia syyskuun kymmenentenätuhantena” — <a href="http://viznut.fi/texts-fi/10000-fi.html">viznut.fi</a></li>
+<li>Brunton, F. (2013). <em>Spam: A Shadow History of the Internet</em>. MIT Press. (Eternal September -ilmiöstä luku 2.)</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>some</category>
+  <category>kannustinrakenteet</category>
+  <category>käyttäytymistaloustiede</category>
+  <category>digitalisaatio</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/threads/</guid>
+  <pubDate>Tue, 04 May 2027 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/threads/cover.png" medium="image" type="image/png" height="145" width="144"/>
+</item>
+<item>
+  <title>Miksi futismarkkinat ostavat pelaajia, joiden riskin kaikki näkevät</title>
+  <dc:creator>Vesa Kauppinen</dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/suarez/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/suarez/cantona.jpg" class="img-fluid figure-img"></p>
+<figcaption>Cantonan kung fu -potku katsomoon</figcaption>
+</figure>
+</div>
+<p>Oulun yliopiston laskentatoimen professori Juha-Pekka Kallunki tutkimusryhmineen on dokumentoinut, että suomalaisten ja ruotsalaisten pörssiyhtiöiden johdossa rikostaustat eivät ole harvinaisuus. Ruotsalaisaineistossa rikostuomio oli noin joka kolmannella johtajalla.<sup>1</sup> Suomessa noin viidenneksellä pörssiyhtiöiden toimitusjohtajista ja hallituksen jäsenistä oli tuomio taustallaan.<sup>2</sup></p>
+<p>Rikostausta näkyy seurauksissa, joita omistajat eivät tavallisesti toivo: suurempia liikearvon alaskirjauksia, heikompaa kirjanpidollista varovaisuutta, suurempaa konkurssiriskiä. Kallungin tulkinta on, että rattijuopumus, väkivaltarikos tai muu tuomio voi toimia proxynä piirteille, jotka merkitsevät yritykselle riskiä: impulsiivisuudelle, riskihakuisuudelle ja heikolle itsehillinnälle. Suositus seuraa tästä melko suoraan: pankki- ja vakuutusalan kelpoisuustarkastuksia pitäisi laajentaa muillekin toimialoille.</p>
+<p>Suositus olettaa, että ongelma on tiedon puute. Omistajat eivät palkkaisi riskijohtajia, jos he tietäisivät paremmin.</p>
+<p>Ammattijalkapallon siirtomarkkinoita voi käyttää stressitestinä oletukselle.</p>
+<section id="markkinat-joilla-luonneriskit-ovat-julkisia" class="level2">
+<h2 class="anchored" data-anchor-id="markkinat-joilla-luonneriskit-ovat-julkisia">Markkinat, joilla luonneriskit ovat julkisia</h2>
+<p>Luis Suárez puri Otman Bakkalin olkapäätä Ajaxin pelaajana vuonna 2010. Hän puri Branislav Ivanovićia Liverpoolin pelaajana vuonna 2013. Hän puri Giorgio Chielliniä MM-kisoissa vuonna 2014. Chiellini-tapauksen jälkeen Barcelona maksoi hänestä noin 80 miljoonaa euroa. Atlético Madrid otti hänet vielä myöhemmin, vaikka hänen historiansa oli kaikkien tiedossa.</p>
+<p>Mario Balotelli joutui Manchester Cityssä selvittämään tikkavälikohtausta harjoituskeskuksessa, sytytti kotinsa kylpyhuoneen ilotulitteilla ja ajautui toistuvasti otsikoihin asioista, jotka eivät liittyneet pelisuorituksiin. Silti City osti hänet Interistä, Milan Citystä, Liverpool Milanista ja Milan takaisin Liverpoolista. Jokainen ostaja tiesi, mitä oli ostamassa.</p>
+<p>Joey Bartonilla oli taustallaan pahoinpitelytuomioita, pelikieltoja ja pelikaverin silmään tumpattu sikari. Newcastle, QPR, Marseille ja Burnley vuorollaan palkkasivat hänet.</p>
+<p>Informaatio on kaikkien saatavilla ja taustatarkistus voidaan tehdä julkisista lähteistä. YouTube, Google-haku ja entisten seurojen pukukoppitarinat riittävät pitkälle.</p>
+<p>Silti tällaiset pelaajat kelpaavat seuroille kalliilla hinnoilla.</p>
+</section>
+<section id="miksi-tieto-ei-riitä" class="level2">
+<h2 class="anchored" data-anchor-id="miksi-tieto-ei-riitä">Miksi tieto ei riitä</h2>
+<p>Taustatieto voi olla kaikkien nähtävillä ja päätös silti ymmärrettävä. Suárez ostetaan maalien takia ja puremisalttius kuuluu pakettiin.</p>
+<p>Pieleen menneen hankinnan riski ei rajoitu siirtosummaan ja palkkaan. Ongelmapelaaja voi kuluttaa pukukoppia, heikentää valmentajan auktoriteettia, viedä peliaikaa vakaammilta pelaajilta, ärsyttää kannattajia ja tehdä koko seurasta epäsuositun. Osa näistä kustannuksista näkyy kirjanpidossa huonosti ja vasta viipeellä. Osa jätetään seuraavan valmentajan tai urheilujohtajan ratkaistavaksi.</p>
+<p>Päätöksentekijän kannustin ratkaisee. Riskihankinnan onnistuminen tuottaa nopean urahyödyn: maine rohkeana rekrytoijana, parempi neuvotteluasema, uusi sopimus, ehkä jopa mestaruus. Epäonnistumisen seuraukset eivät näy samalla tavalla, mutta vaikutukset voivat olla laajemmat: ongelmat pukukopissa, pieleen mennyt kausi, kannattajien kyllästyminen. Päätöksentekijä ei aina maksa samaa laskua kuin seura.</p>
+<p>Tässä futismarkkina testaa Kallungin suositusta. Jos ongelma olisi pelkkä tiedon puute, julkinen riskihistoria pysäyttäisi kaupan. Markkinat voivat nähdä riskin aivan oikein ja silti ottaa sen, koska hyöty ja haitta eivät kohdistu samoille ihmisille samalla aikataululla.</p>
+<p>Osa varoitusmerkeistä kertoo todellisista ongelmista. Väkivalta, kurittomuus, päihdeongelmat ja jatkuva arjen hallitsemattomuus voivat tuhota enemmän kuin lahjakkuus korvaa. Niiden romantisointi on halpaa jälkiviisautta.</p>
+<p>Huippu-urheilussa asia ei kuitenkaan aina ole näin yksinkertainen. Arkielämässä ongelmalliset persoonallisuuspiirteet voivat olla futiskentällä vahvuus. Suárezin pakonomainen tarve voittaa jokainen kaksinkamppailu teki hänestä poikkeuksellisen hyökkääjän. Balotellin välinpitämättömyys seurauksista saattoi auttaa rangaistuspotkuissa, mutta aiheuttaa ongelmia arjessa. Cantonan uhmakkuus taas oli osa hänen karismaansa. Sama piirre sai hänet myös hyppäämään katsomoon.</p>
+<p>Pörssiyhtiössä asetelma on toinen. Toimitusjohtajan arvo syntyy oikeista päätöksistä ja luottamuksen rakentamisesta. Ennen kaikkea johtajan tehtävä on rakentaa omistaja-arvoa pitkäjänteisesti ja pitää riskit hallittuina.</p>
+<p>Siksi jalkapallo ei kumoa Kallungin suositusta. Pörssiyhtiössä hyvä päätös tehdään harkiten parhaan tiedon mukaisesti, ja taustatarkistus auttaa harkintaa. Jalkapallossa ennalta-arvaamattomuus voi olla arvo sinänsä.</p>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Alaviitteet</h2>
+
+<ol>
+<li id="fn1"><p>Tutkimusryhmän aiemmat ruotsalaisaineistoon perustuvat julkaisut, mm. Amir, E., Kallunki, J-P. &amp; Nilsson, H. (2014), “The Association between Individual Audit Partners’ Risk Preferences and the Composition of their Client Portfolios”, <em>Review of Accounting Studies</em> 19(1), s. 103–133. Ruotsalaisten pörssiyhtiöiden toimitusjohtajista 33,1 prosentilla todettiin rikostuomio. Tulosta referoitu mm. Ylen uutisessa 23.8.2021.↩︎</p></li>
+<li id="fn2"><p>Kallunki, J-P., Korkka-Knuts, H., Kallunki, J. &amp; Aaltonen, M. (2023), “Suomalaisten pörssiyhtiöiden ylimmän johdon rikostuomiot ja niiden vaikutus yhtiön rikosoikeudellisille vastuuriskeille”, <em>Oikeus</em> 1/2023, s. 8–25. Aineisto: 2 201 toimitusjohtajaa, hallituksen jäsentä ja hallituksen puheenjohtajaa suomalaisissa pörssiyhtiöissä 2000–2019. Verrokkina mainittakoon, että korkeakoulutetuista suomalaisista miehistä noin 23,7 prosenttia on tuomittu rikoksesta ennen 54 vuoden ikää, joten pörssijohtajien osuus on itse asiassa hieman verrokkiväestöä alempi.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>insentiivit</category>
+  <category>urheilu</category>
+  <category>agentit</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/suarez/</guid>
+  <pubDate>Sat, 16 May 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/suarez/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Kenen tasa-arvoa? Koulun rikkinäinen kannustinrakenne</title>
   <dc:creator>Vesa Kauppinen</dc:creator>
@@ -81,63 +205,6 @@
   <guid>https://vkauppine.github.io/Incentive-Lens/posts/koulu/</guid>
   <pubDate>Thu, 14 May 2026 21:00:00 GMT</pubDate>
   <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/koulu/kuva.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Miksi futismarkkinat ostavat pelaajia, joiden riskin kaikki näkevät</title>
-  <dc:creator>Vesa Kauppinen</dc:creator>
-  <link>https://vkauppine.github.io/Incentive-Lens/posts/suarez/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/suarez/cantona.jpg" class="img-fluid figure-img"></p>
-<figcaption>Cantonan kung fu -potku katsomoon</figcaption>
-</figure>
-</div>
-<p>Oulun yliopiston laskentatoimen professori Juha-Pekka Kallunki tutkimusryhmineen on dokumentoinut, että suomalaisten ja ruotsalaisten pörssiyhtiöiden johdossa rikostaustat eivät ole harvinaisuus. Ruotsalaisaineistossa rikostuomio oli noin joka kolmannella johtajalla.<sup>1</sup> Suomessa noin viidenneksellä pörssiyhtiöiden toimitusjohtajista ja hallituksen jäsenistä oli tuomio taustallaan.<sup>2</sup></p>
-<p>Rikostausta näkyy seurauksissa, joita omistajat eivät tavallisesti toivo: suurempia liikearvon alaskirjauksia, heikompaa kirjanpidollista varovaisuutta, suurempaa konkurssiriskiä. Kallungin tulkinta on, että rattijuopumus, väkivaltarikos tai muu tuomio voi toimia proxynä piirteille, jotka merkitsevät yritykselle riskiä: impulsiivisuudelle, riskihakuisuudelle ja heikolle itsehillinnälle. Suositus seuraa tästä melko suoraan: pankki- ja vakuutusalan kelpoisuustarkastuksia pitäisi laajentaa muillekin toimialoille.</p>
-<p>Suositus olettaa, että ongelma on tiedon puute. Omistajat eivät palkkaisi riskijohtajia, jos he tietäisivät paremmin.</p>
-<p>Ammattijalkapallon siirtomarkkinoita voi käyttää stressitestinä oletukselle.</p>
-<section id="markkinat-joilla-luonneriskit-ovat-julkisia" class="level2">
-<h2 class="anchored" data-anchor-id="markkinat-joilla-luonneriskit-ovat-julkisia">Markkinat, joilla luonneriskit ovat julkisia</h2>
-<p>Luis Suárez puri Otman Bakkalin olkapäätä Ajaxin pelaajana vuonna 2010. Hän puri Branislav Ivanovićia Liverpoolin pelaajana vuonna 2013. Hän puri Giorgio Chielliniä MM-kisoissa vuonna 2014. Chiellini-tapauksen jälkeen Barcelona maksoi hänestä noin 80 miljoonaa euroa. Atlético Madrid otti hänet vielä myöhemmin, vaikka hänen historiansa oli kaikkien tiedossa.</p>
-<p>Mario Balotelli joutui Manchester Cityssä selvittämään tikkavälikohtausta harjoituskeskuksessa, sytytti kotinsa kylpyhuoneen ilotulitteilla ja ajautui toistuvasti otsikoihin asioista, jotka eivät liittyneet pelisuorituksiin. Silti City osti hänet Interistä, Milan Citystä, Liverpool Milanista ja Milan takaisin Liverpoolista. Jokainen ostaja tiesi, mitä oli ostamassa.</p>
-<p>Joey Bartonilla oli taustallaan pahoinpitelytuomioita, pelikieltoja ja pelikaverin silmään tumpattu sikari. Newcastle, QPR, Marseille ja Burnley vuorollaan palkkasivat hänet.</p>
-<p>Informaatio on kaikkien saatavilla ja taustatarkistus voidaan tehdä julkisista lähteistä. YouTube, Google-haku ja entisten seurojen pukukoppitarinat riittävät pitkälle.</p>
-<p>Silti tällaiset pelaajat kelpaavat seuroille kalliilla hinnoilla.</p>
-</section>
-<section id="miksi-tieto-ei-riitä" class="level2">
-<h2 class="anchored" data-anchor-id="miksi-tieto-ei-riitä">Miksi tieto ei riitä</h2>
-<p>Taustatieto voi olla kaikkien nähtävillä ja päätös silti ymmärrettävä. Suárez ostetaan maalien takia ja puremisalttius kuuluu pakettiin.</p>
-<p>Pieleen menneen hankinnan riski ei rajoitu siirtosummaan ja palkkaan. Ongelmapelaaja voi kuluttaa pukukoppia, heikentää valmentajan auktoriteettia, viedä peliaikaa vakaammilta pelaajilta, ärsyttää kannattajia ja tehdä koko seurasta epäsuositun. Osa näistä kustannuksista näkyy kirjanpidossa huonosti ja vasta viipeellä. Osa jätetään seuraavan valmentajan tai urheilujohtajan ratkaistavaksi.</p>
-<p>Päätöksentekijän kannustin ratkaisee. Riskihankinnan onnistuminen tuottaa nopean urahyödyn: maine rohkeana rekrytoijana, parempi neuvotteluasema, uusi sopimus, ehkä jopa mestaruus. Epäonnistumisen seuraukset eivät näy samalla tavalla, mutta vaikutukset voivat olla laajemmat: ongelmat pukukopissa, pieleen mennyt kausi, kannattajien kyllästyminen. Päätöksentekijä ei aina maksa samaa laskua kuin seura.</p>
-<p>Tässä futismarkkina testaa Kallungin suositusta. Jos ongelma olisi pelkkä tiedon puute, julkinen riskihistoria pysäyttäisi kaupan. Markkinat voivat nähdä riskin aivan oikein ja silti ottaa sen, koska hyöty ja haitta eivät kohdistu samoille ihmisille samalla aikataululla.</p>
-<p>Osa varoitusmerkeistä kertoo todellisista ongelmista. Väkivalta, kurittomuus, päihdeongelmat ja jatkuva arjen hallitsemattomuus voivat tuhota enemmän kuin lahjakkuus korvaa. Niiden romantisointi on halpaa jälkiviisautta.</p>
-<p>Huippu-urheilussa asia ei kuitenkaan aina ole näin yksinkertainen. Arkielämässä ongelmalliset persoonallisuuspiirteet voivat olla futiskentällä vahvuus. Suárezin pakonomainen tarve voittaa jokainen kaksinkamppailu teki hänestä poikkeuksellisen hyökkääjän. Balotellin välinpitämättömyys seurauksista saattoi auttaa rangaistuspotkuissa, mutta aiheuttaa ongelmia arjessa. Cantonan uhmakkuus taas oli osa hänen karismaansa. Sama piirre sai hänet myös hyppäämään katsomoon.</p>
-<p>Pörssiyhtiössä asetelma on toinen. Toimitusjohtajan arvo syntyy oikeista päätöksistä ja luottamuksen rakentamisesta. Ennen kaikkea johtajan tehtävä on rakentaa omistaja-arvoa pitkäjänteisesti ja pitää riskit hallittuina.</p>
-<p>Siksi jalkapallo ei kumoa Kallungin suositusta. Pörssiyhtiössä hyvä päätös tehdään harkiten parhaan tiedon mukaisesti, ja taustatarkistus auttaa harkintaa. Jalkapallossa ennalta-arvaamattomuus voi olla arvo sinänsä.</p>
-
-
-</section>
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Alaviitteet</h2>
-
-<ol>
-<li id="fn1"><p>Tutkimusryhmän aiemmat ruotsalaisaineistoon perustuvat julkaisut, mm. Amir, E., Kallunki, J-P. &amp; Nilsson, H. (2014), “The Association between Individual Audit Partners’ Risk Preferences and the Composition of their Client Portfolios”, <em>Review of Accounting Studies</em> 19(1), s. 103–133. Ruotsalaisten pörssiyhtiöiden toimitusjohtajista 33,1 prosentilla todettiin rikostuomio. Tulosta referoitu mm. Ylen uutisessa 23.8.2021.↩︎</p></li>
-<li id="fn2"><p>Kallunki, J-P., Korkka-Knuts, H., Kallunki, J. &amp; Aaltonen, M. (2023), “Suomalaisten pörssiyhtiöiden ylimmän johdon rikostuomiot ja niiden vaikutus yhtiön rikosoikeudellisille vastuuriskeille”, <em>Oikeus</em> 1/2023, s. 8–25. Aineisto: 2 201 toimitusjohtajaa, hallituksen jäsentä ja hallituksen puheenjohtajaa suomalaisissa pörssiyhtiöissä 2000–2019. Verrokkina mainittakoon, että korkeakoulutetuista suomalaisista miehistä noin 23,7 prosenttia on tuomittu rikoksesta ennen 54 vuoden ikää, joten pörssijohtajien osuus on itse asiassa hieman verrokkiväestöä alempi.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>insentiivit</category>
-  <category>urheilu</category>
-  <category>agentit</category>
-  <guid>https://vkauppine.github.io/Incentive-Lens/posts/suarez/</guid>
-  <pubDate>Thu, 14 May 2026 21:00:00 GMT</pubDate>
-  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/suarez/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Tukholmaan ei muuteta Zürichistä</title>
@@ -3533,91 +3600,6 @@ Kuva&nbsp;2: Elintarvikkeiden hintaindeksi suhteessa yleiseen kuluttajahintainde
   <category>logistiikka</category>
   <guid>https://vkauppine.github.io/Incentive-Lens/posts/ruoka/</guid>
   <pubDate>Wed, 18 Feb 2026 22:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Ovatko työhyvinvointiedut hukkaan heitettyä rahaa?</title>
-  <dc:creator>Vesa </dc:creator>
-  <link>https://vkauppine.github.io/Incentive-Lens/posts/tyohyvinvointiedut/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="mistä-on-kyse" class="level2">
-<h2 class="anchored" data-anchor-id="mistä-on-kyse">Mistä on kyse?</h2>
-<p>Työterveyslääkäri Eira Roos <a href="https://yle.fi/a/74-20208542">esittää Ylellä</a>, että työhyvinvointipäivät, liikuntaedut ja työsuhdepyörät pitäisi “räjäyttää” ja keskittyä olennaiseen. Roosin argumentti on selkeä: työuupumus syntyy hallinnan tunteen katoamisesta, ja sen korjaa työn organisointi, ei seppeleensidonta eikä liikuntaseteli.</p>
-<p>Roos on todennäköisesti oikeassa pääväitteessään. Parikymmentä vuotta uupuneita hoitaneena lääkärinä hänellä on kliinistä kokemusta, joka tukee tulkintaa: uupumus ei ole yksilön heikkoutta vaan työn ja ihmisen suhteen ongelma. Työterveyslaitoksen Pauliina Mattila-Holappa vahvistaa samassa jutussa, että tutkimus piirtää saman kuvan.</p>
-<p>Mutta siitä, että työn rakenne on <em>tärkein</em> tekijä, ei seuraa, että kaikki muu on hukkaan heitettyä. Tämä on taloustieteellisesti optimointikysymys, ei dikotomia.</p>
-</section>
-<section id="kolme-erillistä-kysymystä" class="level2">
-<h2 class="anchored" data-anchor-id="kolme-erillistä-kysymystä">Kolme erillistä kysymystä</h2>
-<p>Julkisessa keskustelussa sekoittuu usein kolme eri asiaa:</p>
-<ol type="1">
-<li><strong>Onko liikunnalla vaikutus työkykyyn?</strong> Kyllä, ja tämä on hyvin dokumentoitu.</li>
-<li><strong>Lisäävätkö työnantajan tarjoamat edut liikuntaa?</strong> Tämä on empiirinen kysymys: lisäävätkö edut liikuntaa vai subventoidaanko niitä, jotka liikkuisivat muutenkin?</li>
-<li><strong>Ovatko edut kustannustehokkaita suhteessa rakenteellisiin parannuksiin?</strong> Tämä on varsinainen taloudellinen ydinkysymys.</li>
-</ol>
-<p>Roos vastaa käytännössä kolmanteen kysymykseen, ja hänen vastauksensa on todennäköisesti usein oikea. Mutta “usein suurempi vaikutus” ei ole sama asia kuin “ainoa vaikutus”. Näiden erottelu on olennaista, jos halutaan päästä retoriikasta resurssien allokointiin.</p>
-</section>
-<section id="mitä-tutkimusnäyttö-sanoo" class="level2">
-<h2 class="anchored" data-anchor-id="mitä-tutkimusnäyttö-sanoo">Mitä tutkimusnäyttö sanoo?</h2>
-<p>Roosin argumenttia tukee se, että paras kokeellinen näyttö wellness-ohjelmien vaikutuksista on yllättävän laiha.</p>
-<p>Jones, Molitor ja Reif (2019) toteuttivat laajan satunnaistetun kokeen Illinoisin yliopistossa lähes 5 000 työntekijällä. Tulokset olivat selkeitä: ohjelma lisäsi terveystarkastusten käyttöä, mutta sillä ei ollut tilastollisesti merkitseviä vaikutuksia terveydenhuoltokuluihin, poissaoloihin, tuottavuuteen tai itse raportoituun terveyteen yli kahden vuoden seurannassa. Tutkimus osoitti myös vahvan valikoitumisongelman – ohjelmaan osallistuivat ne, jotka olivat jo ennestään terveempiä ja aktiivisempia.</p>
-<p>Tämä on juuri se <em>additionality</em>-ongelma, josta Roosin argumentti implisiittisesti kertoo: edut menevät niille, jotka eivät niitä tarvitse. Aiempi meta-analyyttinen evidenssi (Baicker ym. 2010), joka raportoi merkittäviä säästöjä, perustui pitkälti havainnollisiin tutkimuksiin, joissa valikoitumista ei kontrolloitu. Jonesin ym. RCT-tulokset sulkivat pois 84 % aiempien tutkimusten raportoimista kustannussäästöarvioista.</p>
-<p>Mutta tästäkään ei seuraa, että kaikki edut ovat hyödyttömiä. Se seuraa, että <em>huonosti kohdennetut</em> edut ovat hyödyttömiä – mikä on eri väite.</p>
-</section>
-<section id="yksinkertainen-kehikko" class="level2">
-<h2 class="anchored" data-anchor-id="yksinkertainen-kehikko">Yksinkertainen kehikko</h2>
-<p>Ajatellaan, että työkyky <img src="https://latex.codecogs.com/png.latex?h"> määräytyy kahdesta tekijästä: liikunnasta <img src="https://latex.codecogs.com/png.latex?L"> ja työn rakenteesta <img src="https://latex.codecogs.com/png.latex?D"> (autonomia, johtaminen, kuormitus):</p>
-<p><img src="https://latex.codecogs.com/png.latex?%0Ah%20=%20h_0%20+%20%5Cgamma%20L%20+%20%5Cdelta%20D%0A"></p>
-<p>Liikuntaetu <img src="https://latex.codecogs.com/png.latex?b"> lisää liikuntaa määrällä:</p>
-<p><img src="https://latex.codecogs.com/png.latex?%0AL%20=%20L_0%20+%20%5Ctheta%20b%0A"></p>
-<p>Parametri <img src="https://latex.codecogs.com/png.latex?%5Ctheta"> kertoo, syntyykö aidosti uutta liikuntaa. Jos <img src="https://latex.codecogs.com/png.latex?%5Ctheta%20=%200">, etu on puhdas tulonsiirto jo aktiivisille – tasan se tilanne, jonka Illinois-koe dokumentoi. Jos <img src="https://latex.codecogs.com/png.latex?%5Ctheta%20%3E%200">, etu muuttaa käyttäytymistä ja vaikuttaa työkykyyn kertoimella <img src="https://latex.codecogs.com/png.latex?%5Cgamma%5Ctheta">.</p>
-<p>Roosin argumentti on tulkittavissa niin, että <img src="https://latex.codecogs.com/png.latex?%5Cdelta"> – työn rakenteen vaikutus – on tyypillisesti suurempi kuin <img src="https://latex.codecogs.com/png.latex?%5Cgamma%5Ctheta">. Se on todennäköistä ja empiirisen näytön tukemaa. Mutta optimaalisessa resurssien kohdentamisessa ei valita yhtä kanavaa, vaan se yhdistelmä, jossa jokaisen euron rajahyöty on suurin.</p>
-</section>
-<section id="verotus-ja-signaalivaikutus" class="level2">
-<h2 class="anchored" data-anchor-id="verotus-ja-signaalivaikutus">Verotus ja signaalivaikutus</h2>
-<p>Roosin analyysi katsoo asiaa puhtaasti terveysvaikutuksen kautta. Mutta työnantajan näkökulmasta liikuntaedulla on muitakin funktioita.</p>
-<p><strong>Verotehokkuus.</strong> Suomessa osa työhyvinvointieduista on verovapaita tiettyyn rajaan asti. Jos työnantaja käyttää yhden euron palkankorotukseen, työntekijä saa siitä nettohyötyä vain verojen jälkeen. Verovapaa etu voi tuottaa työntekijälle suuremman koetun arvon samalla työnantajakustannuksella. Tällöin etu voi olla rationaalinen kompensaatiomuoto, <em>vaikka sen terveysvaikutus olisi vaatimaton</em>.</p>
-<p><strong>Signaalivaikutus.</strong> Liikuntaedut ja muut hyvinvointiedut voivat toimia signaalina siitä, että työnantaja välittää henkilöstöstä. Tämä on erillinen mekanismi terveysvaikutuksesta. Rekrytoinnissa ja sitouttamisessa signaalin arvo voi olla merkittävä, vaikka itse liikuntasetelin vaikutus liikuntamäärään olisi nolla. Ironisesti juuri Roosin oma havainto – puolet uupumuksesta toipuneista irtisanoutuu – korostaa sitouttamisen merkitystä.</p>
-</section>
-<section id="kustannusmittakaava" class="level2">
-<h2 class="anchored" data-anchor-id="kustannusmittakaava">Kustannusmittakaava</h2>
-<p>Ylen jutussa Roos esittää, että uupunut työntekijä maksaa työnantajalle noin 20 000 euroa vuodessa menetetyn tuottavuuden kautta – jo ennen sairauslomia. Tämä on hyödyllinen vertailukohta.</p>
-<p>Tyypillinen liikuntaetu maksaa työnantajalle muutaman sadan euron vuodessa työntekijää kohden. Jos etu onnistuu vähentämään uupumisriskiä edes marginaalisesti – vaikkapa yhden prosenttiyksikön verran – sen odotettu säästö ylittää kustannuksen.</p>
-<p>Tämä ei tarkoita, että liikuntaetu <em>korvaa</em> työn rakenteen korjaamisen. Se tarkoittaa, että kysymys “kannattaako tämä?” on empiirinen, ei retorinen. Ja vastaus riippuu kohdentamisesta: kenelle, millä ehdoin, missä kontekstissa.</p>
-</section>
-<section id="johtopäätös-optimointia-ei-räjäyttämistä" class="level2">
-<h2 class="anchored" data-anchor-id="johtopäätös-optimointia-ei-räjäyttämistä">Johtopäätös: optimointia, ei räjäyttämistä</h2>
-<p>Roosin kliininen havainto on arvokas: uupumus ei ole yksilön heikkoutta, ja sen juurisyyt ovat työn rakenteessa. Tässä hän on sekä kokemuksen että tutkimusnäytön tukemana oikeassa.</p>
-<p>Mutta johtopäätös – “räjäyttää” edut – ei seuraa premisseistä. Se, että A on tärkeämpi kuin B, ei tarkoita, että B:n arvo on nolla. Taloustieteellisesti oikea kysymys ei ole “edut vai rakenne?” vaan “mikä yhdistelmä tuottaa parhaan tuloksen?”</p>
-<p>Vastaus riippuu kolmesta tekijästä:</p>
-<ol type="1">
-<li><strong>Kohdentaminen.</strong> Lisäävätkö edut liikuntaa niillä, jotka eivät muuten liikkuisi? Illinois-kokeen perusteella tyypillisesti eivät, mutta suunnittelu voi muuttaa tätä.</li>
-<li><strong>Verotehokkuus.</strong> Verovapaus tekee eduista tehokkaita kompensaatiovälineitä riippumatta terveysvaikutuksesta.</li>
-<li><strong>Signaali- ja sitouttamisarvo.</strong> Tätä Roosin terveysvaikutusanalyysi ei kata, mutta se voi olla etujen tärkein funktio.</li>
-</ol>
-<p>Kyse ei ole symbolipolitiikasta vastaan “oikeat ratkaisut”. Kyse on resurssien allokoinnista. Ja siinä kysymyksessä oikea vastaus on harvoin “räjäytä ja keskity yhteen kanavaan”, vaan “kohdenna, mittaa ja optimoi”.</p>
-</section>
-<section id="viitteet" class="level2">
-<h2 class="anchored" data-anchor-id="viitteet">Viitteet</h2>
-<ul>
-<li>Baicker, K., Cutler, D. &amp; Song, Z. (2010). Workplace wellness programs can generate savings. <em>Health Affairs</em>, 29(2), 304–311.</li>
-<li>Jones, D., Molitor, D. &amp; Reif, J. (2019). What do workplace wellness programs do? Evidence from the Illinois Workplace Wellness Study. <em>The Quarterly Journal of Economics</em>, 134(4), 1747–1791.</li>
-<li>Rongen, A. ym. (2013). Workplace health promotion: A meta-analysis of effectiveness. <em>American Journal of Preventive Medicine</em>, 44(4), 406–415.</li>
-</ul>
-
-
-
-</section>
-
- ]]></description>
-  <category>taloustiede</category>
-  <category>työelämä</category>
-  <category>työhyvinvointi</category>
-  <guid>https://vkauppine.github.io/Incentive-Lens/posts/tyohyvinvointiedut/</guid>
-  <pubDate>Mon, 16 Feb 2026 22:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
