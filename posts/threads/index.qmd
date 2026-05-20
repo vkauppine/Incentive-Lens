@@ -1,5 +1,5 @@
 ---
-title: "Skinnerin häkki ilman häkkiä"
+title: "Skinnerin häkki ja some"
 subtitle: "Miksi Threads tuottaa sitä mitä tuottaa. Dopamiini toimii heti, kustannukset tulevat myöhemmin"
 author: "Vesa Kauppinen"
 date: "2026-17-05"
@@ -25,7 +25,7 @@ Demografia on muuttunut — IRC:iä ja Usenetiä käyttivät nörtit ja yliopist
 
 B.F. Skinner tutki 1930-luvulta alkaen operant conditioning -kammiota, jota kutsutaan myös Skinnerin häkiksi. Eläin painaa vipua, saa palkkion. Yksinkertaista. Mielenkiintoinen löydös tuli, kun Skinner alkoi muutella palkkion ajoitusta. Satunnaisesti tuleva palkkio — *variable ratio reinforcement* — tuottaa kompulsiivista käytöstä, jonka houkutusta on vaikea vastustaa. Sama mekanismi tekee uhkapeleistä koukuttavia.
 
-Some-feedit on rakennettu tällä logiikalla, ja tästä ovat kertoneet mmyös Piilaakson omat insinöörit. Tristan Harris, Googlen entinen *design ethicist* ja Center for Humane Technologyn perustaja, on kutsunut älypuhelinta "taskussa olevaksi hedelmäpeliksi" (*slot machine in your pocket*). Hänen mukaansa pull-to-refresh -ele on mekaanisesti identtinen yksikätisen rosvon vivun vetämisen kanssa: et tiedä mitä saat, ja juuri siksi vedät uudestaan. Chamath Palihapitiya, Facebookin entinen Growth-yksikön johtaja, on sanonut saman karummin: "short-term, dopamine-driven feedback loops are destroying how society works."
+Some-feedit on rakennettu tällä logiikalla, ja tästä ovat kertoneet myös Piilaakson insinöörit. Tristan Harris, Googlen entinen *design ethicist* ja Center for Humane Technologyn perustaja, on kutsunut älypuhelinta "taskussa olevaksi hedelmäpeliksi" (*slot machine in your pocket*). Hänen mukaansa pull-to-refresh -ele on mekaanisesti identtinen yksikätisen rosvon vivun vetämisen kanssa: et tiedä mitä saat, ja juuri siksi vedät uudestaan. Chamath Palihapitiya, Facebookin entinen Growth-yksikön johtaja, on sanonut saman karummin: "short-term, dopamine-driven feedback loops are destroying how society works."
 
 Somet kehittäneet insinöörit tiesivät tämän ja sovelsivat kuusikymmentä vuotta vanhaa psykologian tutkimustietoa. Se toimi.
 
@@ -51,7 +51,7 @@ Tämä korjausmekanismi toimi, koska se täytti kolme ehtoa. Se tuli vertaisilta
 
 Algoritmisesti kuratoitu feed rikkoo kaikki kolme ehtoa kerralla. Postaus ei näy ensisijaisesti niille, jotka tuntevat postaajan hyvin ja voisivat sanoa "älä laita tällaista", vaan tuntemattomille, jotka reagoivat tunnepohjaisesti. Negatiivinen palaute ei saa näkyvyyttä, koska se tuottaa vähemmän engagementia kuin positiivinen, joten kollektiivista oppimista ei tapahdu. Palkkion saa heti, mutta sosiaalinen kustannus tulee viipeellä.
 
-Lopputulos on ennustettava. Feed täynnä ihmisiä, jotka kertovat tuntemattomille asioita, joita ennen kerrottiin korkeintaan parhaalle ystävälle oluttuopin äärellä. Ympäristö on muuttunut niin, että peeloksi nimeäminen on muuttunut taloudellisesti kannattamattomaksi alustalle. Vanhassa systeemissä yhteisö valvoi normeja vapaaehtoistyönä. Uudessa systeemissä alustalla on aktiivinen intressi siihen, ettei kukaan koskaan nimeä toista peeloksi.
+Lopputulos on ennustettava. Feed täynnä ihmisiä, jotka kertovat tuntemattomille asioita, joita ennen kerrottiin korkeintaan parhaalle ystävälle oluttuopin äärellä. Ympäristö on muuttunut niin, että peeloksi nimeäminen on muuttunut taloudellisesti kannattamattomaksi alustalle. Vanhassa systeemissä yhteisö valvoi normeja vapaaehtoistyönä. Uudessa systeemissä alustalla on aktiivinen intressi siihen, ettei kukaan koskaan kutsu toista peeloksi.
 
 Tämä on kiinnostava käänne talous- ja kannustinanalyyttisesti. Vanha internet oli kallis ylläpitää sosiaalisesti — yhteisö moderoi, sieti konflikteja, antoi palautetta. Mutta se tuotti oppimista. Algoritmi-feed poistaa tämän kustannuksen alustalta ja siirtää sen käyttäjälle. Lasku tulee oman sosiaalisen pääoman muodossa, ehkä vuosien viipeellä.
 
