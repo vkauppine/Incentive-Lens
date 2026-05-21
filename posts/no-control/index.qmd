@@ -8,9 +8,9 @@ image: "cover.jpg"
 ---
 ![No Control](cover.jpg)
 
-KKuuntelin pitkästä aikaa Bad Religionin No Controlia. Vuonna 1989 ilmestynyt punkrockin klassikko oli teini-iässä yksi suosikkejani. Jälkeenpäin ajateltuna sillä oli melko suuri vaikutus omaan ajatteluuni, vaikka en sitä silloin tiennyt. Ja kun nyt kuuntelin sen pari kertaa peräkkäin, huomasin asian joka oli aiemmin mennyt enimmäkseen ohi; levyn keskeiset biisit toimivat yllättävän tarkasti samalla logiikalla kuin Friedrich Hayekin klassikko *The Fatal Conceit*.
+Kuuntelin pitkästä aikaa Bad Religionin No Controlia. Vuonna 1989 ilmestynyt punkrockin klassikko oli teini-iässä yksi suosikkejani. Jälkeenpäin ajateltuna sillä oli melko suuri vaikutus omaan ajatteluuni, vaikka en sitä silloin tiennyt. Ja kun nyt kuuntelin sen pari kertaa peräkkäin, huomasin asian joka oli aiemmin mennyt enimmäkseen ohi; levyn keskeiset biisit toimivat yllättävän tarkasti samalla logiikalla kuin Friedrich Hayekin klassikko *The Fatal Conceit*.
 
-Hayekin kirja, suomeksi *Kohtalokas ylimieli: sosialismin virhepäätelmät*, ilmestyi vuotta ennen *No Controlia*. Sen ydin on yksinkertainen: kulttuuri, kieli, moraali ja markkinat ovat syntyneet spontaanisti, ei suunnittelijan pöydällä. Niiden uudelleenrakentaminen ylhäältä epäonnistuu, koska järjestelmä kantaa tietoa, jota suunnittelijalla ei ole. Juuri uskoa ihmisjärjen kykyyn suunnitella monimutkaisia järjestelmiä Hayek kutsuu kohtalokkaaksi ylimieleksi.
+Hayekin kirja, suomeksi *Kohtalokas ylimieli: sosialismin virhepäätelmät*, ilmestyi vuotta ennen *No Controlia*. Sen ydin on yksinkertainen: kulttuuri, kieli, moraali ja markkinat ovat syntyneet spontaanisti, eivät suunnittelijan pöydällä. Niiden uudelleenrakentaminen epäonnistuu, koska järjestelmässä on hiljaista ja hajautunutta tietoa, jota suunnittelijalla ei ole. Juuri uskoa ihmisjärjen kykyyn suunnitella monimutkaisia järjestelmiä Hayek kutsuu kohtalokkaaksi ylimieleksi.
 
 *No Controlin* nimibiisi avaa saman ajatuksen:
 
@@ -19,7 +19,7 @@ Hayekin kirja, suomeksi *Kohtalokas ylimieli: sosialismin virhepäätelmät*, il
 > Consciousness has plagued us and we cannot shake it  
 > though we think we're in control
 
-Maanviljelyn oppiminen muutti kulttuuria. Paikalleen asettuminen kasvatti populaatioita ja eriytti työnjakoa. Tavoista muodostui instituutioita. Ihmisten ratkaisuista kasvoi spontaani järjestys, jota kukaan ei suunnitellut. Tietoisuus tuottaa harhan, että tällainen järjestys olisi hallittavissa. Kertosäkeessä sama todetaan suorimmin: we have no control, we do not understand
+Maanviljelyn oppiminen muutti kulttuuria. Paikalleen asettuminen kasvatti populaatioita ja eriytti työnjakoa. Tavoista muodostui instituutioita. Ihmisten ratkaisuista kasvoi spontaani järjestys, jota kukaan ei suunnitellut. Tietoisuus tuottaa harhan, että tällainen järjestys olisi hallittavissa. Kertosäkeessä sama todetaan suorimmin: we have no control, we do not understand.
 
 Levyn poliittisin versio samasta ajatuksesta on "I Want to Conquer the World". Köyhyyden poistaminen, maailmanrauha ja saasteiden vähentäminen ovat hyviä tavoitteita, eikä biisi pilkkaa niitä. Pilkka kohdistuu siihen, kun näiden tavoitteiden saavuttaminen alkaa vaatia maailman valloittamista.
 
@@ -28,7 +28,7 @@ Levyn poliittisin versio samasta ajatuksesta on "I Want to Conquer the World". K
 > Put an end to poverty, uncleanliness, and toil  
 > Promote equality in all of my decisions
 
-Siinä on Hayekin varoitus poliittisessa muodossa: ihminen näkee kärsimystä, päättelee kokonaisuuden olevan väärin rakennettu, ja uskoo pystyvänsä rakentamaan järjestelmän, joka korjaa kaikki ongelmat. Kertosäkeen ironia syntyy siitä, että kaikki päämäärät ovat kauniita, mutta verbi on *conquer*. Ja se että pelastettavat ovat "idiots" joille tarjotaan uusi uskonto, paljastaa pelastajan oman asenteen.
+Siinä on Hayekin varoitus poliittisessa muodossa: ihminen näkee kärsimystä, päättelee kokonaisuuden olevan väärin rakennettu, ja uskoo pystyvänsä rakentamaan järjestelmän, joka korjaa kaikki ongelmat. Kertosäkeen ironia rakentuu sille, että kaikki päämäärät ovat kivoja, mutta verbi on *conquer*. Ja se, että pelastettavat ovat "idiots" joille tarjotaan uusi uskonto, paljastaa pelastajan oman asenteen.
 
 "Progress" kertoo nimensä mukaisesti edistyksestä, punkrockin tyyliin.
 
@@ -38,14 +38,14 @@ Siinä on Hayekin varoitus poliittisessa muodossa: ihminen näkee kärsimystä, 
 > Progress is a synonym of time  
 > We are all aware of it but it's nothing we refine
 
-Edistys ei ole suunnitelman toteuttamista vaan evolutiivinen prosessi. Sitä voi ohjata paikallisesti, sääntöjen ja instituutioiden tasolla, mutta kokonaisuus ei ole kenenkään hallinnassa. Tämä on Hayekin scientismin kritiikkiä punkrockin kolmella soinnulla: usko siihen, että edistystä voitaisiin suunnitella kuin koneen rakentamista, on virhe.
+Edistys ei ole suunnitelman toteuttamista vaan evolutiivinen prosessi. Sitä voi ohjata paikallisesti, sääntöjen ja instituutioiden tasolla, mutta kokonaisuus ei ole kenenkään hallinnassa. Tämä on Hayekilaista skientismin kritiikkiä punkrockin kolmella soinnulla: usko siihen, että edistystä voitaisiin suunnitella kuin koneen rakentamista on harhakuvitelma.
 
 "Automatic Man" muistuttaa, että spontaani järjestys tuottaa myös tyhmiä ja epätoivottuja tuloksia:
 
 > He's the quintessential, mindless, modern epicene  
 > His opinions are determined by the status quo
 
-Biisin idea on siinä, että sama rakenne joka mahdollistaa vapauden ja hyvinvoinnin tuottaa myös kulutuskulttuurin, statusjahdin ja yksilöllisyyden, jonka ryhmäidentiteetti tilataan pakettina.
+Biisin idea on siinä, että sama rakenne joka mahdollistaa vapauden ja hyvinvoinnin tuottaa myös kulutuskulttuurin, statusjahdin ja yksilöllisyyden, jonka ryhmäidentiteetti ostetaan pakettina.
 
 ## Ahdistus pyörittää järjestelmää
 
@@ -81,7 +81,9 @@ Hayekia luetaan nörttipiireissä ja oikeistolaisissa ajatuspajoissa, ehkä joil
 
 Eteläkalifornialainen vasemmistopunkkari vuonna 1989 ja itävaltalais-brittiläinen klassinen liberaali vuonna 1988 sanovat samaa asiaa. Joku savolaisoululainen kuuntelee toista ja lukee toista, ja tunnistaa että samoista asioistahan tässä puhutaan.
 
-Kohtalokas ylimieli ei jäänyt 80-luvulle. AI-profeetat julistavat, että kaikki työ loppuu kahdessa vuodessa. Kuntien ilmastotavoitteet lasketaan Viikissä. Eduskunta veivaa hoitajamitoitusta edes takaisin, vaikka paras tieto oikeasta tarpeesta on hoitopaikassa. Lontoon skidit sanoo et ei oo tekemistä muut tietääks ne millaista on Pihtiputaalla?
+Kohtalokas ylimieli ei jäänyt 80-luvulle. AI-profeetat julistavat, että kaikki työ loppuu kahdessa vuodessa. Kuntien ilmastotavoitteet lasketaan Viikissä. Amazon huomaa, että hups, työntekijät token-maxaavat. Sairaalan pesulapalvelut kilpailutetaan ja osastolta poistetaan pesukoneet: pitkäaikaisesti sairas lapsi ei saa enää pitää omia tuttuja vaatteitaan. Eduskunta veivaa hoitajamitoitusta edestakaisin, vaikka paras tieto oikeasta tarpeesta on hoitopaikassa.
+
+Lontoon skidit sanoo et ei oo tekemistä muut tietääks ne millaista on Pihtiputaalla?
 
 Sama rakenne toistuu pienemmissä ja suuremmissa päätöksissä: joku luulee tietävänsä paremmin, vaikka rakenne on syntynyt hiljaisesta tiedosta ja ihan syystä.
 
