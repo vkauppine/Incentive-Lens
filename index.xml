@@ -45,9 +45,9 @@
 <p>Siitä ei kuitenkaan seuraa, että valtion sovellus olisi parempi ratkaisu. Kun voitontavoittelu poistetaan, päätöksiä alkaa ohjata toinen tavoitefunktio: budjetti, mittari, hankintasopimus, tietosuojavaikutusten arviointi ja seuraava kehysriihi. Yllä oleva lista oli vain tämän logiikan jatkamista loppuun asti.</p>
 <p>Markkinan epäonnistuminen on todellinen ongelma. Usko siihen, että julkinen suunnittelija voi sen ratkaista, on kohtalokas ylimieli.</p>
 <hr>
-<p>Neuvoksi vielä parisuhdemarkkinoilla toimiville. Ongelma on klassinen hakuteorian ja optimaalisen pysäyttämisen tehtävä: kandidaatit saapuvat sekventiaalisesti, haku maksaa (c) per kierros, eikä hylättyyn vaihtoehtoon voi palata. Optimaalinen hyväksymiskynnys (U^*) määräytyy ehdosta</p>
-<p><img src="https://latex.codecogs.com/png.latex?%0Ac%20=%20%5Cmathbb%7BE%7D%5B(U%20-%20U%5E*)%5E+%5D%0A"></p>
-<p>Hyväksy ensimmäinen kandidaatti, jonka hyöty ylittää kynnyksen:</p>
+<p>Neuvoksi vielä parisuhdemarkkinoilla toimiville. Ongelma on klassinen hakuteorian optimaalisen pysäyttämisen tehtävä: kandidaatit saapuvat sekventiaalisesti, haku maksaa (c) per kierros, eikä hylättyyn vaihtoehtoon voi palata. Optimaalinen hyväksymiskynnys (U^*) määräytyy ehdosta</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0Ac%20=%20%5Cmathbb%7BE%7D%5C!%5Cleft%5B(U%20-%20U%5E*)%5E+%5Cright%5D%0A"></p>
+<p>eli kynnyksellä olet indifferentti: yhden lisäkierroksen kustannus on yhtä suuri kuin sen odotettu tuotto. Hyväksy ensimmäinen kandidaatti, jonka hyöty ylittää kynnyksen:</p>
 <p><img src="https://latex.codecogs.com/png.latex?%0AU%20%5Cge%20U%5E*%0A"></p>
 <p>Suomeksi: ota ensimmäinen riittävän hyvä.</p>
 
