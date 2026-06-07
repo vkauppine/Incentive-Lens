@@ -2,7 +2,7 @@
 title: "Skinnerin häkki ja some"
 subtitle: "Miksi Threads tuottaa sitä mitä tuottaa. Dopamiini toimii heti, kustannukset tulevat myöhemmin"
 author: "Vesa Kauppinen"
-date: "2026-17-05"
+date: "2026-05-19"
 categories: [some, kannustinrakenteet, käyttäytymistaloustiede, digitalisaatio]
 lang: fi
 image: "cover.png"

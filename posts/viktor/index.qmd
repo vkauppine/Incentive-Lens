@@ -2,7 +2,7 @@
 title: "\"He dumped his girlfriend to play in red and white\""
 subtitle: "Sitoutumismekanismi punavalkoisessa paidassa"
 author: "Vesa"
-date: 2026-05-11
+date: "2026-05-18"
 lang: fi
 image: "cover.jpg"
 categories: [taloustiede, kannustimet, käyttäytymistaloustiede]

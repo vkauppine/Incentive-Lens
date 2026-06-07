@@ -10,7 +10,113 @@
 <atom:link href="https://vkauppine.github.io/Incentive-Lens/index.xml" rel="self" type="application/rss+xml"/>
 <description>Talousblogi</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Sat, 04 Sep 2027 21:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 21 May 2026 21:00:00 GMT</lastBuildDate>
+<item>
+  <title>Valtiojohtoisuus takaa laadun: kansalaisen elinkaaren optimointi</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/deittisovellus/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/deittisovellus/cover.png" class="img-fluid figure-img"></p>
+<figcaption>Everybody knows what’s best for you</figcaption>
+</figure>
+</div>
+<p>Keskustanuoret esittää Suomeen valtion ylläpitämää parisuhdepalvelua. Perusteluina ovat syntyvyyden lasku, yksinäisyys ja kaupallisten deittisovellusten vinoutuneet kannustimet.</p>
+<p>Hyvä alku.</p>
+<p>Mutta miksi pysähtyä parinmuodostukseen? Se on vasta elinkaaren ensimmäinen kvartaali. Jos kerran luotamme siihen, että virasto hoitaa rakkauselämän paremmin kuin ihminen itse, ei ole mitään syytä jättää loppua sattuman varaan.</p>
+<p>Tässä täysi palvelupolku. Yhden luukun periaatteella.</p>
+<p><strong>Parinmuodostus.</strong> Valtion deittipalvelu yhdistää sinut tieteellisesti yhteensopivaan kumppaniin. Algoritmi on salattu hankintasopimuksen ja kansallisen huoltovarmuuden perusteella.</p>
+<p><strong>Lisääntymisaikataulu.</strong> STM:n algoritmi laskee otollisimman hedelmöityshetken. Push-notifikaatio Omakantaan.</p>
+<p><strong>Geneettinen sopivuusarviointi.</strong> THL antaa väestötason suosituksen, jota ei tule soveltaa yksilötasolla. Hakemuksen ratkaisu perustuu väestötason suositukseen.</p>
+<p><strong>Lasten lukumäärä.</strong> Sidotaan kunnan kantokykyyn. Kuntaliitto antaa lausunnon, jonka jälkeen lukumäärä neuvotellaan seuraavassa kehysriihessä. Kasvukeskuksissa kiintiö, muuttotappiokunnissa kannustinlisä.</p>
+<p><strong>Nimivalinta.</strong> Digi- ja väestötietovirasto ehdottaa kolme Suomi-brändiä tukevaa vaihtoehtoa. Omavalintainen nimi on mahdollinen erillisellä hakemuksella, käsittelymaksu 69,90 euroa.</p>
+<p><strong>Harrastukset.</strong> OKM osoittaa lapselle harrastuspolun. Lajitoive huomioidaan, mikäli se tukee alueellista yhdenvertaisuutta ja liikuntapoliittista selontekoa. Omaehtoinen kiinnostus kirjataan lausunnon liitteeksi.</p>
+<p><strong>Hiilijalanjälki.</strong> SYKE mallintaa mahdollisen tulevan kansalaisen elinkaaren hiilijalanjäljen ja suhteuttaa sen kunnan hiilineutraalisuustavoitteeseen. Virastolla on veto-oikeus lisääntymispäätökseen.</p>
+<p>Valitusoikeus Vaasan hallinto-oikeuteen. Palvelulupaus käsittelyajasta: 4–6 vuotta.</p>
+<hr>
+<p>Asiaa sitten mausteeksi, koska vitsin alla on oikea pointti.</p>
+<p>Keskustanuorten diagnoosi on parempi kuin heidän reseptinsä. Kaupallisten deittisovellusten kannustinrakenne on vinossa. Käyttäjän tavoite on löytää kumppani ja poistua markkinalta. Sovelluksen tulovirta syntyy maksavista käyttäjistä, tilauksista, lisäominaisuuksista ja jatkuvasta käytöstä. On aivan perusteltua kysyä, optimoiko appi pariutumista vai käyttäjän pitämistä kierrossa.</p>
+<p>Siitä ei kuitenkaan seuraa, että valtion sovellus olisi parempi ratkaisu. Kun voitontavoittelu poistetaan, päätöksiä alkaa ohjata toinen tavoitefunktio: budjetti, mittari, hankintasopimus, tietosuojavaikutusten arviointi ja seuraava kehysriihi. Yllä oleva lista oli vain tämän logiikan jatkamista loppuun asti.</p>
+<p>Markkinan epäonnistuminen on todellinen ongelma. Usko siihen, että julkinen suunnittelija voi sen ratkaista, on kohtalokas ylimieli.</p>
+<hr>
+<p>Neuvoksi vielä parisuhdemarkkinoilla toimiville. Ongelma on klassinen hakuteorian optimaalisen pysäyttämisen tehtävä: kandidaatit saapuvat sekventiaalisesti, haku maksaa <img src="https://latex.codecogs.com/png.latex?c"> per kierros, eikä hylättyyn vaihtoehtoon voi palata. Jos kandidaatin tarjoama hyöty <img src="https://latex.codecogs.com/png.latex?x"> noudattaa tiheysfunktiota <img src="https://latex.codecogs.com/png.latex?f(x)"> ja kertymäfunktiota <img src="https://latex.codecogs.com/png.latex?F(x)"> välillä <img src="https://latex.codecogs.com/png.latex?%5B0,%20B%5D">, niin optimaalisella kynnyksellä <img src="https://latex.codecogs.com/png.latex?U%5E*"> lisähaun (yksi kierros lisää) odotettu rajahyöty on täsmälleen yhtä suuri kuin haun kustannus <img src="https://latex.codecogs.com/png.latex?c">:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0Ac%20=%20%5Cint_%7BU%5E*%7D%5E%7BB%7D%20(x%20-%20U%5E*)%5C,%20f(x)%5C,%20dx%0A"></p>
+<p>Hyväksy ensimmäinen kandidaatti, jonka hyöty ylittää kynnyksen, <img src="https://latex.codecogs.com/png.latex?x%20%5Cge%20U%5E*">.</p>
+<p>Suomeksi: ota ensimmäinen riittävän hyvä.</p>
+
+
+
+ ]]></description>
+  <category>kannustimet</category>
+  <category>julkinen valinta</category>
+  <category>satiiri</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/deittisovellus/</guid>
+  <pubDate>Thu, 21 May 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/deittisovellus/cover.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>Miksi futismarkkinat ostavat pelaajia, joiden riskin kaikki näkevät</title>
+  <dc:creator>Vesa Kauppinen</dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/suarez/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/suarez/cantona.jpg" class="img-fluid figure-img"></p>
+<figcaption>Cantonan kung fu -potku katsomoon</figcaption>
+</figure>
+</div>
+<p>Oulun yliopiston laskentatoimen professori Juha-Pekka Kallunki tutkimusryhmineen on dokumentoinut, että suomalaisten ja ruotsalaisten pörssiyhtiöiden johdossa rikostaustat eivät ole harvinaisuus. Ruotsalaisaineistossa rikostuomio oli noin joka kolmannella johtajalla.<sup>1</sup> Suomessa noin viidenneksellä pörssiyhtiöiden toimitusjohtajista ja hallituksen jäsenistä oli tuomio taustallaan.<sup>2</sup></p>
+<p>Rikostausta näkyy seurauksissa, joita omistajat eivät tavallisesti toivo: suurempia liikearvon alaskirjauksia, heikompaa kirjanpidollista varovaisuutta, suurempaa konkurssiriskiä. Kallungin tulkinta on, että rattijuopumus, väkivaltarikos tai muu tuomio voi toimia proxynä piirteille, jotka merkitsevät yritykselle riskiä: impulsiivisuudelle, riskihakuisuudelle ja heikolle itsehillinnälle. Suositus seuraa tästä melko suoraan: pankki- ja vakuutusalan kelpoisuustarkastuksia pitäisi laajentaa muillekin toimialoille.</p>
+<p>Suositus olettaa, että ongelma on tiedon puute. Omistajat eivät palkkaisi riskijohtajia, jos he tietäisivät paremmin.</p>
+<p>Ammattijalkapallon siirtomarkkinoita voi käyttää stressitestinä oletukselle.</p>
+<section id="markkinat-joilla-luonneriskit-ovat-julkisia" class="level2">
+<h2 class="anchored" data-anchor-id="markkinat-joilla-luonneriskit-ovat-julkisia">Markkinat, joilla luonneriskit ovat julkisia</h2>
+<p>Luis Suárez puri Otman Bakkalin olkapäätä Ajaxin pelaajana vuonna 2010. Hän puri Branislav Ivanovićia Liverpoolin pelaajana vuonna 2013. Hän puri Giorgio Chielliniä MM-kisoissa vuonna 2014. Chiellini-tapauksen jälkeen Barcelona maksoi hänestä noin 80 miljoonaa euroa. Atlético Madrid otti hänet vielä myöhemmin, vaikka hänen historiansa oli kaikkien tiedossa.</p>
+<p>Mario Balotelli joutui Manchester Cityssä selvittämään tikkavälikohtausta harjoituskeskuksessa, sytytti kotinsa kylpyhuoneen ilotulitteilla ja ajautui toistuvasti otsikoihin asioista, jotka eivät liittyneet pelisuorituksiin. Silti City osti hänet Interistä, Milan Citystä, Liverpool Milanista ja Milan takaisin Liverpoolista. Jokainen ostaja tiesi, mitä oli ostamassa.</p>
+<p>Joey Bartonilla oli taustallaan pahoinpitelytuomioita, pelikieltoja ja pelikaverin silmään tumpattu sikari. Newcastle, QPR, Marseille ja Burnley vuorollaan palkkasivat hänet.</p>
+<p>Informaatio on kaikkien saatavilla ja taustatarkistus voidaan tehdä julkisista lähteistä. YouTube, Google-haku ja entisten seurojen pukukoppitarinat riittävät pitkälle.</p>
+<p>Silti tällaiset pelaajat kelpaavat seuroille kalliilla hinnoilla.</p>
+</section>
+<section id="miksi-tieto-ei-riitä" class="level2">
+<h2 class="anchored" data-anchor-id="miksi-tieto-ei-riitä">Miksi tieto ei riitä</h2>
+<p>Taustatieto voi olla kaikkien nähtävillä ja päätös silti ymmärrettävä. Suárez ostetaan maalien takia ja puremisalttius kuuluu pakettiin.</p>
+<p>Pieleen menneen hankinnan riski ei rajoitu siirtosummaan ja palkkaan. Ongelmapelaaja voi kuluttaa pukukoppia, heikentää valmentajan auktoriteettia, viedä peliaikaa vakaammilta pelaajilta, ärsyttää kannattajia ja tehdä koko seurasta epäsuositun. Osa näistä kustannuksista näkyy kirjanpidossa huonosti ja vasta viipeellä. Osa jätetään seuraavan valmentajan tai urheilujohtajan ratkaistavaksi.</p>
+<p>Päätöksentekijän kannustin ratkaisee. Riskihankinnan onnistuminen tuottaa nopean urahyödyn: maine rohkeana rekrytoijana, parempi neuvotteluasema, uusi sopimus, ehkä jopa mestaruus. Epäonnistumisen seuraukset eivät näy samalla tavalla, mutta vaikutukset voivat olla laajemmat: ongelmat pukukopissa, pieleen mennyt kausi, kannattajien kyllästyminen. Päätöksentekijä ei aina maksa samaa laskua kuin seura.</p>
+<p>Tässä futismarkkina testaa Kallungin suositusta. Jos ongelma olisi pelkkä tiedon puute, julkinen riskihistoria pysäyttäisi kaupan. Markkinat voivat nähdä riskin aivan oikein ja silti ottaa sen, koska hyöty ja haitta eivät kohdistu samoille ihmisille samalla aikataululla.</p>
+<p>Osa varoitusmerkeistä kertoo todellisista ongelmista. Väkivalta, kurittomuus, päihdeongelmat ja jatkuva arjen hallitsemattomuus voivat tuhota enemmän kuin lahjakkuus korvaa. Niiden romantisointi on halpaa jälkiviisautta.</p>
+<p>Huippu-urheilussa asia ei kuitenkaan aina ole näin yksinkertainen. Arkielämässä ongelmalliset persoonallisuuspiirteet voivat olla futiskentällä vahvuus. Suárezin pakonomainen tarve voittaa jokainen kaksinkamppailu teki hänestä poikkeuksellisen hyökkääjän. Balotellin välinpitämättömyys seurauksista saattoi auttaa rangaistuspotkuissa, mutta aiheuttaa ongelmia arjessa. Cantonan uhmakkuus taas oli osa hänen karismaansa. Sama piirre sai hänet myös hyppäämään katsomoon.</p>
+<p>Pörssiyhtiössä asetelma on toinen. Toimitusjohtajan arvo syntyy oikeista päätöksistä ja luottamuksen rakentamisesta. Ennen kaikkea johtajan tehtävä on rakentaa omistaja-arvoa pitkäjänteisesti ja pitää riskit hallittuina.</p>
+<p>Siksi jalkapallo ei kumoa Kallungin suositusta. Pörssiyhtiössä hyvä päätös tehdään harkiten parhaan tiedon mukaisesti, ja taustatarkistus auttaa harkintaa. Jalkapallossa ennalta-arvaamattomuus voi olla arvo sinänsä.</p>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Alaviitteet</h2>
+
+<ol>
+<li id="fn1"><p>Tutkimusryhmän aiemmat ruotsalaisaineistoon perustuvat julkaisut, mm. Amir, E., Kallunki, J-P. &amp; Nilsson, H. (2014), “The Association between Individual Audit Partners’ Risk Preferences and the Composition of their Client Portfolios”, <em>Review of Accounting Studies</em> 19(1), s. 103–133. Ruotsalaisten pörssiyhtiöiden toimitusjohtajista 33,1 prosentilla todettiin rikostuomio. Tulosta referoitu mm. Ylen uutisessa 23.8.2021.↩︎</p></li>
+<li id="fn2"><p>Kallunki, J-P., Korkka-Knuts, H., Kallunki, J. &amp; Aaltonen, M. (2023), “Suomalaisten pörssiyhtiöiden ylimmän johdon rikostuomiot ja niiden vaikutus yhtiön rikosoikeudellisille vastuuriskeille”, <em>Oikeus</em> 1/2023, s. 8–25. Aineisto: 2 201 toimitusjohtajaa, hallituksen jäsentä ja hallituksen puheenjohtajaa suomalaisissa pörssiyhtiöissä 2000–2019. Verrokkina mainittakoon, että korkeakoulutetuista suomalaisista miehistä noin 23,7 prosenttia on tuomittu rikoksesta ennen 54 vuoden ikää, joten pörssijohtajien osuus on itse asiassa hieman verrokkiväestöä alempi.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>insentiivit</category>
+  <category>urheilu</category>
+  <category>agentit</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/suarez/</guid>
+  <pubDate>Thu, 21 May 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/suarez/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>We have no control – No Control ja kohtalokas ylimieli</title>
   <dc:creator>Vesa </dc:creator>
@@ -44,7 +150,7 @@ Give all the idiots a brand-new religion<br>
 Put an end to poverty, uncleanliness, and toil<br>
 Promote equality in all of my decisions</p>
 </blockquote>
-<p>Siinä on Hayekin varoitus poliittisessa muodossa: ihminen näkee kärsimystä, päättelee kokonaisuuden olevan väärin rakennettu, ja uskoo pystyvänsä rakentamaan järjestelmän, joka korjaa kaikki ongelmat. Kertosäkeen ironia rakentuu sille, että kaikki päämäärät ovat kivoja, mutta verbi on <em>conquer</em>. Ja se, että pelastettavat ovat “idiots” joille tarjotaan uusi uskonto, paljastaa pelastajan oman asenteen.</p>
+<p>Siinä on Hayekin varoitus poliittisessa muodossa: ihminen näkee kärsimystä, päättelee kokonaisuuden olevan väärin rakennettu, ja uskoo pystyvänsä rakentamaan järjestelmän, joka korjaa kaikki ongelmat. Kertosäkeen ironia rakentuu sille, että kaikki päämäärät ovat kivoja, mutta verbi on valloittaa. Ja se, että pelastettavat ovat idiootteja joille tarjotaan uusi uskonto, paljastaa pelastajan oman asenteen.</p>
 <p>“Progress” kertoo nimensä mukaisesti edistyksestä, punkrockin tyyliin.</p>
 <blockquote class="blockquote">
 <p>Progress is not intelligently planned<br>
@@ -107,7 +213,7 @@ An element in a sea of enthalpic organic compounds</p>
   <category>musiikki</category>
   <category>taloustiede</category>
   <guid>https://vkauppine.github.io/Incentive-Lens/posts/no-control/</guid>
-  <pubDate>Sat, 04 Sep 2027 21:00:00 GMT</pubDate>
+  <pubDate>Wed, 20 May 2026 21:00:00 GMT</pubDate>
   <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/no-control/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -174,13 +280,13 @@ An element in a sea of enthalpic organic compounds</p>
   <category>käyttäytymistaloustiede</category>
   <category>digitalisaatio</category>
   <guid>https://vkauppine.github.io/Incentive-Lens/posts/threads/</guid>
-  <pubDate>Tue, 04 May 2027 21:00:00 GMT</pubDate>
+  <pubDate>Mon, 18 May 2026 21:00:00 GMT</pubDate>
   <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/threads/cover.png" medium="image" type="image/png" height="145" width="144"/>
 </item>
 <item>
-  <title>Miksi futismarkkinat ostavat pelaajia, joiden riskin kaikki näkevät</title>
-  <dc:creator>Vesa Kauppinen</dc:creator>
-  <link>https://vkauppine.github.io/Incentive-Lens/posts/suarez/</link>
+  <title>“He dumped his girlfriend to play in red and white”</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/viktor/</link>
   <description><![CDATA[ 
 
 
@@ -189,50 +295,31 @@ An element in a sea of enthalpic organic compounds</p>
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/suarez/cantona.jpg" class="img-fluid figure-img"></p>
-<figcaption>Cantonan kung fu -potku katsomoon</figcaption>
+<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/viktor/cover.jpg" class="img-fluid figure-img"></p>
+<figcaption>Viktor Gyökeres</figcaption>
 </figure>
 </div>
-<p>Oulun yliopiston laskentatoimen professori Juha-Pekka Kallunki tutkimusryhmineen on dokumentoinut, että suomalaisten ja ruotsalaisten pörssiyhtiöiden johdossa rikostaustat eivät ole harvinaisuus. Ruotsalaisaineistossa rikostuomio oli noin joka kolmannella johtajalla.<sup>1</sup> Suomessa noin viidenneksellä pörssiyhtiöiden toimitusjohtajista ja hallituksen jäsenistä oli tuomio taustallaan.<sup>2</sup></p>
-<p>Rikostausta näkyy seurauksissa, joita omistajat eivät tavallisesti toivo: suurempia liikearvon alaskirjauksia, heikompaa kirjanpidollista varovaisuutta, suurempaa konkurssiriskiä. Kallungin tulkinta on, että rattijuopumus, väkivaltarikos tai muu tuomio voi toimia proxynä piirteille, jotka merkitsevät yritykselle riskiä: impulsiivisuudelle, riskihakuisuudelle ja heikolle itsehillinnälle. Suositus seuraa tästä melko suoraan: pankki- ja vakuutusalan kelpoisuustarkastuksia pitäisi laajentaa muillekin toimialoille.</p>
-<p>Suositus olettaa, että ongelma on tiedon puute. Omistajat eivät palkkaisi riskijohtajia, jos he tietäisivät paremmin.</p>
-<p>Ammattijalkapallon siirtomarkkinoita voi käyttää stressitestinä oletukselle.</p>
-<section id="markkinat-joilla-luonneriskit-ovat-julkisia" class="level2">
-<h2 class="anchored" data-anchor-id="markkinat-joilla-luonneriskit-ovat-julkisia">Markkinat, joilla luonneriskit ovat julkisia</h2>
-<p>Luis Suárez puri Otman Bakkalin olkapäätä Ajaxin pelaajana vuonna 2010. Hän puri Branislav Ivanovićia Liverpoolin pelaajana vuonna 2013. Hän puri Giorgio Chielliniä MM-kisoissa vuonna 2014. Chiellini-tapauksen jälkeen Barcelona maksoi hänestä noin 80 miljoonaa euroa. Atlético Madrid otti hänet vielä myöhemmin, vaikka hänen historiansa oli kaikkien tiedossa.</p>
-<p>Mario Balotelli joutui Manchester Cityssä selvittämään tikkavälikohtausta harjoituskeskuksessa, sytytti kotinsa kylpyhuoneen ilotulitteilla ja ajautui toistuvasti otsikoihin asioista, jotka eivät liittyneet pelisuorituksiin. Silti City osti hänet Interistä, Milan Citystä, Liverpool Milanista ja Milan takaisin Liverpoolista. Jokainen ostaja tiesi, mitä oli ostamassa.</p>
-<p>Joey Bartonilla oli taustallaan pahoinpitelytuomioita, pelikieltoja ja pelikaverin silmään tumpattu sikari. Newcastle, QPR, Marseille ja Burnley vuorollaan palkkasivat hänet.</p>
-<p>Informaatio on kaikkien saatavilla ja taustatarkistus voidaan tehdä julkisista lähteistä. YouTube, Google-haku ja entisten seurojen pukukoppitarinat riittävät pitkälle.</p>
-<p>Silti tällaiset pelaajat kelpaavat seuroille kalliilla hinnoilla.</p>
-</section>
-<section id="miksi-tieto-ei-riitä" class="level2">
-<h2 class="anchored" data-anchor-id="miksi-tieto-ei-riitä">Miksi tieto ei riitä</h2>
-<p>Taustatieto voi olla kaikkien nähtävillä ja päätös silti ymmärrettävä. Suárez ostetaan maalien takia ja puremisalttius kuuluu pakettiin.</p>
-<p>Pieleen menneen hankinnan riski ei rajoitu siirtosummaan ja palkkaan. Ongelmapelaaja voi kuluttaa pukukoppia, heikentää valmentajan auktoriteettia, viedä peliaikaa vakaammilta pelaajilta, ärsyttää kannattajia ja tehdä koko seurasta epäsuositun. Osa näistä kustannuksista näkyy kirjanpidossa huonosti ja vasta viipeellä. Osa jätetään seuraavan valmentajan tai urheilujohtajan ratkaistavaksi.</p>
-<p>Päätöksentekijän kannustin ratkaisee. Riskihankinnan onnistuminen tuottaa nopean urahyödyn: maine rohkeana rekrytoijana, parempi neuvotteluasema, uusi sopimus, ehkä jopa mestaruus. Epäonnistumisen seuraukset eivät näy samalla tavalla, mutta vaikutukset voivat olla laajemmat: ongelmat pukukopissa, pieleen mennyt kausi, kannattajien kyllästyminen. Päätöksentekijä ei aina maksa samaa laskua kuin seura.</p>
-<p>Tässä futismarkkina testaa Kallungin suositusta. Jos ongelma olisi pelkkä tiedon puute, julkinen riskihistoria pysäyttäisi kaupan. Markkinat voivat nähdä riskin aivan oikein ja silti ottaa sen, koska hyöty ja haitta eivät kohdistu samoille ihmisille samalla aikataululla.</p>
-<p>Osa varoitusmerkeistä kertoo todellisista ongelmista. Väkivalta, kurittomuus, päihdeongelmat ja jatkuva arjen hallitsemattomuus voivat tuhota enemmän kuin lahjakkuus korvaa. Niiden romantisointi on halpaa jälkiviisautta.</p>
-<p>Huippu-urheilussa asia ei kuitenkaan aina ole näin yksinkertainen. Arkielämässä ongelmalliset persoonallisuuspiirteet voivat olla futiskentällä vahvuus. Suárezin pakonomainen tarve voittaa jokainen kaksinkamppailu teki hänestä poikkeuksellisen hyökkääjän. Balotellin välinpitämättömyys seurauksista saattoi auttaa rangaistuspotkuissa, mutta aiheuttaa ongelmia arjessa. Cantonan uhmakkuus taas oli osa hänen karismaansa. Sama piirre sai hänet myös hyppäämään katsomoon.</p>
-<p>Pörssiyhtiössä asetelma on toinen. Toimitusjohtajan arvo syntyy oikeista päätöksistä ja luottamuksen rakentamisesta. Ennen kaikkea johtajan tehtävä on rakentaa omistaja-arvoa pitkäjänteisesti ja pitää riskit hallittuina.</p>
-<p>Siksi jalkapallo ei kumoa Kallungin suositusta. Pörssiyhtiössä hyvä päätös tehdään harkiten parhaan tiedon mukaisesti, ja taustatarkistus auttaa harkintaa. Jalkapallossa ennalta-arvaamattomuus voi olla arvo sinänsä.</p>
+<p>Suomenkielisessä Aku Ankassa usein leikitellään suomennetuilla nimillä. Roope Ankan omistaman seuran tähtihyökkääjä voisi hyvin olla nimeltään Voitto Juurekas.</p>
+<p>Oikea Viktor Gyökeres siirtyi viime kesänä Sportingista Arsenaliin. Samaan aikaan hänen kerrottiin eronneen pitkäaikaisesta tyttöystävästään, portugalilaisesta näyttelijästä Inês Aguiarista. Portugalilainen TV Guia raportoi heinäkuussa 2025 lähteeseen viitaten, ettei pelaaja halunnut mitään, mikä sitoisi häntä Portugaliin, koska oli jo päättänyt lähteä Sportingista.</p>
+<p>Arsenal-kannattajat rakensivat siitä <a href="https://www.youtube.com/shorts/AJYkXRsrgm0">chantin</a> — <em>he dumped his girlfriend to play in red and white</em> — huonoa makua, hyvä rytmi, erinomainen taloustieteellinen koukku. Iltapäivälehtikliseen alla on yksi taloustieteen osuvimmista havainnoista: strateginen sitoutuminen.</p>
+<p>Homeroksen Odysseus suojautui seireenien laulun vaikutukselta sitomalla itsensä laivan mastoon. Tulevaisuuden Odysseuksen päätökset olivat kirjaimellisesti sidottu etukäteen. Thomas Schelling teki samasta ajatuksesta modernia taloustiedettä: rationaalinen ihminen rakentaa joskus itselleen esteitä, koska tietää ettei voi aina luottaa, että tulevaisuudessa hän tekee oikeita päätöksiä.</p>
+<p>Kesän 2025 Gyökeres haluaa onnistua Valioliigassa. Mutta hän tietää myös, että marraskuun Gyökeres saattaa ajatella toisin päivänä, jolloin sade piiskaa Lontoota, peliaikaa eikä maaleja tule yhtä paljon kuin Sportingissa ja Lissabonissa olisi +28 astetta. 39 liigamaalia ei Valioliigassa ole edes Gyökeresille realistinen tavoite. Siinä voi helposti alkaa kyseenalaistaa koko siirron. Raportoitu ratkaisu oli kallis sitoutumismekanismi: side poikki Portugaliin ennen lähtöä.</p>
+<p>Ihmiset katkaisevat joskus omia pakoreittejään, koska he eivät luota tulevan minänsä itsekuriin. Juuri hinta tekee tällaisista mekanismeista uskottavia: halvat lupaukset eivät sido ketään. Ihmiset maksavat personal trainereista, ostavat kuntosalijäsenyyksiä ja laittavat rahaa eläketileille, joista sitä ei saa helposti ulos, koska tuleva minä tiedetään epäluotettavaksi. Käyttäytymistaloustieteilijät kutsuvat ilmiötä hyperboliseksi aikadiskonttaukseksi: nykyhetken houkutukset painavat suhteettoman paljon verrattuna pitkän aikavälin hyötyihin.</p>
+<p>Huippu-urheilussa tällaiset mekanismit ovat poikkeuksellisen perusteltuja. Pelaajan ura on lyhyt, peruutusvaihdetta ei ole, ja yhden kauden epäonnistuminen voi sulkea ovet pysyvästi. Siinä missä kuntosalijäsenyyden voi unohtaa ilman suurempia seurauksia, urheilijan keskittymisongelmat marraskuussa Premier Leaguessa näkyvät pelaaja-arvossa, pelaaja-arvo seuraavassa siirrossa, seuraava siirto loppu-uran palkkapotissa. Halvat sitoutumiset eivät tähän riitä.</p>
+<p>Tarina sai jatko-osan. Helmikuussa 2026 portugalilaismedia raportoi pieniä merkkejä mahdollisesta lähentymisestä Gyökeresin ja Aguarin välillä — Instagram-tykkäyksiä, kuvia Lontoosta. Kevään mittaan tuli lisää: yhteinen illallinen Lissabonissa, Aguiarin vierailu Emiratesilla. Mitään virallista vahvistusta yhteenpaluusta ei ole annettu, mutta sävy tarinassa on muuttunut.</p>
+<p>Se sopisi joka tapauksessa kuvaan. Sitoutumismekanismit ovat usein väliaikaisia. Kun siirtymä on tehty ja uusi polku rakennettu, niitä ei enää tarvita. Odysseuskin pyysi miehiään irrottamaan hänet mastosta heti vaaran mentyä ohi.</p>
+<p>Varauma silti jää: emme tiedä, oliko ratkaisu oikea. Emme koskaan näe vaihtoehtoista historiaa, jossa Aguiar olisi muuttanut Lontooseen heti viime kesänä. Ehkä kaikki olisi mennyt paremmin, ehkä huonommin. Kaksi maalia ja syöttö Champions Leaguen välierässä on kuitenkin vahva näyttö siihen suuntaan, että ratkaisu saattoi olla oikea. Chant jatkuu: <em>Now he’s scoring goals with a cannon on his chest.</em></p>
+<p>Taloustiede pystyy usein selittämään päätösten logiikan paremmin kuin niiden lopullisen oikeellisuuden. Jos Gyökeresin tarina meni edes suunnilleen niin kuin portugalilaismedia sen kertoi, se oli tarina siitä, miten vakavasti ihminen voi suhtautua omaan tulevaan heikkouteensa. Joskus tavoite tuntuu niin tärkeältä, että pakoreitti katkaistaan ennen kuin sitä ehtii kaivata.</p>
 
 
-</section>
 
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Alaviitteet</h2>
-
-<ol>
-<li id="fn1"><p>Tutkimusryhmän aiemmat ruotsalaisaineistoon perustuvat julkaisut, mm. Amir, E., Kallunki, J-P. &amp; Nilsson, H. (2014), “The Association between Individual Audit Partners’ Risk Preferences and the Composition of their Client Portfolios”, <em>Review of Accounting Studies</em> 19(1), s. 103–133. Ruotsalaisten pörssiyhtiöiden toimitusjohtajista 33,1 prosentilla todettiin rikostuomio. Tulosta referoitu mm. Ylen uutisessa 23.8.2021.↩︎</p></li>
-<li id="fn2"><p>Kallunki, J-P., Korkka-Knuts, H., Kallunki, J. &amp; Aaltonen, M. (2023), “Suomalaisten pörssiyhtiöiden ylimmän johdon rikostuomiot ja niiden vaikutus yhtiön rikosoikeudellisille vastuuriskeille”, <em>Oikeus</em> 1/2023, s. 8–25. Aineisto: 2 201 toimitusjohtajaa, hallituksen jäsentä ja hallituksen puheenjohtajaa suomalaisissa pörssiyhtiöissä 2000–2019. Verrokkina mainittakoon, että korkeakoulutetuista suomalaisista miehistä noin 23,7 prosenttia on tuomittu rikoksesta ennen 54 vuoden ikää, joten pörssijohtajien osuus on itse asiassa hieman verrokkiväestöä alempi.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>insentiivit</category>
-  <category>urheilu</category>
-  <category>agentit</category>
-  <guid>https://vkauppine.github.io/Incentive-Lens/posts/suarez/</guid>
-  <pubDate>Wed, 20 May 2026 21:00:00 GMT</pubDate>
-  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/suarez/cover.jpg" medium="image" type="image/jpeg"/>
+ ]]></description>
+  <category>taloustiede</category>
+  <category>kannustimet</category>
+  <category>käyttäytymistaloustiede</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/viktor/</guid>
+  <pubDate>Sun, 17 May 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/viktor/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Kenen tasa-arvoa? Koulun rikkinäinen kannustinrakenne</title>
@@ -366,44 +453,6 @@ An element in a sea of enthalpic organic compounds</p>
   <guid>https://vkauppine.github.io/Incentive-Lens/posts/welfare-state/</guid>
   <pubDate>Tue, 12 May 2026 21:00:00 GMT</pubDate>
   <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/welfare-state/cover.png" medium="image" type="image/png" height="108" width="144"/>
-</item>
-<item>
-  <title>“He dumped his girlfriend to play in red and white”</title>
-  <dc:creator>Vesa </dc:creator>
-  <link>https://vkauppine.github.io/Incentive-Lens/posts/viktor/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/viktor/cover.jpg" class="img-fluid figure-img"></p>
-<figcaption>Viktor Gyökeres</figcaption>
-</figure>
-</div>
-<p>Suomenkielisessä Aku Ankassa usein leikitellään suomennetuilla nimillä. Roope Ankan omistaman seuran tähtihyökkääjä voisi hyvin olla nimeltään Voitto Juurekas.</p>
-<p>Oikea Viktor Gyökeres siirtyi viime kesänä Sportingista Arsenaliin. Samaan aikaan hänen kerrottiin eronneen pitkäaikaisesta tyttöystävästään, portugalilaisesta näyttelijästä Inês Aguiarista. Portugalilainen TV Guia raportoi heinäkuussa 2025 lähteeseen viitaten, ettei pelaaja halunnut mitään, mikä sitoisi häntä Portugaliin, koska oli jo päättänyt lähteä Sportingista.</p>
-<p>Arsenal-kannattajat rakensivat siitä <a href="https://www.youtube.com/shorts/AJYkXRsrgm0">chantin</a> — <em>he dumped his girlfriend to play in red and white</em> — huonoa makua, hyvä rytmi, erinomainen taloustieteellinen koukku. Iltapäivälehtikliseen alla on yksi taloustieteen osuvimmista havainnoista: strateginen sitoutuminen.</p>
-<p>Homeroksen Odysseus suojautui seireenien laulun vaikutukselta sitomalla itsensä laivan mastoon. Tulevaisuuden Odysseuksen päätökset olivat kirjaimellisesti sidottu etukäteen. Thomas Schelling teki samasta ajatuksesta modernia taloustiedettä: rationaalinen ihminen rakentaa joskus itselleen esteitä, koska tietää ettei voi aina luottaa, että tulevaisuudessa hän tekee oikeita päätöksiä.</p>
-<p>Kesän 2025 Gyökeres haluaa onnistua Valioliigassa. Mutta hän tietää myös, että marraskuun Gyökeres saattaa ajatella toisin päivänä, jolloin sade piiskaa Lontoota, peliaikaa eikä maaleja tule yhtä paljon kuin Sportingissa ja Lissabonissa olisi +28 astetta. 39 liigamaalia ei Valioliigassa ole edes Gyökeresille realistinen tavoite. Siinä voi helposti alkaa kyseenalaistaa koko siirron. Raportoitu ratkaisu oli kallis sitoutumismekanismi: side poikki Portugaliin ennen lähtöä.</p>
-<p>Ihmiset katkaisevat joskus omia pakoreittejään, koska he eivät luota tulevan minänsä itsekuriin. Juuri hinta tekee tällaisista mekanismeista uskottavia: halvat lupaukset eivät sido ketään. Ihmiset maksavat personal trainereista, ostavat kuntosalijäsenyyksiä ja laittavat rahaa eläketileille, joista sitä ei saa helposti ulos, koska tuleva minä tiedetään epäluotettavaksi. Käyttäytymistaloustieteilijät kutsuvat ilmiötä hyperboliseksi aikadiskonttaukseksi: nykyhetken houkutukset painavat suhteettoman paljon verrattuna pitkän aikavälin hyötyihin.</p>
-<p>Huippu-urheilussa tällaiset mekanismit ovat poikkeuksellisen perusteltuja. Pelaajan ura on lyhyt, peruutusvaihdetta ei ole, ja yhden kauden epäonnistuminen voi sulkea ovet pysyvästi. Siinä missä kuntosalijäsenyyden voi unohtaa ilman suurempia seurauksia, urheilijan keskittymisongelmat marraskuussa Premier Leaguessa näkyvät pelaaja-arvossa, pelaaja-arvo seuraavassa siirrossa, seuraava siirto loppu-uran palkkapotissa. Halvat sitoutumiset eivät tähän riitä.</p>
-<p>Tarina sai jatko-osan. Helmikuussa 2026 portugalilaismedia raportoi pieniä merkkejä mahdollisesta lähentymisestä Gyökeresin ja Aguarin välillä — Instagram-tykkäyksiä, kuvia Lontoosta. Kevään mittaan tuli lisää: yhteinen illallinen Lissabonissa, Aguiarin vierailu Emiratesilla. Mitään virallista vahvistusta yhteenpaluusta ei ole annettu, mutta sävy tarinassa on muuttunut.</p>
-<p>Se sopisi joka tapauksessa kuvaan. Sitoutumismekanismit ovat usein väliaikaisia. Kun siirtymä on tehty ja uusi polku rakennettu, niitä ei enää tarvita. Odysseuskin pyysi miehiään irrottamaan hänet mastosta heti vaaran mentyä ohi.</p>
-<p>Varauma silti jää: emme tiedä, oliko ratkaisu oikea. Emme koskaan näe vaihtoehtoista historiaa, jossa Aguiar olisi muuttanut Lontooseen heti viime kesänä. Ehkä kaikki olisi mennyt paremmin, ehkä huonommin. Kaksi maalia ja syöttö Champions Leaguen välierässä on kuitenkin vahva näyttö siihen suuntaan, että ratkaisu saattoi olla oikea. Chant jatkuu: <em>Now he’s scoring goals with a cannon on his chest.</em></p>
-<p>Taloustiede pystyy usein selittämään päätösten logiikan paremmin kuin niiden lopullisen oikeellisuuden. Jos Gyökeresin tarina meni edes suunnilleen niin kuin portugalilaismedia sen kertoi, se oli tarina siitä, miten vakavasti ihminen voi suhtautua omaan tulevaan heikkouteensa. Joskus tavoite tuntuu niin tärkeältä, että pakoreitti katkaistaan ennen kuin sitä ehtii kaivata.</p>
-
-
-
- ]]></description>
-  <category>taloustiede</category>
-  <category>kannustimet</category>
-  <category>käyttäytymistaloustiede</category>
-  <guid>https://vkauppine.github.io/Incentive-Lens/posts/viktor/</guid>
-  <pubDate>Sun, 10 May 2026 21:00:00 GMT</pubDate>
-  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/viktor/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Miksi Tilastokeskus uhkaa lakkauttaa juuri vaalitilastot</title>
@@ -2369,108 +2418,6 @@ Kuva&nbsp;4: Kaupan avoimuus (vienti + tuonti, % BKT:stä). Singaporen poikkeuks
   <guid>https://vkauppine.github.io/Incentive-Lens/posts/singapore/</guid>
   <pubDate>Fri, 20 Feb 2026 22:00:00 GMT</pubDate>
   <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/singapore/pic.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Onko singulariteetti lähellä? Taloustiede vs. teknohype</title>
-  <dc:creator>Vesa </dc:creator>
-  <link>https://vkauppine.github.io/Incentive-Lens/posts/ai-singulariteetti/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="vasta-singulariteetin-alkuvaiheita" class="level2">
-<h2 class="anchored" data-anchor-id="vasta-singulariteetin-alkuvaiheita">Vasta singulariteetin alkuvaiheita</h2>
-<p>Elon Musk kirjoitti helmikuussa 2026 olevamme “singulariteetin hyvin varhaisessa vaiheessa”. Samoihin aikoihin Andrej Karpathy kuvaili autonomisten LLM-agenttien verkostoa — noin 150 000 agenttia jaetulla scratchpadilla — kokeiluna, joka on vielä teknisesti sekava mutta mittakaavaltaan poikkeuksellinen.</p>
-<p>Singulariteetti-termiä käytetään kuitenkin useassa eri merkityksessä:</p>
-<ol type="1">
-<li><strong>Taloudellinen singulariteetti</strong> tarkoittaa tilannetta, jossa talouskasvu kiihtyy rajatta pääoman korvatessa työpanosta yhä laajemmin (Nordhaus, 2021).</li>
-<li><strong>Teknologinen singulariteetti</strong> viittaa pisteeseen, jossa tekoäly kykenee rekursiiviseen itseparannukseen ja ylittää inhimillisen älykkyyden.</li>
-<li><strong>Yhteiskunnallinen singulariteetti</strong> kuvaa laajempaa murrosta, jossa työn merkitys, tulonjako ja ihmisen rooli muuttuvat pysyvästi.</li>
-</ol>
-<p>Käsitteet liittyvät toisiinsa, mutta eivät ole identtisiä. Teknologinen läpimurto ei automaattisesti johda taloudelliseen singulariteettiin, koska diffuusioviiveet, instituutiot ja tuotannon pullonkaulat suodattavat teknologian vaikutuksia. Tarkastelu keskittyy tässä taloudellisen ja teknologisen singulariteetin rajapintaan: mitä kasvuteoria ennustaa ja miten nämä ennusteet suhteutuvat nykyiseen teknologiseen kehitykseen.</p>
-</section>
-<section id="nordhaus-singulariteetti-ei-näy-datassa" class="level2">
-<h2 class="anchored" data-anchor-id="nordhaus-singulariteetti-ei-näy-datassa">Nordhaus: singulariteetti ei näy datassa</h2>
-<p>William Nordhaus analysoi vuonna 2021 taloudellisen singulariteetin mahdollisuutta kasvuteorian näkökulmasta. Keskeinen kysymys on substituutiojousto informaatiopääoman ja muiden tuotantopanosten välillä. Jos informaatio voi korvata työtä ja fyysistä pääomaa laajasti, kasvu voi kiihtyä rajatta. Jos substituutio on rajallista, teknologinen kehitys ei muuta pitkän aikavälin kasvuvauhtia olennaisesti.</p>
-<p>Nordhaus tunnistaa kolme mahdollista mekanismia. Ensimmäinen on tekoälyn kiihdyttämä teknologinen innovaatio, jossa koneet suunnittelevat uusia tuotantoprosesseja. Hän pitää tätä mahdollisuutta liian spekulatiivisena empiiriseen arviointiin. Toinen liittyy kulutusrakenteeseen: jos kulutus siirtyisi nopeasti halpeneviin informaatiotuotteisiin, kokonaiskasvu voisi kiihtyä. Empiirinen näyttö ei tue tätä. Kolmas mekanismi on pääoman syveneminen: jos informaatiopääoma korvaa työvoimaa riittävän joustavasti, pääoman tulo-osuus kasvaa ja kasvu nopeutuu.</p>
-<p>Nordhaus testasi hypoteesia useilla Yhdysvaltojen taloutta kuvaavilla indikaattoreilla, kuten substituutiojoustolla, tuottavuustrendillä ja pääomatulo-osuudella. Suurin osa tuloksista ei tukenut singulariteettia. Positiiviset signaalit viittasivat korkeintaan hyvin pitkän aikavälin mahdollisuuteen.</p>
-<p>Keskeinen johtopäätös on, että laskentatehon nopea kehitys ei automaattisesti muutu kokonaistalouden kasvuksi. Tuotanto edellyttää edelleen energiaa, materiaaleja ja fyysisiä prosesseja, joiden tehokkuus kehittyy hitaammin.</p>
-</section>
-<section id="jones-pullonkaulat-kesyttävät-kasvuräjähdyksen" class="level2">
-<h2 class="anchored" data-anchor-id="jones-pullonkaulat-kesyttävät-kasvuräjähdyksen">Jones: pullonkaulat kesyttävät kasvuräjähdyksen</h2>
-<p>Charles I. Jones esittää tuoreemmassa analyysissaan kaksi ääriskenaariota: tekoäly voi joko kiihdyttää kasvua merkittävästi tai jatkaa historiallista noin kahden prosentin kasvutrendiä uutena yleiskäyttöisenä teknologiana.</p>
-<div id="fig-bkt" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-bkt-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="https://vkauppine.github.io/Incentive-Lens/posts/ai-singulariteetti/bkt_trendi.png" class="img-fluid figure-img">
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-bkt-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Kuva&nbsp;1: USA:n reaalinen BKT henkeä kohti 1870–2024. Logaritmisella asteikolla aikasarja on lähes suora viiva: 2 prosentin vuosikasvu, jota sähkö, transistori, mikrosiru eikä internet muuttanut pysyvästi. Jonesin “suosikkikaavio” tiivistää business as usual -skenaarion ytimen: ehkä AI on vain seuraava GPT, joka pitää kasvun raiteillaan.
-</figcaption>
-</figure>
-</div>
-<p>Jones ja Tonetti (2026) rakentavat Acemoglun ja Restrepoin (2018) tehtäväpohjaisen automaatiokehikon päälle, jossa työpaikat koostuvat heterogeenisista, toisiaan täydentävistä tehtävistä. Heidän weak links -kehikkonsa lähtee ajatuksesta, että kokonaistuotanto määräytyy heikoimman lenkin mukaan.</p>
-<p>Ilmiö on tuttu taloustieteessä Baumolin tautina: palvelusektorin hinnat nousevat suhteessa teollisuuteen, koska palvelutehtävien tuottavuus kasvaa hitaammin. Weak links -kehikossa sama logiikka yleistyy — hitaimmin automatisoituvat tehtävät määräävät kokonaiskasvun tahdin.</p>
-<p>Tulokset riippuvat ratkaisevasti substituutiojoustosta. Jos tehtävät ovat vahvoja komplementteja, yksittäisen sektorin automaatio vaikuttaa vain rajallisesti kokonaistuotantoon. Jos substituutio on joustavampaa, vaikutukset voivat kasvaa huomattavasti. Todellinen talous sijoittuu näiden ääripäiden väliin, eikä tarkkaa arvoa tunneta.</p>
-<div id="fig-weaklinks" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-weaklinks-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="https://vkauppine.github.io/Incentive-Lens/posts/ai-singulariteetti/weak_links.png" class="img-fluid figure-img">
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-weaklinks-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Kuva&nbsp;2: Automaation tuottama BKT-hyöty Jonesin weak links -kehikossa. Vaaka-akselilla automatisoitujen tehtävien osuus BKT:sta, pystyakselilla suhteellinen BKT-kasvu. Ohjelmistojen automaatio (s ≈ 0,02) tuottaa häviävän pienen hyödyn; kaiken tietotyön automaatio (s ≈ 0,33) nostaa BKT:ta noin 50 %. Käyrä jyrkkenee vasta kun lähes kaikki tehtävät on automatisoitu — mutta juuri ne viimeiset tehtävät ovat vaikeimpia.
-</figcaption>
-</figure>
-</div>
-<p>Jones ja Tonetti (2026) päätyvät mallissaan tilanteeseen, jossa kasvu kiihtyy, mutta hitaasti. Automaatio leviää aluksi rajatulle tehtäväalueelle, ja vasta laaja diffuusio muuttaa kasvuvauhtia selvästi. Pullonkaulat eivät estä nopeampaa kasvua, mutta tekevät siitä asteittaisen prosessin.</p>
-<p>Jones tarkastelee myös riskejä. Hyöty-riskilaskelmat viittaavat siihen, että merkittäväkin kasvupotentiaali ei automaattisesti oikeuta suuria eksistentiaalisia riskejä, koska lisäkulutuksen rajahyöty on korkeilla tulotasoilla suhteellisen pieni.</p>
-<p>Jones kuvaa AI-kilpajuoksun dynamiikkaa vangin dilemmana. Jokainen AI-laboratorio ajattelee, että muut kilpailevat joka tapauksessa: hidastaminen ei vähennä riskejä mutta voiton mahdollisuus menetetään. Tasapaino on, että kaikki kilpailevat, vaikka kaikki hyötyisivät hidastamisesta. Ratkaisuksi Jones ehdottaa veroa GPU- ja TPU-siruille, mikä hidastaisi kilpailua ja rahoittaisi turvallisuustutkimusta samanaikaisesti.</p>
-</section>
-<section id="teknologinen-etulinja" class="level2">
-<h2 class="anchored" data-anchor-id="teknologinen-etulinja">Teknologinen etulinja</h2>
-<p>Arviot tekoälyn koulutuksessa käytetyn efektiivisen laskennan kasvusta viittaavat erittäin nopeaan panosten kasvuun: Epoch AI:n (2025) kokoaman datan mukaan koulutukseen käytetty laskentateho on kasvanut noin 4–5 kertaluokkaa vuosikymmenessä. Samoin ohjelmistotehtäviä mittaavat benchmarkit osoittavat mallien suorituskyvyn parantuneen nopeasti — METR:n (2025) pitkäkestoisten tehtävien mittauksissa mallien suorituskyky on karkeasti kaksinkertaistunut noin seitsemän kuukauden välein. Nämä mittarit kuvaavat kuitenkin teknistä kyvykkyyttä, eivät suoraan taloudellista tuottavuutta. Benchmark-suorituskyvyn eksponentiaalinen kasvu ei välttämättä tarkoita vastaavaa kasvua taloudellisessa arvonluonnissa.</p>
-<p>Rekursiivisen itseparannuksen mahdollisuus — tekoäly, joka auttaa kehittämään parempaa tekoälyä — muodostaa teoreettisesti merkittävän mutta edelleen epävarman kehityspolun.</p>
-</section>
-<section id="työmarkkinavaikutukset" class="level2">
-<h2 class="anchored" data-anchor-id="työmarkkinavaikutukset">Työmarkkinavaikutukset</h2>
-<p>Historialliset esimerkit viittaavat siihen, että automaatio täydentää usein työtä ennen kuin korvaa sen. Radiologien tapaus on havainnollinen: tekoäly on automatisoinut osia työstä, mutta ammatti ei ole kadonnut, koska siihen sisältyy useita tehtäviä, joita teknologia ei vielä kata. Pullonkaulamallissa automaatio voi jopa nostaa jäljelle jäävien tehtävien arvoa.</p>
-<p>Tämä logiikka toimii kuitenkin vain niin kauan kuin osa tehtävistä säilyy ihmisillä. Jos kaikki tehtävät automatisoituvat, palkkataso alkaa määräytyä koneen käyttökustannuksen mukaan.</p>
-</section>
-<section id="tulkinta" class="level2">
-<h2 class="anchored" data-anchor-id="tulkinta">Tulkinta</h2>
-<p>Nordhausin, Jonesin sekä teknologia-alan toimijoiden näkemykset eivät ole keskenään ristiriidassa, vaan painottavat eri aikahorisonteja. Empiirinen makrodata ei vielä osoita singulariteettia. Samalla teknologinen kehitysvauhti on selvästi kiihtynyt. Pullonkaulat ja diffuusioviiveet selittävät, miksi nämä havainnot voivat olla yhtä aikaa totta.</p>
-<p>Lisäksi tehtäväkenttä ei ole vakio. Automaatio muuttaa sitä, mitä taloudessa tuotetaan ja missä ohjelmistoja käytetään. Talouden rakenne mukautuu teknologian mukana, mikä tekee pitkän aikavälin vaikutuksista vaikeasti ennustettavia.</p>
-<p>Dario Amodei (2024) edustaa optimistisempaa tulkintaa: hänen mukaansa tekoälyn hyödyt — lääketieteessä, koulutuksessa ja tieteellisessä tutkimuksessa — voivat realisoitua nopeasti, jos teknologian käyttöönottoa ei hidasteta tarpeettomasti. Tämä näkemys olettaa lyhyitä diffuusioviiveitä ja nopeaa institutionaalista sopeutumista — juuri niitä oletuksia, joita Nordhausin ja Jonesin analyysit kyseenalaistavat. Samalla riskit kasvavat teknologisen kapasiteetin mukana. Taloudelliset hyödyt ja turvallisuuskysymykset kietoutuvat toisiinsa tavalla, jota perinteinen kasvuteoria on käsitellyt vain rajallisesti.</p>
-</section>
-<section id="johtopäätös" class="level2">
-<h2 class="anchored" data-anchor-id="johtopäätös">Johtopäätös</h2>
-<p>Taloustieteen näkökulmasta lopputulos on avoin. Teknologinen etulinja näyttää nopean muutoksen, mutta koko talouden tasolla vaikutukset määräytyvät täydentävyyksien, pullonkaulojen ja institutionaalisen sopeutumisen kautta. Historiallisesti monet mullistavat teknologiat ovat muuttaneet talouden rakennetta ilman pysyvää kasvuvauhdin muutosta. Tekoäly voi muodostaa poikkeuksen, mutta sen osoittaa ajan myötä kertynyt data, ei yksittäiset havainnot tai julkiset lausunnot.</p>
-<hr>
-<p><strong>Lähteet:</strong></p>
-<ul>
-<li>Acemoglu, D. &amp; Restrepo, P. (2018). “The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment.” American Economic Review, 108(6), 1488–1542.</li>
-<li>Amodei, D. (2024). “Machines of Loving Grace: How AI Could Transform the World for the Better.” <a href="https://darioamodei.com/machines-of-loving-grace">darioamodei.com</a>.</li>
-<li>Epoch AI (2025). “Data on AI Models.” <a href="https://epochai.org/data/notable-ai-models">epochai.org</a>.</li>
-<li>Jones, C.I. (2024). “The AI Dilemma: Growth versus Existential Risk.” <em>American Economic Review: Insights</em>, 6(4), 575–590.</li>
-<li>Jones, C.I. (2025). “How Much Should We Spend to Reduce A.I.’s Existential Risk?” NBER Working Paper 33602.</li>
-<li>Jones, C.I. (2026). “A.I. and Our Economic Future.” Tulossa <em>Journal of Economic Perspectives</em> -lehdessä.</li>
-<li>Jones, C.I. &amp; Tonetti, C. (2026). “Past Automation and Future A.I.: How Weak Links Tame the Growth Explosion.” Julkaisematon käsikirjoitus.</li>
-<li>METR (2025). “Measuring AI Ability to Complete Long Tasks.” <a href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/">metr.org</a>.</li>
-<li>Nordhaus, W.D. (2021). “Are We Approaching an Economic Singularity?” <em>American Economic Journal: Macroeconomics</em>, 13(1), 299–332.</li>
-<li>Musk, E. &amp; Karpathy, A. (2026). X/Twitter-keskustelu, helmikuu 2026.</li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>tekoäly</category>
-  <category>talouskasvu</category>
-  <category>singulariteetti</category>
-  <guid>https://vkauppine.github.io/Incentive-Lens/posts/ai-singulariteetti/</guid>
-  <pubDate>Wed, 18 Feb 2026 22:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

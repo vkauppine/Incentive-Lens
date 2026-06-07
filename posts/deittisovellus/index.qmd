@@ -1,0 +1,55 @@
+---
+title: "Valtiojohtoisuus takaa laadun: kansalaisen elinkaaren optimointi"
+author: "Vesa"
+date: "2026-05-22"
+image: "cover.png"
+categories: [kannustimet, julkinen valinta, satiiri]
+
+---
+![Everybody knows what's best for you](cover.png)
+
+Keskustanuoret esittää Suomeen valtion ylläpitämää parisuhdepalvelua. Perusteluina ovat syntyvyyden lasku, yksinäisyys ja kaupallisten deittisovellusten vinoutuneet kannustimet. 
+
+Hyvä alku. 
+
+Mutta miksi pysähtyä parinmuodostukseen? Se on vasta elinkaaren ensimmäinen kvartaali. Jos kerran luotamme siihen, että virasto hoitaa rakkauselämän paremmin kuin ihminen itse, ei ole mitään syytä jättää loppua sattuman varaan.
+
+Tässä täysi palvelupolku. Yhden luukun periaatteella.
+
+**Parinmuodostus.** Valtion deittipalvelu yhdistää sinut tieteellisesti yhteensopivaan kumppaniin. Algoritmi on salattu hankintasopimuksen ja kansallisen huoltovarmuuden perusteella.
+
+**Lisääntymisaikataulu.** STM:n algoritmi laskee otollisimman hedelmöityshetken. Push-notifikaatio Omakantaan. 
+
+**Geneettinen sopivuusarviointi.** THL antaa väestötason suosituksen, jota ei tule soveltaa yksilötasolla. Hakemuksen ratkaisu perustuu väestötason suositukseen.
+
+**Lasten lukumäärä.** Sidotaan kunnan kantokykyyn. Kuntaliitto antaa lausunnon, jonka jälkeen lukumäärä neuvotellaan seuraavassa kehysriihessä. Kasvukeskuksissa kiintiö, muuttotappiokunnissa kannustinlisä.
+
+**Nimivalinta.** Digi- ja väestötietovirasto ehdottaa kolme Suomi-brändiä tukevaa vaihtoehtoa. Omavalintainen nimi on mahdollinen erillisellä hakemuksella, käsittelymaksu 69,90 euroa.
+
+**Harrastukset.** OKM osoittaa lapselle harrastuspolun. Lajitoive huomioidaan, mikäli se tukee alueellista yhdenvertaisuutta ja liikuntapoliittista selontekoa. Omaehtoinen kiinnostus kirjataan lausunnon liitteeksi.
+
+**Hiilijalanjälki.** SYKE mallintaa mahdollisen tulevan kansalaisen elinkaaren hiilijalanjäljen ja suhteuttaa sen kunnan hiilineutraalisuustavoitteeseen. Virastolla on veto-oikeus lisääntymispäätökseen.
+
+Valitusoikeus Vaasan hallinto-oikeuteen. Palvelulupaus käsittelyajasta: 4–6 vuotta. 
+
+---
+
+Asiaa sitten mausteeksi, koska vitsin alla on oikea pointti.
+
+Keskustanuorten diagnoosi on parempi kuin heidän reseptinsä. Kaupallisten deittisovellusten kannustinrakenne on vinossa. Käyttäjän tavoite on löytää kumppani ja poistua markkinalta. Sovelluksen tulovirta syntyy maksavista käyttäjistä, tilauksista, lisäominaisuuksista ja jatkuvasta käytöstä. On aivan perusteltua kysyä, optimoiko appi pariutumista vai käyttäjän pitämistä kierrossa.
+
+Siitä ei kuitenkaan seuraa, että valtion sovellus olisi parempi ratkaisu. Kun voitontavoittelu poistetaan, päätöksiä alkaa ohjata toinen tavoitefunktio: budjetti, mittari, hankintasopimus, tietosuojavaikutusten arviointi ja seuraava kehysriihi. Yllä oleva lista oli vain tämän logiikan jatkamista loppuun asti.
+
+Markkinan epäonnistuminen on todellinen ongelma. Usko siihen, että julkinen suunnittelija voi sen ratkaista, on kohtalokas ylimieli.
+
+---
+
+Neuvoksi vielä parisuhdemarkkinoilla toimiville. Ongelma on klassinen hakuteorian optimaalisen pysäyttämisen tehtävä: kandidaatit saapuvat sekventiaalisesti, haku maksaa $c$ per kierros, eikä hylättyyn vaihtoehtoon voi palata. Jos kandidaatin tarjoama hyöty $x$ noudattaa tiheysfunktiota $f(x)$ ja kertymäfunktiota $F(x)$ välillä $[0, B]$, niin optimaalisella kynnyksellä $U^*$ lisähaun (yksi kierros lisää) odotettu rajahyöty on täsmälleen yhtä suuri kuin haun kustannus $c$:
+
+$$
+c = \int_{U^*}^{B} (x - U^*)\, f(x)\, dx
+$$
+
+Hyväksy ensimmäinen kandidaatti, jonka hyöty ylittää kynnyksen, $x \ge U^*$.
+
+Suomeksi: ota ensimmäinen riittävän hyvä.

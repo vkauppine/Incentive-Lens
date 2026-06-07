@@ -7,9 +7,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Vesa">
-<meta name="description" content="Eteläkalifornialainen punkkari ja itävaltalainen taloustieteilijä sanoivat lähes samaa">
 
-<title>We have no control – No Control ja kohtalokas ylimieli – Incentive Lens</title>
+<title>Valtiojohtoisuus takaa laadun: kansalaisen elinkaaren optimointi – Incentive Lens</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -112,16 +140,11 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">We have no control – No Control ja kohtalokas ylimieli</h1>
-                  <div>
-        <div class="description">
-          Eteläkalifornialainen punkkari ja itävaltalainen taloustieteilijä sanoivat lähes samaa
-        </div>
-      </div>
-                          <div class="quarto-categories">
-                <div class="quarto-category">filosofia</div>
-                <div class="quarto-category">musiikki</div>
-                <div class="quarto-category">taloustiede</div>
+      <h1 class="title">Valtiojohtoisuus takaa laadun: kansalaisen elinkaaren optimointi</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">kannustimet</div>
+                <div class="quarto-category">julkinen valinta</div>
+                <div class="quarto-category">satiiri</div>
               </div>
                   </div>
   </div>
@@ -139,7 +162,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Julkaistu</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">21. toukokuuta 2026</p>
+        <p class="date">22. toukokuuta 2026</p>
       </div>
     </div>
     
@@ -160,84 +183,36 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="cover.jpg" class="img-fluid figure-img"></p>
-<figcaption>No Control</figcaption>
+<p><img src="cover.png" class="img-fluid figure-img"></p>
+<figcaption>Everybody knows what’s best for you</figcaption>
 </figure>
 </div>
-<p>Kuuntelin pitkästä aikaa Bad Religionin No Controlia. Vuonna 1989 ilmestynyt punkrockin klassikko oli teini-iässä yksi suosikkejani. Jälkeenpäin ajateltuna sillä oli melko suuri vaikutus omaan ajatteluuni, vaikka en sitä silloin tiennyt. Ja kun nyt kuuntelin sen pari kertaa peräkkäin, huomasin asian joka oli aiemmin mennyt enimmäkseen ohi; levyn keskeiset biisit toimivat yllättävän tarkasti samalla logiikalla kuin Friedrich Hayekin klassikko <em>The Fatal Conceit</em>.</p>
-<p>Hayekin kirja, suomeksi <em>Kohtalokas ylimieli: sosialismin virhepäätelmät</em>, ilmestyi vuotta ennen <em>No Controlia</em>. Sen ydin on yksinkertainen: kulttuuri, kieli, moraali ja markkinat ovat syntyneet spontaanisti, eivät suunnittelijan pöydällä. Niiden uudelleenrakentaminen epäonnistuu, koska järjestelmässä on hiljaista ja hajautunutta tietoa, jota suunnittelijalla ei ole. Juuri uskoa ihmisjärjen kykyyn suunnitella monimutkaisia järjestelmiä Hayek kutsuu kohtalokkaaksi ylimieleksi.</p>
-<p><em>No Controlin</em> nimibiisi avaa saman ajatuksen:</p>
-<blockquote class="blockquote">
-<p>Culture was the seed of proliferation, but it’s gotten melded<br>
-into an inharmonic whole<br>
-Consciousness has plagued us and we cannot shake it<br>
-though we think we’re in control</p>
-</blockquote>
-<p>Maanviljelyn oppiminen muutti kulttuuria. Paikalleen asettuminen kasvatti populaatioita ja eriytti työnjakoa. Tavoista muodostui instituutioita. Ihmisten ratkaisuista kasvoi spontaani järjestys, jota kukaan ei suunnitellut. Tietoisuus tuottaa harhan, että tällainen järjestys olisi hallittavissa. Kertosäkeessä sama todetaan suorimmin: we have no control, we do not understand.</p>
-<p>Levyn poliittisin versio samasta ajatuksesta on “I Want to Conquer the World”. Köyhyyden poistaminen, maailmanrauha ja saasteiden vähentäminen ovat hyviä tavoitteita, eikä biisi pilkkaa niitä. Pilkka kohdistuu siihen, kun näiden tavoitteiden saavuttaminen alkaa vaatia maailman valloittamista.</p>
-<blockquote class="blockquote">
-<p>And I wanna conquer the world<br>
-Give all the idiots a brand-new religion<br>
-Put an end to poverty, uncleanliness, and toil<br>
-Promote equality in all of my decisions</p>
-</blockquote>
-<p>Siinä on Hayekin varoitus poliittisessa muodossa: ihminen näkee kärsimystä, päättelee kokonaisuuden olevan väärin rakennettu, ja uskoo pystyvänsä rakentamaan järjestelmän, joka korjaa kaikki ongelmat. Kertosäkeen ironia rakentuu sille, että kaikki päämäärät ovat kivoja, mutta verbi on valloittaa. Ja se, että pelastettavat ovat idiootteja joille tarjotaan uusi uskonto, paljastaa pelastajan oman asenteen.</p>
-<p>“Progress” kertoo nimensä mukaisesti edistyksestä, punkrockin tyyliin.</p>
-<blockquote class="blockquote">
-<p>Progress is not intelligently planned<br>
-It’s the facade of our heritage</p>
-<p>Progress is a synonym of time<br>
-We are all aware of it but it’s nothing we refine</p>
-</blockquote>
-<p>Edistys ei ole suunnitelman toteuttamista vaan evolutiivinen prosessi. Sitä voi ohjata paikallisesti, sääntöjen ja instituutioiden tasolla, mutta kokonaisuus ei ole kenenkään hallinnassa. Tämä on Hayekilaista skientismin kritiikkiä punkrockin kolmella soinnulla: usko siihen, että edistystä voitaisiin suunnitella kuin koneen rakentamista on harhakuvitelma.</p>
-<p>“Automatic Man” muistuttaa, että spontaani järjestys tuottaa myös tyhmiä ja epätoivottuja tuloksia:</p>
-<blockquote class="blockquote">
-<p>He’s the quintessential, mindless, modern epicene<br>
-His opinions are determined by the status quo</p>
-</blockquote>
-<p>Biisin idea on siinä, että sama rakenne joka mahdollistaa vapauden ja hyvinvoinnin tuottaa myös kulutuskulttuurin, statusjahdin ja yksilöllisyyden, jonka ryhmäidentiteetti ostetaan pakettina.</p>
-<section id="ahdistus-pyörittää-järjestelmää" class="level2">
-<h2 class="anchored" data-anchor-id="ahdistus-pyörittää-järjestelmää">Ahdistus pyörittää järjestelmää</h2>
-<p>“Anxiety” diagnosoi mekanismin joka pitää koko logiikkaa pystyssä:</p>
-<blockquote class="blockquote">
-<p>Anxiety destroys us, but it drives the common man<br>
-Foundation of society, anxiety</p>
-</blockquote>
-<p>Ja:</p>
-<blockquote class="blockquote">
-<p>What are we angry for? We all need a common cure<br>
-That common goal for which you strive<br>
-To have more than the other guy</p>
-</blockquote>
-<p>Tämä pakkaa Fred Hirschin <em>Social Limits to Growth</em> (1976) -kirjan tematiikan aika hyvin muutamaan riviin. Yhteinen tavoite ei ole oikeasti yhteinen. Markkinakilpailu, jota Hayek puolusti hajautetun tiedon koordinaatiomekanismina, tuottaa myös statuskilpailun, jossa kaikki eivät voi voittaa. Määritelmän mukaan. Ahdistus on tämän nollasummapelin jakojäännös.</p>
-</section>
-<section id="musta-aurinko-nousee" class="level2">
-<h2 class="anchored" data-anchor-id="musta-aurinko-nousee">Musta aurinko nousee</h2>
-<p>Levy päättyy “The World Won’t Stop Without You” -biisiin, joka asettaa kaiken edellisen kosmiseen perspektiiviin:</p>
-<blockquote class="blockquote">
-<p>Two billion years thus far, now mister, here you are<br>
-An element in a sea of enthalpic organic compounds</p>
-<p>The world rotates and will revolve without you constantly</p>
-</blockquote>
-<p>Ihminen on miljardien vuosien prosessin tuottama pieni osanen. Kun sinua ei ole, maapallo jatkaa kulkuaan auringon ympäri kuten ennenkin. Jos olet onnekas, hautajaisiin saapuu 150 ihmistä.</p>
-<p>Tämä on Hayekin epistemologisen nöyryyden biologinen pari. Hayek sanoo, että ihmisjärjen ulottuvuus on rajallinen. Luonnontieteellisestä maailmankuvasta ammentava Graffin sanoo, että yhden ihmisen aika on häviävän pieni. Johtopäätös on sama: yritys hallita monimutkaista prosessia perustuu virheelliseen kuvitelmaan omasta merkityksestä järjestelmässä.</p>
-</section>
-<section id="tämä-hetki-ja-ylimieli" class="level2">
-<h2 class="anchored" data-anchor-id="tämä-hetki-ja-ylimieli">Tämä hetki ja ylimieli</h2>
-<p>Hayekia luetaan nörttipiireissä ja oikeistolaisissa ajatuspajoissa, ehkä joillain taloustieteen kursseilla. Bad Religionia kuuntelevat punkkarit. Oletus molemmin puolin on, että mitään yhteistä tai opittavaa toiselta puolelta ei ole. Graffinin taustasta luonnontietelijänä kumpuaa sama epistemologinen nöyryys kuin Hayekilla. Kummankin ajattelun pohjalla on evolutiivisten prosessien hidas vaikutus ja ihmisjärjen rajallisuus.</p>
-<p>Eteläkalifornialainen vasemmistopunkkari vuonna 1989 ja itävaltalais-brittiläinen klassinen liberaali vuonna 1988 sanovat samaa asiaa. Joku savolaisoululainen kuuntelee toista ja lukee toista, ja tunnistaa että samoista asioistahan tässä puhutaan.</p>
-<p>Kohtalokas ylimieli ei jäänyt 80-luvulle. AI-profeetat julistavat, että kaikki työ loppuu kahdessa vuodessa. Kuntien ilmastotavoitteet lasketaan Viikissä. Amazon huomaa, että hups, työntekijät token-maxaavat. Sairaalan pesulapalvelut kilpailutetaan ja osastolta poistetaan pesukoneet: pitkäaikaisesti sairas lapsi ei saa enää pitää omia tuttuja vaatteitaan. Eduskunta veivaa hoitajamitoitusta edestakaisin, vaikka paras tieto oikeasta tarpeesta on hoitopaikassa.</p>
-<p>Lontoon skidit sanoo et ei oo tekemistä muut tietääks ne millaista on Pihtiputaalla?</p>
-<p>Sama rakenne toistuu pienemmissä ja suuremmissa päätöksissä: joku luulee tietävänsä paremmin, vaikka rakenne on syntynyt hiljaisesta tiedosta ja ihan syystä.</p>
-<p>Turun ratikka on tuore tapaus: kaupunginvaltuusto päätti 18.5.2026 äänin 36–31. Hinta on noussut 465 miljoonaan euroon, ja lopullinen toteutuminen riippuu vielä valtion rahoituspäätöksestä. Kukaan ei tiedä onko päätös hyvä vai huono, koska todellinen hintainformaatio on irroitettu päätöksenteosta.</p>
-<p>Kun seuraavan kerran joku kertoo vaikka miten valtion rohkeilla investoinneilla vihreään siirtymään saadaan Suomen talous nousuun, kannattaa ehkä laittaa <em>No Control</em> soimaan taustalle. “We have no control / we do not understand” ovat siinäkin kontekstissa järkevimpiä rivejä mitä 80-luvulla kirjoitettiin. Jos Kohtalokas ylimieli on vielä lukematta, sekin kannattaa tsekata.</p>
+<p>Keskustanuoret esittää Suomeen valtion ylläpitämää parisuhdepalvelua. Perusteluina ovat syntyvyyden lasku, yksinäisyys ja kaupallisten deittisovellusten vinoutuneet kannustimet.</p>
+<p>Hyvä alku.</p>
+<p>Mutta miksi pysähtyä parinmuodostukseen? Se on vasta elinkaaren ensimmäinen kvartaali. Jos kerran luotamme siihen, että virasto hoitaa rakkauselämän paremmin kuin ihminen itse, ei ole mitään syytä jättää loppua sattuman varaan.</p>
+<p>Tässä täysi palvelupolku. Yhden luukun periaatteella.</p>
+<p><strong>Parinmuodostus.</strong> Valtion deittipalvelu yhdistää sinut tieteellisesti yhteensopivaan kumppaniin. Algoritmi on salattu hankintasopimuksen ja kansallisen huoltovarmuuden perusteella.</p>
+<p><strong>Lisääntymisaikataulu.</strong> STM:n algoritmi laskee otollisimman hedelmöityshetken. Push-notifikaatio Omakantaan.</p>
+<p><strong>Geneettinen sopivuusarviointi.</strong> THL antaa väestötason suosituksen, jota ei tule soveltaa yksilötasolla. Hakemuksen ratkaisu perustuu väestötason suositukseen.</p>
+<p><strong>Lasten lukumäärä.</strong> Sidotaan kunnan kantokykyyn. Kuntaliitto antaa lausunnon, jonka jälkeen lukumäärä neuvotellaan seuraavassa kehysriihessä. Kasvukeskuksissa kiintiö, muuttotappiokunnissa kannustinlisä.</p>
+<p><strong>Nimivalinta.</strong> Digi- ja väestötietovirasto ehdottaa kolme Suomi-brändiä tukevaa vaihtoehtoa. Omavalintainen nimi on mahdollinen erillisellä hakemuksella, käsittelymaksu 69,90 euroa.</p>
+<p><strong>Harrastukset.</strong> OKM osoittaa lapselle harrastuspolun. Lajitoive huomioidaan, mikäli se tukee alueellista yhdenvertaisuutta ja liikuntapoliittista selontekoa. Omaehtoinen kiinnostus kirjataan lausunnon liitteeksi.</p>
+<p><strong>Hiilijalanjälki.</strong> SYKE mallintaa mahdollisen tulevan kansalaisen elinkaaren hiilijalanjäljen ja suhteuttaa sen kunnan hiilineutraalisuustavoitteeseen. Virastolla on veto-oikeus lisääntymispäätökseen.</p>
+<p>Valitusoikeus Vaasan hallinto-oikeuteen. Palvelulupaus käsittelyajasta: 4–6 vuotta.</p>
 <hr>
-<p><em>Lisätietoja:</em><br>
-<em>Friedrich A. Hayek, Kohtalokas ylimieli: sosialismin virhepäätelmät, suom. Joose Norri ja Matti Norri (Art House 1998). Englanninkielinen alkuteos The Fatal Conceit: The Errors of Socialism (University of Chicago Press 1988).</em><br>
-<em>Bad Religion, No Control (Epitaph 1989).</em></p>
+<p>Asiaa sitten mausteeksi, koska vitsin alla on oikea pointti.</p>
+<p>Keskustanuorten diagnoosi on parempi kuin heidän reseptinsä. Kaupallisten deittisovellusten kannustinrakenne on vinossa. Käyttäjän tavoite on löytää kumppani ja poistua markkinalta. Sovelluksen tulovirta syntyy maksavista käyttäjistä, tilauksista, lisäominaisuuksista ja jatkuvasta käytöstä. On aivan perusteltua kysyä, optimoiko appi pariutumista vai käyttäjän pitämistä kierrossa.</p>
+<p>Siitä ei kuitenkaan seuraa, että valtion sovellus olisi parempi ratkaisu. Kun voitontavoittelu poistetaan, päätöksiä alkaa ohjata toinen tavoitefunktio: budjetti, mittari, hankintasopimus, tietosuojavaikutusten arviointi ja seuraava kehysriihi. Yllä oleva lista oli vain tämän logiikan jatkamista loppuun asti.</p>
+<p>Markkinan epäonnistuminen on todellinen ongelma. Usko siihen, että julkinen suunnittelija voi sen ratkaista, on kohtalokas ylimieli.</p>
+<hr>
+<p>Neuvoksi vielä parisuhdemarkkinoilla toimiville. Ongelma on klassinen hakuteorian optimaalisen pysäyttämisen tehtävä: kandidaatit saapuvat sekventiaalisesti, haku maksaa <span class="math inline">\(c\)</span> per kierros, eikä hylättyyn vaihtoehtoon voi palata. Jos kandidaatin tarjoama hyöty <span class="math inline">\(x\)</span> noudattaa tiheysfunktiota <span class="math inline">\(f(x)\)</span> ja kertymäfunktiota <span class="math inline">\(F(x)\)</span> välillä <span class="math inline">\([0, B]\)</span>, niin optimaalisella kynnyksellä <span class="math inline">\(U^*\)</span> lisähaun (yksi kierros lisää) odotettu rajahyöty on täsmälleen yhtä suuri kuin haun kustannus <span class="math inline">\(c\)</span>:</p>
+<p><span class="math display">\[
+c = \int_{U^*}^{B} (x - U^*)\, f(x)\, dx
+\]</span></p>
+<p>Hyväksy ensimmäinen kandidaatti, jonka hyöty ylittää kynnyksen, <span class="math inline">\(x \ge U^*\)</span>.</p>
+<p>Suomeksi: ota ensimmäinen riittävän hyvä.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

@@ -1,7 +1,7 @@
 ---
 title: "We have no control – No Control ja kohtalokas ylimieli"
 author: "Vesa"
-date: "2026-21-05"
+date: "2026-05-21"
 categories: [filosofia, musiikki, taloustiede]
 description: "Eteläkalifornialainen punkkari ja itävaltalainen taloustieteilijä sanoivat lähes samaa"
 image: "cover.jpg"
