@@ -2,7 +2,6 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/suarez/index.html",
       "/posts/ngo/index.html",
       "/posts/deittisovellus/index.html",
       "/posts/no-control/index.html",
@@ -10,6 +9,7 @@
       "/posts/viktor/index.html",
       "/posts/koulu/index.html",
       "/posts/welfare-state/index.html",
+      "/posts/suarez/index.html",
       "/posts/washington/index.html",
       "/posts/jevons/index.html",
       "/posts/bad-religion/index.html",
