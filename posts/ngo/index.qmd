@@ -59,7 +59,7 @@ Kuvattua rakennetta ei tarvinnut suunnitella. Riitti, että hyöty keskittyi, ku
 [^siirto]: STEA, "Sosiaali- ja terveysjärjestöjen STEA-avustusten rahoitusmallin uudistus 2020–2026", stea.fi. Laki 284/2023 tuli voimaan 1.1.2024.
 [^2026]: STEA, avustuspäätökset. 2024: noin 384 milj. euroa, 789 hakijaa, 1 797 kohdetta. 2025: noin 304 milj. euroa. 2026: noin 274 milj. euroa, 686 järjestöä, 1 288 kohdetta.
 [^soste]: SOSTE, joulukuu 2025: arvio vuodelle 2027 noin 243 milj. euroa. Sittemmin vanhentunut.
-[^2027]: STEA, tiedote toukokuu 2026: vuoden 2027 avustustaso noin 190 milj. euroa kehysriihen jälkeen. Lisää tarkka tiedotelinkki.
+[^2027]: STEA, tiedote toukokuu 2026: vuoden 2027 avustustaso noin 190 milj. euroa kehysriihen jälkeen. <https://www.stea.fi/uusien-vuonna-2027-myonnettavien-stea-avustusten-hakuaika-on-alkanut/>
 [^katto]: STEA, "STEA-avustuksiin palkkakatto vuonna 2027", stea.fi.
 [^jaosto]: STM, avustusten arviointi- ja avustusjaoston lausunto 19.12.2025 (hankesivu).
 [^eriava]: STM:n hankesivu: jaoston lausunto sekä "Garedew eriävä lausuma_arviointijaosto 19.12.25". Eriävä lausuma kohdistuu maahanmuuttajajärjestöjen sekä seksuaali- ja sukupuolivähemmistöjen etujärjestöjen rahoitukseen.
