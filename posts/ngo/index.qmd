@@ -14,7 +14,7 @@ Järjestöjen valtionrahoitus nousee julkisuudessa esiin aika ajoin, lähes aina
 
 ## Organisaatio puolustaa budjettiaan
 
-Niskasen byrokratiamalli [@niskanen1971] ei siirry järjestökenttään sellaisenaan. Järjestö ei ole virasto, eikä se ole monopolituottaja suhteessa rahoittajaansa samalla tavalla kuin valtion laitos. Mallin perusoivallus kuitenkin siirtyy: jos organisaation arvostus, henkilöstö, johtoasema ja jatkuvuus riippuvat ennen muuta budjetin koosta, organisaatio alkaa käyttäytyä budjettiaan puolustavana toimijana. Tuotetun hyödyn ja saadun määrärahan yhteys jää löyhäksi, koska yleishyödyllisen toiminnan tuotos on usein vaikeasti mitattava ja osin toimijan itsensä määrittelemä.
+Niskasen byrokratiamalli [@niskanen1971] ei siirry järjestökenttään sellaisenaan. Järjestö ei ole virasto, eikä se ole monopolituottaja suhteessa rahoittajaansa samalla tavalla kuin valtion laitos. Mallin perusoivallus kuitenkin siirtyy: jos organisaation arvostus, henkilöstö, johdon asema ja jatkuvuus riippuvat ennen muuta budjetin koosta, organisaatio alkaa käyttäytyä budjettiaan puolustavana toimijana. Tuotetun hyödyn ja saadun määrärahan yhteys jää löyhäksi, koska yleishyödyllisen toiminnan tuotos on usein vaikeasti mitattava ja osin toimijan itsensä määrittelemä.
 
 Organisaatiotalouden kielellä tähän liittyy myös tehtävän liukuma, *mission drift*. Järjestö perustetaan ratkaisemaan jokin ongelma, mutta kun rahoitus, henkilöstö ja asema vakiintuvat, organisaation oma jatkuvuus alkaa vähitellen syrjäyttää alkuperäisen päämäärän. Väline muuttuu itseisarvoksi.
 
