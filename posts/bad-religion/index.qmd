@@ -33,7 +33,7 @@ Sham 69 oli englantilainen työväenluokan punkbändi, ja "If the Kids Are Unite
 
 Sanaleikki menee siis kolmessa kerroksessa: Citizens United on korkeimman oikeuden tapaus, joka mahdollistaa yritysten poliittisen rahankäytön; "kansalaiset yhdistyneinä" on toiveikas ajatus demokraattisesta solidaarisuudesta; Sham 69:n biisi on punkin oma traditio nuorisosta yhdistyneenä työväenluokan rintamassa. Ja sitten Graffin tappaa toivon yhdellä rivillä: *but that was yesterday, there's a brand new sham today.* Sana **sham** ("petos, huijaus") viittaa bändiin, mutta tarkoittaa, että koko ajatus kansalaisten tai työväen yhtenäisyydestä on nyt huijaus. Oikeasti yhdistyneitä ovat yritykset ja niitä suojaavat instituutiot.
 
-Tämä on biisin ilmeinen luenta. Se toimii. Keskimmäinen säkeistö vihjaa kuitenkin toisesta tasosta, jonka bändi todennäköisesti tarkoitti vain finanssikriisin yleisluontoiseksi taustaksi:
+Tämä on biisin ilmeinen tulkinta. Se toimii. Keskimmäinen säkeistö vihjaa kuitenkin toisesta tasosta, jonka bändi todennäköisesti tarkoitti vain finanssikriisin yleisluontoiseksi taustaksi:
 
 > *It couldn't last, they had to crash*  
 > *Some parties are just made that way*  
@@ -52,7 +52,7 @@ Richard Cantillon huomasi 1700-luvulla, että uusi raha kulkee talouteen kanavie
 
 Modernissa rahajärjestelmässä vastaava reitti kulkee ennen kaikkea arvopaperimarkkinoiden kautta. Kun keskuspankki ostaa velkakirjoja, se painaa niiden tuottovaatimuksia alas. Kun turvallisten sijoitusten tuotto laskee, sijoittajat etsivät tuottoa muualta. Se nostaa osakkeiden, yrityslainojen, kiinteistöjen ja muiden omaisuuserien arvostuksia.
 
-Tämä kuulostaa tekniseltä, mutta jakovaikutus on ilmeinen. Jos politiikka nostaa omaisuuserien hintoja, ensimmäisenä hyötyvät ne, joilla on jo omaisuutta. Palkansaaja voi hyötyä myöhemmin matalamman työttömyysriskin ja paremman suhdannetilanteen kautta. Omistaja saa tämän lisäksi nousevan taseen.
+Tämä voi kuulostaa tekniseltä, mutta jakovaikutus on ilmeinen. Jos politiikka nostaa omaisuuserien hintoja, ensimmäisenä hyötyvät ne, joilla on jo omaisuutta. Palkansaaja voi hyötyä myöhemmin matalamman työttömyysriskin ja paremman suhdannetilanteen kautta. Omistaja saa tämän lisäksi nousevan taseen.
 
 Finanssikriisin jälkeen keskuspankit tekivät sen, minkä ne katsoivat välttämättömäksi. Ne lisäsivät likviditeettiä, laskivat korkoja ja ostivat omaisuuseriä. Tavoite oli estää järjestelmän romahdus. Tavoite ei kuitenkaan tee keinosta neutraalia.
 
@@ -62,7 +62,7 @@ Tästä ei tarvitse tehdä salaliittoa. Jos elvytys esti syvemmän laman, konkur
 
 Tälle on myös empiiristä tukea. BIS:n analyysi korostaa, että kriisin jälkeiset omaisuushintojen muutokset vaikuttivat varallisuuseroihin ja että erityisesti osakehintojen nousu saattoi lisätä varallisuuseroja. New York Fedin vuoden 2024 tutkimus tiivistää ristiriidan vielä selvemmin: epätavanomainen rahapolitiikka vähensi eriarvoisuutta alimman 90 prosentin sisällä laskemalla työttömyyttä, mutta kasvatti ylimmän 10 prosentin ja muiden välistä kuilua voittojen ja osakehintojen kautta. EKP:n Isabel Schnabel on tehnyt saman varauksen eurooppalaisemmin: omaisuuseräostot voivat suosia niitä, jotka omistavat rahoitusvarallisuutta, vaikka rahapolitiikka voi samalla tukea pienituloisia työmarkkinakanavan kautta.
 
-Tästä syntyy biisin kannustinanalyyttinen oivallus. Bad Religion näkee oikeudellisen fiktion, jossa yritysten rahankäyttö muuttuu sananvapaudeksi ja poliittiseksi oikeudeksi. Cantillon-efektin kautta lukeva näkee rinnakkaisen rahapoliittisen fiktion, jossa likviditeetin lisääminen esitetään teknisenä vakautuksena, vaikka sen vaikutukset riippuvat siitä, mistä uusi raha tulee talouteen ja kuka ehtii käyttää sen ensin.
+Tästä syntyy biisin kannustinanalyyttinen oivallus. Bad Religion näkee tarinan oikeustapauksesta, jossa yritysten rahankäyttö muuttuu sananvapaudeksi ja poliittiseksi oikeudeksi. Cantillon-efektin kautta lukeva näkee rinnakkaisen rahapoliittisen kertomuksen, jossa likviditeetin lisääminen esitetään teknisenä vakautuksena, vaikka sen vaikutukset riippuvat siitä, mistä uusi raha tulee talouteen ja kuka ehtii käyttää sen ensin.
 
 "Robin Hood in Reverse" tunnistaa rakenteen: instituution toimintareitti vahvistaa valmiiksi vahvoja.
 
