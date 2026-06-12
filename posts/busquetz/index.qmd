@@ -1,0 +1,92 @@
+---
+title: "Kaatumisen optimaalinen määrä ei ole nolla"
+description: "Miksi futari kaatuu kosketuksesta ja miksi liian ankara linja näyttelemistä vastaan voisi tehdä pelistä vaarallisemman."
+author: "Vesa"
+date: "2026-06-12"
+categories: [kannustimet, jalkapallo, peliteoria]
+image: "busquets.jpg"
+
+---
+{{< video https://www.youtube.com/watch?v=L3_ocUYu244 >}}
+
+Joka turnauksessa kuullaan sama valitus. Antaa pelata. Tämä on teatteria. Futis kuolee siihen, että aikuiset miehet kaatuvat kosketuksesta ja pitelevät päätään kuin heitä olisi ammuttu.
+
+Katsomon tuomio on selvä: maahan meneminen on huijausta ja huijaus rapauttaa pelin.
+
+Päätelmä menee liian nopeasti. Osa teatterilta näyttävästä kaatumisesta siirtää kaksinkamppailun erotuomarin ratkaistavaksi. Osa suojaa pelaajan kehoa. Molemmat voivat vähentää voimaa, jolla tilanteet muuten ratkaistaisiin.
+
+Järkevä tavoite on vähentää näyttelemistä niin, ettei pelaajia samalla kannusteta ottamaan kontakteja vastaan hinnalla millä hyvänsä.
+
+## Keholta tuomarille
+
+Kaatuminen siirtää kaksinkamppailun ratkaisun erotuomarille. Jos rike vihelletään jo kevyestä kontaktista, puolustajan ei kannata kasvattaa voimaa. Hyökkääjälle kannustin on päinvastainen: pystyssä pysyminen voi viedä vapaapotkun, jos tuomari lukee sen merkiksi siitä, ettei rikettä tullut.
+
+Pelaajan liike toimii myös signaalina. Tuomarilla on sekunnin murto-osa aikaa ratkaista, tapahtuiko rike. Jos rikottu pelaaja jatkaa matkaa, tuomari voi päätellä, ettei kontaktilla ollut merkitystä. Maahan meneminen tekee rikkeen näkyväksi.
+
+Tässä on samalla ongelman alku. Saman signaalin voi lähettää ilman rikettä.
+
+Voiman tuotto pienenee, kun säännöt rankaisevat kovista kontakteista ja tuomari reagoi kevyempiinkin. Siksi nykyfutis voi näyttää pehmeämmältä kuin vuosikymmenten takainen peli. Selitys löytyy ainakin osittain kannustimista. Väkivallalla voitetusta kaksinkamppailusta on tullut kalliimpi.
+
+## Kaatuminen tekniikkana
+
+Kovan taklauksen läpi pystyssä taisteleminen voi olla vaarallista. Tukijalka jää nurmeen, nilkka kiertyy tai pelaaja laskeutuu koko painollaan huonoon asentoon. Kontaktiin myötääminen ja hallittu kaatuminen voivat vähentää kehoon kohdistuvaa vääntöä.
+
+Katsoja näkee loppuliikkeen. Pelaaja tuntee jalan asennon, vauhdin ja suunnan. Siksi ulospäin liioitellulta näyttävä kaatuminen voi olla myös nopea suojareaktio. Kaatuminen itsessään ei ole todiste huijauksesta.
+
+## The 2nd best scenario 
+
+Varsinainen ongelma on epätäydellinen havainto.
+
+Jos erotuomari erottaisi varmasti turvallisen kaatumisen, todellisen rikkeen korostamisen ja puhtaan näyttelemisen, ratkaisu olisi helppo. Rike vihellettäisiin ja näyttelemisestä annettaisiin kortti. Todellisuudessa samat liikkeet voivat näyttää lähes identtisiltä.
+
+Tiukka filmaamislinja kasvattaa riskiä, että myös aidon kontaktin jälkeen kaatunut saa kortin. Pelaajan kannattaa silloin yrittää pysyä pystyssä kovemmassakin kontaktissa. Puolustaja tietää tämän ja voi käyttää enemmän voimaa ennen kuin hyökkääjä uskaltaa tehdä rikkeen näkyväksi.
+
+"Antaa pelata" -nostalgia sisältää myös nostalgiaa pelistä, jossa rikkeen saaminen näkyviin vaati kovemman kontaktin.
+
+Futiksen väkivallan väheneminen on tietenkin ennen kaikkea sääntömuutosten, korttien, kurinpidon ja vaarallisten taklausten tiukemman tulkinnan tulosta. Kaatuminen vahvistaa samaa kehitystä. Kun kaksinkamppailun voi voittaa tuomarin vihellyksellä, sitä ei tarvitse voittaa yhtä usein fyysisellä ylivoimalla.
+
+## Kolme tekoa, yksi ele
+
+Sana "sukeltaminen" niputtaa yhteen ainakin kolme erilaista tekoa.
+
+Ensimmäisessä pelaajaan kohdistuu todellinen kontakti, ja hän myötää sen mukana suojatakseen jalkaansa tai hallitakseen kaatumisen. Tässä voi olla mukana myös taktinen päätös olla taistelematta väkisin pystyssä.
+
+Toisessa tapahtuu rike, mutta pelaaja korostaa sen vaikutusta. Hän heilauttaa käsiään, jää maahan tai lisää liikkeeseen kierroksen varmistaakseen, että tuomari huomaa tilanteen. Esitys parantaa todellisen rikkeen havaitsemista, mutta samalla se vääristää kuvaa kontaktin voimakkuudesta.
+
+Kolmas on puhdasta näyttelemistä. Pelaaja yrittää ostaa vihellyksen ilman sellaista rikettä, joka sen oikeuttaisi.
+
+Näiden tekojen näkyvä lopputulos on sama: pelaaja makaa nurmessa ja katsoo tuomaria. Erotuomarin pitäisi päätellä yhdestä eleestä, mitä sitä ennen tapahtui ja miksi pelaaja reagoi niin kuin reagoi.
+
+Linja, joka lukee kaatumiset herkästi rikkeiksi, palkitsee näyttelemistä. Linja, joka lukee ne herkästi sukelluksiksi, rankaisee myös aidosta kontaktista kaatuneita. Tämä on tuomarin sääntelyongelma.
+
+## VAR muuttaa havaintovirhettä
+
+Videotuomarointi vähentää osaa epävarmuudesta. Tallenne näyttää, osuiko jalka nilkkaan ja tapahtuiko kontakti rangaistusalueella.
+
+Kontaktin löytyminen ei vielä ratkaise, oliko se rike, aiheuttiko se kaatumisen tai kuinka paljon pelaaja lisäsi tilanteeseen itse. Hidastus voi jopa tehdä pienestä osumasta dramaattisemman kuin miltä se näytti pelissä.
+
+VAR muuttaa myös sitä, millaisia asioita ratkotaan tarkasti. Varpaan paitsio voidaan mitata kuvasta senttimetrien tasolla. Kontaktin merkitys jää edelleen harkinnaksi. Teknologia vähentää yhtä epävarmuutta ja tekee jäljelle jäävästä epävarmuudesta näkyvämpää.
+
+## Panos muuttaa laskelman
+
+Yksittäisen pelaajan päätös riippuu vihellyksen todennäköisyydestä, siitä saatavasta hyödystä, kortin vaarasta ja mainehaitasta.
+
+Hupiturnauksessa voiton arvo on pieni. Maahan menosta saatava hyöty jää vähäiseksi, mutta kanssapelaajien pilkka ja oma nolous ovat aivan todellisia kustannuksia. Siksi kaatuilu näyttää siellä erityisen typerältä. Pelaaja maksaa hinnan ostamatta juuri mitään.
+
+Mestarien liigan välierässä yhden vihellyksen arvo voi olla valtava. Ottelun lopputulos vaikuttaa rahaan, pokaaleihin ja pelaajan uraan. Myös mainehaitta kasvaa, koska yleisö on suurempi. Ratkaisevaa on, kumpi puoli kasvaa nopeammin.
+
+Sama pelaaja voi siksi toimia eri tavalla eri otteluissa täysin rationaalisesti. Tilanne määrittää teon hyödyn ja kustannuksen.
+
+## Maine on pääomaa
+
+Mainehaitta ei rajoitu häpeään. Toistuvasti liioitteleva pelaaja menettää uskottavuuttaan.
+
+Tuomarit oppivat odottamaan liioittelua. Vastustajat muistuttavat siitä ennen ottelua ja jokaisen kaatumisen jälkeen. Todellistenkin rikkeiden viheltämisen todennäköisyys voi laskea. Yksi hankittu vapaapotku voi heikentää tulevien tilaisuuksien stokastista odotusarvoa.
+
+Liioittelusta saatu hyöty tulee heti. Maineen menetys kertyy myöhemmin. Tämä tekee teosta houkuttelevan juuri silloin, kun ottelu on erityisen tärkeä.
+
+Suuret panokset kiristävät myös puolustajan laskelmaa. Puolustaja hyväksyy suuremman rike- ja korttiriskin pysäyttääkseen vaarallisen hyökkäyksen. Hyökkääjällä on vastaavasti vahvempi kannustin tehdä kontakti näkyväksi. Säännöt ja tuomarilinja ratkaisevat, mikä strategia dominoi.
+
+Pelaaja reagoi siihen, mikä on pelin merkitys tuotantofunktiossa hänen uralleen. Moraalinen paheksunta kuuluu tähän laskelmaan, mutta sen rinnalla ovat vihellyksen todennäköisyys, kortin riski, ottelun panos ja tuleva uskottavuus.
+
+Kun pelaaja kaatuu ja kurkkaa sormien raosta, kurkistus kertoo olennaisen. Kaatuminen oli myös viesti. Kiinnostava kysymys kuuluu, millaisen hinnan säännöt ovat sille viestille asettaneet.
