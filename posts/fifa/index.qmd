@@ -44,7 +44,7 @@ oli lohtupysti, lyöty hädässä, ja sen rahapaja oli FIFA:n maine.
 Houkutus on esittää Infantino tyhmänä tai sokeana. Se olisi virhe, ja se
 veisi tarinasta sen terävimmän kärjen. Hän näkee rakenteet hyvin ja on siksi kiinnostava hahmo.
 
-Qatarin MM-kisojen avauksessa marraskuussa 2022 Infantino piti puheen, joka jäi
+Qatarin MM-kisojen avauksessa marraskuussa 2022 Infantino piti [puheen](https://www.youtube.com/watch?v=zy9jaX9RAbA), joka jäi
 historiaan ennen kaikkea yhdestä kohdastaan. Hän kertoi tuntevansa itsensä
 qatarilaiseksi, arabiksi, afrikkalaiseksi, homoseksuaaliksi, vammaiseksi ja
 siirtotyöläiseksi. Sarja oli niin ylimitoitettu, että siitä tuli pilkan kohde
@@ -61,7 +61,7 @@ on kerran tunnistettu ja lausuttu ääneen, kukaan ei enää ole vastuussa. Rake
 nimeäminen muuttui tekosyyksi olla tekemättä mitään, vaikka rakenteen tunnistaminen
 nimenomaan velvoittaisi.
 
- Infantino ei ole mäntti; hän on riähkä.
+ Infantino ei ole mäntti; hän on riähkä.[^riahka]
 
 ## Kun valtaa ei voi haastaa
 
@@ -143,3 +143,5 @@ Juuri siksi Infantinon teko oli niin kallis. Hän otti FIFA:n brändiin kertynee
 joka seisoi lähimpänä painokonetta. Pääomaa, jota ei itse kerännyt, kohtelee
 varovasti vain se, joka tietää joutuvansa siitä tilille. Infantino ei usko
 joutuvansa. Toistaiseksi hän on oikeassa, kunnes ei ole.
+
+[^riahka]: Mäntti on yleiskielinen haukkumasana tyhmästä tai ymmärtämättömästä ihmisestä. Riähkä taas on itämurteinen, savolaiseen suuhun sopiva sana, jonka juuri on venäjän sanassa *грех* (*greh*), synti. Sillä kuvataan ihmistä, joka käyttäytyy tahallaan tuhmasti tai railakkaasti ja tietää tasan tarkkaan mitä tekee. Olennaista on tahallisuus: mäntti mokaa ymmärtämättömyyttään, riähkä tekee tuhmuutta tietoisesti.
