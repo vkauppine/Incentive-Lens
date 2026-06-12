@@ -4,8 +4,9 @@ subtitle: "Mitä Infantino oikeastaan devalvoi"
 author: "Vesa Kauppinen"
 date: 2026-06-11
 categories: [jalkapallo, kannustimet, instituutiot, maine]
-image: "cover.wepb"
+image: "cover.jpg"
 ---
+![Trump rauhanpalkinto kaulassa](trump.jpg)
 
 Joulukuun viidentenä päivänä 2025 Washingtonin Kennedy Centerissä (sittemmin Trump Kennedy Center, ja 29.5.2026 oikeuden päätöksellä taas Kennedy Center) jaettiin
 palkinto, jota ei ollut viikkoa aiemmin olemassa. Gianni Infantino ojensi MM-kisojen
@@ -15,17 +16,17 @@ eikä julkista kriteeristöä. Human Rights Watch pyysi FIFA:lta tietoja siitä,
 valittiin, kuka valitsi ja millä perusteella, eikä saanut vastausta. Kunniamerkki
 oli keksitty tilaisuutta varten.
 
-Tapaus on helppo kuitata mauttomuutena Tapus on kuitenkin kiinnostava siksi, että Infantinio käytti pääomaa, jota hän ei itse ollut kerännyt.
+Tapaus on helppo kuitata mauttomuutena. Tapaus on kuitenkin kiinnostava siksi, että Infantinio käytti pääomaa, jota hän ei itse ollut kerännyt.
 
 ## Kunnia fiat-valuuttana
 
-Mietitään hetki, mistä palkinnon arvo syntyy.  Nobelin rauhanpalkinto
+Mietitään hetki, mistä palkinnon arvo syntyy.  Nobelin rauhanpalkinto on
 arvokas siksi, että sen takana on uskottava instituutio ja yli sadan vuoden perinne. Prosessi on riitainen,
 politisoitunut ja toistuvasti kyseenalainen, mutta juuri se tekee siitä kalliin
 jäljitellä. Arvo on kertynyt hitaasti, ja se on sidottu menettelyyn, jota on vaikea
 väärentää.
 
-Rahassa on tuttu ilmiö. Kun rahamäärä lisätään tai kolikon arvometallipitoisuutta vähennetään, uusi raha ei osu kaikkiin samaan
+Rahassa tämä on tuttu ilmiö. Kun rahamäärä lisätään tai kolikon arvometallipitoisuutta vähennetään, uusi raha ei osu kaikkiin samaan
 aikaan. Ensimmäisenä sen käteensä saava ehtii ostaa vanhoilla hinnoilla. Vasta
 myöhemmin muut huomaavat, että yksikkö ei ollutkaan entisensä. Lähimpänä
 painokonetta seisova hyötyy, muut maksavat. Richard Cantillon kuvasi tämän
@@ -44,7 +45,7 @@ Houkutus on esittää Infantino tyhmänä tai sokeana. Se olisi virhe, ja se
 veisi tarinasta sen terävimmän kärjen. Hän näkee rakenteet hyvin ja on siksi kiinnostava hahmo.
 
 Qatarin MM-kisojen avauksessa marraskuussa 2022 Infantino piti puheen, joka jäi
-historiaan ennen kaikkea yhdestä jaksostaan. Hän kertoi tuntevansa itsensä
+historiaan ennen kaikkea yhdestä kohdastaan. Hän kertoi tuntevansa itsensä
 qatarilaiseksi, arabiksi, afrikkalaiseksi, homoseksuaaliksi, vammaiseksi ja
 siirtotyöläiseksi. Sarja oli niin ylimitoitettu, että siitä tuli pilkan kohde
 maailmanlaajuisesti. Mutta saman puheen sisällä oli kohta, joka ansaitsisi enemmän
@@ -55,22 +56,24 @@ tienaavat yritykset siksi koskeneet siihen.
 Tämä on poikkeuksellisen täsmällinen havainto. Infantino selostaa kapitalismin
 kannustinrakennetta oikein: järjestelmää ei muuteta, jos muutos pienentää voittoa,
 ja se taho, joka kantaisi kustannuksen, ei ole se taho, joka korjaa hyödyn.
-Infantino ymmärsi mekanismin, teki havainnosta moraalisen palovakuutuksen: kun mekanismi
+Infantino ymmärsi mekanismin ja teki havainnosta moraalisen palovakuutuksen: kun mekanismi
 on kerran tunnistettu ja lausuttu ääneen, kukaan ei enää ole vastuussa. Rakenteen
 nimeäminen muuttui tekosyyksi olla tekemättä mitään, vaikka rakenteen tunnistaminen
-nimenomaan velvoittaisi. Infantino ei ole mäntti; hän on riähkä.
+nimenomaan velvoittaisi.
+
+ Infantino ei ole mäntti; hän on riähkä.
 
 ## Kun valtaa ei voi haastaa
 
 Albert Hirschman esitti, että tyytymättömyyteen on kolme vastausta: lähtö, ääni ja
 lojaalius. Tavallisen jalkapalloihmisen kohdalla lähtö on käytännössä suljettu pois.
 Hän voi boikotoida yksittäistä turnausta, mutta lajia hän ei voi jättää menettämättä
-samalla osaa omasta kulttuuristaan. Ääni taas muuttuu rituaaliksi, jos organisaatio
-ei reagoi. Qatarissa seitsemän Euroopan maata aikoi pukea kapteeninsa OneLove-nauhaan
+samalla osaa omasta kulttuuristaan. Ääni muuttuu rituaaliksi, jos organisaatio
+ei reagoi eikä sillä ole tosiasiallista vaikutusta. Qatarissa seitsemän Euroopan maata aikoi pukea kapteeninsa OneLove-nauhaan
 ihmisoikeuksien merkiksi. FIFA uhkasi urheilullisilla sanktioilla, kuten keltaisilla
 korteilla, ja kaikki seitsemän perääntyivät ennen ensimmäistäkään ottelua. 
 
-Kun lähtö on mahdoton ja ääni tehoton, jäljelle jää lojaalius. Ja lojaalius ilman
+Kun lähtö ei ole vaihtoehto ja ääni tehoton, jäljelle jää lojaalius. Ja lojaalius ilman
 poistumisvaihtoehtoa kääntyy helposti nöyryytykseksi. Sen institutionaalinen juuri on
 yksinkertainen. Infantino on noussut uudelleenvalituksi ilman vastaehdokasta: niin
 Pariisissa 2019 kuin Kigalissa maaliskuussa 2023, missä hänet vahvistettiin
@@ -79,11 +82,11 @@ Huhtikuussa 2026 Vancouverin kongressissa hän ilmoitti tavoittelevansa vielä u
 kautta 2027–2031, ja Afrikan, Aasian ja Etelä-Amerikan tuella hän asettunee ehdolle
 jälleen ilman vastusta. Sääntöjen kolmen kauden raja ei häntä pysäytä, sillä järjestö
 katsoi, ettei hänen ensimmäistä, osittaista kauttaan 2016–2019 lasketa mukaan.
-
-Tämä on koko jutun ydin. Kun johtaja valitaan ilman vastaehdokasta ja hän tähtää jo
+ 
+Kun johtaja valitaan ilman vastaehdokasta ja hän tähtää jo
 seuraavaan kauteen, maineesta tulee ainoa jäljellä oleva ulkoinen kuri. Vaali ei
 kurita, koska kilpailua ei ole. Lähtö ei kurita, koska jäsenet eivät voi poistua.
-Jäljellä on vain se hidas, näkymätön mekanismi, jolla luottamus joko kertyy tai
+Jäljellä on vain hidas, näkymätön mekanismi, jolla luottamus joko kertyy tai
 rapautuu. Siksi mainepääoman kuluttaminen ei ole sivuseikka. Se on hallintomallin
 viimeinen turvalukko, ja Infantino availee sitä surutta.
 
@@ -102,7 +105,7 @@ katsomon ovella. Seattlessa kaksi jäsenmaata pyytää täsmälleen päinvastais
 ratkaisua samasta arvosta. Sama lause, "football unites the world", voi tarkoittaa
 kahta vastakkaista asiaa. Qatarissa se tarkoitti, että sateenkaarimerkki on
 poistettava, ettei isäntä häiriinny. Seattlessa sen pitäisi tarkoittaa, ettei Pridea
-saa poistaa, koska paikallinen kaupunki on rakentanut sen osaksi omaa juhlaansa.
+saa poistaa, koska se kuuluuu kaupungin paikalliskultturiin.
 
 Periaate ei siis ratkaise kumpaakaan tapausta. Valta ratkaisee, mitä periaate
 milloinkin tarkoittaa. Tässä tapauksessa valta on FIFA:n neuvostossa,
@@ -120,7 +123,7 @@ Pride-ottelu pidetään suunnitellusti. Paikallinen komitea piti päänsä, mutt
 sen siirtämällä juhlinnan painopisteen kaupungille, stadionin ja virallisten
 fanivyöhykkeiden ulkopuolelle. FIFA hallitsee vain stadioneita ja virallisia alueita.
 Itse juhla, joka oli olemassa kauan ennen kuin FIFA tuli kaupunkiin, jatkuu siellä
-minne FIFA:n toimivalta ei yllä. Merkitys vetäytyi rajan yli ja selvisi.
+minne FIFA:n toimivalta ei yllä. Juhla löysi tilansa ja sen merkitys säilyi.
 
 Tässä kannattaa olla rehellinen, ettei kuvasta tule liian siisti. Asetelma ei ole
 valistunut länsi taantumuksellisia isäntämaita vastaan. Useat LGBT-fanijärjestöt
@@ -131,14 +134,12 @@ pormestarin eikä Zürichin puheenjohtajan.
 
 FIFA voi hallita stadioneita, fanialueita, sponsoripintoja ja akkreditointeja. Se
 voi päättää, minkä värinen kapteeninnauha on virallisessa ottelussa ja kenelle
-ojennetaan uusi kunniamerkki. Mutta se ei omista sitä, miksi ihmiset välittävät
-pelistä. Jalkapallo yhdistää maailmaa silloin, kun se yhdistää. Syy ei ole se, että
+ojennetaan uusi kunniamerkki. Mutta se ei koskaan voi omistaa sitä, mitä peli merkitsee ihmisille. Jalkapallo yhdistää maailmaa silloin, kun se yhdistää. Jopa sodissa on syntynyt spontaaneja tulitaukoja futiksen MM-kisojen ajaksi. Syy ei ole se, että
 Zürichissä niin sanotaan. Merkitys syntyy katsomoissa, puistoissa, juniorikentillä,
 baareissa, pettymyksissä ja muistoissa. Se on hajautettua pääomaa, jota kukaan ei
 suunnitellut ja jota Infantino ei ole kerännyt.
 
-Juuri siksi Infantinon teko oli niin kallis. Hän otti FIFA:n brändiin kertyneen luottamuksen ja käytti sen poliittisen läheisyyden
-valuuttana. Hän löi kunniarahaa ilman katetta ja antoi ensimmäisen setelin sille,
+Juuri siksi Infantinon teko oli niin kallis. Hän otti FIFA:n brändiin kertyneen luottamuksen ja käytti sen valuuttana jolla ostetaan poliittista läheisyyttä. Hän löi kunniarahaa ilman katetta ja antoi ensimmäisen setelin sille,
 joka seisoi lähimpänä painokonetta. Pääomaa, jota ei itse kerännyt, kohtelee
 varovasti vain se, joka tietää joutuvansa siitä tilille. Infantino ei usko
 joutuvansa. Toistaiseksi hän on oikeassa, kunnes ei ole.
