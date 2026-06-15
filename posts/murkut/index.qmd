@@ -2,9 +2,10 @@
 title: "Kimalaisen oivallus eli miksi järjestys pärjää ilman pomoa"
 author: "Vesa Kauppinen"
 date: "2026-06-15"
-categories: [taloustiede, spontaani järjestys, Hayek, kognitio]
-description: "Oululaistutkimus osoittaa, että kimalainen ratkaisee ongelman, jonka ratkaisua sille ei ole opetettu. Pieni pää, suuri järjestys. Yllättävä oppitunti keskussuunnittelusta.
+categories: [taloustiede, "spontaani järjestys", Hayek, kognitio]
+description: "Oululaistutkimus osoittaa, että kimalainen ratkaisee ongelman, jonka ratkaisua sille ei ole opetettu. Pieni pää, suuri järjestys. Yllättävä oppitunti keskussuunnittelusta."
 image: "cover.jpg"
+---
 ---
 ![]((cover.jpeg)
 )
