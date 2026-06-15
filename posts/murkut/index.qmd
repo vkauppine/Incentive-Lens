@@ -6,6 +6,8 @@ categories: [taloustiede, "spontaani järjestys", Hayek, kognitio]
 description: "Oululaistutkimus osoittaa, että kimalainen ratkaisee ongelman, jonka ratkaisua sille ei ole opetettu. Pieni pää, suuri järjestys. Yllättävä oppitunti keskussuunnittelusta."
 image: "cover.jpg"
 ---
+![](cover.jpeg)
+
 
 Tunnustan heti alkuun: rakastan muurahaisia. Kekomuurahaisia, hevosmuurahaisia, sokerimuurahaisia. Mutta myös kimalaisia, mehiläisiä, ampiaisia, koko sitä pörisevää ja kuhisevaa porukkaa. Myönnän myös, että ne näyttävät kommunisteilta – yhteinen pesä, yhteinen toukkahuolto, yhteinen kuningatar, jonka hyväksi muu sakki luopuu lisääntymisestään. Enkä ole ajatuksen kanssa yksin: E. O. Wilson, ehkä maailman tunnetuin muurahaistutkija, vitsaili mielellään Marxin olleen oikeassa – sosialismi toimii, kunhan laji on oikea. Silti niissä on jotain, mikä saa minut lämpenemään, ja kesäkuun alussa Sciencessä ilmestynyt tutkimus auttaa sanoittamaan sen.
 
