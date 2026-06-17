@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Incentive Lens</title>
+<link>https://vkauppine.github.io/Incentive-Lens/</link>
+<atom:link href="https://vkauppine.github.io/Incentive-Lens/index.xml" rel="self" type="application/rss+xml"/>
+<description>Talousblogi</description>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Sun, 14 Jun 2026 21:00:00 GMT</lastBuildDate>
+<item>
+  <title>{B4F502887207:/posts/murkut/index.html}</title>
+  <dc:creator>Vesa Kauppinen</dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/murkut/</link>
+  <description>{B4F502887207:/posts/murkut/index.html}</description>
+  <category>taloustiede</category>
+  <category>spontaani järjestys</category>
+  <category>Hayek</category>
+  <category>kognitio</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/murkut/</guid>
+  <pubDate>Sun, 14 Jun 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/murkut/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/busquetz/index.html}</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/busquetz/</link>
+  <description>{B4F502887207:/posts/busquetz/index.html}</description>
+  <category>kannustimet</category>
+  <category>jalkapallo</category>
+  <category>peliteoria</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/busquetz/</guid>
+  <pubDate>Thu, 11 Jun 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/busquetz/busquets.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/fifa/index.html}</title>
+  <dc:creator>Vesa Kauppinen</dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/fifa/</link>
+  <description>{B4F502887207:/posts/fifa/index.html}</description>
+  <category>jalkapallo</category>
+  <category>kannustimet</category>
+  <category>instituutiot</category>
+  <category>maine</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/fifa/</guid>
+  <pubDate>Wed, 10 Jun 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/fifa/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/ngo/index.html}</title>
+  <dc:creator>Vesa Kauppinen</dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/ngo/</link>
+  <description>{B4F502887207:/posts/ngo/index.html}</description>
+  <category>talouspolitiikka</category>
+  <category>public choice</category>
+  <category>järjestöt</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/ngo/</guid>
+  <pubDate>Sat, 06 Jun 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/ngo/cover.png" medium="image" type="image/png" height="96" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/deittisovellus/index.html}</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/deittisovellus/</link>
+  <description>{B4F502887207:/posts/deittisovellus/index.html}</description>
+  <category>kannustimet</category>
+  <category>julkinen valinta</category>
+  <category>satiiri</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/deittisovellus/</guid>
+  <pubDate>Thu, 21 May 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/deittisovellus/cover.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/no-control/index.html}</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/no-control/</link>
+  <description>{B4F502887207:/posts/no-control/index.html}</description>
+  <category>filosofia</category>
+  <category>musiikki</category>
+  <category>taloustiede</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/no-control/</guid>
+  <pubDate>Wed, 20 May 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/no-control/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/threads/index.html}</title>
+  <dc:creator>Vesa Kauppinen</dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/threads/</link>
+  <description>{B4F502887207:/posts/threads/index.html}</description>
+  <category>some</category>
+  <category>kannustinrakenteet</category>
+  <category>käyttäytymistaloustiede</category>
+  <category>digitalisaatio</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/threads/</guid>
+  <pubDate>Mon, 18 May 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/threads/cover.png" medium="image" type="image/png" height="145" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/viktor/index.html}</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/viktor/</link>
+  <description>{B4F502887207:/posts/viktor/index.html}</description>
+  <category>taloustiede</category>
+  <category>kannustimet</category>
+  <category>käyttäytymistaloustiede</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/viktor/</guid>
+  <pubDate>Sun, 17 May 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/viktor/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/koulu/index.html}</title>
+  <dc:creator>Vesa Kauppinen</dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/koulu/</link>
+  <description>{B4F502887207:/posts/koulu/index.html}</description>
+  <category>koulutus</category>
+  <category>kannustimet</category>
+  <category>tasa-arvo</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/koulu/</guid>
+  <pubDate>Thu, 14 May 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/koulu/kuva.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/welfare-state/index.html}</title>
+  <dc:creator>Vesa Kauppinen</dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/welfare-state/</link>
+  <description>{B4F502887207:/posts/welfare-state/index.html}</description>
+  <category>taloustiede</category>
+  <category>instituutiot</category>
+  <category>paljastetut mieltymykset</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/welfare-state/</guid>
+  <pubDate>Tue, 12 May 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/welfare-state/cover.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/suarez/index.html}</title>
+  <dc:creator>Vesa Kauppinen</dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/suarez/</link>
+  <description>{B4F502887207:/posts/suarez/index.html}</description>
+  <category>insentiivit</category>
+  <category>urheilu</category>
+  <category>agentit</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/suarez/</guid>
+  <pubDate>Fri, 08 May 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/suarez/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/washington/index.html}</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/washington/</link>
+  <description>{B4F502887207:/posts/washington/index.html}</description>
+  <category>julkistalous</category>
+  <category>kannustimet</category>
+  <category>public choice</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/washington/</guid>
+  <pubDate>Thu, 07 May 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/washington/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/jevons/index.html}</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/jevons/</link>
+  <description>{B4F502887207:/posts/jevons/index.html}</description>
+  <category>tekoäly</category>
+  <category>työmarkkinat</category>
+  <category>taloustiede</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/jevons/</guid>
+  <pubDate>Sun, 03 May 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/jevons/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/bad-religion/index.html}</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/bad-religion/</link>
+  <description>{B4F502887207:/posts/bad-religion/index.html}</description>
+  <category>rahapolitiikka</category>
+  <category>musiikki</category>
+  <category>Hayek</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/bad-religion/</guid>
+  <pubDate>Sat, 02 May 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/bad-religion/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/hayek/ndex.html}</title>
+  <dc:creator>Vesa Kauppinen</dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/hayek/ndex.html</link>
+  <description>{B4F502887207:/posts/hayek/ndex.html}</description>
+  <category>taloustiede</category>
+  <category>instituutiot</category>
+  <category>hayek</category>
+  <category>suomi</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/hayek/ndex.html</guid>
+  <pubDate>Wed, 22 Apr 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/hayek/cover.png" medium="image" type="image/png" height="73" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/ac-oulu/miksi_siella_makaa_joku_v2.html}</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/ac-oulu/miksi_siella_makaa_joku_v2.html</link>
+  <description>{B4F502887207:/posts/ac-oulu/miksi_siella_makaa_joku_v2.html}</description>
+  <category>peliteoria</category>
+  <category>jalkapallo</category>
+  <category>kannustimet</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/ac-oulu/miksi_siella_makaa_joku_v2.html</guid>
+  <pubDate>Mon, 20 Apr 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/ac-oulu/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/savo/vastuu-kuulijalle.html}</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/savo/vastuu-kuulijalle.html</link>
+  <description>{B4F502887207:/posts/savo/vastuu-kuulijalle.html}</description>
+  <category>peliteoria</category>
+  <category>kielitiede</category>
+  <category>kannustimet</category>
+  <category>savolaisuus</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/savo/vastuu-kuulijalle.html</guid>
+  <pubDate>Mon, 20 Apr 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/savo/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/cowen/index.html}</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/cowen/</link>
+  <description>{B4F502887207:/posts/cowen/index.html}</description>
+  <category>taloustiede</category>
+  <category>tekoäly</category>
+  <category>julkaiseminen</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/cowen/</guid>
+  <pubDate>Tue, 24 Mar 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/cowen/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/ai-and-skills/index.html}</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/ai-and-skills/</link>
+  <description>{B4F502887207:/posts/ai-and-skills/index.html}</description>
+  <category>ai</category>
+  <category>kannustimet</category>
+  <category>inhimillinen pääoma</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/ai-and-skills/</guid>
+  <pubDate>Sat, 14 Mar 2026 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/citrini/index.html}</title>
+  <dc:creator>Vesa Kauppinen</dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/citrini/</link>
+  <description>{B4F502887207:/posts/citrini/index.html}</description>
+  <category>tekoäly</category>
+  <category>talouspolitiikka</category>
+  <category>pk-yritykset</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/citrini/</guid>
+  <pubDate>Sat, 07 Mar 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/citrini/image.png" medium="image" type="image/png" height="125" width="144"/>
+</item>
+</channel>
+</rss>
