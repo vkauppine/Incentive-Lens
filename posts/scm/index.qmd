@@ -124,13 +124,11 @@ Tämä on talebilainen rakenne. Hankinnan alfaa ei voi aikatauluttaa kvartaaleih
 
 Vakiomittari ei pysty tähän. Se palkitsee tylsät kvartaalit kuin ne olisivat osaamista ja saattaa ohittaa sen yhden kaupan jolla oli oikeasti väliä.
 
-Tästä seuraa kolme asiaa:
+TMittari palkitsee tason, vaikka sen pitäisi palkita indeksisuhteinen ylituotto. Sama mittari ei oikeastaan toimi missään olosuhteissa: tyynellä markkinalla se kannustaa keksimään fiktiivisiä säästöjä, myrskyssä se hukkaa aidon osaamisen markkinaliikkeen alle.
 
-1. Mittari palkitsee tason, vaikka sen pitäisi palkita indeksisuhteinen ylituotto.
-2. Sama mittari ei toimi missään olosuhteissa: tyynellä markkinalla se kannustaa keksimään fiktiivisiä säästöjä, myrskyssä se hukkaa aidon osaamisen markkinaliikkeen alle.
-3. Aito osaaminen on konveksia ja episodista.
+Aito osaaminen on konveksia ja episodista.
 
-## Kontrolli joka palauttaa rahan keskusteluun
+## Konjaus
 
 Korjaus on tylsä, kuten parhaat korjaukset yleensä.
 
