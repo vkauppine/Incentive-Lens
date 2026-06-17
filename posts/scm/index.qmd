@@ -54,9 +54,9 @@ Raportoitava säästö voi löytyä monesta paikasta:
 
 Se, miten tarina kerrotaan, ratkaisee.
 
-Operaatiolla on taas fyysisen todellisuuden rajoitteista syntyvä kuri. Liikavarasto näkyy käyttöpääomassa. Pitämättömät aikataulut muuttuvat pikarahdiksi, menetetyksi tuotannoksi, myöhästyneiksi toimituksiksi ja menetetyiksi asiakkaiksi. Luvuilla voi yhä pelata, mutta lopultas merkitsevät kappalemäärät, laskut, varaston arvvo ja raha.
+Operaatiolla on taas fyysisen todellisuuden rajoitteista syntyvä kuri. Liikavarasto näkyy käyttöpääomassa. Pitämättömät aikataulut muuttuvat pikarahdiksi, menetetyksi tuotannoksi, myöhästyneiksi toimituksiksi ja menetetyiksi asiakkaiksi. Luvuilla voi yhä pelata, mutta lopulta merkitsevät kappalemäärät, laskut, varaston arvo. Ja raha.
 
-Hankinnan säästöt pysähtyvät usein askelta aiemmin: diaan, jossa luku julistettiin.
+Hankinnan säästöt pysähtyvät usein askelta aiemmin: kalvosettiin, jossa luku julistettiin.
 
 Siksi raportoitu säästö päätyy harvoin ensi vuoden budjettiin oikeana leikkauksena. Jos säästö olisi aito, budjettirivi laskisi saman verran. Näin ei juuri koskaan käy.
 
