@@ -54,7 +54,7 @@ Raportoitava säästö voi löytyä monesta paikasta:
 
 Se, miten tarina kerrotaan, ratkaisee.
 
-Operaatiolla on taas fyysisen todellisuuden rajoitteista syntyvä kuri. Liikavarasto näkyy käyttöpääomassa. Pitämättömät aikataulut muuttuvat pikarahdiksi, menetetyksi tuotannoksi, myöhästyneiksi toimituksiksi ja menetetyiksi asiakkaiksi. Luvuilla voi yhä pelata, mutta ennemmin tai myöhemmin ne kohtaavat kappaleet, laskut, varaston ja rahan.
+Operaatiolla on taas fyysisen todellisuuden rajoitteista syntyvä kuri. Liikavarasto näkyy käyttöpääomassa. Pitämättömät aikataulut muuttuvat pikarahdiksi, menetetyksi tuotannoksi, myöhästyneiksi toimituksiksi ja menetetyiksi asiakkaiksi. Luvuilla voi yhä pelata, mutta lopultas merkitsevät kappalemäärät, laskut, varaston arvvo ja raha.
 
 Hankinnan säästöt pysähtyvät usein askelta aiemmin: diaan, jossa luku julistettiin.
 
@@ -76,7 +76,7 @@ Teräs halpenee LME:ssä 15 %. Kategoriapäällikkö neuvottelee sopimuksen, hin
 
 Seuraavana vuonna teräs kallistuu 15 %. Sama päällikkö, sama osaaminen, samat neuvottelut. Hinta seuraa indeksiä ylös. Nyt hän menettää 8 % ja kirjoittaa kappaleen geopoliittisista vastatuulista. Balanced scorecard menee punaiselle, ja seuraa keskustelu kehittämiskohteista.
 
-Mikään hänen tekemisessään ei muuttunut vuosien välillä. LME muuttui. Ensimmäisenä vuonna hänelle maksettiin bonus kustannussäästöistä. Toisena häntä moitittiin nousevista kustannuksista. Kummassakin tapauksessa palkittiin tai rangaistiin liikkeestä jota hän ei asettanut eikä voinut estää.
+Mikään hänen tekemisessään ei muuttunut vuosien välillä. Ensimmäisenä vuonna hänelle maksettiin bonus kustannussäästöistä. Toisena häntä moitittiin nousevista kustannuksista. Kummassakin tapauksessa palkittiin tai rangaistiin liikkeestä jota hän ei asettanut eikä voinut estää.
 
 Pahempaa vielä: se päällikkö joka teki parasta työtä — lukitsi hintoja etukäteen, hajautti toimittajat, suojasi nousua vastaan — näyttää heikoimmalta juuri sinä vuonna jolloin hänen työnsä oli arvokkainta. Bonus on käytännössä pitkä positio laskevaan teräkseen. Sitä maksetaan vedosta jota kukaan ei tietoisesti tehnyt.
 
@@ -84,11 +84,11 @@ Sama osaaminen, päinvastainen tuloskortti.
 
 Mittaat vuorovettä ja palkitset uimarin.
 
-Rehellinen vertailukohta ei ole viime vuoden hinta. Se on tämän vuoden markkinahinta samalle tavaralle. Osaaminen näkyy siinä, mitä maksoit suhteessa siihen mitä vertailukelpoinen ostaja maksoi vastaavin ehdoin samoissa oloissa. Indeksisuhteinen, ei aikasuhteinen.
+Rehellinen vertailukohta ei ole viime vuoden hinta, vaan tämän vuoden markkinahinta samalle tavaralle. Osaaminen näkyy siinä, mitä maksoit suhteessa siihen mitä vertailukelpoinen ostaja maksoi vastaavin ehdoin samoissa oloissa. 
 
 Päihititkö vertailuindeksin? Pidittekö sopimuksista kiinni kun spot piikitti? Neuvotteliteko uudestaan, kun markkina romahti?
 
-Se on signaalia. Usein se on muutama prosenttiyksikkö indeksin ympärillä, ei kaksinumeroinen otsikkoluku. Hyvä hankinta on todellista, mutta sen kontribuutio on ylituotto markkinaan nähden. Ei markkinaliike.
+Se on signaalia. Usein se on muutama prosenttiyksikkö indeksin ympärillä, ei kaksinumeroinen otsikkoluku. Hyvä hankinta on todellista, mutta sen kontribuutio on ylituotto markkinaan nähden.
 
 ## Vastaesimerkki joka todistaa mallin
 
@@ -104,9 +104,11 @@ Tapaus läpäisee jokaisen yllä olevan testin.
 
 - **Se täsmäsi rahaan.** Lukittu hinta, sopimus ja vuosi oikeita rahtilaskuja alle markkinan.
 
-- **Se oli indeksisuhteista ylituottoa.** Romahdus ei jakanut samaa hintaa kaikille.
+- **Se oli indeksisuhteista ylituottoa.** Markkinromahduksen jälkeen kakki eivät maksaneet samoja hintoja.
 
-- **Mekanismi oli osaaminen.** Tarjouspyynnön muotoilu, ajoitus ja uskallus sitoutua pitkään kun muut olivat halvaantuneita. Vastapuolen epätoivo käännettiin sopimusrakenteeksi. Se on hankinnan alfaa.
+- **Mekanismi oli osaaminen.** Tarjouspyynnön muotoilu, ajoitus ja uskallus sitoutua pitkään kun muut olivat halvaantuneita. Vastapuolen epätoivo käännettiin sopimusrakenteeksi. 
+
+Se on hankinnan alfaa.
 
 ## Aito hankinnan alfa on optio
 

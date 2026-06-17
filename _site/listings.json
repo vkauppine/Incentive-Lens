@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/scm/index.html",
       "/posts/murkut/index.html",
       "/posts/busquetz/index.html",
       "/posts/fifa/index.html",

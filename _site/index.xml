@@ -10,7 +10,116 @@
 <atom:link href="https://vkauppine.github.io/Incentive-Lens/index.xml" rel="self" type="application/rss+xml"/>
 <description>Talousblogi</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Sun, 14 Jun 2026 21:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 21:00:00 GMT</lastBuildDate>
+<item>
+  <title>Hinnat heillä, raha meillä</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/scm/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="organisaatiokaavio-joka-paljastaa-enemmän-kuin-tekijänsä-tarkoitti" class="level2">
+<h2 class="anchored" data-anchor-id="organisaatiokaavio-joka-paljastaa-enemmän-kuin-tekijänsä-tarkoitti">Organisaatiokaavio joka paljastaa enemmän kuin tekijänsä tarkoitti</h2>
+<p>Tein logistiikan ja toimitusketjun hommia viitisentoista vuotta.</p>
+<p>Se on nuorten laji. Varsinkin LinkedIn-muodossa: rakettiemojit, ketjut ja seitsemän oppia jotka mullistavat toimitusketjusi perjantaihin mennessä.</p>
+<p>Enough of that BS.</p>
+<p>Olin silti mukana sen aikaa, että erotan yhä sen mikä on roskaa ja mikä ei.</p>
+<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/scm/cover.png" class="img-fluid"></p>
+<p>LinkedInissä kiertää parin kuukauden välein infograafi nimeltä “the supply chain organization”. Ylimpänä on Supply Chainin VP, alla neljä siiloa: Planning, Procurement, Logistics ja Operations. Kunkin alla on siisti rivi mittarilaatikoita. Otsikko varoittaa, että huono organisaatiokaavio tappaa toimitusketjun suorituskyvyn.</p>
+<p>Kuva on, tahattomasti, juuri sellainen kaavio.</p>
+<p>Sivuutan laatikkohierarkian. Kiinnostavin osa on mittaririvi, ja sen kiinnostavin kohta on hankinnan <strong>Cost Savings %</strong>. Säästöprosentti on toimitusketjun suosituin mittari ja huonoiten perusteltu.</p>
+<p>Väitteeni on yksinkertainen: suuri osa raportoiduista säästöistä on fiktiota, ja iso osa jäljelle jäävästä on markkinaliikettä. Aitoa hankintaosaamista on olemassa. Mittari vain ei useimmiten mittaa sitä.</p>
+<p>Operaatiopuolella meillä oli tähän sanonta:</p>
+<p><em>Heillä on hinnat, meillä on raha.</em></p>
+</section>
+<section id="säästöväite-ei-ole-mittaustulos" class="level2">
+<h2 class="anchored" data-anchor-id="säästöväite-ei-ole-mittaustulos">Säästöväite ei ole mittaustulos</h2>
+<p>Neuvoteltu säästö on väite siitä, mitä olisi tapahtunut ilman neuvottelua. “Säästimme 12 %” tarkoittaa: “maksoimme 12 % vähemmän kuin olisimme muuten maksaneet.” Periaatteessa kyse on kontrafaktuaalista.</p>
+<p>Käytännössä kontrafaktuaali syntyy usein järjestelmän sisältä: viime vuoden hinnasta, toimittajan avauksesta tai ylhäältä annetusta tavoitteesta. Sama funktio valitsee baseline-lukeman, kirjaa saavutetun tavoitteen ja esittelee diat.</p>
+<p>Tavoite on usein tyly: hinnan pitää laskea, tai mukana pitää olla erittäin hyvä selitys.</p>
+<p>Yksikään toimitusketjujohtaja ei hyvitä inflaatiota automaattisesti. Yksikään COO ei kuittaa hinnannousua sillä, että energia kallistui kymmenen prosenttia. Markkina teki mitä teki; tavoite pysyy. Toimita, tai selitä.</p>
+<p>Hankinta pannaan vastaamaan hintatasosta, jota se ei juuri hallitse. Kun markkina ei jousta, säästön pitää silti ilmestyä. Mutta kyllä hätä keinot keksii.</p>
+<p>Raportoitava säästö voi löytyä monesta paikasta:</p>
+<ul>
+<li><p><strong>Toteutumaton volyymi.</strong> 12 % hankintasäästö kirjataan ennustetta vasten, mutta ostomäärä toteutuu puolikkaana.</p></li>
+<li><p><strong>Kustannusvälttämän pesu.</strong> Toimittaja vaatii +8 %, sovit +3 %, ja hankinta kirjaa “5 % säästöä”. Rahaa lähti enemmän kuin viime vuonna, vain vähemmän kuin avausvaatimus antoi ymmärtää. Vältetty kustannus on puolustettavissa, kun vältetty nousu suhteutetaan markkinaan.</p></li>
+<li><p><strong>Ilmapallo.</strong> Yksikköhinta alas, minimieräkoot ylös, rahtiehdot huonommiksi, maksuajat lyhyemmiksi, laatuspesifikaatio löysemmäksi. Hintarivi laskee, mutta kustannus siirtyy paikkaan, jota mittari ei näe.</p></li>
+</ul>
+<p>Se, miten tarina kerrotaan, ratkaisee.</p>
+<p>Operaatiolla on taas fyysisen todellisuuden rajoitteista syntyvä kuri. Liikavarasto näkyy käyttöpääomassa. Pitämättömät aikataulut muuttuvat pikarahdiksi, menetetyksi tuotannoksi, myöhästyneiksi toimituksiksi ja menetetyiksi asiakkaiksi. Luvuilla voi yhä pelata, mutta lopultas merkitsevät kappalemäärät, laskut, varaston arvvo ja raha.</p>
+<p>Hankinnan säästöt pysähtyvät usein askelta aiemmin: diaan, jossa luku julistettiin.</p>
+<p>Siksi raportoitu säästö päätyy harvoin ensi vuoden budjettiin oikeana leikkauksena. Jos säästö olisi aito, budjettirivi laskisi saman verran. Näin ei juuri koskaan käy.</p>
+<p>Se on paljastava merkki.</p>
+</section>
+<section id="suurin-osa-hinnanmuutoksesta-on-kohinaa" class="level2">
+<h2 class="anchored" data-anchor-id="suurin-osa-hinnanmuutoksesta-on-kohinaa">Suurin osa hinnanmuutoksesta on kohinaa</h2>
+<p>Tähän asti kyse on mittaamisesta. Syvempi ongelma on attribuutio. Sellainenkin säästö, joka täsmää rahaan, voi olla enimmäkseen sattumaa.</p>
+<p>Ajatellaan hankinnan tulosta signaalina ja kohinana. Signaali on se osa jota hankinta hallitsee: toimittajavalinta, neuvottelu, sopimusrakenne, kysynnän yhdistely, kaksoishankinta. Kohina on kaikki muu mikä hintaa liikutti: energia, valuuttakurssit, rahtikapasiteetti, raaka-ainesyklit, sota, satamasulut, konkurssit, lakot.</p>
+<p>Monessa kategoriassa varianssin määrää kohina. Vuosimuutos hinnassa, juuri se jota mittari palkitsee, on usein poiminta jakaumasta, jota hankinta ei asettanut.</p>
+<p>Sijoitustermein suurin osa hankinnan säästöistä on beetaa. Ne ovat altistusta markkinaliikkeelle. Alfa on se, mikä jää jäljelle kun markkinaliike on poistettu.</p>
+<p>Teräs halpenee LME:ssä 15 %. Kategoriapäällikkö neuvottelee sopimuksen, hinta seuraa indeksiä alas, ja hän toimittaa 12 % säästön. Tuloskortti loistaa. Bonus maksetaan, ja diaesitys kiertää johtoryhmässä esimerkkinä.</p>
+<p>Seuraavana vuonna teräs kallistuu 15 %. Sama päällikkö, sama osaaminen, samat neuvottelut. Hinta seuraa indeksiä ylös. Nyt hän menettää 8 % ja kirjoittaa kappaleen geopoliittisista vastatuulista. Balanced scorecard menee punaiselle, ja seuraa keskustelu kehittämiskohteista.</p>
+<p>Mikään hänen tekemisessään ei muuttunut vuosien välillä. LME muuttui. Ensimmäisenä vuonna hänelle maksettiin bonus kustannussäästöistä. Toisena häntä moitittiin nousevista kustannuksista. Kummassakin tapauksessa palkittiin tai rangaistiin liikkeestä jota hän ei asettanut eikä voinut estää.</p>
+<p>Pahempaa vielä: se päällikkö joka teki parasta työtä — lukitsi hintoja etukäteen, hajautti toimittajat, suojasi nousua vastaan — näyttää heikoimmalta juuri sinä vuonna jolloin hänen työnsä oli arvokkainta. Bonus on käytännössä pitkä positio laskevaan teräkseen. Sitä maksetaan vedosta jota kukaan ei tietoisesti tehnyt.</p>
+<p>Sama osaaminen, päinvastainen tuloskortti.</p>
+<p>Mittaat vuorovettä ja palkitset uimarin.</p>
+<p>Rehellinen vertailukohta ei ole viime vuoden hinta. Se on tämän vuoden markkinahinta samalle tavaralle. Osaaminen näkyy siinä, mitä maksoit suhteessa siihen mitä vertailukelpoinen ostaja maksoi vastaavin ehdoin samoissa oloissa. Indeksisuhteinen, ei aikasuhteinen.</p>
+<p>Päihititkö vertailuindeksin? Pidittekö sopimuksista kiinni kun spot piikitti? Neuvotteliteko uudestaan, kun markkina romahti?</p>
+<p>Se on signaalia. Usein se on muutama prosenttiyksikkö indeksin ympärillä, ei kaksinumeroinen otsikkoluku. Hyvä hankinta on todellista, mutta sen kontribuutio on ylituotto markkinaan nähden. Ei markkinaliike.</p>
+</section>
+<section id="vastaesimerkki-joka-todistaa-mallin" class="level2">
+<h2 class="anchored" data-anchor-id="vastaesimerkki-joka-todistaa-mallin">Vastaesimerkki joka todistaa mallin</h2>
+<p>Tässä kohtaa hankintaihminen nostaa käden ja sanoo: minä kerran tein oikeasti rahaa ajoituksella.</p>
+<p>Hyvä. Se tarina todistaa mallin.</p>
+<p>Vuoden 2008 romahduksen jälkeen rahtimarkkina oli pohjalla. Varustamot olivat epätoivoisia täyttääkseen kapasiteettia. Olin yhä operaatiopuolella, mutta käytännössä rakensin tarjouspyynnön ja ajoituksen. Lukitsimme tärkeimmät rahtireitit vuodeksi sopimuksella, ehdoilla jotka olivat poikkeuksellisen matalat.</p>
+<p>Osa eristä piti neuvotella matkan varrella uusiksi. Silti vuoden ajan maksoimme rahdista alle markkinan, ja se näkyi laskuissa jotka talous pystyi tarkastamaan.</p>
+<p>Tapaus läpäisee jokaisen yllä olevan testin.</p>
+<ul>
+<li><p><strong>Se täsmäsi rahaan.</strong> Lukittu hinta, sopimus ja vuosi oikeita rahtilaskuja alle markkinan.</p></li>
+<li><p><strong>Se oli indeksisuhteista ylituottoa.</strong> Markkinromahduksen jälkeen kakki eivät maksaneet samoja hintoja.</p></li>
+<li><p><strong>Mekanismi oli osaaminen.</strong> Tarjouspyynnön muotoilu, ajoitus ja uskallus sitoutua pitkään kun muut olivat halvaantuneita. Vastapuolen epätoivo käännettiin sopimusrakenteeksi.</p></li>
+</ul>
+<p>Se on hankinnan alfaa.</p>
+</section>
+<section id="aito-hankinnan-alfa-on-optio" class="level2">
+<h2 class="anchored" data-anchor-id="aito-hankinnan-alfa-on-optio">Aito hankinnan alfa on optio</h2>
+<p>Rehellinen malli on tämä: keskimääräinen säästö on kohinaa, arvo on hännissä, ja hännät ovat optioluonteisia.</p>
+<p>Suurimman osan vuodesta ylituotto indeksiin on muutama piste suuntaan tai toiseen. Hyödyllistä, mutta harvoin kunniakierroksen arvoista. Sitten avautuu häiriö: 2008 jälkeinen rahti, korona-ajan alun kapasiteetti, energiapiikki, toimittajan konkurssi, äkillinen kysynnän romahdus. Terävä ostaja voi kääntää tilapäisen epäjärjestyksen sopimukselliseksi eduksi.</p>
+<p>Osaaminen on ikkunan tunnistamista ja mandaattia toimia. Se on harvinaista, koska ikkuna on harvinainen. Pitkä kiinteä sopimus ei ole ilmainen optio. Se voi mennä pieleen, jos markkina jatkaa laskuaan. Siksi se vaatii harkintaa, valtuutta ja riskinottohalua.</p>
+<p>Tämä on talebilainen rakenne. Hankinnan alfaa ei voi aikatauluttaa kvartaaleihin.</p>
+<p>Vakiomittari ei pysty tähän. Se palkitsee tylsät kvartaalit kuin ne olisivat osaamista ja saattaa ohittaa sen yhden kaupan jolla oli oikeasti väliä.</p>
+<p>Tästä seuraa kolme asiaa:</p>
+<ol type="1">
+<li>Mittari palkitsee tason, vaikka sen pitäisi palkita indeksisuhteinen ylituotto.</li>
+<li>Sama mittari ei toimi missään olosuhteissa: tyynellä markkinalla se kannustaa keksimään fiktiivisiä säästöjä, myrskyssä se hukkaa aidon osaamisen markkinaliikkeen alle.</li>
+<li>Aito osaaminen on konveksia ja episodista.</li>
+</ol>
+</section>
+<section id="kontrolli-joka-palauttaa-rahan-keskusteluun" class="level2">
+<h2 class="anchored" data-anchor-id="kontrolli-joka-palauttaa-rahan-keskusteluun">Kontrolli joka palauttaa rahan keskusteluun</h2>
+<p>Korjaus on tylsä, kuten parhaat korjaukset yleensä.</p>
+<p>Säästö lasketaan vasta kun talousosasto poistaa vastaavan summan budjetista tai todentaa sen toteutunutta kulutusta vasten. Kirjatun säästön pitää muuttua vähemmäksi käytettäväksi rahaksi. Siihen asti se on väite.</p>
+<p>Hankinta vihaa tätä, luonnollisesti, koska se muuttaa otsikkomittarin tarinasta luvuksi jonka operaatiot voivat tarkastaa. Kontrolli on vain alkuperäinen sanonta muodollisena:</p>
+<p><em>Se jolla on raha, saa vahvistaa säästön.</em></p>
+<p>Sääntö tappaisi suurimman osan hankinnan säästödioista.</p>
+<p>Hyvä. Eloonjääneet olisivat lukemisen arvoisia.</p>
+<p>Sama pätee attribuutioon. Hankinta tulee mitata markkinaa vasten, ei edellisvuotta vasten.</p>
+<p>Ero indeksiin kertoo uiko joku muita paremmin.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>kannustimet</category>
+  <category>hankinta</category>
+  <category>mittaaminen</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/scm/</guid>
+  <pubDate>Thu, 16 Jul 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/scm/cover.png" medium="image" type="image/png" height="180" width="144"/>
+</item>
 <item>
   <title>Kimalaisen oivallus eli miksi järjestys pärjää ilman pomoa</title>
   <dc:creator>Vesa Kauppinen</dc:creator>
@@ -1258,101 +1367,6 @@ Huomautus
   <category>inhimillinen pääoma</category>
   <guid>https://vkauppine.github.io/Incentive-Lens/posts/ai-and-skills/</guid>
   <pubDate>Sat, 14 Mar 2026 22:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Tekoäly ja kysyntäshokki — mitä Citrinin doomer-skenaario tarkoittaa suomalaiselle pk-kentälle?</title>
-  <dc:creator>Vesa Kauppinen</dc:creator>
-  <link>https://vkauppine.github.io/Incentive-Lens/posts/citrini/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="fiktiivinen-makromuistio-vuodelta-2028" class="level2">
-<h2 class="anchored" data-anchor-id="fiktiivinen-makromuistio-vuodelta-2028">Fiktiivinen makromuistio vuodelta 2028</h2>
-<p>Citrini Researchin helmikuussa 2026 julkaistu raportti <em>2028 GIC</em> (Citrini Research, 2026) on kirjoitettu ajatusharjoituksena: fiktiivinen makromuistio kesäkuulta 2028, jossa analyytikko katsoo taaksepäin ja rekonstruoi kriisin etenemisen. Tekijät painottavat itsekin, ettei kyseessä ole ennuste vaan skenaario — alikartoitetun vasemman hännän riskin mallinnus. Skenaariota on kuitenkin luettu laajasti ennusteena, ja se ansaitsee analyyttisen tarkastelun.</p>
-<p>Citrinin skenaario on hyödyllinen ajatuskoe, mutta se edellyttää tuottavuusdiffuusion nopeutta, jolle ei ole historiallista tai empiiristä tukea.</p>
-<p>Skenaarion ydinlogiikka on negatiivinen feedback-silmukka, jonka tekijät kutsuvat “intelligence displacement spiraliksi”: tekoäly paranee → yritykset leikkaavat henkilöstöä → säästöt investoidaan tekoälyyn → tekoäly paranee edelleen. Silmukassa ei ole luonnollista jarrua, koska tekoäly-investointi ei ole perinteistä pääomainvestointia (CapEx) vaan operatiivista korvautumista (OpEx): yritys joka käytti 100 miljoonaa henkilöstöön ja 5 miljoonaa tekoälyyn käyttää nyt 70 miljoonaa henkilöstöön ja 20 miljoonaa tekoälyyn. Kokonaiskustannukset laskevat, mutta tekoäly-investointi kasvaa moninkertaiseksi.</p>
-<p>Citrinin skenaariossa tästä seuraa kolme aaltoa. Ensimmäinen aalto on SaaS-sektorin romahdus: agenttiset koodaustyökalut mahdollistavat yritysten sisäiset ratkaisut, jotka korvaavat kuusinumeroisia SaaS-sopimuksia viikoissa. Toinen aalto on kitkan katoaminen: tekoälyagentit poistavat kuluttajakaupan kitkan, joka on ylläpitänyt kokonaisia liiketoimintamalleja — tilausten passiivisen uusimisen, hintavertailun vaivan, vakuutusten inertiauusinnan. Citrini kutsuu tätä “habitual intermediation” -vallihautojen tuhoutumiseksi. Kolmas aalto on rahoitusjärjestelmän tartunta: private credit -markkinan PE-rahoitteiset SaaS-yritykset alkavat laiminlyödä velkojaan, ja tappiot kulkeutuvat vakuutusyhtiöiden annuiteettien kautta kotitalouksiin. Lopulta tietotyöläisten tulonmenetys uhkaa 13 biljoonan dollarin asuntolainamarkkinoita.</p>
-<p>Skenaario huipentuu “Ghost GDP” -käsitteeseen: tuotanto kasvaa, mutta tulovirrat eivät kierrä kulutuksen kautta takaisin talouteen, koska koneet eivät käytä rahaa harkinnanvaraiseen kulutukseen.</p>
-<p>Raportti on herättänyt keskustelua myös Suomessa. Juhani Mykkänen käsitteli Citrinin skenaariota Neuvottelija-podcastin jaksossa 374 (Mykkänen, 2026) ja esitti sen vakavasti otettavana riskinä, johon vastaus on proaktiivinen politiikka. Inderesin Verneri Pulkkinen (Pulkkinen, 2026) tarkasteli samaa raporttia sijoittajan kriittisin silmin ja nosti esiin base rates -ajattelun: kuinka usein tämänkaltaiset skenaariot ovat toteutuneet?</p>
-<p>Tässä tekstissä arvioin Citrinin argumenttiketjua kolmesta näkökulmasta: tuoreen tutkimusevidenssin, suomalaisen pk-kentän todellisuuden ja historiallisen ennusteosumatarkkuuden kautta.</p>
-</section>
-<section id="mikä-argumentissa-pitää-ja-mikä-ei" class="level2">
-<h2 class="anchored" data-anchor-id="mikä-argumentissa-pitää-ja-mikä-ei">Mikä argumentissa pitää — ja mikä ei?</h2>
-<p>Citrinin peruslogiikka ei ole perusteeton. Imas (2026a) on esittänyt akateemisemman version samasta kysymyksestä: jos tekoäly korvaa työtä nopeammin kuin uusia tehtäviä syntyy, palkkatulojen osuus kansantulosta supistuu ja kulutuskysyntä heikkenee. Acemoglu, Autor ja Johnson (2024) ovat varoittaneet, ettei tekoälyn vaikutus kokonaistalouden tuottavuuteen ja palkkoihin ole automaattisesti positiivinen. Ratkaisevaa on, korvaako tekoäly työtä tehtävissä, joissa se on vain marginaalisesti ihmistä parempi — jolloin kustannussäästöt jäävät pieniksi mutta työpaikat katoavat — vai luoko se uusia tehtäviä ja täydentää ihmistyötä tavalla, joka nostaa sekä tuottavuutta että palkkoja.</p>
-<p>Mutta Citrinin aikajana — kaksi vuotta kaaokseen — edellyttää, että tuottavuusvaikutukset materialisoituvat nopeudella, jolle ei löydy tukea datasta.</p>
-<p>Imas (2026b) on koonnut kattavan katsauksen tekoälyn tuottavuusvaikutuksista, ja hänen yhteenvetonsa on poikkeuksellisen rehellinen: mikrotason tutkimukset osoittavat todellisia tuottavuushyötyjä, mutta ne eivät vielä näy makrotason tilastoissa. Tämä mikro–makro-kuilu on keskeinen ongelma Citrinin aikajanalle.</p>
-<p>Mikrotasolla tulokset ovat rohkaisevia mutta vaihtelevia. Brynjolfsson, Li ja Raymond (2025) havaitsivat asiakaspalvelussa 14–15 prosentin tuottavuuskasvun, joka oli suurin vähemmän kokeneilla työntekijöillä. Cui ym. (2025) raportoivat kolmesta satunnaistetusta kokeesta noin 26 prosentin kasvun ohjelmistokehittäjien valmiiksi saatetuissa pull requesteissa. Toisaalta METR-tutkimuksessa (Becker ym., 2025) kokeneet avoimen lähdekoodin kehittäjät olivat tekoälyn kanssa 19 prosenttia <em>hitaampia</em> — ja uskoivat silti tekoälyn nopeuttaneen heitä. Mittaamaton kokemus tuottavuudesta ja mitattu tuottavuus voivat siis osoittaa vastakkaisiin suuntiin. Tämä muistuttaa siitä, että tekoäly voi siirtää aikaa muualle työprosessissa, vaikka yksittäinen tehtävä nopeutuisi.</p>
-<p>Makrotason näyttö on varovaisempaa. Humlum ja Vestergaard (2025) seurasivat Tanskan työmarkkinoita kaksi vuotta ChatGPT:n julkaisun jälkeen eivätkä löytäneet tilastollisesti merkitseviä vaikutuksia ansioihin tai työtunteihin. Yotzov ym. (2026) havaitsivat kansainvälisessä kyselyssä, että yli 80 prosenttia yrityksistä raportoi nollavaikutusta työllisyyteen tai tuottavuuteen. Penn Whartonin budjettimallin (2025) arvion mukaan tekoälyn kontribuutio kokonaistuottavuuden kasvuun oli vuonna 2025 noin 0,01 prosenttiyksikköä.</p>
-<p>Erityisen mielenkiintoinen on Babinan ym. (2023) havainto: tekoäly-investoinnit eivät tuottaneet tuottavuusparannuksia vaan tuoteinnovaatioita — enemmän tavaramerkkejä, patentteja ja tuotevalikoimaa. Tekoäly näyttää toimivan innovaatiotyökaluna pikemminkin kuin Citrinin olettamana kustannusleikkaajana. Tämä haastaa koko feedback-silmukan premissin: jos yritykset käyttävät tekoälyä ensisijaisesti uusien tuotteiden kehittämiseen eikä henkilöstön korvaamiseen, negatiivinen kierre ei käynnisty samalla tavalla.</p>
-</section>
-<section id="j-käyrä-ja-solown-varjo" class="level2">
-<h2 class="anchored" data-anchor-id="j-käyrä-ja-solown-varjo">J-käyrä ja Solow’n varjo</h2>
-<p>Miksi tekoälyn mikrotason tuottavuushyödyt eivät näy makrodatassa? Vastausta voi hakea teknologiadiffuusion peruslogiikasta. Imas (2026b) tunnistaa useita mekanismeja, jotka kaikki toimivat Citrinin aikataulua vastaan.</p>
-<p>Tekoälyn käyttöönotto on endogeenista: työntekijät valikoituvat itse käyttäjiksi, eikä heillä usein ole riittävää koulutusta. BCG:n kyselyssä vain 36 prosenttia työntekijöistä koki saaneensa asianmukaisen koulutuksen. Työt koostuvat monista tehtävistä, ja vaikka tekoäly nopeuttaisi koodaamista, koodikatselmukset, kokoukset ja organisatoriset prosessit toimivat pullonkauloina.</p>
-<p>Todennäköisesti olemme myös tuottavuuden J-käyrän laskevalla osuudella. Brynjolfsson, Rock ja Syverson (2021) ovat osoittaneet, että yleiskäyttöisten teknologioiden käyttöönoton alkuvaiheessa mitattu tuottavuus voi jopa laskea, koska resursseja käytetään oppimiseen ja uudelleenorganisointiin. Solow havaitsi vuonna 1987, että tietokoneajan näkee kaikkialla paitsi tuottavuustilastoissa. Sähkömoottorin täysi tuottavuusvaikutus realisoitui vasta vuosikymmenten viiveellä, kun tehtaat suunniteltiin uudelleen sen ympärille.</p>
-<p>Citrinin skenaario edellyttää, että tämä J-käyrä ohitetaan kahdessa vuodessa. Se ei ole mahdoton mutta edellyttäisi historiallisesti poikkeuksellista diffuusionopeutta, jota makrodata ei toistaiseksi tue.</p>
-</section>
-<section id="suomalainen-pk-todellisuus" class="level2">
-<h2 class="anchored" data-anchor-id="suomalainen-pk-todellisuus">Suomalainen pk-todellisuus</h2>
-<p>Citrinin skenaario on kirjoitettu amerikkalaisen tietotyötalouden näkökulmasta: Fortune 500 -yritysten SaaS-hankinnat, Manhattanin tietotyöläisten asuntolainat, Silicon Valleyn disruptio. Mutta miltä sen logiikka näyttää suomalaisesta pk-kentästä katsottuna?</p>
-<p>Suomalaisten valmistavan teollisuuden ja logistiikan pk-yritysten digitaalinen kypsyys on monessa tapauksessa vielä perustasoilla. Viimeaikaiset kotimaiset selvitykset osoittavat, että pk-yritysten lähtötaso poikkeaa merkittävästi Citrinin oletuksista. Puhumme yrityksistä, joissa ERP-järjestelmä saattaa olla käytössä mutta sen hyödyntäminen rajoittuu perustoimintoihin. Usein tuotantotadata ei ole integroitunut osaksi johtamista, analytiikka puuttuu ja prosessit ovat manuaalisia. Agenttiset koodaustyökalut, jotka Citrinin skenaariossa korvaavat SaaS-tuotteita viikoissa, edellyttävät organisaatioilta rakenteellista, osaamiseen ja prosesseihin kytkeytyvää kyvykkyyttä, jota monella pk-yrityksellä ei ainakaan toistaiseksi ole.</p>
-<p>Eurooppalainen data tukee tätä. Aldasoro ym. (2026) havaitsivat EU-aineistossaan, että tekoälyn käyttöönotto vaihtelee rajusti yrityskoon mukaan: suuryrityksistä 45 prosenttia on ottanut tekoälyn käyttöön, pk-yrityksistä vain 24 prosenttia. Sama tutkimus osoitti myös, että koulutus on ratkaisevan tärkeä täydentävä investointi: jokainen lisäprosenttiyksikkö henkilöstökoulutukseen käytettyä rahaa tuotti 5,9 prosenttiyksikköä lisää tuottavuutta.</p>
-<p>Pk-kentän hitaus on sekä suoja että riski. Suoja siksi, että Citrinin kuvaamaa nopeaa silmukkaa — leikkaa, investoi tekoälyyn, leikkaa lisää — ei pk-kentällä tapahdu lähivuosina. Riski siksi, että kun suuryritykset sopeutuvat ja arvoketjut muuttuvat, pk-yritykset jotka eivät ole rakentaneet omia kyvykkyyksiään jäävät jälkeen.</p>
-<p>Mykkänen teki kotimaisen tekoälykentän kartoituksessaan saman havainnon: 60 tapaamisen perusteella ymmärrys tekoälyn potentiaalista on olemassa, mutta resurssit puuttuvat (Mykkänen, 2026). Kyse ei ole tietämättömyydestä vaan konkreettisten rakenteiden ja investointikyvyn puutteesta. Industry 5.0 -kehys (Euroopan komissio, 2021) tarjoaa periaatteet ihmiskeskeisestä ja resilientistä teollisuudesta, mutta suomalaisen pk-kentän kannalta oleellisempi kysymys on, miten nämä periaatteet muuttuvat käytännön kyvykkyyksiksi yritystasolla.</p>
-</section>
-<section id="base-rates-ja-se-kenellä-on-syytä-pelätä" class="level2">
-<h2 class="anchored" data-anchor-id="base-rates-ja-se-kenellä-on-syytä-pelätä">Base rates ja se, kenellä on syytä pelätä</h2>
-<p>Pulkkinen (2026) nosti Vernerin Vartissa esiin base rates -ajattelun: mikä on historiallinen perustaso sille, että teknologiadystopia toteutuu ennustetulla tavalla ja aikataululla?</p>
-<p>Evidenssi ei ole rohkaisevaa ennustajille. Automaatiopelot 1960-luvulla ennustivat massatyöttömyyttä, jota ei tullut. Frey ja Osborne (2013) arvioivat, että 47 prosenttia Yhdysvaltain työpaikoista olisi alttiina automatisoinnille — vuosikymmen myöhemmin arvio näyttää rajusti ylimitoitetulta. Citrinin tekijät tietävät tämän itsekin ja kehystävät skenaarionsa nimenomaan ajatusharjoituksena, mutta raportin narratiivinen voima saa sen tuntumaan ennusteelta.</p>
-<p>Toisaalta: vaikka kokonaisdystopia on epätodennäköinen, varhaiset signaalit epätasaisesta jakautumisesta ovat jo näkyvissä. Brynjolfsson, Chandar ja Chen (2025) havaitsivat, että nuorten työntekijöiden (22–25-vuotiaat) työllisyys tekoälylle alttiissa ammateissa on laskenut noin 15–16 prosenttia suhteessa muihin ammatteihin. Hosseini Maasoum ja Lichtinger (2025) osoittivat, että juniorityöntekijöiden palkkaaminen hidastui tekoälyä käyttöönottaneissa yrityksissä senioreiden aseman pysyessä vakaana. Tekoäly näyttää toimivan senioriteettiä suosivana teknologisena muutoksena.</p>
-<p>Suomalaisen pk-kentän kannalta tämä on olennaisempaa kuin Citrinin kokonaiskuva. Todennäköisempi lähitulevaisuuden riski ei ole makrotalouden romahdus vaan se, että tekoäly vähentää aloitustason rekrytointeja ja vaikeuttaa nuorten pääsyä työmarkkinoille. Samalla pk-yritykset, jotka eivät investoi kyvykkyyksiin, menettävät kilpailukykyään suuryrityksiin nähden vääjäämättä.</p>
-</section>
-<section id="politiikkaa-etukenossa" class="level2">
-<h2 class="anchored" data-anchor-id="politiikkaa-etukenossa">Politiikkaa etukenossa</h2>
-<p>Citrinin skenaarion suurin arvo on siinä, että se pakottaa miettimään, mitä jos emme tee mitään. Mykkänen (2026) asetti saman valinnan: proaktiivinen polku, jossa verotus, tulonsiirrot ja uudelleenkoulutus suunnitellaan etukäteen, vai reaktiivinen polku, jossa odotetaan ja toivotaan parasta.</p>
-<p>Aldasoron ym. (2026) EU-tulokset antavat konkreettisen suuntaviitan: tekoäly nosti tuottavuutta neljä prosenttia keskimäärin eikä lyhyellä aikavälillä vähentänyt työpaikkoja, ja koulutusinvestoinnit moninkertaistivat hyödyt. Suomella on toimivat instituutiot ja perinne aktiivisesta työvoimapolitiikasta. Proaktiivinen polku on Suomelle luonteva, mutta se edellyttää, että pk-yritysten kyvykkyysrakentaminen aloitetaan nyt eikä kriisin jälkeen.</p>
-</section>
-<section id="johtopäätös-hyödyllinen-ajatuskoe-huono-ennuste" class="level2">
-<h2 class="anchored" data-anchor-id="johtopäätös-hyödyllinen-ajatuskoe-huono-ennuste">Johtopäätös: hyödyllinen ajatuskoe, huono ennuste</h2>
-<p>Citrinin <em>2028 GIC</em> on retorisesti vahva narratiivinen harjoitus. Sen kuvaamat mekanismit — OpEx-korvautuminen, kitkan katoaminen, private credit -tartunta — ovat älykkäästi konstruoituja ja pakottavat ajattelemaan toisen kertaluvun vaikutuksia, joita tyypillisessä teknologiaoptimismissa ei käsitellä.</p>
-<p>Mutta ennusteena se on ongelmallinen. Aikajana edellyttää diffuusionopeutta, jolle ei ole historiallista ennakkotapausta ja jota tuorein makroevidenssi ei tue. Perusoletus tekoälystä ensisijaisena kustannusleikkaajana on kyseenalaistettu tutkimuksessa, joka viittaa pikemminkin innovaatio- kuin automatisointi-vaikutuksiin. Ja skenaario on kirjoitettu amerikkalaisen tietotyötalouden kontekstissa, joka ei sellaisenaan sovellu suomalaiseen pk-kenttään.</p>
-<p>Olennaista on, miten siirtymän kustannukset jakautuvat. Tutkimusnäyttö viittaa siihen, että tekoäly kohdistuu ensimmäisenä aloitustason tehtäviin ja nuoriin työntekijöihin. Pk-yritykset tarvitsevat konkreettista tukea digitaalisten ja tekoälykyvykkyyksien rakentamiseen: ilman kyvykkyyksiä ne eivät pääse hyötymään teknologiasta ja menettävät kilpailukykyään asteittain.</p>
-<p>Citrinin tekijät päättävät raporttinsa muistuttamalla, että lukija lukee sitä helmikuussa 2026, ei kesäkuussa 2028: “The canary is still alive.” Samaa voi sanoa suomalaisesta pk-kentästä. Tilanne ei ole kriisiytynyt. Nyt on aika rakentaa kyvykkyydet, ei odottaa kriisiä.</p>
-</section>
-<section id="lähteet" class="level2">
-<h2 class="anchored" data-anchor-id="lähteet">Lähteet</h2>
-<p>Acemoglu, D., Autor, D., &amp; Johnson, S. (2024). Simple macroeconomics of AI. <em>NBER Working Paper</em> 32487.</p>
-<p>Aldasoro, I., Gambacorta, L., Pál, R., Revoltella, D., Weiss, C., &amp; Wolski, M. (2026). How AI is affecting productivity and jobs in Europe. <em>VoxEU/CEPR</em>, 17.2.2026.</p>
-<p>Babina, T., Fedyk, A., He, A., &amp; Hodson, J. (2023). Artificial intelligence, firm growth, and product innovation. <em>Journal of Financial Economics</em>, 151, 103745.</p>
-<p>Becker, J., Rush, N., Barnes, B., &amp; Rein, D. (2025). Measuring the impact of early-2025 AI on experienced open-source developer productivity. <em>arXiv:2507.09089</em>.</p>
-<p>Brynjolfsson, E., Chandar, B., &amp; Chen, R. (2025). Canaries in the coal mine? Six facts about the recent employment effects of artificial intelligence. Working paper.</p>
-<p>Brynjolfsson, E., Li, D., &amp; Raymond, L. R. (2025). Generative AI at work. <em>Quarterly Journal of Economics</em>, 140(2), 889–942.</p>
-<p>Brynjolfsson, E., Rock, D., &amp; Syverson, C. (2021). The productivity J-curve: How intangibles complement general purpose technologies. <em>American Economic Journal: Macroeconomics</em>, 13(1), 333–372.</p>
-<p>Citrini Research. (2026). The 2028 Global Intelligence Crisis: A thought exercise in financial history, from the future. <em>Citrini Research</em> (Substack), 22.2.2026. Saatavilla: https://www.citriniresearch.com/p/2028gic</p>
-<p>Euroopan komissio. (2021). <em>Industry 5.0: Towards a sustainable, human-centric and resilient European industry</em>. Luxemburg: Publications Office of the EU.</p>
-<p>Frey, C. B., &amp; Osborne, M. A. (2013). The future of employment: How susceptible are jobs to computerisation? <em>Technological Forecasting and Social Change</em>, 114, 254–280.</p>
-<p>Hosseini Maasoum, S. M., &amp; Lichtinger, G. (2025). Generative AI as seniority-biased technological change: Evidence from U.S. résumé and job posting data. <em>SSRN Working Paper</em>.</p>
-<p>Humlum, A., &amp; Vestergaard, E. (2025). Large language models, small labor market effects. <em>NBER Working Paper</em> 33777.</p>
-<p>Imas, A. (2026a). Can advanced AI lead to negative economic growth? Considering the role of demand in the economics of AI. <em>Ghosts of Electricity</em> (Substack), 7.1.2026.</p>
-<p>Imas, A. (2026b). What is the impact of AI on productivity? Reconciling the micro and the macro evidence. <em>Ghosts of Electricity</em> (Substack), 29.1.2026.</p>
-<p>Mykkänen, J. (2026). Ihmistyön loppu. <em>Neuvottelija</em>, jakso 374.</p>
-<p>Penn Wharton Budget Model. (2025). AI’s contribution to total factor productivity. University of Pennsylvania.</p>
-<p>Pulkkinen, V. (2026). Aiheuttaako tekoäly finanssikriisin? – Citrinin raportin kritiikki. <em>Vernerin Vartti</em>, Inderes, 3.3.2026. Saatavilla: https://www.inderes.fi/videos/aiheuttaako-tekoaly-finanssikriisin-citrinin-raportin-kritiikki-or-vernerin-vartti</p>
-<p>Yotzov, I., Barrero, J. M., Bloom, N., ym. (2026). Firm data on AI. <em>NBER Working Paper</em> 34836.</p>
-
-
-</section>
-
- ]]></description>
-  <category>tekoäly</category>
-  <category>talouspolitiikka</category>
-  <category>pk-yritykset</category>
-  <guid>https://vkauppine.github.io/Incentive-Lens/posts/citrini/</guid>
-  <pubDate>Sat, 07 Mar 2026 22:00:00 GMT</pubDate>
-  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/citrini/image.png" medium="image" type="image/png" height="125" width="144"/>
 </item>
 </channel>
 </rss>
