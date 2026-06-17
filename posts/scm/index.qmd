@@ -136,7 +136,7 @@ Säästö lasketaan vasta kun talousosasto poistaa vastaavan summan budjetista t
 
 Hankinta vihaa tätä, luonnollisesti, koska se muuttaa otsikkomittarin tarinasta luvuksi jonka operaatiot voivat tarkastaa. Kontrolli on vain alkuperäinen sanonta muodollisena:
 
-*Se jolla on raha, saa vahvistaa säästön.*
+Säästön saa vahvistaa vain se, joka kantaa sen seuraukset jos luku on väärä. Talebilaisittain nahka pelissä.
 
 Sääntö tappaisi suurimman osan hankinnan säästödioista.
 
