@@ -98,13 +98,13 @@ Hyvä. Se tarina todistaa mallin.
 
 Vuoden 2008 romahduksen jälkeen rahtimarkkina oli pohjalla. Varustamot olivat epätoivoisia täyttääkseen kapasiteettia. Olin yhä operaatiopuolella, mutta käytännössä rakensin tarjouspyynnön ja ajoituksen. Lukitsimme tärkeimmät rahtireitit vuodeksi sopimuksella, ehdoilla jotka olivat poikkeuksellisen matalat.
 
-Osa eristä piti neuvotella matkan varrella uusiksi. Silti vuoden ajan maksoimme rahdista alle markkinan, ja se näkyi laskuissa jotka talous pystyi tarkastamaan.
+Osa eristä piti neuvotella matkan varrella uusiksi. Silti vuoden ajan maksoimme rahdista alle markkinan, ja se näkyi laskuissa jotka talousosasto pystyi tarkastamaan.
 
 Tapaus läpäisee jokaisen yllä olevan testin.
 
 - **Se täsmäsi rahaan.** Lukittu hinta, sopimus ja vuosi oikeita rahtilaskuja alle markkinan.
 
-- **Se oli indeksisuhteista ylituottoa.** Markkinromahduksen jälkeen kakki eivät maksaneet samoja hintoja.
+- **Se oli indeksisuhteista ylituottoa.** Markkinromahduksen jälkeen kaikki eivät maksaneet samoja hintoja.
 
 - **Mekanismi oli osaaminen.** Tarjouspyynnön muotoilu, ajoitus ja uskallus sitoutua pitkään kun muut olivat halvaantuneita. Vastapuolen epätoivo käännettiin sopimusrakenteeksi. 
 
