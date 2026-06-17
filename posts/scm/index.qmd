@@ -20,11 +20,11 @@ Olin silti mukana sen aikaa, että erotan yhä sen mikä on roskaa ja mikä ei.
 
 ![](cover.png)
 
-LinkedInissä kiertää parin kuukauden välein infograafi nimeltä "the supply chain organization". Ylimpänä on Supply Chainin VP, alla neljä siiloa: Planning, Procurement, Logistics ja Operations. Kunkin alla on siisti rivi mittarilaatikoita. Otsikko varoittaa, että huono organisaatiokaavio tappaa toimitusketjun suorituskyvyn.
+LinkedInissä kiertää parin kuukauden välein infograafi nimeltä "the supply chain organization". Ylimpänä on Supply Chainin VP, alla neljä siiloa: Planning, Procurement, Logistics ja Operations. Kunkin alla on siisti rivi mittarilaatikoita. Otsikko varoittaa, että huono organisaatiokaavio tuhoaa toimitusketjun suorituskyvyn.
 
 Kuva on, tahattomasti, juuri sellainen kaavio.
 
-Sivuutan laatikkohierarkian. Kiinnostavin osa on mittaririvi, ja sen kiinnostavin kohta on hankinnan **Cost Savings %**. Säästöprosentti on toimitusketjun suosituin mittari ja huonoiten perusteltu.
+Sivuutan laatikkohierarkian. Kiinnostavin osa on mittaririvi, ja sen kiinnostavin kohta on hankinnan **Cost Savings %**. Säästöprosentti on ehkäpä toimitusketjun suosituin mittari mutta huonoiten perusteltu.
 
 Väitteeni on yksinkertainen: suuri osa raportoiduista säästöistä on fiktiota, ja iso osa jäljelle jäävästä on markkinaliikettä. Aitoa hankintaosaamista on olemassa. Mittari vain ei useimmiten mittaa sitä.
 
@@ -42,7 +42,9 @@ Tavoite on usein tyly: hinnan pitää laskea, tai mukana pitää olla erittäin 
 
 Yksikään toimitusketjujohtaja ei hyvitä inflaatiota automaattisesti. Yksikään COO ei kuittaa hinnannousua sillä, että energia kallistui kymmenen prosenttia. Markkina teki mitä teki; tavoite pysyy. Toimita, tai selitä.
 
-Hankinta pannaan vastaamaan hintatasosta, jota se ei juuri hallitse. Kun markkina ei jousta, säästön pitää silti ilmestyä. Mutta kyllä hätä keinot keksii.
+Hankinta pannaan vastaamaan hintatasosta, jota se ei juuri hallitse. Kun markkina ei jousta, säästön pitää silti ilmestyä. 
+
+Mutta kyllä hätä keinot keksii.
 
 Raportoitava säästö voi löytyä monesta paikasta:
 
@@ -64,11 +66,11 @@ Se on paljastava merkki.
 
 ## Suurin osa hinnanmuutoksesta on kohinaa
 
-Tähän asti kyse on mittaamisesta. Syvempi ongelma on attribuutio. Sellainenkin säästö, joka täsmää rahaan, voi olla enimmäkseen sattumaa.
+Tähän asti kyse on ollut mittaamisesta. Vaikeampi ongelma on attribuutio. Sellainenkin säästö, joka täsmää rahaan, voi olla enimmäkseen sattumaa.
 
-Ajatellaan hankinnan tulosta signaalina ja kohinana. Signaali on se osa jota hankinta hallitsee: toimittajavalinta, neuvottelu, sopimusrakenne, kysynnän yhdistely, kaksoishankinta. Kohina on kaikki muu mikä hintaa liikutti: energia, valuuttakurssit, rahtikapasiteetti, raaka-ainesyklit, sota, satamasulut, konkurssit, lakot.
+Ajatellaan hankinnan tulosta signaalina ja kohinana. Signaali on se osa, jota hankinta hallitsee: toimittajavalinta, neuvottelu, sopimusrakenne, kysynnän yhdistely, kaksoishankinta. Kohina on kaikki muu mikä hintaa liikutti: energia, valuuttakurssit, rahtikapasiteetti, raaka-ainesyklit, sota, satamasulut, konkurssit, lakot.
 
-Monessa kategoriassa varianssin määrää kohina. Vuosimuutos hinnassa, juuri se jota mittari palkitsee, on usein poiminta jakaumasta, jota hankinta ei asettanut.
+Monessa kategoriassa varianssin määrää kohina. Useimmissa kategorioissa kohina voittaa signaalin. Mittari palkitsee silti vuosimuutoksen. Hintamuutoksen syynä oli markkinat, ei ostaja.
 
 Sijoitustermein suurin osa hankinnan säästöistä on beetaa. Ne ovat altistusta markkinaliikkeelle. Alfa on se, mikä jää jäljelle kun markkinaliike on poistettu.
 
