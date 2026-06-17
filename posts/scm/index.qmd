@@ -96,11 +96,11 @@ Tässä kohtaa hankintaihminen nostaa käden ja sanoo: minä kerran tein oikeast
 
 Hyvä. Se tarina todistaa mallin.
 
-Vuoden 2008 romahduksen jälkeen rahtimarkkina oli pohjalla. Varustamot olivat epätoivoisia täyttääkseen kapasiteettia. Olin yhä operaatiopuolella, mutta käytännössä rakensin tarjouspyynnön ja ajoituksen. Lukitsimme tärkeimmät rahtireitit vuodeksi sopimuksella, ehdoilla jotka olivat poikkeuksellisen matalat.
+Vuoden 2008 romahduksen jälkeen rahtimarkkina oli pohjalla. Varustamot olivat epätoivoisia täyttääkseen kapasiteettia. Olin yhä operaatiopuolella, mutta käytännössä rakensin tarjouspyynnön ja ajoituksen. Lukitsimme tärkeimmät rahtireitit vuodeksi sopimuksella, ehdoilla jotka olivat poikkeuksellisen edulliset.
 
-Osa eristä piti neuvotella matkan varrella uusiksi. Silti vuoden ajan maksoimme rahdista alle markkinan, ja se näkyi laskuissa jotka talousosasto pystyi tarkastamaan.
+Osa piti neuvotella matkan varrella uusiksi. Silti vuoden ajan maksoimme rahdista alle markkinan, ja se näkyi laskuissa jotka talousosasto pystyi tarkastamaan.
 
-Tapaus läpäisee jokaisen yllä olevan testin.
+Tapaus läpäisee jokaisen testin.
 
 - **Se täsmäsi rahaan.** Lukittu hinta, sopimus ja vuosi oikeita rahtilaskuja alle markkinan.
 
