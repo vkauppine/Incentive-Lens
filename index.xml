@@ -12,6 +12,113 @@
 <generator>quarto-1.8.27</generator>
 <lastBuildDate>Thu, 16 Jul 2026 21:00:00 GMT</lastBuildDate>
 <item>
+  <title>They Have the Prices, We Have the Money</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/procurement/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="the-org-chart-that-reveals-more-than-its-creator-intended" class="level2">
+<h2 class="anchored" data-anchor-id="the-org-chart-that-reveals-more-than-its-creator-intended">The org chart that reveals more than its creator intended</h2>
+<p>I spent about fifteen years working in logistics and supply chain.</p>
+<p>It’s a young person’s game. Especially in LinkedIn form: rocket emojis, endless threads, and seven lessons that will revolutionize your supply chain by Friday.</p>
+<p>Enough of that BS.</p>
+<p>I was in it long enough to still tell garbage from substance.</p>
+<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/procurement/cover.png" class="img-fluid"></p>
+<p>LinkedIn regularly circulates an infographic called “the supply chain organization.” At the top is the Supply Chain VP, with four silos below: Planning, Procurement, Logistics, and Operations. Under each is a neat row of KPI boxes. The headline warns that a bad org chart destroys supply chain performance.</p>
+<p>The image is, unintentionally, exactly that kind of chart.</p>
+<p>I’ll leave the box hierarchy aside. The most interesting part is the KPI row, and the standout item is procurement’s <strong>Cost Savings %</strong>. It’s probably supply chain’s most popular metric, and the least well justified.</p>
+<p>My claim is simple: a large portion of reported savings is fiction, and most of what remains is just market movement. Real procurement expertise exists. The metric simply doesn’t measure it.</p>
+<p>On the operations side, we had a saying for this:</p>
+<p><em>They have the prices, we have the money.</em></p>
+</section>
+<section id="a-savings-claim-is-not-a-measurement" class="level2">
+<h2 class="anchored" data-anchor-id="a-savings-claim-is-not-a-measurement">A savings claim is not a measurement</h2>
+<p>Negotiated savings is a claim about what would have happened without the negotiation. “We saved 12%” means: “we paid 12% less than we otherwise would have.” In principle, it’s a counterfactual.</p>
+<p>In practice, the counterfactual is often cooked up internally: last year’s price, the supplier’s opening ask, or a top-down target. The same function picks the baseline, records the win, and prepares the slides.</p>
+<p>The target is blunt: the price has to go down, or you had better have an extremely good explanation.</p>
+<p>No supply chain leader automatically credits inflation. No COO writes off a price increase just because energy went up ten percent. The market did what it did; the target stays. Deliver, or explain.</p>
+<p>Procurement is held accountable for a price level it barely controls. When the market doesn’t budge, the saving still has to appear.</p>
+<p>But necessity is the mother of invention.</p>
+<p>A reportable saving can be found in all kinds of creative places:</p>
+<ul>
+<li><p><strong>Ghost volume.</strong> You book a shiny 12% saving against the forecast, but the actual orders come in at half the volume.</p></li>
+<li><p><strong>Avoided-cost laundering.</strong> The supplier opens at +8%, you settle at +3%, and procurement reports “5% saved.” More money went out the door than last year; you just avoided their opening ask.</p></li>
+<li><p><strong>The balloon.</strong> Unit price down, but minimum order quantities up, freight terms worse, payment terms shorter, quality specs loosened. The price line looks beautiful, while the real cost quietly shifts somewhere the metric can’t see.</p></li>
+</ul>
+<p>It all comes down to how you tell the story.</p>
+<p>Operations, by contrast, has the discipline that physical reality imposes. Excess inventory hits working capital. Missed schedules turn into expedited freight, lost production, delayed deliveries, and lost customers. You can still play games with the numbers, but eventually it comes down to piece counts, invoices, inventory value. And real money.</p>
+<p>Procurement savings often stop one step earlier: on the slide where the number is declared.</p>
+<p>That’s why reported savings rarely turn into an actual cut in next year’s budget. If the saving were real, the budget line would drop by the same amount. That almost never happens.</p>
+<p>That’s the tell.</p>
+</section>
+<section id="most-price-changes-are-noise" class="level2">
+<h2 class="anchored" data-anchor-id="most-price-changes-are-noise">Most price changes are noise</h2>
+<p>So far this has been about measurement. The harder problem is attribution. Even savings that reconcile to cash can be mostly coincidence.</p>
+<p>Think of a procurement outcome as signal and noise. Signal is the part procurement actually controls: supplier selection, negotiation, contract structure, demand aggregation, dual sourcing. Noise is everything else that moves prices: energy, exchange rates, freight capacity, raw material cycles, war, port closures, bankruptcies, strikes.</p>
+<p>In most categories, noise beats signal. Yet the metric still rewards the year-over-year change. The market moved the price. The buyer just signed.</p>
+<p>In investment terms, most procurement savings are <strong>beta</strong> — exposure to the market move. Alpha is what remains after you strip the market out.</p>
+<p>Steel falls 15% on the LME. The category manager negotiates a contract, the price follows the index down, and he delivers a 12% saving. The scorecard shines. The bonus is paid. The slide deck circulates in the leadership team as a success story.</p>
+<p>The next year steel rises 15%. Same manager, same skill, same negotiations. The price follows the index up. Now he “loses” 8% and writes a paragraph about geopolitical headwinds. The balanced scorecard turns red, and a development discussion follows.</p>
+<p>Nothing in his actual work changed between the years. In the first he got a bonus for cost savings. In the second he got blamed for rising costs. In both cases he was rewarded or punished for a market move he could barely influence.</p>
+<p>Worse still: the manager who did the best work — locking prices early, dual-sourcing, hedging the rise — looks weakest in exactly the year his work was most valuable. The bonus is effectively a long position on falling steel. It pays out on a bet no one consciously placed.</p>
+<p>Same skill, opposite career conversation.</p>
+<p>You measure the tide and pay the swimmer.</p>
+<p>The honest benchmark is not last year’s price. It is this year’s market price for the same good. Expertise shows in what you paid relative to what a comparable buyer paid on comparable terms in the same conditions.</p>
+<p>Did you beat the benchmark? Did you hold your contracts when spot prices spiked? Did you renegotiate when the market crashed?</p>
+<p>That is signal. It’s usually just a few percentage points around the index, not a flashy double-digit headline. Good procurement is real, but its contribution is the spread over the market.</p>
+</section>
+<section id="a-counterexample-that-proves-the-model" class="level2">
+<h2 class="anchored" data-anchor-id="a-counterexample-that-proves-the-model">A counterexample that proves the model</h2>
+<p>At this point a procurement person raises a hand and says: I once actually made real money on timing.</p>
+<p>Good. That story proves the model.</p>
+<p>After the 2008 crash, the freight market was on the floor. Carriers were desperate to fill capacity. I was still on the operations side, but in practice I built the RFQ and the timing. We locked the key freight lanes for a full year by contract, on exceptionally favorable terms.</p>
+<p>Some lines needed renegotiation along the way. Still, for an entire year we paid below market on freight, and it showed clearly in the invoices finance could verify.</p>
+<p>The case passes every test:</p>
+<ul>
+<li><p><strong>It reconciled to cash.</strong> A locked price, a contract, and a year of real invoices below market.</p></li>
+<li><p><strong>It was index-relative outperformance.</strong> After the crash, not everyone paid the same prices.</p></li>
+<li><p><strong>The mechanism was expertise.</strong> Smart RFQ design, timing, and the nerve to commit long when others were frozen. The counterparty’s desperation was turned into contract structure.</p></li>
+</ul>
+<p>That is real procurement alpha.</p>
+</section>
+<section id="real-procurement-alpha-is-an-option" class="level2">
+<h2 class="anchored" data-anchor-id="real-procurement-alpha-is-an-option">Real procurement alpha is an option</h2>
+<p>The honest model is this: the average saving is noise, the value lives in the tails, and the tails are option-like.</p>
+<p>For most of the year, outperformance versus the index is just a few points either way — useful, but rarely worth a victory lap. Then a disruption hits: post-2008 freight, the early-COVID capacity crunch, an energy spike, a supplier bankruptcy, a sudden demand collapse. A sharp buyer can turn temporary disorder into lasting contractual advantage.</p>
+<p>Expertise is spotting the window and having the mandate to act. It’s rare because the windows are rare. A long fixed contract is not a free option — it can backfire if the market keeps falling. That’s why it takes judgment, authority, and real risk appetite.</p>
+<p>This is a Talebian structure. Procurement alpha cannot be scheduled into neat quarters.</p>
+<p>The standard metric fails here. It rewards dull quarters as if they were brilliance and can easily miss the one deal that actually mattered.</p>
+<p>The metric rewards the absolute level when it should reward outperformance relative to the market. And it doesn’t really work in any environment: in calm markets it encourages fictional savings, in stormy ones it buries real skill under market noise.</p>
+<p>Real expertise is convex and episodic.</p>
+</section>
+<section id="the-fix" class="level2">
+<h2 class="anchored" data-anchor-id="the-fix">The fix</h2>
+<p>The fix is boring, as the best fixes usually are.</p>
+<p>A saving should count only once finance actually removes the matching amount from the budget or verifies it against real spend. The booked saving has to turn into less money available to spend. Until then, it’s just a claim.</p>
+<p>Procurement naturally hates this, because it turns a nice headline story into a number operations can check. The control is just the original saying made formal:</p>
+<p><em>Whoever has the money gets to confirm the saving.</em></p>
+<p>A saving can be validated only by the person who bears the consequences if the number is wrong. Taleb-style skin in the game.</p>
+<p>This rule would kill most procurement savings decks.</p>
+<p>Good. The ones that survive would actually be worth reading.</p>
+<p>The same applies to attribution. Measure procurement against the market, not against last year.</p>
+<p>The gap to the index tells you who actually swam — and who just rode the tide.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>incentives</category>
+  <category>procurement</category>
+  <category>measurement</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/procurement/</guid>
+  <pubDate>Thu, 16 Jul 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/procurement/cover.png" medium="image" type="image/png" height="180" width="144"/>
+</item>
+<item>
   <title>Hinnat heillä, raha meillä</title>
   <dc:creator>Vesa </dc:creator>
   <link>https://vkauppine.github.io/Incentive-Lens/posts/scm/</link>
@@ -1303,68 +1410,6 @@ Huomautus
   <guid>https://vkauppine.github.io/Incentive-Lens/posts/cowen/</guid>
   <pubDate>Tue, 24 Mar 2026 22:00:00 GMT</pubDate>
   <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/cowen/cover.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Lainattu osaaminen</title>
-  <dc:creator>Vesa </dc:creator>
-  <link>https://vkauppine.github.io/Incentive-Lens/posts/ai-and-skills/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Generatiivisen tekoälyn käyttö on jo osa monen tietotyöläisen, opiskelijan ja koululaisen arkea. Kielimallit voivat auttaa tiivistämään tietoa, tuottamaan oikeita vastauksia ja ihan pätevää tekstiä, toimivasta koodista puhumattakaan. Opiskelu voi tuntua nopealta ja työnteko ennenkokemattoman tehokkaalta; enemmän tuloksia vähemmällä vaivalla. Nopeus ja vaivattomuus houkuttelevat ulkoistamaan tehtäviä ja jopa ajattelua tekoälylle. Mutta millaisia vaikutuksia tällä on uuden oppimiseen ja osaamisen ylläpitoon? Tuore tutkimusnäyttö viittaa siihen, että olemme vaihtamassa pitkäaikaisen osaamisen lyhyen aikavälin mukavuuteen.</p>
-<section id="oppiminen-vaatii-vaivannäköä" class="level2">
-<h2 class="anchored" data-anchor-id="oppiminen-vaatii-vaivannäköä">Oppiminen vaatii vaivannäköä</h2>
-<p>Oppiminen vaatii kognitiivista ponnistelua: epävarmuuden sietämistä, erehtymistä, suunnan korjaamista, aktiivista päättelemistä ja vaikeuksien voittamista. Oppimistutkimuksessa tämä ei ole uusi asia. Oppiminen voidaan määritellä muutoksiksi pitkäaikaisessa muistissa, ja edellyttää aina huomion kiinnittämistä ja vaativaa ajattelua (Bjork &amp; Bjork). Juuri se kitka, jonka tekoäly poistaa, on pysyvän oppimisen edellytys. Kielimallien käyttö voi entisestään lisätä “Google-vaikutusta”, jossa opiskelijat lähinnä oppivat muistamaan, mistä tietoa voi hakea.</p>
-<p>Kaksi vakiintunutta kognitiivisen psykologian teoriaa selittää ilmiötä. <strong>Kognitiivinen ulkoistaminen</strong> (<em>cognitive offloading</em>): tekoälyn avulla ajatteluprosessi ulkoistetaan, eivätkä aivot tee sitä työtä, joka tuottaa pysyviä muistijälkiä. <strong>Hyödylliset vaikeudet</strong> (<em>desirable difficulties</em>): tekoäly poistaa opiskelusta oppimisen kannalta välttämättömät hankaluudet ja kamppailun.</p>
-<p>Brasilialaisessa satunnaistetussa kokeessa (n = 120) tutkittiin ChatGPT:n vaikutusta pitkäaikaiseen osaamiseen (Barcaui 2025). 45 päivän kuluttua järjestetyssä yllätystestissä tekoälyä käyttäneet opiskelijat menestyivät noin yhden arvosanan verran heikommin kuin perinteisin menetelmin opiskellut verrokkiryhmä.</p>
-<p>Anthropicin tutkijoiden (Shen ja Tamkin 2026) satunnaistettu koe tutki, miten AI-avustajan käyttö vaikuttaa uuden ohjelmointikirjaston oppimiseen ammattilaiskehittäjillä. Konteksti on erityisen olennainen: tuottavuuden näkökulmasta juuri aloittelevat kehittäjät hyötyvät eniten tekoälyn käytöstä, mutta ovat myös kaikkein haavoittuvimpia taitojen kehittymisen kannalta. Tutkimuksen löydös on merkittävä: tekoälyä käyttäneet saivat 17 % huonommat pisteet osaamiskokeessa eikä tehtävän suorittaminen nopeutunut tilastollisesti merkitsevästi.</p>
-<p>Nämä tutkimukset eivät ole ainoita:</p>
-<ul>
-<li><strong>Microsoftin Future of Work -raportti</strong> (2026) korostaa, että kokeneet osaajat hyötyvät tekoälystä, mutta aloittelijoiden oppimispolku vaarantuu.</li>
-<li><strong>CACM:n katsaus</strong> AI:n deskilling-paradoksista: AI tekee työntekijöistä tuottavampia lyhyellä aikavälillä samalla kun se rappeuttaa taitoja jotka tekevät heistä arvokkaita.</li>
-</ul>
-<p>Barcaui kutsuu ilmiötä <em>lainatuksi osaamiseksi</em>: AI tarjoaa sanaston, rakenteen ja päättelyketjut ja luo illuusion osaamisesta. Todellista enkoodausta pitkäkestoiseen muistiin ei kuitenkaan tapahdu.</p>
-</section>
-<section id="kannustinongelma-jälleen-kerran" class="level2">
-<h2 class="anchored" data-anchor-id="kannustinongelma-jälleen-kerran">Kannustinongelma, jälleen kerran</h2>
-<p>Taloustieteen linssin läpi tarkasteltuna kyseessä on taas kerran kannustinongelma. Tekoälyn käyttö synnyttää kannustinrakenteen, jossa hyöty on välitön ja näkyvä. Tehtävä valmistuu nopeammin ja tulos näyttää hyvältä. Kustannus puolestaab jää näkymättömäksi ja viivästyy. Osaaminen ei kerry, mutta sen puuttuminen paljastuu vasta myöhemmin. Yksilö tekee lyhyellä aikavälillä rationaalisen valinnan käyttää tekoälyä, mutta pitkällä aikavälillä tulos ei yksin riitä: osaamispääomaa ei kerry tai se jopa rapautuu.</p>
-<p>Ongelma kärjistyy erityisesti uransa alkuvaiheessa olevilla. Kokenut ammattilainen voi käyttää AI:ta tehokkaasti, koska hänellä on olemassa oleva osaamispohja jota vasten arvioida tuloksia. Aloittelija ei tiedä mitä ei tiedä eikä pysty arvioimaan AI:n tuotoksen laatua tai huomaamaan, ettei opi. Tätä sokeutta syventää kognitiivinen vinouma, jota kutsutaan <strong>selityssyvyyden illuusioksi</strong> (<em>illusion of explanatory depth</em>). Kun luemme tekoälyn tuottamaa, kielellisesti sujuvaa ja loogiselta vaikuttavaa tekstiä, aivomme lankeavat harhaan ja luulemme ymmärtävämme asian yhtä syvällisesti kuin lukemamme teksti antaa ymmärtää. Dynamiikka on hankala: aloittelija ei ainoastaan jätä osaamista kartuttamatta, vaan saa siitä huolimatta positiivisen palautteen. Tehtävä valmistuu, koodi toimii, essee näyttää hyvältä. Oppimisen puute ei näy välittömästi missään: ei itselle, ei opettajalle, ei esihenkilölle. Aukko paljastuu vasta myöhemmin tilanteessa, jossa vaaditaan itsenäistä soveltamista tai ongelmanratkaisua ilman tekoälyä. Shen ja Tamkin kuvaavat tätä hauskasti: tekoäly voi toimia eksoskeletonina, mutta ilman sitä ihminen ei ole sen vahvempi kuin ennen.</p>
-</section>
-<section id="oppimista-tukevat-käyttötavat" class="level2">
-<h2 class="anchored" data-anchor-id="oppimista-tukevat-käyttötavat">Oppimista tukevat käyttötavat</h2>
-<p>Ratkaisu ei ole AI:n välttäminen. Shen ja Tamkinin tutkimus osoittaa, että tietoisella käyttötavalla oppiminen voi säilyä. Mutta se edellyttää <em>tietoista vaivannäköä</em> — aktiivista päätöstä olla ulkoistamatta ajattelua. Artikkeli antaa kolme konkreettista suositusta oppimista tukevista käyttötavoista:</p>
-<ol type="1">
-<li><p><strong>Ensin oma yritys, sitten AI</strong>. Opiskele tai ratkaise ongelma ensin itse. Tämän jälkeen tekoälyä voi käyttää vastausten vertailuun, testaamiseen ja aukkojen löytämiseen.</p></li>
-<li><p><strong>Käyttö palautetyökaluna, ei vastausautomaattina</strong>. Tee ensin oma vastaus, ja kysy sen jälkeen palautetta tekoälyltä. Tämä säilyttää oppimisen kannalta välttämättömän oman ponnistelun ja ajattelun.</p></li>
-<li><p><strong>Viivästä tekoälyn käyttöä uuden materiaalin kanssa</strong>: Käsitteellisesti vaikeissa asioissa kannattaa ensin kamppailla itsensä kanssa. Juuri hankalissa asioissa hyödyllisten vaikeuksien arvo on suurin. Voit myös antaa tekoälylle kehotteita (prompteja), kuten: “Älä anna minulle vastausta, vaan kysy minulta ohjaavia kysymyksiä, jotka auttavat minua ratkaisemaan tämän itse.”</p></li>
-</ol>
-<p>Oulussa tätä testataan käytännössä. Sanna Järvelän johtamassa Oulun yliopiston Hybrid Intelligence -tutkimusohjelmassa kehitetty <em>Mai</em> — metakognitiivinen AI-agentti — on suunniteltu tekemään juuri päinvastoin kuin ChatGPT. Lähtökohtana on hybridin älykkyyden idea: ihmisen ja tekoälyn vahvuudet yhdistettynä tuottavat enemmän kuin kumpikaan erikseen, mutta vain jos AI <em>parantaa</em> ihmisen ajattelua eikä korvaa sitä. Mai ei anna valmiita vastauksia vaan toimii ryhmän valmentajana. Se tarkkailee oppilaiden työskentelyä, hoksauttaa haasteista ja ohjaa keskusteluun. Ritaharjun yläkoulussa 132 seiskaluokkalaista testasi agenttia fysiikan opetuksessa. Oppilaat raportoivat ratkaisseensa ongelmia paremmin yhdessä ja muistaneensa opetettavat asiat paremmin Mai:n haastamisen jälkeen. Tiimityössä hybridimallit voivat toimia erityisen hyvin, koska sosiaalinen vertaispaine ja AI-valmennus vahvistavat toisiaan.</p>
-<p>Oppilaan havainto tiivistää olennaisen: <em>“Koska valmiita vastauksia siltä ei saa, joutuu itse miettimään ja oppii sitä kautta asian paremmin.”</em></p>
-<hr>
-<p><em>Lähteet:</em></p>
-<ul>
-<li>Barcaui, A. (2025). <a href="https://doi.org/10.1016/j.ssaho.2025.102287">ChatGPT as a cognitive crutch: Evidence from a randomized controlled trial on knowledge retention</a>. <em>Social Sciences &amp; Humanities Open</em>, 12, 102287.</li>
-<li>Bjork, E. L. &amp; Bjork, R. A. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. Teoksessa Gernsbacher et al.&nbsp;(toim.), Psychology and the Real World. Worth Publishers.</li>
-<li>Shen, J. H. &amp; Tamkin, A. (2025). <a href="https://arxiv.org/abs/2601.20245">How AI Impacts Skill Formation</a>. arXiv:2601.20245.</li>
-<li>Crowston, K. (2025). <a href="https://crowston.syr.edu/sites/crowston.syr.edu/files/GAI_and_skills.pdf">Deskilling and Upskilling with AI Systems</a>.</li>
-<li><a href="https://cacm.acm.org/news/the-ai-deskilling-paradox/">The AI Deskilling Paradox</a>. Communications of the ACM.</li>
-<li><a href="https://allwork.space/2026/01/workers-gain-hours-with-ai-but-risk-losing-skills-according-to-microsofts-new-future-of-work-report/">Workers Gain Hours With AI But Risk Losing Skills</a>. AllWork/Microsoft Future of Work Report, 2026.</li>
-<li><a href="https://www.imf.org/en/blogs/articles/2026/01/14/new-skills-and-ai-are-reshaping-the-future-of-work">New Skills and AI Are Reshaping the Future of Work</a>. IMF Blog, 2026.</li>
-<li>Järvelä, S. et al.&nbsp;/ Oulun yliopisto (2025). <a href="https://www.oulu.fi/en/blogs/science-arctic-attitude/hybrid-intelligence-ensures-ai-does-not-replace-learning-or-make-learner-lazy">Hybrid Intelligence ensures AI does not replace learning</a>. Oulun yliopisto; ks. myös <a href="https://yle.fi/a/74-20130127">Yle 14.3.2025</a>.</li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>ai</category>
-  <category>kannustimet</category>
-  <category>inhimillinen pääoma</category>
-  <guid>https://vkauppine.github.io/Incentive-Lens/posts/ai-and-skills/</guid>
-  <pubDate>Sat, 14 Mar 2026 22:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
