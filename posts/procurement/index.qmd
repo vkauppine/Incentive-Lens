@@ -1,0 +1,149 @@
+---
+title: "They Have the Prices, We Have the Money"
+subtitle: "Procurement's savings percentage is beta dressed up as alpha"
+author: "Vesa"
+date: "2026-07-17"
+lang: en
+image: "cover.png"
+categories: [incentives, procurement, measurement]
+---
+
+## The org chart that reveals more than its creator intended
+
+I spent about fifteen years working in logistics and supply chain.
+
+It's a young person's game. Especially in LinkedIn form: rocket emojis, endless threads, and seven lessons that will revolutionize your supply chain by Friday.
+
+Enough of that BS.
+
+I was in it long enough to still tell garbage from substance.
+
+![](cover.png)
+
+LinkedIn regularly circulates an infographic called "the supply chain organization." At the top is the Supply Chain VP, with four silos below: Planning, Procurement, Logistics, and Operations. Under each is a neat row of KPI boxes. The headline warns that a bad org chart destroys supply chain performance.
+
+The image is, unintentionally, exactly that kind of chart.
+
+I'll leave the box hierarchy aside. The most interesting part is the KPI row, and the standout item is procurement's **Cost Savings %**. It's probably supply chain's most popular metric, and the least well justified.
+
+My claim is simple: a large portion of reported savings is fiction, and most of what remains is just market movement. Real procurement expertise exists. The metric simply doesn't measure it.
+
+On the operations side, we had a saying for this:
+
+*They have the prices, we have the money.*
+
+## A savings claim is not a measurement
+
+Negotiated savings is a claim about what would have happened without the negotiation. "We saved 12%" means: "we paid 12% less than we otherwise would have." In principle, it's a counterfactual.
+
+In practice, the counterfactual is often cooked up internally: last year's price, the supplier's opening ask, or a top-down target. The same function picks the baseline, records the win, and prepares the slides.
+
+The target is blunt: the price has to go down, or you had better have an extremely good explanation.
+
+No supply chain leader automatically credits inflation. No COO writes off a price increase just because energy went up ten percent. The market did what it did; the target stays. Deliver, or explain.
+
+Procurement is held accountable for a price level it barely controls. When the market doesn't budge, the saving still has to appear.
+
+But necessity is the mother of invention.
+
+A reportable saving can be found in all kinds of creative places:
+
+- **Ghost volume.** You book a shiny 12% saving against the forecast, but the actual orders come in at half the volume.
+
+- **Avoided-cost laundering.** The supplier opens at +8%, you settle at +3%, and procurement reports "5% saved." More money went out the door than last year; you just avoided their opening ask.
+
+- **The balloon.** Unit price down, but minimum order quantities up, freight terms worse, payment terms shorter, quality specs loosened. The price line looks beautiful, while the real cost quietly shifts somewhere the metric can't see.
+
+It all comes down to how you tell the story.
+
+Operations, by contrast, has the discipline that physical reality imposes. Excess inventory hits working capital. Missed schedules turn into expedited freight, lost production, delayed deliveries, and lost customers. You can still play games with the numbers, but eventually it comes down to piece counts, invoices, inventory value. And real money.
+
+Procurement savings often stop one step earlier: on the slide where the number is declared.
+
+That's why reported savings rarely turn into an actual cut in next year's budget. If the saving were real, the budget line would drop by the same amount. That almost never happens.
+
+That's the tell.
+
+## Most price changes are noise
+
+So far this has been about measurement. The harder problem is attribution. Even savings that reconcile to cash can be mostly coincidence.
+
+Think of a procurement outcome as signal and noise. Signal is the part procurement actually controls: supplier selection, negotiation, contract structure, demand aggregation, dual sourcing. Noise is everything else that moves prices: energy, exchange rates, freight capacity, raw material cycles, war, port closures, bankruptcies, strikes.
+
+In most categories, noise beats signal. Yet the metric still rewards the year-over-year change. The market moved the price. The buyer just signed.
+
+In investment terms, most procurement savings are **beta** — exposure to the market move. Alpha is what remains after you strip the market out.
+
+Steel falls 15% on the LME. The category manager negotiates a contract, the price follows the index down, and he delivers a 12% saving. The scorecard shines. The bonus is paid. The slide deck circulates in the leadership team as a success story.
+
+The next year steel rises 15%. Same manager, same skill, same negotiations. The price follows the index up. Now he "loses" 8% and writes a paragraph about geopolitical headwinds. The balanced scorecard turns red, and a development discussion follows.
+
+Nothing in his actual work changed between the years. In the first he got a bonus for cost savings. In the second he got blamed for rising costs. In both cases he was rewarded or punished for a market move he could barely influence.
+
+Worse still: the manager who did the best work — locking prices early, dual-sourcing, hedging the rise — looks weakest in exactly the year his work was most valuable. The bonus is effectively a long position on falling steel. It pays out on a bet no one consciously placed.
+
+Same skill, opposite career conversation.
+
+You measure the tide and pay the swimmer.
+
+The honest benchmark is not last year's price. It is this year's market price for the same good. Expertise shows in what you paid relative to what a comparable buyer paid on comparable terms in the same conditions.
+
+Did you beat the benchmark? Did you hold your contracts when spot prices spiked? Did you renegotiate when the market crashed?
+
+That is signal. It's usually just a few percentage points around the index, not a flashy double-digit headline. Good procurement is real, but its contribution is the spread over the market.
+
+## A counterexample that proves the model
+
+At this point a procurement person raises a hand and says: I once actually made real money on timing.
+
+Good. That story proves the model.
+
+After the 2008 crash, the freight market was on the floor. Carriers were desperate to fill capacity. I was still on the operations side, but in practice I built the RFQ and the timing. We locked the key freight lanes for a full year by contract, on exceptionally favorable terms.
+
+Some lines needed renegotiation along the way. Still, for an entire year we paid below market on freight, and it showed clearly in the invoices finance could verify.
+
+The case passes every test:
+
+- **It reconciled to cash.** A locked price, a contract, and a year of real invoices below market.
+
+- **It was index-relative outperformance.** After the crash, not everyone paid the same prices.
+
+- **The mechanism was expertise.** Smart RFQ design, timing, and the nerve to commit long when others were frozen. The counterparty's desperation was turned into contract structure.
+
+That is real procurement alpha.
+
+## Real procurement alpha is an option
+
+The honest model is this: the average saving is noise, the value lives in the tails, and the tails are option-like.
+
+For most of the year, outperformance versus the index is just a few points either way — useful, but rarely worth a victory lap. Then a disruption hits: post-2008 freight, the early-COVID capacity crunch, an energy spike, a supplier bankruptcy, a sudden demand collapse. A sharp buyer can turn temporary disorder into lasting contractual advantage.
+
+Expertise is spotting the window and having the mandate to act. It's rare because the windows are rare. A long fixed contract is not a free option — it can backfire if the market keeps falling. That's why it takes judgment, authority, and real risk appetite.
+
+This is a Talebian structure. Procurement alpha cannot be scheduled into neat quarters.
+
+The standard metric fails here. It rewards dull quarters as if they were brilliance and can easily miss the one deal that actually mattered.
+
+The metric rewards the absolute level when it should reward outperformance relative to the market. And it doesn't really work in any environment: in calm markets it encourages fictional savings, in stormy ones it buries real skill under market noise.
+
+Real expertise is convex and episodic.
+
+## The fix
+
+The fix is boring, as the best fixes usually are.
+
+A saving should count only once finance actually removes the matching amount from the budget or verifies it against real spend. The booked saving has to turn into less money available to spend. Until then, it's just a claim.
+
+Procurement naturally hates this, because it turns a nice headline story into a number operations can check. The control is just the original saying made formal:
+
+*Whoever has the money gets to confirm the saving.*
+
+A saving can be validated only by the person who bears the consequences if the number is wrong. Taleb-style skin in the game.
+
+This rule would kill most procurement savings decks.
+
+Good. The ones that survive would actually be worth reading.
+
+The same applies to attribution. Measure procurement against the market, not against last year.
+
+The gap to the index tells you who actually swam — and who just rode the tide.
