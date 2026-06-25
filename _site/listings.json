@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/procurement/index.html",
       "/posts/scm/index.html",
       "/posts/murkut/index.html",
       "/posts/busquetz/index.html",
