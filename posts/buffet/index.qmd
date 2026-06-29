@@ -102,8 +102,8 @@ kuin osaan laskea.
 ## Opetus
 
 Buffet kestää strategisen syöjän, koska suurten lukujen laki kantaa sen.
-Hääjuhlat kaatuvat samaan syöjään, koska siellä isoja numeroita ei ole tarpeeksi. Sama
-ihminen on vaaraton Cinderellalla ja tuhoisa sukujuhlassa.
+Hääjuhlat kaatuvat strategiseen syöjään, koska siellä isoja numeroita ei ole tarpeeksi. Sama
+ihminen on vaaraton Cinderellalla mutta tuhoisa sukujuhlassa.
 
 Jos siis joskus haluaa nähdä ravintolan jäävän tappiolle, risteily on
 väärä paikka. Oikea paikka on yksityistilaisuus, jonka asiakaskuntaa kukaan ei
