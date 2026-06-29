@@ -9,7 +9,7 @@ description: "Serkkuni teoria buffetista on oikea. Se on vain osoitettu väärä
 ---
 ![](cover.jpg)
 Laivan kannella tulee hetki, jolloin ihminen kohtaa mikrotaloustieteen
-alastomimman totuuden: lautasella oleva kuudes nakki ei maksa mitään.
+alastomimman totuuden: jos lautaselle ottaa vielä kuudennen nakinn, seei maksa mitään. Ehkä ilmaisia lounaita on sittenkin olemassa?
 
 En ole tämän alan kokemusasiantuntija. Kävin Tallinnassa ensimmäisen
 kerran vasta 2019, koska elin pitkään siinä uskossa, että se on yhä
