@@ -21,7 +21,7 @@ tavallinen ihminen tekee taloustieteellisiä päätöksiä nopeammin kuin
 osaa ne perustella.
 
 Suvussani on kuitenkin yksi henkilö, joka on kehittänyt tämän taidon
-teoriaksi. Serkkuni on perheemme soveltavan mikrotalouden edelläkävijä.
+teoriaksi. Serkkuni on sukummme soveltavan mikrotalouden edelläkävijä.
 Hänellä on buffetista oppi, jonka hän esittää joka kerta samalla
 tyyneydellä: kun hän käy seisovassa pöydässä, ravintola jää tappiolle.
 
@@ -34,13 +34,13 @@ sitä siis vakavasti.
 
 Kun pääsymaksu on maksettu, se on uponnut kustannus. Mennyttä rahaa ei
 syömällä saa takaisin, koska se on jo ravintolan tilillä. Tästä
-huolimatta jokainen meistä on joskus kuullut itsensä sanovan: nyt syön
+huolimatta jokainen meistä on sanonut: nyt syön
 rahani takaisin. Lause on uponneen kustannuksen harhan harjoittamista
 omalla haimalla.
 
-Talousteoria antaa silti syöjälle selkeän ohjeen. Koska seuraavan
+Mikrotaloustieteen teoria antaa silti syöjälle selvän ohjeen. Koska seuraavan
 annoksen rajakustannus on nolla, kannattaa syödä siihen pisteeseen,
-jossa viimeisen suupalan rajahyöty putoaa nollaan. Taloustiede kutsuu
+jossa viimeisen nakkihaukun rajahyöty putoaa nollaan. Taloustiede kutsuu
 sitä optimaaliseksi ratkaisuksi. 
 
 Lääketiede käyttää toista sanaa.

@@ -226,8 +226,8 @@
   <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/scm/cover.png" medium="image" type="image/png" height="180" width="144"/>
 </item>
 <item>
-  <title>Miksi en ole konservatiivi</title>
-  <dc:creator>Vesa </dc:creator>
+  <title>Ravintola jää tappiolle</title>
+  <dc:creator>Vesa Kauppinen</dc:creator>
   <link>https://vkauppine.github.io/Incentive-Lens/posts/conservative/</link>
   <description><![CDATA[ 
 
@@ -235,51 +235,46 @@
 
 
 
-<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/conservative/cover.jpg" class="img-fluid"></p>
-<p>Hayekin essee <em>Why I Am Not a Conservative</em> (1960) on ennen kaikkea epistemologinen kannanotto: miten suhtautua muutokseen ja perinteeseen, kun tietää oman tietonsa rajallisuuden. Otsikkoni on ehkä turhan rohkea. En ole Hayekin tasoinen ajattelija, eikä minun positioni ole kiinnostava. Mutta kirjoittaminen on ajattelemista ja oma bloggaamiseni hyväntahtoista trollaamista.</p>
-<p>Hayek kirjoitti esseen osin siksi, että sana <em>liberal</em> oli hänen aikanaan amerikkalaisessa käytössä jo kääntynyt tarkoittamaan miltei päinvastaista kuin mitä hän tarkoitti. Konservatiivin leimaa hän ei myöskään halua, koska se sitoo position nykytilan puolustamiseen.</p>
-<p>Esseetä luetaan usein poliittisena itsemäärittelynä, eräänlaisena leirinvalintana. Se on kuitenkin kiinnostavin epistemologisena tekstinä. Sen ydin on kysymys siitä, miten ihminen pitää kiinni omista vakaumuksistaan ja suhtautuu muutokseen, kun hän samalla myöntää tietävänsä vähemmän kuin haluaisi. Tästä näkökulmasta essee on säilynyt merkityksellisenä, vaikka sen poliittinen sanasto on osin vanhentunut.</p>
-<section id="miten-hayek-määrittelee-konservatismin" class="level2">
-<h2 class="anchored" data-anchor-id="miten-hayek-määrittelee-konservatismin">Miten Hayek määrittelee konservatismin</h2>
-<p>Hayekin määritelmä konservatismista on tahallisen rajaava. Konservatismi on hänelle asenne, joka määrittyy pelkästään suhteessa vallitsevaan muutokseen: se vastustaa nykyistä liikettä mutta ei osoita suuntaa. Tunnetussa vertauksessaan hän kuvaa konservatismia jarruna. Se voi painaa jarrua, mutta ei osaa kääntää rattia suuntaan, johon pitäisi mennä. Tästä seuraa hänen mukaansa konservatismin pohjimmainen opportunismi. Koska sillä ei ole omia periaatteita, sisältö riippuu täysin siitä, mitä kulloinkin sattuu olemaan vallalla. Eilisen radikaali voi olla tämän päivän konservatiivi, koska maailma on muuttunut. Ja vice versa.</p>
-<p>Tämä on osin karikatyyri. Burken kritiikki Ranskan vallankumousta kohtaan nojasi siihen, että abstrakteista periaatteista johdettu täydellinen yhteiskuntasuunnitelma sivuuttaa sen kasaantuneen kokemuksen, jota instituutiot kantavat. Oakeshott muotoili saman vielä selvemmin. Oakeshottin konservatismi on lähinnä taipumus: halu arvostaa olemassa olevaa, tuttua, koeteltua ja meidän omaamme sillä perusteella, että sen tuhoamisen kustannukset ovat tuntemattomia. Tällainen konservatismi on vain suhtautumistapa epävarmuuteen.</p>
-<p>Kun konservatismi luetaan näin, Hayekin positio mutkistuu. Oakeshottilainen varovaisuus, tuntemattoman kustannuksen kunnioitus, on hyvin lähellä sitä, mitä Hayek itse sanoo spontaanista järjestyksestä ja hajautetusta tiedosta. Vastaväite ei kumoa Hayekia, vaan herättää kysymyksen: jos hänen epistemologiansa sisältää konservatiivisen pohjavireen, missä kulkee se raja, joka erottaa hänet konservatiivista?</p>
+<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/conservative/cover.jpg" class="img-fluid"> Laivan kannella on hetki, jolloin ihminen kohtaa mikrotaloustieteen alastomimman totuuden: lautasella oleva kuudes nakki ei maksa mitään.</p>
+<p>En ole tämän alan kokemusasiantuntija. Kävin Tallinnassa ensimmäisen kerran vasta 2019, koska elin pitkään siinä uskossa, että se on yhä Neuvostoliitto. Varsinaisen sivistykseni seisovan pöydän äärellä sain Ruotsin-laivalla, missä vanhempani vetivät katkarapuähkyn sellaisella vakaumuksella, että muistan sen yhä. Pöytä oli runsas, lautaset pieniä ja vanhempieni katse kirkas. Siellä opin, että buffet on paikka, jossa tavallinen ihminen tekee taloustieteellisiä päätöksiä nopeammin kuin osaa ne perustella.</p>
+<p>Suvussani on kuitenkin yksi henkilö, joka on kehittänyt tämän taidon teoriaksi. Serkkuni on perheemme soveltavan mikrotalouden edelläkävijä. Hänellä on buffetista oppi, jonka hän esittää joka kerta samalla tyyneydellä: kun hän käy seisovassa pöydässä, ravintola jää tappiolle.</p>
+<p>Kohtelen tätä väitettä sillä kunnioituksella, jonka se ansaitsee. Se on selkeä, se on rohkea ja se on lausuttu ääneen, mikä on enemmän kuin useimmat taloustieteilijät uskaltavat tehdä ennusteilleen. Tarkastellaan sitä siis vakavasti.</p>
+<section id="syöjän-ongelma" class="level2">
+<h2 class="anchored" data-anchor-id="syöjän-ongelma">Syöjän ongelma</h2>
+<p>Kun pääsymaksu on maksettu, se on uponnut kustannus. Mennyttä rahaa ei syömällä saa takaisin, koska se on jo ravintolan tilillä. Tästä huolimatta jokainen meistä on joskus kuullut itsensä sanovan: nyt syön rahani takaisin. Lause on uponneen kustannuksen harhan harjoittamista omalla haimalla.</p>
+<p>Talousteoria antaa silti syöjälle selkeän ohjeen. Koska seuraavan annoksen rajakustannus on nolla, kannattaa syödä siihen pisteeseen, jossa viimeisen suupalan rajahyöty putoaa nollaan. Taloustiede kutsuu sitä optimaaliseksi ratkaisuksi.</p>
+<p>Lääketiede käyttää toista sanaa.</p>
+<p>Rationaalinen buffetvieras pysähtyy täsmälleen siihen, missä nautinto ja pahoinvointi kohtaavat, ja hyvä syöjä osuu siihen tarkasti.</p>
+<p>Lautanen tuo mukanaan oman pulmansa, joka tunnetaan <a href="https://en.wikipedia.org/wiki/Knapsack_problem">reppuongelmana</a>. Tilavuus on rajallinen ja jokaisella ruoalla on oma arvo-tilavuussuhteensa. Leipä on tässä laskelmassa surkea sijoitus, ja juuri siksi ravintola asettaa sen pöydän alkupäähän. Aloittelija lastaa leipää ja häviää pelin ennen pääruokaa. Serkkuni ei koske leipään. Hän aloittaa katkaravuista. Tämä on kurinalaisuutta, jota on vaikea olla ihailematta.</p>
 </section>
-<section id="pakko-periaatteet-ja-pluralismi" class="level2">
-<h2 class="anchored" data-anchor-id="pakko-periaatteet-ja-pluralismi">Pakko, periaatteet ja pluralismi</h2>
-<p>Hayekin vastaus liittyy voimankäyttöön ja pakottamiseen. Konservatiivi ei hänen mukaansa vastusta pakkoa sinänsä. Konservatiivi vastustaa pakkoa silloin, kun sitä käytetään väärään tarkoitukseen, mutta hyväksyy sen mielellään silloin, kun se palvelee oikeaksi koettua päämäärää. Liberaali Hayekin merkityksessä vastustaa mielivaltaista pakkoa riippumatta siitä, mihin sitä käytetään. Erottelu koskee viime kädessä suhdetta valtaan. Suhde muutokseen on tässä toissijainen.</p>
-<p>Tähän liittyy esseen toinen kantava ajatus, suvaitsevaisuuden periaate. Liberaali eroaa konservatiivista siinä, ettei hän pelkää antaa toisille vapautta sellaisissakaan asioissa, joita hän itse paheksuu. Moraaliset vakaumukset kuuluvat yksityisen elämän ja vapaaehtoisen sopimisen alueelle, eivät valtion pakkokoneistolle. Konservatiivi puolestaan taipuu käyttämään julkista valtaa oman moraalinäkemyksensä pakottamiseen, jos pitää sitä oikeana. Tässä on se varsinainen vedenjakaja.</p>
-<p>Periaatteen ja opportunismin erottelu kytkeytyy tähän. Tässä periaate toimii kuin sitoutumismekanismi. Se on sama rakenne, jolla Odysseus sidotaan mastoon tai jolla <a href="../viktor/">Gyökeres dumppaa tyttöystävänsä</a>: päätös tehdään etukäteen ja viedään pois oman tulevan harkinnan ulottuvilta juuri siksi, ettei siihen hetkeen luoteta, jossa houkutus on suurimmillaan. Periaate sitoo sen varalta, että huomenna voi keksiä liian hyvän syyn poiketa. Opportunisti skippaa tämän ja säilyttää harkintavallan jokaisessa yksittäistapauksessa. Periaate on sitoumus sääntöön, joka sitoo silloinkin, kun lopputulos ei miellytä. Vanha Voltaireen liitetty vapausläppä on oikeasti Evelyn Beatrice Hallin parafraasi, mutta ajatus on kohdallaan: “En ole samaa mieltä kanssasi, mutta puolustan kuolemaani saakka oikeuttasi sanoa se.” Liberaalin position kova ydin on juuri valmius pitää kiinni säännöstä silloin, kun sääntö tuottaa tuloksen, jota itse vieroksuu. Vain tällainen sääntö suojaa myös niitä, joiden vakaumukset poikkeavat niistä, joita itse pitää mieleisinä. Opportunisti taas arvioi jokaisen tapauksen erikseen toivotun lopputuloksen valossa ja menettää näin koko pakkoa rajoittavan periaatteen. Tämä erottelu on Hayekin esseen kestävin anti. Se ei vanhene, eikä riipu siitä, miten milloinkin puolueet sijoittuvat poliittisen kompassin nelikenttään.</p>
+<section id="ketä-vastaan-voitto-tulee" class="level2">
+<h2 class="anchored" data-anchor-id="ketä-vastaan-voitto-tulee">Ketä vastaan voitto tulee</h2>
+<p>Sitten tulee kysymys, jonka serkkuni iskulause sivuuttaa. Ketä vastaan hän oikeastaan voittaa?</p>
+<p>Buffetin hinta on asetettu keskimääräisen kulutuksen mukaan. Kun syöjiä on satoja, suurten lukujen laki tekee työnsä: yksittäiset katkarapuhamstraajat ja yksittäiset potunsyöjät keskiarvoistuvat, ja ravintola tietää melko tarkasti, mitä ilta maksaa. Tehokas syöjä ei tässä joukossa kaada koko bisnestä. Hän siirtää varallisuutta niiltä, jotka söivät vähän, itselleen. Teinityttö, joka otti salaattia ja yhden soijapullan, maksoi osan serkkuni katkaravuista.</p>
+<p>Serkkuni siis voittaa. Mutta hän voittaa väärän vastustajan. Ravintolan omistaja hymyilee kassallaa, kun taas kevyesti ja ilman optimoitua strategiaa syövä maksaa laskun.</p>
+<p>Ravintola tietää tämän ja suojautuu. All-you-can-eat houkuttelee luokseen lihavan hännän, ja se on haitallista valikoitumista risteilyaluksen mittakaavassa. Bisnes vastaa kitkalla: pienet lautaset, sopivan kaukana sijaitseva piste, halvat hiilihydraatit etualalla ja kunnon kate juomissa. Voitto ei synny ruoasta vaan janosta.</p>
 </section>
-<section id="nationalismi-ja-protektionismi-rakenteellisena-kollektivismina" class="level2">
-<h2 class="anchored" data-anchor-id="nationalismi-ja-protektionismi-rakenteellisena-kollektivismina">Nationalismi ja protektionismi rakenteellisena kollektivismina</h2>
-<p>Hayek liittää konservatismiin myös taipumuksen nationalismiin, ja hän pitää nationalismia yhtenä kollektivismin juurena. Taloudellinen nationalismi, protektionismi sen selvimpänä muotona, on rakenteeltaan sama operaatio kuin sosialismi, vaikka retoriikka on erilainen. Molemmat korvaavat hintojen spontaanin järjestyksen poliittisella ohjauksella. Molemmat olettavat, että keskitetty toimija voi tietää hajautettua prosessia paremmin, mihin resurssit pitäisi suunnata. Vain jakolinja ja retoriikka vaihtuvat.</p>
-<p>Tässä näkyy hayekilaisen argumentin sisäinen johdonmukaisuus. Sama tiedonkäsittelyn ongelma, joka tekee keskussuunnittelusta mahdottoman, tekee protektionismista tehottoman. Rajan vetäminen kansallisvaltion ympärille ei poista laskentaongelmaa. Tässä konservatismi, joka muuten vetoaa hajautettuun viisauteen ja epäluuloon suuria suunnitelmia kohtaan, kääntyy itseään vastaan ja hyväksyy keskitetyn ohjauksen heti, kun ohjaus tehdään oman ryhmän hyväksi. Hayekin hyvä huomio on, että kollektivismi ei ole vasemmiston yksinoikeus. Se on rakenne. Vain paidan tai lipun väri muuttuu.</p>
+<section id="se-yksi-kerta-kun-teoria-toteutui" class="level2">
+<h2 class="anchored" data-anchor-id="se-yksi-kerta-kun-teoria-toteutui">Se yksi kerta, kun teoria toteutui</h2>
+<p>On kuitenkin yksi tilaisuus, jossa serkkuni iskulause toteutui kirjaimellisesti. Ne olivat minun hääni.</p>
+<p>Tarjoilun mitoitus laskettiin huolellisesti, normaalin keskimääräisen kulutuksen mukaan. Voileipäkakkua tilattiin sen verran kuin tavanomainen vierasjoukko syö. Laskelma oli moitteeton yhtä yksityiskohtaa lukuun ottamatta. Se unohti, että samasta sukuhaarasta saapuisi toistakymmentä hyväruokaista vierasta, serkkuni heidän joukossaan.</p>
+<p>Tässä piilee koko juju. Häät on pieni otos. Suurten lukujen laki tarvitsee paljon vieraita tasoittaakseen ääripäät, ja sadan hengen juhlassa sitä turvaa ei ole. Toteutunut otos oli itsessään se lihava häntä. Häntä oli vielä korreloitunut.</p>
+<p>Silloin harmitti. Voileipäkakun määrä oli lasketttu oppikirjan mukaan mutta se loppui ennen kuin osa vieraista ehti saada palaakaan. Myöhemmin asia on naurattanut useammin kuin osaan laskea.</p>
 </section>
-<section id="missä-hayek-jää-vajaaksi" class="level2">
-<h2 class="anchored" data-anchor-id="missä-hayek-jää-vajaaksi">Missä Hayek jää vajaaksi</h2>
-<p>Tähän asti olen lukenut Hayekia myötäsukaisesti. On myös tarpeellista sanoa, missä argumentti jää vajaaksi. Vaikein kohta on epäsymmetria instituutioiden synnyn ja niiden ylläpidon välillä.</p>
-<p>Hayek selittää loistavasti, miten instituutiot syntyvät. Spontaani järjestys, kulttuurinen evoluutio ja ihmistoiminnan suunnittelemattomat tulokset ovat hänen vahvinta aluettaan, ja ajatus on aidosti syvällinen. Hän on heikommalla kysymyksessä siitä, miten instituutioita ylläpidetään ja milloin niitä ja niiden sääntöjä saa ja pitää muuttaa. Instituutiot ovat evoluution tulosta, ja jos me todella tiedämme vähemmän kuin luulemme, hänen omaan epistemologiaansa sisältyy konservatiivinen päätelmä: todistustaakka on muutoksen ajajalla. Konservatiivi pääsee vähemmällä. Tämä ei ole status quon palvontaa, vaan epistemologinen kanta. Koska kykymme ennakoida muutoksen seurauksia on rajallinen, muutoksen perustelu vaatii enemmän kuin nykytilan säilyttäminen.</p>
-<p>Hayek tunsi tämän kiusallisen jännitteen, ja ainakin itse luen sen esseessä tiettynä vaivaantuneisuutena. Hän halusi pitää etäisyyttä sosiaalikonservatismiin, mutta tarvitsi silti perinteen ja koetellun käytännön evoluution pohjaksi. Hän ei oikein ratkaissut kysymystä siitä, milloin perinteen kunnioitus muuttuu pelkän inertian puolusteluksi. Oakeshott vastasi tähän paremmin juuri siksi, että taipumus oli hänelle position kova ydin: muutos on aina mahdollinen, mutta sen on kannettava todistustaakka. Ylläpito on spontaania järjestystä suojelevaa varovaisuutta.</p>
-</section>
-<section id="johtopäätökset-miksi-minäkään-en-ole-konservatiivi" class="level2">
-<h2 class="anchored" data-anchor-id="johtopäätökset-miksi-minäkään-en-ole-konservatiivi">Johtopäätökset: miksi minäkään en ole konservatiivi</h2>
-<p>Otsikon varastin Hayekilta tarkoituksella. Olen lukenut esseen läpi myötämielisenä ja huomaan jakavani melkein koko sen konservatiivisen vaiston. Arvostan perinteitä. Pidän koeteltua tapaa viisaampana kuin miltä se usein äkkinäiselle näyttää. Asetan todistustaakan uudistajalle. Näillä mittareilla olen lähempänä konservatiivia kuin radikaalia.</p>
-<p>Yksi kysymys silti erottaa. Saako oikeaksi katsottu päämäärä oikeuttaa pakkovallan? Konservatiivi vastaa kyllä, kun päämäärä on mieleinen. Minä vastaan <em>fuck no</em>, vaikka päämäärä olisi minulle mieleinen. Tähän ero tiivistyy, ja se on tärkeämpi kuin asenne tradition arvostamiseen tai miten suhtautua muutokseen.</p>
-<p>Raja näkyy siinä, mitä perinteelle tapahtuu, kun se kohtaa yksilön vapauden ja uuden tiedon. Konservatiiville traditio on majakka, jonka suojelemiseksi valtion valtaa voi käyttää. Minulle se on työkalu: menneisyyden kiteyttämää tietoa, joka mahdollistaa rauhallisen rinnakkaiselon ilman keskusohjausta. Työkalua saa ja pitää korjata, majakkaa täytyy vartioida. Siksi hayekilainen liberaali suostuu elämään sellaistenkin sääntöjen mukaan, joiden lopputulosta hän ei voi ennustaa eikä aina hyväksyä.</p>
-<p>Pelkkä halu painaa jarrua on dorkaa ja karmeeta. Oakeshottilainen varovaisuus antaa jarrulle älyllisen oikeutuksen, ja vain periaatteellisuus estää sitä muuttumasta mielivallan välineeksi. Yhteiskunnan toimivuutta ei pidä mitata sillä, kuinka hyvin se pysyy samana. Sitä pitää mitata säännöillä, jotka antavat meidän etsiä parempaa silloinkin, kun tulee oma vuoro hävitä.</p>
-<p>Tämä tekee oloni toisinaan vaivaantuneeksi, ja juuri siksi pidän siitä kiinni.</p>
+<section id="opetus" class="level2">
+<h2 class="anchored" data-anchor-id="opetus">Opetus</h2>
+<p>Buffet kestää strategisen syöjän, koska suurten lukujen laki kantaa sen. Hääjuhlat kaatuvat samaan syöjään, koska siellä isoja numeroita ei ole tarpeeksi. Sama ihminen on vaaraton Cinderellalla ja tuhoisa sukujuhlassa.</p>
+<p>Jos siis joskus haluaa nähdä ravintolan jäävän tappiolle, risteily on väärä paikka. Oikea paikka on yksityistilaisuus, jonka asiakaskuntaa kukaan ei muistanut mallintaa oikein. Ja jos sellaista juhlaa sattuu suunnittelemaan, kannattaa laskea vieraat nimeltä ja merkitä erikseen ne, jotka tulevat suvun siitä haarasta, jolla on strategia – ja varata niille oma kakku.</p>
 
 
 </section>
 
  ]]></description>
-  <category>klassinen liberalismi</category>
-  <category>Hayek</category>
-  <category>poliittinen filosofia</category>
-  <category>instituutiot</category>
+  <category>mikrotalous</category>
+  <category>arki</category>
+  <category>huumori</category>
   <guid>https://vkauppine.github.io/Incentive-Lens/posts/conservative/</guid>
-  <pubDate>Sat, 27 Jun 2026 21:00:00 GMT</pubDate>
+  <pubDate>Sun, 28 Jun 2026 21:00:00 GMT</pubDate>
   <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/conservative/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
