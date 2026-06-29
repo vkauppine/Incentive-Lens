@@ -8,7 +8,7 @@ description: "Serkkuni teoria buffetista on oikea. Se on vain osoitettu väärä
 
 ---
 ![](cover.jpg)
-Laivan kannella on hetki, jolloin ihminen kohtaa mikrotaloustieteen
+Laivan kannella tulee hetki, jolloin ihminen kohtaa mikrotaloustieteen
 alastomimman totuuden: lautasella oleva kuudes nakki ei maksa mitään.
 
 En ole tämän alan kokemusasiantuntija. Kävin Tallinnassa ensimmäisen
@@ -34,7 +34,7 @@ sitä siis vakavasti.
 
 Kun pääsymaksu on maksettu, se on uponnut kustannus. Mennyttä rahaa ei
 syömällä saa takaisin, koska se on jo ravintolan tilillä. Tästä
-huolimatta jokainen meistä on sanonut: nyt syön
+huolimatta jokainen meistä on joskus sanonut: nyt syön
 rahani takaisin. Lause on uponneen kustannuksen harhan harjoittamista
 omalla haimalla.
 
