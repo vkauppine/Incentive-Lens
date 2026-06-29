@@ -2,13 +2,10 @@
 title: "Ravintola jää tappiolle"
 author: "Vesa Kauppinen"
 date: "2026-06-29"
-image: "cover.jpg"
 categories: [mikrotalous, arki, huumori]
 description: "Serkkuni teoria buffetista on oikea. Se on vain osoitettu väärään tilaisuuteen."
-
+draft: true
 ---
-
-![](cover.jpg)
 
 Laivan kannella on hetki, jolloin ihminen kohtaa mikrotaloustieteen
 alastomimman totuuden: lautasella oleva kuudes nakki ei maksa mitään.
@@ -22,8 +19,8 @@ ja vanhempieni katse kirkas. Siellä opin, että buffet on paikka, jossa
 tavallinen ihminen tekee taloustieteellisiä päätöksiä nopeammin kuin
 osaa ne perustella.
 
-Suvussani on kuitenkin yksi henkilö, joka on kehittänyt tämän taidon
-teoriaksi. Serkkuni on sukumme soveltavan mikrotalouden edelläkävijä.
+Suvussani on kuitenkin yksi henkilö, joka on nostanut tämän taidon
+teoriaksi. Serkkuni on perheemme soveltavan mikrotalouden edelläkävijä.
 Hänellä on buffetista oppi, jonka hän esittää joka kerta samalla
 tyyneydellä: kun hän käy seisovassa pöydässä, ravintola jää tappiolle.
 
@@ -47,7 +44,8 @@ sitä optimaaliseksi ratkaisuksi. Lääketiede käyttää toista sanaa.
 Rationaalinen buffetvieras pysähtyy täsmälleen siihen, missä nautinto ja
 pahoinvointi kohtaavat, ja hyvä syöjä osuu siihen tarkasti.
 
-Lautanen tuo mukanaan oman pulmansa, joka tunnetaan reppuongelmana.
+Lautanen tuo mukanaan oman pulmansa, joka tunnetaan
+[reppuongelmana](https://en.wikipedia.org/wiki/Knapsack_problem).
 Tilavuus on rajallinen ja jokaisella ruoalla on oma
 arvo-tilavuussuhteensa. Leipä on tässä laskelmassa surkea sijoitus, ja
 juuri siksi ravintola asettaa sen pöydän alkupäähän. Aloittelija lastaa
@@ -64,16 +62,16 @@ Buffetin hinta on asetettu keskimääräisen kulutuksen mukaan. Kun syöjiä
 on satoja, suurten lukujen laki tekee työnsä: yksittäiset katkarapuhamstraajat ja
 yksittäiset potunsyöjät keskiarvoistuvat, ja ravintola tietää
 melko tarkasti, mitä ilta maksaa. Tehokas syöjä ei tässä joukossa kaada
-koko bisnestä. Hän siirtää varallisuutta niiltä, jotka söivät vähän itselleen.
+koko bisnestä. Hän siirtää varallisuutta niiltä, jotka söivät vähän, itselleen.
 Teinityttö, joka otti salaattia ja yhden soijapullan, maksoi osan
 serkkuni katkaravuista.
 
-Serkkuni siis voittaa. Hän vain voittaa väärän vastustajan. Ravintolan omistaja 
-hymyilee kassalla, ja kevyt syöjä maksaa laskun.
+Serkkuni siis voittaa. Hän vain voittaa väärän vastustajan. Ravintola
+hymyilee kassalla, ja kevyesti ja ilman optimoitua strategiaa syövä maksaa laskun.
 
 Ravintola tietää tämän ja suojautuu. All-you-can-eat houkuttelee
-luokseen lihavan hännän, ja se on haitallista valikoitumista risteliyaluksen mittakaavassa. Bisnes vastaa kitkalla: pienet lautaset, sopivan kaukana
-sijaitseva katkarapupiste, halvat hiilihydraatit etualalla ja kunnon kate
+luokseen raskaan hännän, ja se on haitallista valikoitumista risteilyaluksen mittakaavassa. Bisnes vastaa kitkalla: pienet lautaset, sopivan kaukana
+sijaitseva piste, halvat hiilihydraatit etualalla ja kunnon kate
 juomissa. Voitto ei synny ruoasta vaan janosta.
 
 ## Se yksi kerta, kun teoria toteutui
@@ -87,23 +85,24 @@ vierasjoukko syö. Laskelma oli moitteeton yhtä yksityiskohtaa lukuun
 ottamatta. Se unohti, että samasta suvunhaarasta saapuisi toistakymmentä
 hyväruokaista vierasta, serkkuni heidän joukossaan.
 
-Tässä piilee koko juju. Häät ovat pieni, keskenään korreloitunut otos. Suurten
+Tässä piilee koko juju. Häät ovat pieni otos, ei väkijoukko. Suurten
 lukujen laki tarvitsee paljon vieraita tasoittaakseen ääripäät, ja sadan
 hengen juhlassa sitä turvaa ei ole. Toteutunut otos oli itsessään se
-raskas häntä ja se häntä oli vielä korreloitunut.
+raskas häntä.
+Häntä oli vielä korreloitunut.
 
-Silloin harmitti. Kakun määrä oli laskettu juhliin ja se loppui ennen
+Silloin harmitti. Kakku oli laskettu minun juhliini ja se loppui ennen
 kuin osa vieraista ehti pöytään. Myöhemmin asia on naurattanut useammin
 kuin osaan laskea.
 
 ## Opetus
 
-Buffet kestää suuren ruokahalun, koska suurten lukujen laki kantaa sen.
-Häät kaatuvat samaan syöjään, koska siellä ei ole tarpeeksi suuria numeroita. Sama
-ihminen on vaaraton Cinderellalla mutta tuhoisa sukujuhlassa.
+Buffet kestää raskaan syöjän, koska suurten lukujen laki kantaa sen.
+Häät kaatuvat samaan syöjään, koska siellä lakia ei ole tarpeeksi. Sama
+ihminen on vaaraton väkijoukossa ja tuhoisa sukupöydässä.
 
 Jos siis joskus haluaa nähdä ravintolan jäävän tappiolle, risteily on
-väärä paikka. Oikea paikka on yksityistilaisuus, jonka asiakasprofiilia kukaan ei
+väärä paikka. Oikea paikka on yksityistilaisuus, jota kukaan ei
 muistanut mallintaa oikein. Ja jos sellaista juhlaa sattuu
 suunnittelemaan, kannattaa laskea vieraat nimeltä ja merkitä erikseen
-ne, jotka tulevat suvun siitä haarasta, jolla on teoria -- ja varata heille oma kakku.
+ne, jotka tulevat suvun siitä haarasta, jolla on teoria.
