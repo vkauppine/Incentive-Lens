@@ -1,4 +1,4 @@
-https://vkauppine.github.io/Incentive-Lens/posts/viktor/---
+---
 title: "Miksi en ole konservatiivi"
 subtitle: "Hayek, Oakeshott ja periaatteiden epistemologia"
 author: "Vesa"
@@ -13,6 +13,7 @@ format:
     toc-depth: 2
     number-sections: false
 ---
+
 ![](cover.jpg)
 
 Hayekin essee *Why I Am Not a Conservative* (1960) on ennen kaikkea epistemologinen kannanotto: miten suhtautua muutokseen ja perinteeseen, kun tietää oman tietonsa rajallisuuden. Otsikkoni on ehkä turhan rohkea. En ole Hayekin tasoinen ajattelija, eikä minun positioni ole kiinnostava. Mutta kirjoittaminen on ajattelemista ja oma bloggaamiseni hyväntahtoista trollaamista.
@@ -33,7 +34,7 @@ Kun konservatismi luetaan näin, Hayekin positio mutkistuu. Oakeshottilainen var
 
 Hayekin vastaus liittyy voimankäyttöön ja pakottamiseen. Konservatiivi ei hänen mukaansa vastusta pakkoa sinänsä. Konservatiivi vastustaa pakkoa silloin, kun sitä käytetään väärään tarkoitukseen, mutta hyväksyy sen mielellään silloin, kun se palvelee oikeaksi koettua päämäärää. Liberaali Hayekin merkityksessä vastustaa mielivaltaista pakkoa riippumatta siitä, mihin sitä käytetään. Erottelu koskee viime kädessä suhdetta valtaan. Suhde muutokseen on tässä toissijainen.
 
-Tähän liittyy esseen toinen kantava ajatus, suvaitsevaisuuden periaate. Liberaali eroaa konservatiivista siinä, ettei hän pelkää antaa toisille vapautta sellaisissakaan asioissa, joita hän itse paheksuu. Moraaliset vakaumukset kuuluvat hänelle yksityisen elämän ja vapaaehtoisen sopimisen alueelle. Niiden ei pidä olla valtion pakkokoneiston kohteita. Konservatiivi puolestaan taipuu käyttämään julkista valtaa oman moraalinäkemyksensä pakottamiseen, jos pitää sitä oikeana. Tässä on se varsinainen vedenjakaja.
+Tähän liittyy esseen toinen kantava ajatus, suvaitsevaisuuden periaate. Liberaali eroaa konservatiivista siinä, ettei hän pelkää antaa toisille vapautta sellaisissakaan asioissa, joita hän itse paheksuu. Moraaliset vakaumukset kuuluvat yksityisen elämän ja vapaaehtoisen sopimisen alueelle, eivät valtion pakkokoneistolle.Konservatiivi puolestaan taipuu käyttämään julkista valtaa oman moraalinäkemyksensä pakottamiseen, jos pitää sitä oikeana. Tässä on se varsinainen vedenjakaja.
 
 Periaatteen ja opportunismin erottelu kytkeytyy tähän. Tässä periaate toimii kuin sitoutumismekanismi. Se on sama rakenne, jolla Odysseus sidotaan mastoon tai jolla [Gyökeres dumppaa tyttöystävänsä](../viktor/): päätös tehdään etukäteen ja viedään pois oman tulevan harkinnan ulottuvilta juuri siksi, ettei siihen hetkeen luoteta, jossa houkutus on suurimmillaan. Periaate sitoo sen varalta, että huomenna voi keksiä liian hyvän syyn poiketa. Opportunisti skippaa tämän ja säilyttää harkintavallan jokaisessa yksittäistapauksessa. Periaate on sitoumus sääntöön, joka sitoo silloinkin, kun lopputulos ei miellytä. Voltairen läpän vakiintuneen kanonisen suomennoksen mukaan: "En ole samaa mieltä kanssasi, mutta puolustan kuolemaani saakka oikeuttasi sanoa se." Liberaalin position kova ydin on juuri valmius pitää kiinni säännöstä silloin, kun sääntö tuottaa tuloksen, jota itse vieroksuu. Vain tällainen sääntö suojaa myös niitä, joiden vakaumukset poikkeavat niistä, joita itse pidän mieleisinä. Opportunisti taas arvioi jokaisen tapauksen erikseen toivotun lopputuloksen valossa ja menettää näin koko pakkoa rajoittavan periaatteen. Tämä erottelu on Hayekin esseen kestävin anti. Se ei vanhene, eikä riipu siitä, miten milloinkin puolueet sijoittuvat poliittisen kompassin nelikenttään.
 
