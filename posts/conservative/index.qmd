@@ -2,7 +2,7 @@
 title: "Ravintola jää tappiolle"
 author: "Vesa Kauppinen"
 date: "2026-06-29"
-IMA
+image: "cover.jpg"
 categories: [mikrotalous, arki, huumori]
 description: "Serkkuni teoria buffetista on oikea. Se on vain osoitettu väärään tilaisuuteen."
 
