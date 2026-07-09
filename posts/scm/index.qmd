@@ -2,7 +2,7 @@
 title: "Hinnat heillä, raha meillä"
 subtitle: "Hankinnan säästöprosentti on beetaa alfaksi puettuna"
 author: "Vesa"
-date: "2026-07-17"
+date: "2026-06-15"
 lang: fi
 image: "cover.png"
 categories: [kannustimet, hankinta, mittaaminen]

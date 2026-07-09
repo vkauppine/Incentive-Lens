@@ -2,7 +2,7 @@
 title: "They Have the Prices, We Have the Money"
 subtitle: "Procurement's savings percentage is beta dressed up as alpha"
 author: "Vesa"
-date: "2026-07-17"
+date: "2026-06-17"
 lang: en
 image: "cover.png"
 categories: [incentives, procurement, measurement]
