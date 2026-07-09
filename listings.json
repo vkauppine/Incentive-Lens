@@ -2,12 +2,12 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/procurement/index.html",
-      "/posts/scm/index.html",
       "/posts/nappiukko/index.html",
       "/posts/buffet/index.html",
       "/posts/conservative/index.html",
+      "/posts/procurement/index.html",
       "/posts/murkut/index.html",
+      "/posts/scm/index.html",
       "/posts/busquetz/index.html",
       "/posts/fifa/index.html",
       "/posts/ngo/index.html",

@@ -10,221 +10,7 @@
 <atom:link href="https://vkauppine.github.io/Incentive-Lens/index.xml" rel="self" type="application/rss+xml"/>
 <description>Talousblogi</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Thu, 16 Jul 2026 21:00:00 GMT</lastBuildDate>
-<item>
-  <title>They Have the Prices, We Have the Money</title>
-  <dc:creator>Vesa </dc:creator>
-  <link>https://vkauppine.github.io/Incentive-Lens/posts/procurement/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="the-org-chart-that-reveals-more-than-its-creator-intended" class="level2">
-<h2 class="anchored" data-anchor-id="the-org-chart-that-reveals-more-than-its-creator-intended">The org chart that reveals more than its creator intended</h2>
-<p>I spent about fifteen years working in logistics and supply chain.</p>
-<p>It’s a young person’s game. Especially in LinkedIn form: rocket emojis, endless threads, and seven lessons that will revolutionize your supply chain by Friday.</p>
-<p>Enough of that BS.</p>
-<p>I was in it long enough to still tell garbage from substance.</p>
-<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/procurement/cover.png" class="img-fluid"></p>
-<p>LinkedIn regularly circulates an infographic called “the supply chain organization.” At the top is the Supply Chain VP, with four silos below: Planning, Procurement, Logistics, and Operations. Under each is a neat row of KPI boxes. The headline warns that a bad org chart destroys supply chain performance.</p>
-<p>The image is, unintentionally, exactly that kind of chart.</p>
-<p>I’ll leave the box hierarchy aside. The most interesting part is the KPI row, and the standout item is procurement’s <strong>Cost Savings %</strong>. It’s probably supply chain’s most popular metric, and the least well justified.</p>
-<p>My claim is simple: a large portion of reported savings is fiction, and most of what remains is just market movement. Real procurement expertise exists. The metric simply doesn’t measure it.</p>
-<p>On the operations side, we had a saying for this:</p>
-<p><em>They have the prices, we have the money.</em></p>
-</section>
-<section id="a-savings-claim-is-not-a-measurement" class="level2">
-<h2 class="anchored" data-anchor-id="a-savings-claim-is-not-a-measurement">A savings claim is not a measurement</h2>
-<p>Negotiated savings is a claim about what would have happened without the negotiation. “We saved 12%” means: “we paid 12% less than we otherwise would have.” In principle, it’s a counterfactual.</p>
-<p>In practice, the counterfactual is often cooked up internally: last year’s price, the supplier’s opening ask, or a top-down target. The same function picks the baseline, records the win, and prepares the slides.</p>
-<p>The target is blunt: the price has to go down, or you had better have an extremely good explanation.</p>
-<p>No supply chain leader automatically credits inflation. No COO writes off a price increase just because energy went up ten percent. The market did what it did; the target stays. Deliver, or explain.</p>
-<p>Procurement is held accountable for a price level it barely controls. When the market doesn’t budge, the saving still has to appear.</p>
-<p>But necessity is the mother of invention.</p>
-<p>A reportable saving can be found in all kinds of creative places:</p>
-<ul>
-<li><p><strong>Ghost volume.</strong> You book a shiny 12% saving against the forecast, but the actual orders come in at half the volume.</p></li>
-<li><p><strong>Avoided-cost laundering.</strong> The supplier opens at +8%, you settle at +3%, and procurement reports “5% saved.” More money went out the door than last year; you just avoided their opening ask.</p></li>
-<li><p><strong>The balloon.</strong> Unit price down, but minimum order quantities up, freight terms worse, payment terms shorter, quality specs loosened. The price line looks beautiful, while the real cost quietly shifts somewhere the metric can’t see.</p></li>
-</ul>
-<p>It all comes down to how you tell the story.</p>
-<p>Operations, by contrast, has the discipline that physical reality imposes. Excess inventory hits working capital. Missed schedules turn into expedited freight, lost production, delayed deliveries, and lost customers. You can still play games with the numbers, but eventually it comes down to piece counts, invoices, inventory value. And real money.</p>
-<p>Procurement savings often stop one step earlier: on the slide where the number is declared.</p>
-<p>That’s why reported savings rarely turn into an actual cut in next year’s budget. If the saving were real, the budget line would drop by the same amount. That almost never happens.</p>
-<p>That’s the tell.</p>
-</section>
-<section id="most-price-changes-are-noise" class="level2">
-<h2 class="anchored" data-anchor-id="most-price-changes-are-noise">Most price changes are noise</h2>
-<p>So far this has been about measurement. The harder problem is attribution. Even savings that reconcile to cash can be mostly coincidence.</p>
-<p>Think of a procurement outcome as signal and noise. Signal is the part procurement actually controls: supplier selection, negotiation, contract structure, demand aggregation, dual sourcing. Noise is everything else that moves prices: energy, exchange rates, freight capacity, raw material cycles, war, port closures, bankruptcies, strikes.</p>
-<p>In most categories, noise beats signal. Yet the metric still rewards the year-over-year change. The market moved the price. The buyer just signed.</p>
-<p>In investment terms, most procurement savings are <strong>beta</strong> — exposure to the market move. Alpha is what remains after you strip the market out.</p>
-<p>Steel falls 15% on the LME. The category manager negotiates a contract, the price follows the index down, and he delivers a 12% saving. The scorecard shines. The bonus is paid. The slide deck circulates in the leadership team as a success story.</p>
-<p>The next year steel rises 15%. Same manager, same skill, same negotiations. The price follows the index up. Now he “loses” 8% and writes a paragraph about geopolitical headwinds. The balanced scorecard turns red, and a development discussion follows.</p>
-<p>Nothing in his actual work changed between the years. In the first he got a bonus for cost savings. In the second he got blamed for rising costs. In both cases he was rewarded or punished for a market move he could barely influence.</p>
-<p>Worse still: the manager who did the best work — locking prices early, dual-sourcing, hedging the rise — looks weakest in exactly the year his work was most valuable. The bonus is effectively a long position on falling steel. It pays out on a bet no one consciously placed.</p>
-<p>Same skill, opposite career conversation.</p>
-<p>You measure the tide and pay the swimmer.</p>
-<p>The honest benchmark is not last year’s price. It is this year’s market price for the same good. Expertise shows in what you paid relative to what a comparable buyer paid on comparable terms in the same conditions.</p>
-<p>Did you beat the benchmark? Did you hold your contracts when spot prices spiked? Did you renegotiate when the market crashed?</p>
-<p>That is signal. It’s usually just a few percentage points around the index, not a flashy double-digit headline. Good procurement is real, but its contribution is the spread over the market.</p>
-</section>
-<section id="a-counterexample-that-proves-the-model" class="level2">
-<h2 class="anchored" data-anchor-id="a-counterexample-that-proves-the-model">A counterexample that proves the model</h2>
-<p>At this point a procurement person raises a hand and says: I once actually made real money on timing.</p>
-<p>Good. That story proves the model.</p>
-<p>After the 2008 crash, the freight market was on the floor. Carriers were desperate to fill capacity. I was still on the operations side, but in practice I built the RFQ and the timing. We locked the key freight lanes for a full year by contract, on exceptionally favorable terms.</p>
-<p>Some lines needed renegotiation along the way. Still, for an entire year we paid below market on freight, and it showed clearly in the invoices finance could verify.</p>
-<p>The case passes every test:</p>
-<ul>
-<li><p><strong>It reconciled to cash.</strong> A locked price, a contract, and a year of real invoices below market.</p></li>
-<li><p><strong>It was index-relative outperformance.</strong> After the crash, not everyone paid the same prices.</p></li>
-<li><p><strong>The mechanism was expertise.</strong> Smart RFQ design, timing, and the nerve to commit long when others were frozen. The counterparty’s desperation was turned into contract structure.</p></li>
-</ul>
-<p>That is real procurement alpha.</p>
-</section>
-<section id="real-procurement-alpha-is-an-option" class="level2">
-<h2 class="anchored" data-anchor-id="real-procurement-alpha-is-an-option">Real procurement alpha is an option</h2>
-<p>The honest model is this: the average saving is noise, the value lives in the tails, and the tails are option-like.</p>
-<p>For most of the year, outperformance versus the index is just a few points either way — useful, but rarely worth a victory lap. Then a disruption hits: post-2008 freight, the early-COVID capacity crunch, an energy spike, a supplier bankruptcy, a sudden demand collapse. A sharp buyer can turn temporary disorder into lasting contractual advantage.</p>
-<p>Expertise is spotting the window and having the mandate to act. It’s rare because the windows are rare. A long fixed contract is not a free option — it can backfire if the market keeps falling. That’s why it takes judgment, authority, and real risk appetite.</p>
-<p>This is a Talebian structure. Procurement alpha cannot be scheduled into neat quarters.</p>
-<p>The standard metric fails here. It rewards dull quarters as if they were brilliance and can easily miss the one deal that actually mattered.</p>
-<p>The metric rewards the absolute level when it should reward outperformance relative to the market. And it doesn’t really work in any environment: in calm markets it encourages fictional savings, in stormy ones it buries real skill under market noise.</p>
-<p>Real expertise is convex and episodic.</p>
-</section>
-<section id="the-fix" class="level2">
-<h2 class="anchored" data-anchor-id="the-fix">The fix</h2>
-<p>The fix is boring, as the best fixes usually are.</p>
-<p>A saving should count only once finance actually removes the matching amount from the budget or verifies it against real spend. The booked saving has to turn into less money available to spend. Until then, it’s just a claim.</p>
-<p>Procurement naturally hates this, because it turns a nice headline story into a number operations can check. The control is just the original saying made formal:</p>
-<p><em>Whoever has the money gets to confirm the saving.</em></p>
-<p>A saving can be validated only by the person who bears the consequences if the number is wrong. Taleb-style skin in the game.</p>
-<p>This rule would kill most procurement savings decks.</p>
-<p>Good. The ones that survive would actually be worth reading.</p>
-<p>The same applies to attribution. Measure procurement against the market, not against last year.</p>
-<p>The gap to the index tells you who actually swam — and who just rode the tide.</p>
-
-
-</section>
-
- ]]></description>
-  <category>incentives</category>
-  <category>procurement</category>
-  <category>measurement</category>
-  <guid>https://vkauppine.github.io/Incentive-Lens/posts/procurement/</guid>
-  <pubDate>Thu, 16 Jul 2026 21:00:00 GMT</pubDate>
-  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/procurement/cover.png" medium="image" type="image/png" height="180" width="144"/>
-</item>
-<item>
-  <title>Hinnat heillä, raha meillä</title>
-  <dc:creator>Vesa </dc:creator>
-  <link>https://vkauppine.github.io/Incentive-Lens/posts/scm/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="organisaatiokaavio-joka-paljastaa-enemmän-kuin-tekijänsä-tarkoitti" class="level2">
-<h2 class="anchored" data-anchor-id="organisaatiokaavio-joka-paljastaa-enemmän-kuin-tekijänsä-tarkoitti">Organisaatiokaavio joka paljastaa enemmän kuin tekijänsä tarkoitti</h2>
-<p>Tein logistiikan ja toimitusketjun hommia viitisentoista vuotta.</p>
-<p>Se on nuorten laji. Varsinkin LinkedIn-muodossa: rakettiemojit, ketjut ja seitsemän oppia jotka mullistavat toimitusketjusi perjantaihin mennessä.</p>
-<p>Enough of that BS.</p>
-<p>Olin silti mukana sen aikaa, että erotan yhä sen mikä on roskaa ja mikä ei.</p>
-<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/scm/cover.png" class="img-fluid"></p>
-<p>LinkedInissä kiertää parin kuukauden välein infograafi nimeltä “the supply chain organization”. Ylimpänä on Supply Chainin VP, alla neljä siiloa: Planning, Procurement, Logistics ja Operations. Kunkin alla on siisti rivi mittarilaatikoita. Otsikko varoittaa, että huono organisaatiokaavio tuhoaa toimitusketjun suorituskyvyn.</p>
-<p>Kuva on, tahattomasti, juuri sellainen kaavio.</p>
-<p>Sivuutan laatikkohierarkian. Kiinnostavin osa on mittaririvi, ja sen kiinnostavin kohta on hankinnan <strong>Cost Savings %</strong>. Säästöprosentti on ehkäpä toimitusketjun suosituin mittari mutta huonoiten perusteltu.</p>
-<p>Väitteeni on yksinkertainen: suuri osa raportoiduista säästöistä on fiktiota, ja iso osa jäljelle jäävästä on markkinaliikettä. Aitoa hankintaosaamista on olemassa. Mittari vain ei useimmiten mittaa sitä.</p>
-<p>Operaatiopuolella meillä oli tähän sanonta:</p>
-<p><em>Heillä on hinnat, meillä on raha.</em></p>
-</section>
-<section id="säästöväite-ei-ole-mittaustulos" class="level2">
-<h2 class="anchored" data-anchor-id="säästöväite-ei-ole-mittaustulos">Säästöväite ei ole mittaustulos</h2>
-<p>Neuvoteltu säästö on väite siitä, mitä olisi tapahtunut ilman neuvottelua. “Säästimme 12 %” tarkoittaa: “maksoimme 12 % vähemmän kuin olisimme muuten maksaneet.” Periaatteessa kyse on kontrafaktuaalista.</p>
-<p>Käytännössä kontrafaktuaali syntyy usein järjestelmän sisältä: viime vuoden hinnasta, toimittajan avauksesta tai ylhäältä annetusta tavoitteesta. Sama funktio valitsee baseline-lukeman, kirjaa saavutetun tavoitteen ja esittelee diat.</p>
-<p>Tavoite on usein tyly: hinnan pitää laskea, tai mukana pitää olla erittäin hyvä selitys.</p>
-<p>Yksikään toimitusketjujohtaja ei hyvitä inflaatiota automaattisesti. Yksikään COO ei kuittaa hinnannousua sillä, että energia kallistui kymmenen prosenttia. Markkina teki mitä teki; tavoite pysyy. Toimita, tai selitä.</p>
-<p>Hankinta pannaan vastaamaan hintatasosta, jota se ei juuri hallitse. Kun markkina ei jousta, säästön pitää silti ilmestyä.</p>
-<p>Mutta kyllä hätä keinot keksii.</p>
-<p>Raportoitava säästö voi löytyä monesta paikasta:</p>
-<ul>
-<li><p><strong>Toteutumaton volyymi.</strong> 12 % hankintasäästö kirjataan ennustetta vasten, mutta ostomäärä toteutuu puolikkaana.</p></li>
-<li><p><strong>Kustannusvälttämän pesu.</strong> Toimittaja vaatii +8 %, sovit +3 %, ja hankinta kirjaa “5 % säästöä”. Rahaa lähti enemmän kuin viime vuonna, vain vähemmän kuin avausvaatimus antoi ymmärtää. Vältetty kustannus on puolustettavissa, kun vältetty nousu suhteutetaan markkinaan.</p></li>
-<li><p><strong>Ilmapallo.</strong> Yksikköhinta alas, minimieräkoot ylös, rahtiehdot huonommiksi, maksuajat lyhyemmiksi, laatuspesifikaatio löysemmäksi. Hintarivi laskee, mutta kustannus siirtyy paikkaan, jota mittari ei näe.</p></li>
-</ul>
-<p>Se, miten tarina kerrotaan, ratkaisee.</p>
-<p>Operaatiolla on taas fyysisen todellisuuden rajoitteista syntyvä kuri. Liikavarasto näkyy käyttöpääomassa. Pitämättömät aikataulut muuttuvat pikarahdiksi, menetetyksi tuotannoksi, myöhästyneiksi toimituksiksi ja menetetyiksi asiakkaiksi. Luvuilla voi yhä pelata, mutta lopulta merkitsevät kappalemäärät, laskut, varaston arvo. Ja raha.</p>
-<p>Hankinnan säästöt pysähtyvät usein askelta aiemmin: kalvosettiin, jossa luku julistettiin.</p>
-<p>Siksi raportoitu säästö päätyy harvoin ensi vuoden budjettiin oikeana leikkauksena. Jos säästö olisi aito, budjettirivi laskisi saman verran. Näin ei juuri koskaan käy.</p>
-<p>Se on paljastava merkki.</p>
-</section>
-<section id="suurin-osa-hinnanmuutoksesta-on-kohinaa" class="level2">
-<h2 class="anchored" data-anchor-id="suurin-osa-hinnanmuutoksesta-on-kohinaa">Suurin osa hinnanmuutoksesta on kohinaa</h2>
-<p>Tähän asti kyse on ollut mittaamisesta. Vaikeampi ongelma on attribuutio. Sellainenkin säästö, joka täsmää rahaan, voi olla enimmäkseen sattumaa.</p>
-<p>Ajatellaan hankinnan tulosta signaalina ja kohinana. Signaali on se osa, jota hankinta hallitsee: toimittajavalinta, neuvottelu, sopimusrakenne, kysynnän yhdistely, kaksoishankinta. Kohina on kaikki muu mikä hintaa liikutti: energia, valuuttakurssit, rahtikapasiteetti, raaka-ainesyklit, sota, satamasulut, konkurssit, lakot.</p>
-<p>Useimmissa kategorioissa kohina voittaa signaalin. Mittari palkitsee silti vuosimuutoksen. Hintamuutoksen syynä olivat markkinat, ei ostaja.</p>
-<p>Sijoitustermein suurin osa hankinnan säästöistä on beetaa. Ne ovat altistusta markkinaliikkeelle. Alfa on se, mikä jää jäljelle kun markkinaliike on poistettu.</p>
-<p>Teräs halpenee LME:ssä 15 %. Kategoriapäällikkö neuvottelee sopimuksen, hinta seuraa indeksiä alas, ja hän toimittaa 12 % säästön. Tuloskortti loistaa. Bonus maksetaan, ja diaesitys kiertää johtoryhmässä esimerkkinä.</p>
-<p>Seuraavana vuonna teräs kallistuu 15 %. Sama päällikkö, sama osaaminen, samat neuvottelut. Hinta seuraa indeksiä ylös. Nyt hän menettää 8 % ja kirjoittaa kappaleen geopoliittisista vastatuulista. Balanced scorecard menee punaiselle, ja seuraa keskustelu kehittämiskohteista.</p>
-<p>Mikään hänen tekemisessään ei muuttunut vuosien välillä. Ensimmäisenä vuonna hänelle maksettiin bonus kustannussäästöistä. Toisena häntä moitittiin nousevista kustannuksista. Kummassakin tapauksessa palkittiin tai rangaistiin markkinaliikkeestä, johon ei juuri pystynyt vaikuttamaan.</p>
-<p>Pahempaa vielä: se päällikkö joka teki parasta työtä — lukitsi hintoja etukäteen, hajautti toimittajat, suojasi nousua vastaan — näyttää heikoimmalta juuri sinä vuonna jolloin hänen työnsä oli arvokkainta. Bonus on käytännössä pitkä positio laskevaan teräkseen. Sitä maksetaan vedosta jota kukaan ei tietoisesti tehnyt.</p>
-<p>Sama osaaminen, päinvastainen kehityskeskustelu.</p>
-<p>Mittaat vuorovettä ja palkitset uimarin.</p>
-<p>Rehellinen vertailukohta ei ole viime vuoden hinta, vaan tämän vuoden markkinahinta samalle tavaralle. Osaaminen näkyy siinä, mitä maksoit suhteessa siihen mitä vertailukelpoinen ostaja maksoi vastaavin ehdoin samoissa oloissa.</p>
-<p>Päihititkö vertailuindeksin? Pidittekö sopimuksista kiinni kun spot piikitti? Neuvotteliteko uudestaan, kun markkina romahti?</p>
-<p>Se on signaalia. Usein se on muutama prosenttiyksikkö indeksin ympärillä, ei kaksinumeroinen otsikkoluku. Hyvä hankinta on todellista, mutta sen kontribuutio on ylituotto markkinaan nähden.</p>
-</section>
-<section id="vastaesimerkki-joka-todistaa-mallin" class="level2">
-<h2 class="anchored" data-anchor-id="vastaesimerkki-joka-todistaa-mallin">Vastaesimerkki joka todistaa mallin</h2>
-<p>Tässä kohtaa hankintaihminen nostaa käden ja sanoo: minä kerran tein oikeasti rahaa ajoituksella.</p>
-<p>Hyvä. Se tarina todistaa mallin.</p>
-<p>Vuoden 2008 romahduksen jälkeen rahtimarkkina oli pohjalla. Varustamot olivat epätoivoisia täyttääkseen kapasiteettia. Olin yhä operaatiopuolella, mutta käytännössä rakensin tarjouspyynnön ja ajoituksen. Lukitsimme tärkeimmät rahtireitit vuodeksi sopimuksella, ehdoilla jotka olivat poikkeuksellisen edulliset.</p>
-<p>Osa piti neuvotella matkan varrella uusiksi. Silti vuoden ajan maksoimme rahdista alle markkinan, ja se näkyi laskuissa jotka talousosasto pystyi tarkastamaan.</p>
-<p>Tapaus läpäisee jokaisen testin.</p>
-<ul>
-<li><p><strong>Se täsmäsi rahaan.</strong> Lukittu hinta, sopimus ja vuosi oikeita rahtilaskuja alle markkinan.</p></li>
-<li><p><strong>Se oli indeksisuhteista ylituottoa.</strong> Markkinromahduksen jälkeen kaikki eivät maksaneet samoja hintoja.</p></li>
-<li><p><strong>Mekanismi oli osaaminen.</strong> Tarjouspyynnön muotoilu, ajoitus ja uskallus sitoutua pitkään kun muut olivat halvaantuneita. Vastapuolen epätoivo käännettiin sopimusrakenteeksi.</p></li>
-</ul>
-<p>Se on hankinnan alfaa.</p>
-</section>
-<section id="aito-hankinnan-alfa-on-optio" class="level2">
-<h2 class="anchored" data-anchor-id="aito-hankinnan-alfa-on-optio">Aito hankinnan alfa on optio</h2>
-<p>Rehellinen malli on tämä: keskimääräinen säästö on kohinaa, arvo on hännissä, ja hännät ovat optioluonteisia.</p>
-<p>Suurimman osan vuodesta ylituotto indeksiin on muutama piste suuntaan tai toiseen. Hyödyllistä, mutta harvoin kunniakierroksen arvoista. Sitten avautuu häiriö: 2008 jälkeinen rahti, korona-ajan alun kapasiteetti, energiapiikki, toimittajan konkurssi, äkillinen kysynnän romahdus. Terävä ostaja voi kääntää tilapäisen epäjärjestyksen sopimukselliseksi eduksi.</p>
-<p>Osaaminen on ikkunan tunnistamista ja mandaattia toimia. Se on harvinaista, koska ikkuna on harvinainen. Pitkä kiinteä sopimus ei ole ilmainen optio. Se voi mennä pieleen, jos markkina jatkaa laskuaan. Siksi se vaatii harkintaa, valtuutta ja riskinottohalua.</p>
-<p>Tämä on talebilainen rakenne. Hankinnan alfaa ei voi aikatauluttaa kvartaaleihin.</p>
-<p>Vakiomittari ei pysty tähän. Se palkitsee tylsät kvartaalit kuin ne olisivat osaamista ja saattaa ohittaa sen yhden kaupan jolla oli oikeasti väliä.</p>
-<p>Mittari palkitsee tason, vaikka sen pitäisi palkita indeksisuhteinen ylituotto. Sama mittari ei oikeastaan toimi missään olosuhteissa: tyynellä markkinalla se kannustaa keksimään fiktiivisiä säästöjä, myrskyssä se hukkaa aidon osaamisen markkinaliikkeen alle.</p>
-<p>Aito osaaminen on konveksia ja episodista.</p>
-</section>
-<section id="korjaus" class="level2">
-<h2 class="anchored" data-anchor-id="korjaus">Korjaus</h2>
-<p>Korjaus on tylsä, kuten parhaat korjaukset yleensä.</p>
-<p>Säästö lasketaan vasta kun talousosasto poistaa vastaavan summan budjetista tai todentaa sen toteutunutta kulutusta vasten. Kirjatun säästön pitää muuttua vähemmäksi käytettäväksi rahaksi. Siihen asti se on väite.</p>
-<p>Hankinta vihaa tätä, luonnollisesti, koska se muuttaa otsikkomittarin tarinasta luvuksi jonka operaatiot voivat tarkastaa. Kontrolli on vain alkuperäinen sanonta muodollisena:</p>
-<p><em>Se jolla on raha, saa vahvistaa säästön.</em></p>
-<p>Säästön saa vahvistaa vain se, joka kantaa sen seuraukset jos luku on väärä. Talebilaisittain nahka pelissä.</p>
-<p>Sääntö tappaisi suurimman osan hankinnan säästödioista.</p>
-<p>Hyvä. Eloonjääneet olisivat lukemisen arvoisia.</p>
-<p>Sama pätee attribuutioon. Hankinta tulee mitata markkinaa vasten, ei edellisvuotta vasten.</p>
-<p>Ero indeksiin kertoo uiko joku muita paremmin.</p>
-
-
-</section>
-
- ]]></description>
-  <category>kannustimet</category>
-  <category>hankinta</category>
-  <category>mittaaminen</category>
-  <guid>https://vkauppine.github.io/Incentive-Lens/posts/scm/</guid>
-  <pubDate>Thu, 16 Jul 2026 21:00:00 GMT</pubDate>
-  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/scm/cover.png" medium="image" type="image/png" height="180" width="144"/>
-</item>
+<lastBuildDate>Wed, 08 Jul 2026 21:00:00 GMT</lastBuildDate>
 <item>
   <title>Nappiukko</title>
   <dc:creator>Vesa </dc:creator>
@@ -379,6 +165,113 @@
   <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/conservative/cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>They Have the Prices, We Have the Money</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/procurement/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="the-org-chart-that-reveals-more-than-its-creator-intended" class="level2">
+<h2 class="anchored" data-anchor-id="the-org-chart-that-reveals-more-than-its-creator-intended">The org chart that reveals more than its creator intended</h2>
+<p>I spent about fifteen years working in logistics and supply chain.</p>
+<p>It’s a young person’s game. Especially in LinkedIn form: rocket emojis, endless threads, and seven lessons that will revolutionize your supply chain by Friday.</p>
+<p>Enough of that BS.</p>
+<p>I was in it long enough to still tell garbage from substance.</p>
+<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/procurement/cover.png" class="img-fluid"></p>
+<p>LinkedIn regularly circulates an infographic called “the supply chain organization.” At the top is the Supply Chain VP, with four silos below: Planning, Procurement, Logistics, and Operations. Under each is a neat row of KPI boxes. The headline warns that a bad org chart destroys supply chain performance.</p>
+<p>The image is, unintentionally, exactly that kind of chart.</p>
+<p>I’ll leave the box hierarchy aside. The most interesting part is the KPI row, and the standout item is procurement’s <strong>Cost Savings %</strong>. It’s probably supply chain’s most popular metric, and the least well justified.</p>
+<p>My claim is simple: a large portion of reported savings is fiction, and most of what remains is just market movement. Real procurement expertise exists. The metric simply doesn’t measure it.</p>
+<p>On the operations side, we had a saying for this:</p>
+<p><em>They have the prices, we have the money.</em></p>
+</section>
+<section id="a-savings-claim-is-not-a-measurement" class="level2">
+<h2 class="anchored" data-anchor-id="a-savings-claim-is-not-a-measurement">A savings claim is not a measurement</h2>
+<p>Negotiated savings is a claim about what would have happened without the negotiation. “We saved 12%” means: “we paid 12% less than we otherwise would have.” In principle, it’s a counterfactual.</p>
+<p>In practice, the counterfactual is often cooked up internally: last year’s price, the supplier’s opening ask, or a top-down target. The same function picks the baseline, records the win, and prepares the slides.</p>
+<p>The target is blunt: the price has to go down, or you had better have an extremely good explanation.</p>
+<p>No supply chain leader automatically credits inflation. No COO writes off a price increase just because energy went up ten percent. The market did what it did; the target stays. Deliver, or explain.</p>
+<p>Procurement is held accountable for a price level it barely controls. When the market doesn’t budge, the saving still has to appear.</p>
+<p>But necessity is the mother of invention.</p>
+<p>A reportable saving can be found in all kinds of creative places:</p>
+<ul>
+<li><p><strong>Ghost volume.</strong> You book a shiny 12% saving against the forecast, but the actual orders come in at half the volume.</p></li>
+<li><p><strong>Avoided-cost laundering.</strong> The supplier opens at +8%, you settle at +3%, and procurement reports “5% saved.” More money went out the door than last year; you just avoided their opening ask.</p></li>
+<li><p><strong>The balloon.</strong> Unit price down, but minimum order quantities up, freight terms worse, payment terms shorter, quality specs loosened. The price line looks beautiful, while the real cost quietly shifts somewhere the metric can’t see.</p></li>
+</ul>
+<p>It all comes down to how you tell the story.</p>
+<p>Operations, by contrast, has the discipline that physical reality imposes. Excess inventory hits working capital. Missed schedules turn into expedited freight, lost production, delayed deliveries, and lost customers. You can still play games with the numbers, but eventually it comes down to piece counts, invoices, inventory value. And real money.</p>
+<p>Procurement savings often stop one step earlier: on the slide where the number is declared.</p>
+<p>That’s why reported savings rarely turn into an actual cut in next year’s budget. If the saving were real, the budget line would drop by the same amount. That almost never happens.</p>
+<p>That’s the tell.</p>
+</section>
+<section id="most-price-changes-are-noise" class="level2">
+<h2 class="anchored" data-anchor-id="most-price-changes-are-noise">Most price changes are noise</h2>
+<p>So far this has been about measurement. The harder problem is attribution. Even savings that reconcile to cash can be mostly coincidence.</p>
+<p>Think of a procurement outcome as signal and noise. Signal is the part procurement actually controls: supplier selection, negotiation, contract structure, demand aggregation, dual sourcing. Noise is everything else that moves prices: energy, exchange rates, freight capacity, raw material cycles, war, port closures, bankruptcies, strikes.</p>
+<p>In most categories, noise beats signal. Yet the metric still rewards the year-over-year change. The market moved the price. The buyer just signed.</p>
+<p>In investment terms, most procurement savings are <strong>beta</strong> — exposure to the market move. Alpha is what remains after you strip the market out.</p>
+<p>Steel falls 15% on the LME. The category manager negotiates a contract, the price follows the index down, and he delivers a 12% saving. The scorecard shines. The bonus is paid. The slide deck circulates in the leadership team as a success story.</p>
+<p>The next year steel rises 15%. Same manager, same skill, same negotiations. The price follows the index up. Now he “loses” 8% and writes a paragraph about geopolitical headwinds. The balanced scorecard turns red, and a development discussion follows.</p>
+<p>Nothing in his actual work changed between the years. In the first he got a bonus for cost savings. In the second he got blamed for rising costs. In both cases he was rewarded or punished for a market move he could barely influence.</p>
+<p>Worse still: the manager who did the best work — locking prices early, dual-sourcing, hedging the rise — looks weakest in exactly the year his work was most valuable. The bonus is effectively a long position on falling steel. It pays out on a bet no one consciously placed.</p>
+<p>Same skill, opposite career conversation.</p>
+<p>You measure the tide and pay the swimmer.</p>
+<p>The honest benchmark is not last year’s price. It is this year’s market price for the same good. Expertise shows in what you paid relative to what a comparable buyer paid on comparable terms in the same conditions.</p>
+<p>Did you beat the benchmark? Did you hold your contracts when spot prices spiked? Did you renegotiate when the market crashed?</p>
+<p>That is signal. It’s usually just a few percentage points around the index, not a flashy double-digit headline. Good procurement is real, but its contribution is the spread over the market.</p>
+</section>
+<section id="a-counterexample-that-proves-the-model" class="level2">
+<h2 class="anchored" data-anchor-id="a-counterexample-that-proves-the-model">A counterexample that proves the model</h2>
+<p>At this point a procurement person raises a hand and says: I once actually made real money on timing.</p>
+<p>Good. That story proves the model.</p>
+<p>After the 2008 crash, the freight market was on the floor. Carriers were desperate to fill capacity. I was still on the operations side, but in practice I built the RFQ and the timing. We locked the key freight lanes for a full year by contract, on exceptionally favorable terms.</p>
+<p>Some lines needed renegotiation along the way. Still, for an entire year we paid below market on freight, and it showed clearly in the invoices finance could verify.</p>
+<p>The case passes every test:</p>
+<ul>
+<li><p><strong>It reconciled to cash.</strong> A locked price, a contract, and a year of real invoices below market.</p></li>
+<li><p><strong>It was index-relative outperformance.</strong> After the crash, not everyone paid the same prices.</p></li>
+<li><p><strong>The mechanism was expertise.</strong> Smart RFQ design, timing, and the nerve to commit long when others were frozen. The counterparty’s desperation was turned into contract structure.</p></li>
+</ul>
+<p>That is real procurement alpha.</p>
+</section>
+<section id="real-procurement-alpha-is-an-option" class="level2">
+<h2 class="anchored" data-anchor-id="real-procurement-alpha-is-an-option">Real procurement alpha is an option</h2>
+<p>The honest model is this: the average saving is noise, the value lives in the tails, and the tails are option-like.</p>
+<p>For most of the year, outperformance versus the index is just a few points either way — useful, but rarely worth a victory lap. Then a disruption hits: post-2008 freight, the early-COVID capacity crunch, an energy spike, a supplier bankruptcy, a sudden demand collapse. A sharp buyer can turn temporary disorder into lasting contractual advantage.</p>
+<p>Expertise is spotting the window and having the mandate to act. It’s rare because the windows are rare. A long fixed contract is not a free option — it can backfire if the market keeps falling. That’s why it takes judgment, authority, and real risk appetite.</p>
+<p>This is a Talebian structure. Procurement alpha cannot be scheduled into neat quarters.</p>
+<p>The standard metric fails here. It rewards dull quarters as if they were brilliance and can easily miss the one deal that actually mattered.</p>
+<p>The metric rewards the absolute level when it should reward outperformance relative to the market. And it doesn’t really work in any environment: in calm markets it encourages fictional savings, in stormy ones it buries real skill under market noise.</p>
+<p>Real expertise is convex and episodic.</p>
+</section>
+<section id="the-fix" class="level2">
+<h2 class="anchored" data-anchor-id="the-fix">The fix</h2>
+<p>The fix is boring, as the best fixes usually are.</p>
+<p>A saving should count only once finance actually removes the matching amount from the budget or verifies it against real spend. The booked saving has to turn into less money available to spend. Until then, it’s just a claim.</p>
+<p>Procurement naturally hates this, because it turns a nice headline story into a number operations can check. The control is just the original saying made formal:</p>
+<p><em>Whoever has the money gets to confirm the saving.</em></p>
+<p>A saving can be validated only by the person who bears the consequences if the number is wrong. Taleb-style skin in the game.</p>
+<p>This rule would kill most procurement savings decks.</p>
+<p>Good. The ones that survive would actually be worth reading.</p>
+<p>The same applies to attribution. Measure procurement against the market, not against last year.</p>
+<p>The gap to the index tells you who actually swam — and who just rode the tide.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>incentives</category>
+  <category>procurement</category>
+  <category>measurement</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/procurement/</guid>
+  <pubDate>Tue, 16 Jun 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/procurement/cover.png" medium="image" type="image/png" height="180" width="144"/>
+</item>
+<item>
   <title>Kimalaisen oivallus eli miksi järjestys pärjää ilman pomoa</title>
   <dc:creator>Vesa Kauppinen</dc:creator>
   <link>https://vkauppine.github.io/Incentive-Lens/posts/murkut/</link>
@@ -419,6 +312,113 @@
   <guid>https://vkauppine.github.io/Incentive-Lens/posts/murkut/</guid>
   <pubDate>Sun, 14 Jun 2026 21:00:00 GMT</pubDate>
   <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/murkut/cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Hinnat heillä, raha meillä</title>
+  <dc:creator>Vesa </dc:creator>
+  <link>https://vkauppine.github.io/Incentive-Lens/posts/scm/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="organisaatiokaavio-joka-paljastaa-enemmän-kuin-tekijänsä-tarkoitti" class="level2">
+<h2 class="anchored" data-anchor-id="organisaatiokaavio-joka-paljastaa-enemmän-kuin-tekijänsä-tarkoitti">Organisaatiokaavio joka paljastaa enemmän kuin tekijänsä tarkoitti</h2>
+<p>Tein logistiikan ja toimitusketjun hommia viitisentoista vuotta.</p>
+<p>Se on nuorten laji. Varsinkin LinkedIn-muodossa: rakettiemojit, ketjut ja seitsemän oppia jotka mullistavat toimitusketjusi perjantaihin mennessä.</p>
+<p>Enough of that BS.</p>
+<p>Olin silti mukana sen aikaa, että erotan yhä sen mikä on roskaa ja mikä ei.</p>
+<p><img src="https://vkauppine.github.io/Incentive-Lens/posts/scm/cover.png" class="img-fluid"></p>
+<p>LinkedInissä kiertää parin kuukauden välein infograafi nimeltä “the supply chain organization”. Ylimpänä on Supply Chainin VP, alla neljä siiloa: Planning, Procurement, Logistics ja Operations. Kunkin alla on siisti rivi mittarilaatikoita. Otsikko varoittaa, että huono organisaatiokaavio tuhoaa toimitusketjun suorituskyvyn.</p>
+<p>Kuva on, tahattomasti, juuri sellainen kaavio.</p>
+<p>Sivuutan laatikkohierarkian. Kiinnostavin osa on mittaririvi, ja sen kiinnostavin kohta on hankinnan <strong>Cost Savings %</strong>. Säästöprosentti on ehkäpä toimitusketjun suosituin mittari mutta huonoiten perusteltu.</p>
+<p>Väitteeni on yksinkertainen: suuri osa raportoiduista säästöistä on fiktiota, ja iso osa jäljelle jäävästä on markkinaliikettä. Aitoa hankintaosaamista on olemassa. Mittari vain ei useimmiten mittaa sitä.</p>
+<p>Operaatiopuolella meillä oli tähän sanonta:</p>
+<p><em>Heillä on hinnat, meillä on raha.</em></p>
+</section>
+<section id="säästöväite-ei-ole-mittaustulos" class="level2">
+<h2 class="anchored" data-anchor-id="säästöväite-ei-ole-mittaustulos">Säästöväite ei ole mittaustulos</h2>
+<p>Neuvoteltu säästö on väite siitä, mitä olisi tapahtunut ilman neuvottelua. “Säästimme 12 %” tarkoittaa: “maksoimme 12 % vähemmän kuin olisimme muuten maksaneet.” Periaatteessa kyse on kontrafaktuaalista.</p>
+<p>Käytännössä kontrafaktuaali syntyy usein järjestelmän sisältä: viime vuoden hinnasta, toimittajan avauksesta tai ylhäältä annetusta tavoitteesta. Sama funktio valitsee baseline-lukeman, kirjaa saavutetun tavoitteen ja esittelee diat.</p>
+<p>Tavoite on usein tyly: hinnan pitää laskea, tai mukana pitää olla erittäin hyvä selitys.</p>
+<p>Yksikään toimitusketjujohtaja ei hyvitä inflaatiota automaattisesti. Yksikään COO ei kuittaa hinnannousua sillä, että energia kallistui kymmenen prosenttia. Markkina teki mitä teki; tavoite pysyy. Toimita, tai selitä.</p>
+<p>Hankinta pannaan vastaamaan hintatasosta, jota se ei juuri hallitse. Kun markkina ei jousta, säästön pitää silti ilmestyä.</p>
+<p>Mutta kyllä hätä keinot keksii.</p>
+<p>Raportoitava säästö voi löytyä monesta paikasta:</p>
+<ul>
+<li><p><strong>Toteutumaton volyymi.</strong> 12 % hankintasäästö kirjataan ennustetta vasten, mutta ostomäärä toteutuu puolikkaana.</p></li>
+<li><p><strong>Kustannusvälttämän pesu.</strong> Toimittaja vaatii +8 %, sovit +3 %, ja hankinta kirjaa “5 % säästöä”. Rahaa lähti enemmän kuin viime vuonna, vain vähemmän kuin avausvaatimus antoi ymmärtää. Vältetty kustannus on puolustettavissa, kun vältetty nousu suhteutetaan markkinaan.</p></li>
+<li><p><strong>Ilmapallo.</strong> Yksikköhinta alas, minimieräkoot ylös, rahtiehdot huonommiksi, maksuajat lyhyemmiksi, laatuspesifikaatio löysemmäksi. Hintarivi laskee, mutta kustannus siirtyy paikkaan, jota mittari ei näe.</p></li>
+</ul>
+<p>Se, miten tarina kerrotaan, ratkaisee.</p>
+<p>Operaatiolla on taas fyysisen todellisuuden rajoitteista syntyvä kuri. Liikavarasto näkyy käyttöpääomassa. Pitämättömät aikataulut muuttuvat pikarahdiksi, menetetyksi tuotannoksi, myöhästyneiksi toimituksiksi ja menetetyiksi asiakkaiksi. Luvuilla voi yhä pelata, mutta lopulta merkitsevät kappalemäärät, laskut, varaston arvo. Ja raha.</p>
+<p>Hankinnan säästöt pysähtyvät usein askelta aiemmin: kalvosettiin, jossa luku julistettiin.</p>
+<p>Siksi raportoitu säästö päätyy harvoin ensi vuoden budjettiin oikeana leikkauksena. Jos säästö olisi aito, budjettirivi laskisi saman verran. Näin ei juuri koskaan käy.</p>
+<p>Se on paljastava merkki.</p>
+</section>
+<section id="suurin-osa-hinnanmuutoksesta-on-kohinaa" class="level2">
+<h2 class="anchored" data-anchor-id="suurin-osa-hinnanmuutoksesta-on-kohinaa">Suurin osa hinnanmuutoksesta on kohinaa</h2>
+<p>Tähän asti kyse on ollut mittaamisesta. Vaikeampi ongelma on attribuutio. Sellainenkin säästö, joka täsmää rahaan, voi olla enimmäkseen sattumaa.</p>
+<p>Ajatellaan hankinnan tulosta signaalina ja kohinana. Signaali on se osa, jota hankinta hallitsee: toimittajavalinta, neuvottelu, sopimusrakenne, kysynnän yhdistely, kaksoishankinta. Kohina on kaikki muu mikä hintaa liikutti: energia, valuuttakurssit, rahtikapasiteetti, raaka-ainesyklit, sota, satamasulut, konkurssit, lakot.</p>
+<p>Useimmissa kategorioissa kohina voittaa signaalin. Mittari palkitsee silti vuosimuutoksen. Hintamuutoksen syynä olivat markkinat, ei ostaja.</p>
+<p>Sijoitustermein suurin osa hankinnan säästöistä on beetaa. Ne ovat altistusta markkinaliikkeelle. Alfa on se, mikä jää jäljelle kun markkinaliike on poistettu.</p>
+<p>Teräs halpenee LME:ssä 15 %. Kategoriapäällikkö neuvottelee sopimuksen, hinta seuraa indeksiä alas, ja hän toimittaa 12 % säästön. Tuloskortti loistaa. Bonus maksetaan, ja diaesitys kiertää johtoryhmässä esimerkkinä.</p>
+<p>Seuraavana vuonna teräs kallistuu 15 %. Sama päällikkö, sama osaaminen, samat neuvottelut. Hinta seuraa indeksiä ylös. Nyt hän menettää 8 % ja kirjoittaa kappaleen geopoliittisista vastatuulista. Balanced scorecard menee punaiselle, ja seuraa keskustelu kehittämiskohteista.</p>
+<p>Mikään hänen tekemisessään ei muuttunut vuosien välillä. Ensimmäisenä vuonna hänelle maksettiin bonus kustannussäästöistä. Toisena häntä moitittiin nousevista kustannuksista. Kummassakin tapauksessa palkittiin tai rangaistiin markkinaliikkeestä, johon ei juuri pystynyt vaikuttamaan.</p>
+<p>Pahempaa vielä: se päällikkö joka teki parasta työtä — lukitsi hintoja etukäteen, hajautti toimittajat, suojasi nousua vastaan — näyttää heikoimmalta juuri sinä vuonna jolloin hänen työnsä oli arvokkainta. Bonus on käytännössä pitkä positio laskevaan teräkseen. Sitä maksetaan vedosta jota kukaan ei tietoisesti tehnyt.</p>
+<p>Sama osaaminen, päinvastainen kehityskeskustelu.</p>
+<p>Mittaat vuorovettä ja palkitset uimarin.</p>
+<p>Rehellinen vertailukohta ei ole viime vuoden hinta, vaan tämän vuoden markkinahinta samalle tavaralle. Osaaminen näkyy siinä, mitä maksoit suhteessa siihen mitä vertailukelpoinen ostaja maksoi vastaavin ehdoin samoissa oloissa.</p>
+<p>Päihititkö vertailuindeksin? Pidittekö sopimuksista kiinni kun spot piikitti? Neuvotteliteko uudestaan, kun markkina romahti?</p>
+<p>Se on signaalia. Usein se on muutama prosenttiyksikkö indeksin ympärillä, ei kaksinumeroinen otsikkoluku. Hyvä hankinta on todellista, mutta sen kontribuutio on ylituotto markkinaan nähden.</p>
+</section>
+<section id="vastaesimerkki-joka-todistaa-mallin" class="level2">
+<h2 class="anchored" data-anchor-id="vastaesimerkki-joka-todistaa-mallin">Vastaesimerkki joka todistaa mallin</h2>
+<p>Tässä kohtaa hankintaihminen nostaa käden ja sanoo: minä kerran tein oikeasti rahaa ajoituksella.</p>
+<p>Hyvä. Se tarina todistaa mallin.</p>
+<p>Vuoden 2008 romahduksen jälkeen rahtimarkkina oli pohjalla. Varustamot olivat epätoivoisia täyttääkseen kapasiteettia. Olin yhä operaatiopuolella, mutta käytännössä rakensin tarjouspyynnön ja ajoituksen. Lukitsimme tärkeimmät rahtireitit vuodeksi sopimuksella, ehdoilla jotka olivat poikkeuksellisen edulliset.</p>
+<p>Osa piti neuvotella matkan varrella uusiksi. Silti vuoden ajan maksoimme rahdista alle markkinan, ja se näkyi laskuissa jotka talousosasto pystyi tarkastamaan.</p>
+<p>Tapaus läpäisee jokaisen testin.</p>
+<ul>
+<li><p><strong>Se täsmäsi rahaan.</strong> Lukittu hinta, sopimus ja vuosi oikeita rahtilaskuja alle markkinan.</p></li>
+<li><p><strong>Se oli indeksisuhteista ylituottoa.</strong> Markkinromahduksen jälkeen kaikki eivät maksaneet samoja hintoja.</p></li>
+<li><p><strong>Mekanismi oli osaaminen.</strong> Tarjouspyynnön muotoilu, ajoitus ja uskallus sitoutua pitkään kun muut olivat halvaantuneita. Vastapuolen epätoivo käännettiin sopimusrakenteeksi.</p></li>
+</ul>
+<p>Se on hankinnan alfaa.</p>
+</section>
+<section id="aito-hankinnan-alfa-on-optio" class="level2">
+<h2 class="anchored" data-anchor-id="aito-hankinnan-alfa-on-optio">Aito hankinnan alfa on optio</h2>
+<p>Rehellinen malli on tämä: keskimääräinen säästö on kohinaa, arvo on hännissä, ja hännät ovat optioluonteisia.</p>
+<p>Suurimman osan vuodesta ylituotto indeksiin on muutama piste suuntaan tai toiseen. Hyödyllistä, mutta harvoin kunniakierroksen arvoista. Sitten avautuu häiriö: 2008 jälkeinen rahti, korona-ajan alun kapasiteetti, energiapiikki, toimittajan konkurssi, äkillinen kysynnän romahdus. Terävä ostaja voi kääntää tilapäisen epäjärjestyksen sopimukselliseksi eduksi.</p>
+<p>Osaaminen on ikkunan tunnistamista ja mandaattia toimia. Se on harvinaista, koska ikkuna on harvinainen. Pitkä kiinteä sopimus ei ole ilmainen optio. Se voi mennä pieleen, jos markkina jatkaa laskuaan. Siksi se vaatii harkintaa, valtuutta ja riskinottohalua.</p>
+<p>Tämä on talebilainen rakenne. Hankinnan alfaa ei voi aikatauluttaa kvartaaleihin.</p>
+<p>Vakiomittari ei pysty tähän. Se palkitsee tylsät kvartaalit kuin ne olisivat osaamista ja saattaa ohittaa sen yhden kaupan jolla oli oikeasti väliä.</p>
+<p>Mittari palkitsee tason, vaikka sen pitäisi palkita indeksisuhteinen ylituotto. Sama mittari ei oikeastaan toimi missään olosuhteissa: tyynellä markkinalla se kannustaa keksimään fiktiivisiä säästöjä, myrskyssä se hukkaa aidon osaamisen markkinaliikkeen alle.</p>
+<p>Aito osaaminen on konveksia ja episodista.</p>
+</section>
+<section id="korjaus" class="level2">
+<h2 class="anchored" data-anchor-id="korjaus">Korjaus</h2>
+<p>Korjaus on tylsä, kuten parhaat korjaukset yleensä.</p>
+<p>Säästö lasketaan vasta kun talousosasto poistaa vastaavan summan budjetista tai todentaa sen toteutunutta kulutusta vasten. Kirjatun säästön pitää muuttua vähemmäksi käytettäväksi rahaksi. Siihen asti se on väite.</p>
+<p>Hankinta vihaa tätä, luonnollisesti, koska se muuttaa otsikkomittarin tarinasta luvuksi jonka operaatiot voivat tarkastaa. Kontrolli on vain alkuperäinen sanonta muodollisena:</p>
+<p><em>Se jolla on raha, saa vahvistaa säästön.</em></p>
+<p>Säästön saa vahvistaa vain se, joka kantaa sen seuraukset jos luku on väärä. Talebilaisittain nahka pelissä.</p>
+<p>Sääntö tappaisi suurimman osan hankinnan säästödioista.</p>
+<p>Hyvä. Eloonjääneet olisivat lukemisen arvoisia.</p>
+<p>Sama pätee attribuutioon. Hankinta tulee mitata markkinaa vasten, ei edellisvuotta vasten.</p>
+<p>Ero indeksiin kertoo uiko joku muita paremmin.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>kannustimet</category>
+  <category>hankinta</category>
+  <category>mittaaminen</category>
+  <guid>https://vkauppine.github.io/Incentive-Lens/posts/scm/</guid>
+  <pubDate>Sun, 14 Jun 2026 21:00:00 GMT</pubDate>
+  <media:content url="https://vkauppine.github.io/Incentive-Lens/posts/scm/cover.png" medium="image" type="image/png" height="180" width="144"/>
 </item>
 <item>
   <title>Kaatumisen optimaalinen määrä ei ole nolla</title>
